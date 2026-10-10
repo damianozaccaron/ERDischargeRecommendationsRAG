@@ -1,0 +1,28 @@
+SEZIONE 1 - RACCOMANDAZIONI DI SCARICO
+1. Continui a somministrare amoxicillina 2 grammi più acido clavulanico 200 milligrammi per via endovenosa, come indicato dallo specialista.
+2. Prenda il paracetamolo per la gestione della febbre, come indicato dallo specialista.
+3. Si raccomanda vivamente di mantenere un'adeguata assunzione di liquidi e di dare priorità al riposo fisico durante il periodo di recupero.
+4. Si prescrive una valutazione da parte dello pneumologo per una rivalutazione clinica e radiografica della risoluzione della polmonite basale destra.
+5. Consultare uno specialista per l'ottimizzazione della terapia antimicrobica e la pianificazione della durata.
+6. Si rechi immediatamente al pronto soccorso più vicino se si verifica un peggioramento della mancanza di respiro, febbre alta persistente o dolore toracico di nuova insorgenza.
+7. Si rivolga nuovamente al suo medico di famiglia per qualsiasi ulteriore necessità diagnostica o terapeutica e per l'assistenza continua.
+
+SEZIONE 2 - RIFERIMENTI CLINICI (per il medico revisore)
+1 - [E7][E10] - Il trattamento iniziale con un regime antimicrobico endovenoso è indicato per le infezioni che richiedono una terapia parenterale, con passaggio alla terapia orale al momento del miglioramento clinico.
+2 - [E7][E10] - La gestione farmacologica di supporto deve essere continuata secondo necessità, monitorando la risposta clinica e la tolleranza.
+3 - [E2] - I pazienti che presentano dispnea e scambi fisiologici ai limiti inferiori richiedono una gestione di supporto e un monitoraggio appropriati.
+4 - [E2] - È indicata una valutazione specialistica completa per stabilire diagnosi differenziali e distinguere tra le varie cause dei sintomi respiratori.
+5 - [E7][E10] - L'antimicrobico appropriato deve essere scelto in base ai modelli di resistenza locali e ottimizzato sulla base dei risultati di suscettibilità ai farmaci.
+6 - [E2] - I segnali di allarme, come i sintomi in rapida evoluzione o gravi, sono associati a esiti peggiori e giustificano un intervento immediato.
+7 - [E2] - La gestione medica continua e il coordinamento delle cure devono essere diretti dal medico di base dopo la valutazione iniziale di emergenza.
+
+============================================================
+ORIGINAL RECOMMENDATIONS (for comparison)
+============================================================
+- Assuma amoxicillina 2gr+acido clavulanico 200mg 1 compressa ogni 8h per i successivi 10gg
+- Assuma azitromicina 500mg 1 compressa una volta al giorno per i successivi 3 gg.
+- Per la febbre paracetamolo 1gr, assumibile fino ad un max di 3 volte al giorno a distanza di 8h.
+- RX di controllo a 20gg di distanza.
+- Se persistenza dei sintomi, modifica del dolore o peggioramento del tale rientra presso il più
+vicino PS.
+- Si riaffida al medico curante per eventuali integrazioni terapuetiche-diagnostiche e presa in carico.

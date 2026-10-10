@@ -1,0 +1,44 @@
+--- Query 1 ---
+[floor 0 | in VenousThrombosis] retrieved 1, 2, 8, 10 | scored 1, 10
+Recommended treatment for patients with deep vein thrombosis of the gastrocnemius veins.
+
+--- Query 2 ---
+[floor 0 | in VenousThrombosis] retrieved 1, 2, 3, 5, 7, 8 | scored 7
+Recommendations for drug therapy and dosage in patients with deep vein thrombosis of the gastrocnemius veins.
+
+--- Query 3 ---
+[floor 0 | in VenousThrombosis] retrieved 1, 2, 8 | scored none
+Recommendations for follow-up of patients with deep vein thrombosis of the gastrocnemius veins.
+
+--- Query 4 ---
+[floor 0 | in VenousThrombosis] retrieved 1, 2, 6, 8, 9, 10 | scored none
+Recommendations for lifestyle and risk factor management in patients with deep vein thrombosis of the gastrocnemius veins.
+
+--- Query 5 ---
+[floor 0 | in VenousThrombosis] retrieved 1, 2, 10 | scored none
+Recommendations for complications and warning signs in patients with deep vein thrombosis of the gastrocnemius veins.
+
+--- Query 6 ---
+[floor 1] retrieved 1, 4, 6, 9 | scored none | filled floor with 4
+Recommendations for oral oestrogen-progestogen contraceptive pill in patients with deep vein thrombosis.
+
+--- Query 7 ---
+[floor 1] retrieved 1, 4, 5, 6, 8, 9, 10 | scored none | filled floor with 10
+Recommendations for has smoked approximately one packet a day in patients with deep vein thrombosis.
+
+--- Query 8 ---
+[floor 1] retrieved 1, 2, 3, 4, 5, 6, 8, 9 | scored 2, 3, 4, 5, 6, 8, 9 | filled floor with 2
+Recommendations for anticoagulant therapy in patients with deep vein thrombosis.
+
+--- Query 9 ---
+[floor 1] retrieved 1, 2, 3, 4, 5, 8 | scored none | filled floor with 3
+Recommendations for enoxaparin subcutaneously in patients with deep vein thrombosis.
+
+--- Query 10 ---
+[floor 1] retrieved 1, 2, 4, 5, 8 | scored none | filled floor with 5
+Recommendations for the first dose administered in A&E in patients with deep vein thrombosis.
+
+--- Query 11 ---
+[floor 0] retrieved 1, 2, 5, 10 | scored none
+Recommendations for unilateral oedema in patients with deep vein thrombosis.
+

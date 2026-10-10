@@ -1,0 +1,21 @@
+
+SEZIONE 1 - NOTA DI AMMISSIONE
+1. Il paziente viene ricoverato in cardiologia per una diagnosi approfondita, l'inizio della terapia anticoagulante e la valutazione della strategia ritmo/velocità in elezione.
+2. Il paziente e/o la famiglia sono stati informati della diagnosi, del decorso clinico previsto in base agli estratti della linea guida e del percorso terapeutico previsto.
+3. Il paziente è stato preparato per l'intervento.
+4. Il paziente viene consegnato alle cure del team cardiologico.
+
+SEZIONE 2 - RIFERIMENTI CLINICI (per il medico revisore)
+1 - [E1] - Il paziente viene ricoverato in cardiologia per una diagnosi approfondita, l'inizio della terapia anticoagulante e la valutazione della strategia ritmo/velocità in elezione.
+2 - [E9] - Il paziente e/o la famiglia sono stati informati della diagnosi, del decorso clinico previsto in base agli estratti della linea guida e del percorso terapeutico previsto.
+3 - [E8] - Il paziente è stato preparato per l'intervento.
+4 - [E10] - Il paziente viene consegnato alle cure del team cardiologico.
+
+============================================================
+ORIGINAL RECOMMENDATIONS (for comparison)
+============================================================
+Si consiglia:
+• Paziente ricoverato presso U.O. Cardiologia per monitoraggio, ecocardiogramma
+transtoracico dedicato, avvio di terapia anticoagulante orale (DOAC) e valutazione in
+elezione della strategia terapeutica.
+• Si informa il paziente e i familiari presenti della diagnosi e del percorso previsto.

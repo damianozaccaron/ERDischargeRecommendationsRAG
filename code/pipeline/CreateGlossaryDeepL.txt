@@ -1,0 +1,124 @@
+curl -X POST 'https://api-free.deepl.com/v3/glossaries' \
+--header 'Authorization: DeepL-Auth-Key 726065a1-2c7a-47ff-aa40-2459724d0a31:fx' \
+--header 'Content-Type: application/json' \
+--data '{
+  "name": "Clinical Glossary IT-EN",
+  "dictionaries": [
+    {
+      "source_lang": "it",
+      "target_lang": "en",
+      "entries": "'\
+'AVP\tperipheral venous access\nAnamnesi\tMedical history\nAnamnesi farmacologica\tDrug history\nBPCO\tCOPD\nCVP\tperipheral venous catheter\n'\
+'Diagnosi\tDiagnosis\nDiario Clinico\tClinical diary\nEBPM\tLMWH\nEGA\tBlood Gas\nEGA arterioso\tarterial blood gas\n'\
+'EPA\tacute pulmonary oedema\nETE\tTOE\nETT\tTTE\nEsame obiettivo\tObjective examination\nFANS\tNSAIDs\n'\
+'FC\tHeart Rate\nGiordano\tCVA Tenderness\nIPP\tPPI\nMMG\tGP\nMV\tvesicular breath sounds\n'\
+'NAO\tDOAC\nOBI\tshort-stay observation unit\nPCR\tC-reactive protein\nPatologica Prossima\tPathological proximate\nPatologica Remota\tRemote pathology\n'\
+'Prognosi\tPrognosis\nRicovero\tHospitalisation\nSCA\tACS\nSVA\tAVR\nTAO\tOAC\n'\
+'TC\tBody Temperature\nTC addome\tabdominal CT\nTC encefalo\thead CT\nTC torace\tchest CT\nTD\thome therapy\n'\
+'TEP\tPE\nTPSV\tPSVT\nTVP\tDVT\naccede per\tpresents with\naddensamento\tconsolidation\n'\
+'addome trattabile\tsoft abdomen\nanamnesi pregressa\tmedical history\nannesso\tadnexa\nantiaggregante\tantiplatelet\naria ambiente\troom air\n'\
+'cellulite\tcellulitis\ncolecisti\tgallbladder\ncomposta\tnon-displaced\ndistorsione\tsprain\ndoccia di immobilizzazione\timmobilisation splint\n'\
+'doloroso\tpainful\neco\tultrasound\necocolordoppler\tDoppler ultrasound\nedemi declivi\tdependent oedema\nendoaddominale\tintra-abdominal\n'\
+'erisipela\terysipelas\neupnoica\teupneic\neupnoico\teupneic\nfamiliarità\tfamily history\nfocolaio\tconsolidation\n'\
+'focolaio infettivo\tsource of infection\nfrattura composta\tnon-displaced fracture\nfrattura esposta\topen fracture\nfrattura scomposta\tdisplaced fracture\nimpegnativa\treferral\n'\
+'in elezione\telective\nindici di flogosi\tinflammatory markers\nindolente\tnon-tender\nindolenti\tnon-tender\ninfettivologo\tinfectious disease specialist\n'\
+'infrazione\tincomplete fracture\nipertensione arteriosa\thypertension\nlipotimia\tpresyncope\nlipotimico\tpresyncopal\nlitiasiche\tstone\n'\
+'malleolo peroneale\tlateral malleolus\nmedico curante\tGP\nmesocardio\tmid-precordium\nmurmure vescicolare\tvesicular breath sounds\nnormodistesa\tnormally distended\n'\
+'normofrequenti\tnormal-rate\npatrimonio venoso\tvenous access\npause libere\tno murmurs\npause non libere\tmurmurs present\nreflusso gastroesofageo\tgastro-oesophageal reflux\n'\
+'scomposta\tdisplaced\nsegni di lato\tlateralising signs\nsensitivo\tsensory\nstenico\tmotor\ntutore\tbrace\n'\
+'valutazione collegiale\tspecialist consultation\nvene gemellari\tgastrocnemius veins\nventricolare\tventricular\nvirosi intestinale\tviral gastroenteritis\nabasaglar\tinsulin glargine\n'\
+'abilify\taripiprazole\nacequin\tquinapril\nactonel\trisedronic acid\nactos\tpioglitazone\nactrapid\thuman insulin\n'\
+'adalat\tnifedipine\nadenuric\tfebuxostat\nadronat\talendronic acid\nadvagraf\ttacrolimus\naerius\tdesloratadine\n'\
+'aggrenox\taspirin/dipyridamole\naldactone\tspironolactone\naliflus\tsalmeterol/fluticasone\nalmarytm\tflecainide\nalmogran\talmotriptan\n'\
+'altiazem\tdiltiazem\namaryl\tglimepiride\nanafranil\tclomipramine\nanexate\tflumazenil\nanoro\tumeclidinium/vilanterol\n'\
+'ansiolin\tdiazepam\nantra\tomeprazole\napidra\tinsulin glulisine\naprovel\tirbesartan\naranesp\tdarbepoetin alfa\n'\
+'arava\tleflunomide\narcoxia\tetoricoxib\naricept\tdonepezil\narixtra\tfondaparinux\nartrosilene\tketoprofen\n'\
+'asacol\tmesalazine\nascriptin\taspirin\naspirinetta\tlow-dose aspirin\natacand\tcandesartan\natarax\thydroxyzine\n'\
+'atem\tipratropium bromide\naugmentin\tamoxicillin/clavulanate\naulin\tnimesulide\navalox\tmoxifloxacin\navodart\tdutasteride\n'\
+'axagon\tesomeprazole\nazilect\trasagiline\nbactrim\ttrimethoprim/sulfamethoxazole\nbassado\tdoxycycline\nbentelan\tbetamethasone\n'\
+'betmiga\tmirabegron\nbifril\tzofenopril\nbinocrit\tepoetin alfa\nblopresid\tcandesartan/hydrochlorothiazide\nbreva\tipratropium/salbutamol\n'\
+'brilique\tticagrelor\nbrintellix\tvortioxetine\nbroncovaleas\tsalbutamol\nbrufen\tibuprofen\nburinex\tbumetanide\n'\
+'buscopan\thyoscine butylbromide\ncacit\tcalcium carbonate\ncalciparina\theparin\ncapoten\tcaptopril\ncardicor\tbisoprolol\n'\
+'cardioasa\tlow-dose aspirin\ncardioaspirina\tlow-dose aspirin\ncardirene\tlow-dose aspirin\ncardura\tdoxazosin\ncarvasin\tisosorbide dinitrate\n'\
+'catapresan\tclonidine\ncefamezin\tcefazolin\ncefixoral\tcefixime\ncelebrex\tcelecoxib\ncelestone\tbetamethasone\n'\
+'cellcept\tmycophenolate mofetil\ncerazette\tdesogestrel\ncialis\ttadalafil\ncipralex\tescitalopram\nciproxin\tciprofloxacin\n'\
+'clarityn\tloratadine\nclavulin\tamoxicillin/clavulanate\nclenil\tbeclometasone\nclexane\tenoxaparin\nco-efferalgan\tparacetamol/codeine\n'\
+'combodart\tdutasteride/tamsulosin\ncongescor\tbisoprolol\ncontramal\ttramadol\nconverten\tenalapril\ncordarone\tamiodarone\n'\
+'coumadin\twarfarin\ncoversyl\tperindopril\ncozaar\tlosartan\ncreon\tpancreatin\ncrestor\trosuvastatin\n'\
+'cubicin\tdaptomycin\ncymbalta\tduloxetine\ndalacin\tclindamycin\ndalmadorm\tflurazepam\ndaonil\tglibenclamide\n'\
+'daparox\tparoxetine\ndaxas\troflumilast\ndebridat\ttrimebutine\ndecadron\tdexamethasone\ndeflan\tdeflazacort\n'\
+'deltacortene\tprednisone\ndepakin\tvalproate\ndepalgos\toxycodone/paracetamol\ndepo-medrol\tmethylprednisolone\ndeursil\tursodeoxycholic acid\n'\
+'diamicron\tgliclazide\ndibase\tcolecalciferol\ndicloreum\tdiclofenac\ndiflucan\tfluconazole\ndilatrend\tcarvedilol\n'\
+'dilzene\tdiltiazem\ndintoina\tphenytoin\ndiovan\tvalsartan\ndiprivan\tpropofol\ndissenten\tloperamide\n'\
+'diuremid\ttorasemide\ndulcolax\tbisacodyl\nduphalac\tlactulose\ndurogesic\tfentanyl\nebixa\tmemantine\n'\
+'efexor\tvenlafaxine\nefferalgan\tparacetamol\nefient\tprasugrel\neliquis\tapixaban\nelopram\tcitalopram\n'\
+'enapren\tenalapril\nenbrel\tetanercept\nentact\tescitalopram\nenterogermina\tBacillus clausii\nentresto\tsacubitril/valsartan\n'\
+'entumin\tclotiapine\neprex\tepoetin alfa\nesidrex\thydrochlorothiazide\nesmeron\trocuronium\nesopral\tesomeprazole\n'\
+'eucreas\tvildagliptin/metformin\neutirox\tlevothyroxine\nexelon\trivastigmine\nezetrol\tezetimibe\nfastum\tketoprofen\n'\
+'feldene\tpiroxicam\nfentanest\tfentanyl\nferinject\tferric carboxymaltose\nferrograd\tferrous sulfate\nfevarin\tfluvoxamine\n'\
+'fiasp\tinsulin aspart\nflagyl\tmetronidazole\nflebocortid\thydrocortisone\nflectadol\taspirin\nflector\tdiclofenac\n'\
+'flixotide\tfluticasone\nfluimucil\tacetylcysteine\nfolina\tfolic acid\nforxiga\tdapagliflozin\nfosamax\talendronic acid\n'\
+'foster\tbeclometasone/formoterol\nfragmin\tdalteparin\nfraxiparina\tnadroparin\nfraxodi\tnadroparin\nfrontal\talprazolam\n'\
+'furadantin\tnitrofurantoin\ngalvus\tvildagliptin\ngardenale\tphenobarbital\ngaviscon\tsodium alginate\ngentalyn\tgentamicin\n'\
+'giasion\tcefditoren\nglazidim\tceftazidime\nglucagen\tglucagon\nglucobay\tacarbose\nglucophage\tmetformin\n'\
+'halcion\ttriazolam\nhaldol\thaloperidol\nharmonet\tgestodene/ethinylestradiol\nhumalog\tinsulin lispro\nhumira\tadalimumab\n'\
+'humulin\thuman insulin\nigroton\tchlortalidone\nimigran\tsumatriptan\nimodium\tloperamide\nimurel\tazathioprine\n'\
+'inderal\tpropranolol\nindoxen\tindometacin\ninegy\tezetimibe/simvastatin\ninhixa\tenoxaparin\ninspra\teplerenone\n'\
+'invanz\tertapenem\ninvokana\tcanagliflozin\nipnovel\tmidazolam\nisocolan\tmacrogol\nisoptin\tverapamil\n'\
+'janumet\tsitagliptin/metformin\njanuvia\tsitagliptin\njardiance\tempagliflozin\njurnista\thydromorphone\nkanrenol\tpotassium canrenoate\n'\
+'karvea\tirbesartan\nkeppra\tlevetiracetam\nkestine\tebastine\nketalar\tketamine\nklacid\tclarithromycin\n'\
+'klaira\testradiol valerate/dienogest\nkonakion\tvitamin K\nkrenosin\tadenosine\nlacipil\tlacidipine\nlacirex\tlacidipine\n'\
+'laevolac\tlactulose\nlamictal\tlamotrigine\nlanoxin\tdigoxin\nlansox\tlansoprazole\nlantus\tinsulin glargine\n'\
+'largactil\tchlorpromazine\nlaroxyl\tamitriptyline\nlasitone\tfurosemide/spironolactone\nlasix\tfurosemide\nleponex\tclozapine\n'\
+'lercadip\tlercanidipine\nlescol\tfluvastatin\nlevemir\tinsulin detemir\nlevolac\tlactulose\nlevopraid\tlevosulpiride\n'\
+'levoxacin\tlevofloxacin\nlexotan\tbromazepam\nlimpidex\tlansoprazole\nlixiana\tedoxaban\nlixidol\tketorolac\n'\
+'lobivon\tnebivolol\nloette\tlevonorgestrel/ethinylestradiol\nlopresor\tmetoprolol\nlortaan\tlosartan\nlosaprex\tlosartan\n'\
+'losec\tomeprazole\nlucen\tesomeprazole\nlukasm\tmontelukast\nluvion\tcanrenone\nlyrica\tpregabalin\n'\
+'maalox\taluminium hydroxide/magnesium hydroxide\nmacladin\tclarithromycin\nmadopar\tlevodopa/benserazide\nmaxalt\trizatriptan\nmedrol\tmethylprednisolone\n'\
+'mepral\tomeprazole\nmerrem\tmeropenem\nmetforal\tmetformin\nmicardis\ttelmisartan\nminesse\tgestodene/ethinylestradiol\n'\
+'minias\tlormetazepam\nminocin\tminocycline\nmiraclin\tdoxycycline\nmirapexin\tpramipexole\nmobic\tmeloxicam\n'\
+'moduretic\tamiloride/hydrochlorothiazide\nmomendol\tnaproxen\nmoment\tibuprofen\nmonoket\tisosorbide mononitrate\nmontegen\tmontelukast\n'\
+'monuril\tfosfomycin\nmotilium\tdomperidone\nmounjaro\ttirzepatide\nmovicol\tmacrogol\nmultaq\tdronedarone\n'\
+'muscoril\tthiocolchicoside\nmyfortic\tmycophenolic acid\nnaprosyn\tnaproxen\nnarcan\tnaloxone\nnebilox\tnebivolol\n'\
+'neoduplamox\tamoxicillin/clavulanate\nneorecormon\tepoetin beta\nneurontin\tgabapentin\nnexium\tesomeprazole\nnitroderm\tglyceryl trinitrate\n'\
+'normix\trifaximin\nnorvasc\tamlodipine\nnovalgina\tmetamizole\nnovonorm\trepaglinide\nnovorapid\tinsulin aspart\n'\
+'nozinan\tlevomepromazine\nnurofen\tibuprofen\nnuvaring\tetonogestrel/ethinylestradiol\noki\tketoprofen\nolpress\tolmesartan\n'\
+'omeprazen\tomeprazole\nomnic\ttamsulosin\nonbrez\tindacaterol\nondexxya\tandexanet alfa\noptinate\trisedronic acid\n'\
+'orudis\tketoprofen\noxycontin\toxycodone\nozempic\tsemaglutide\npalexia\ttapentadol\npanacef\tcefaclor\n'\
+'pantecta\tpantoprazole\npantopan\tpantoprazole\npantorc\tpantoprazole\npariet\trabeprazole\npaxlovid\tnirmatrelvir/ritonavir\n'\
+'pentasa\tmesalazine\npeptazol\tpantoprazole\nperfalgan\tparacetamol\nperidon\tdomperidone\npersantin\tdipyridamole\n'\
+'plaquenil\thydroxychloroquine\nplasil\tmetoclopramide\nplaunac\tolmesartan\nplavix\tclopidogrel\npradaxa\tdabigatran\n'\
+'pradif\ttamsulosin\npraluent\talirocumab\npravaselect\tpravastatin\npraxbind\tidarucizumab\nprinivil\tlisinopril\n'\
+'pritor\ttelmisartan\nprocoralan\tivabradine\nprograf\ttacrolimus\nprolia\tdenosumab\nproscar\tfinasteride\n'\
+'prozac\tfluoxetine\npulmicort\tbudesonide\npursennid\tsenna\nranexa\tranolazine\nranidil\tranitidine\n'\
+'ratacand\tcandesartan\nrelpax\teletriptan\nrelvar\tfluticasone furoate/vilanterol\nremeron\tmirtazapine\nremicade\tinfliximab\n'\
+'repatha\tevolocumab\nrequip\tropinirole\nreumaflex\tmethotrexate\nribotrex\tazithromycin\nrifacol\trifaximin\n'\
+'riopan\tmagaldrate\nrisperdal\trisperidone\nrivotril\tclonazepam\nrocefin\tceftriaxone\nroipnol\tflunitrazepam\n'\
+'rybelsus\tsemaglutide\nrytmonorm\tpropafenone\nsalofalk\tmesalazine\nsandimmun\tciclosporin\nsaxenda\tliraglutide\n'\
+'seebri\tglycopyrronium\nseleparina\tnadroparin\nseloken\tmetoprolol\nserenase\thaloperidol\nseretide\tsalmeterol/fluticasone\n'\
+'sereupin\tparoxetine\nseropram\tcitalopram\nseroquel\tquetiapine\nseroxat\tparoxetine\nsilodyx\tsilodosin\n'\
+'sinemet\tlevodopa/carbidopa\nsingulair\tmontelukast\nsintrom\tacenocoumarol\nsivastin\tsimvastatin\nslowmet\tmetformin\n'\
+'soldesam\tdexamethasone\nsolu-cortef\thydrocortisone\nsolu-medrol\tmethylprednisolone\nsolumedrol\tmethylprednisolone\nspasmomen\totilonium bromide\n'\
+'spididol\tibuprofen\nspiolto\ttiotropium/olodaterol\nspiriva\ttiotropium\nstilnox\tzolpidem\nsuprax\tcefixime\n'\
+'symbicort\tbudesonide/formoterol\nsynflex\tnaproxen\nsynjardy\tempagliflozin/metformin\nsyntroxine\tlevothyroxine\ntachidol\tparacetamol/codeine\n'\
+'tachipirina\tparacetamol\ntalofen\tpromazine\ntamiflu\toseltamivir\ntapazole\tmethimazole\ntareg\tvalsartan\n'\
+'targin\toxycodone/naloxone\ntargosid\tteicoplanin\ntatig\tsertraline\ntavanic\tlevofloxacin\ntavor\tlorazepam\n'\
+'tazocin\tpiperacillin/tazobactam\ntegretol\tcarbamazepine\ntenormin\tatenolol\ntesavel\tsitagliptin\ntheo-dur\ttheophylline\n'\
+'tienam\timipenem/cilastatin\ntiklid\tticlopidine\ntirosint\tlevothyroxine\ntopamax\ttopiramate\ntoradol\tketorolac\n'\
+'torvast\tatorvastatin\ntotalip\tatorvastatin\ntoujeo\tinsulin glargine\ntrajenta\tlinagliptin\ntrandate\tlabetalol\n'\
+'tranex\ttranexamic acid\ntrelegy\tfluticasone furoate/umeclidinium/vilanterol\ntresiba\tinsulin degludec\ntriatec\tramipril\ntrileptal\toxcarbazepine\n'\
+'trimbow\tbeclometasone/formoterol/glycopyrronium\ntrimeton\tchlorphenamine\ntrinitrina\tglyceryl trinitrate\ntrittico\ttrazodone\ntrulicity\tdulaglutide\n'\
+'ugurol\ttranexamic acid\nultibro\tindacaterol/glycopyrronium\nunidrox\tprulifloxacin\nunipril\tramipril\nurbason\tmethylprednisolone\n'\
+'urorec\tsilodosin\nursobil\tursodeoxycholic acid\nvalium\tdiazepam\nvancocina\tvancomycin\nveclam\tclarithromycin\n'\
+'velamox\tamoxicillin\nvenitrin\tglyceryl trinitrate\nventolin\tsalbutamol\nvesiker\tsolifenacin\nviagra\tsildenafil\n'\
+'victoza\tliraglutide\nvimpat\tlacosamide\nvoltaren\tdiclofenac\nwellbutrin\tbupropion\nxanax\talprazolam\n'\
+'xarelto\trivaroxaban\nxatral\talfuzosin\nxelevia\tsitagliptin\nxeristar\tduloxetine\nxigduo\tdapagliflozin/metformin\n'\
+'xyzal\tlevocetirizine\nyasmin\tdrospirenone/ethinylestradiol\nyaz\tdrospirenone/ethinylestradiol\nzanedip\tlercanidipine\nzantac\tranitidine\n'\
+'zaroxolyn\tmetolazone\nzelitrex\tvalaciclovir\nzestril\tlisinopril\nzimox\tamoxicillin\nzinnat\tcefuroxime\n'\
+'zirtec\tcetirizine\nzitromax\tazithromycin\nzocor\tsimvastatin\nzofran\tondansetron\nzoloft\tsertraline\n'\
+'zovirax\taciclovir\nzyloric\tallopurinol\nzyprexa\tolanzapine\nzyvoxid\tlinezolid'\
+'",
+      "entries_format": "tsv"
+    }
+  ]
+}'

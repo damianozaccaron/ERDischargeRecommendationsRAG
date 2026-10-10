@@ -1,0 +1,28 @@
+--- Query 1 ---
+[floor 0 | in ChronicPelvicPain, UrologicalTrauma] retrieved none | scored none
+Recommended treatment for patients with fracture of the peroneal malleolus.
+
+--- Query 2 ---
+[floor 0 | in ChronicPelvicPain, UrologicalTrauma] retrieved 9 | scored 9
+Recommendations for drug therapy and dosage in patients with fracture of the peroneal malleolus.
+
+--- Query 3 ---
+[floor 0 | in ChronicPelvicPain, UrologicalTrauma] retrieved none | scored none
+Recommendations for follow-up of patients with fracture of the peroneal malleolus.
+
+--- Query 4 ---
+[floor 0 | in ChronicPelvicPain, UrologicalTrauma] retrieved none | scored none
+Recommendations for lifestyle and risk factor management in patients with fracture of the peroneal malleolus.
+
+--- Query 5 ---
+[floor 0 | in ChronicPelvicPain, UrologicalTrauma] retrieved 6 | scored 6
+Recommendations for complications and warning signs in patients with fracture of the peroneal malleolus.
+
+--- Query 6 ---
+[floor 1] retrieved 1, 2, 3, 5, 10 | scored 1, 2, 3, 5, 10 | filled floor with 1
+Recommendations for paracetamol administered orally in patients with fracture of the peroneal malleolus.
+
+--- Query 7 ---
+[floor 1] retrieved 4, 7, 8 | scored 4, 7, 8 | filled floor with 4
+Recommendations for a plaster cast in patients with fracture of the peroneal malleolus.
+

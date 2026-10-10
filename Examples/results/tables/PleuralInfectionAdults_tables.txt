@@ -1,0 +1,64 @@
+PleuralInfectionAdults.pdf: 4 tables {'drop': 3, 'numeric': 1}, 0 grid parts (rejected ones are logged at extraction)
+
+================================================================================
+--- DROP | p.4-4 | TABLE 1.1 Summary of epidemiological studies of pleural infection
+caption_clean: TABLE 1.1 Summary of epidemiological studies of pleural infection
+--------------------------------------------------------------------------------
+| First author [ref.], | Country | Years | Population, n | Age, years Male, % Mortality, % | Hospital length of stay, |
+| --- | --- | --- | --- | --- | --- |
+| year |  |  |  |  | days |
+| BOBBIO [4], 2021 | France | 2013–2017 | 25 512 | 62.4±15.6 71.7 17.1 | 19 (IQR 11–35) |
+| ARNOLD [3], 2021 | UK | 2008–2018 | 51 057 | 64 (IQR 51–75) 68.5 In-hospital: 14.9 | 15 (IQR 6–28) |
+| SØGAARD [9], 2014 | Denmark | 1997–2011 | 6878 | Nonaggregated data 65.8 30-day: 10.5 in 1997 versus 9 in 2011 | 22 (IQR 12–43) in 1997 versus 17 (IQR 10–28) in 2011 |
+| MUMMADI [5], 2021 | USA | 2007–2016 | 2735 | Nonaggregated data 68.0 In-hospital: 7.1 | 13.8 (95% CI 13.3–14.2) |
+| GUPTA [20], 2021 | USA | 2005–2014 | 150 496 | 58.3±0.1 67.9 In-hospital: 4.4; 2.6 in 2014 | 12.3±0.1 |
+| GRIJALVA [18], 2011 | USA | 1996–2008 | 157 094 (26 125 ⩽18 years old) | 48.4 (95% CI 47.4–49.4) 64.2 In-hospital: 7.2 (>16.1 in ⩾65 years old) | 15.2 |
+| FARJAH [19], 2007 | USA | 1987–2004 | 4424 | 57.0±18.6 66.8 30-day: 10.8 | 14.1±11.8 |
+| FINLEY [17], 2008 | Canada | 1995–2003 | 11 294 (children included) | <1– >90 69 ND | 21.8±33.9 |
+| SHEN [10], 2012 | Taiwan | 1997–2008 | 26 385 | 60 (45–72) in 1997/8 76.6 In-hospital: versus 17.6 (1997/8) 65 (49–77) in 2007/8 versus 16.0 (2007/8) | 21 (13–34) in 1997/8 versus 19 (12–31) in 2007/8 |
+
+================================================================================
+--- NUMERIC | p.5-5 | TABLE 1.2 Prevalence of pre-existing comorbidities in patients with pleural empyema
+caption_clean: TABLE 1.2 Prevalence of pre-existing comorbidities in patients with pleural empyema
+--------------------------------------------------------------------------------
+| Group | Pre-existing comorbidities | Prevalence, % (interquartile range) |
+| --- | --- | --- |
+|  | Any comorbidity | 72 (58–83) |
+| Specific disease | Hypertension | 23 (17–38) |
+| Specific disease | Diabetes | 17 (11–27) |
+| Specific disease | Stroke | 13 (5–20) |
+| Specific disease | Ischaemic heart disease | 11 (5–16) |
+| Specific disease | COPD | 11 (6–20) |
+| Specific disease | Chronic kidney disease | 7 (5–13) |
+
+================================================================================
+--- DROP | p.13-13 | TABLE 4.2 Summary of dosing and administration regimens used in intrapleural enzyme therapy studies
+caption_clean: TABLE 4.2 Summary of dosing and administration regimens used in intrapleural enzyme therapy studies
+--------------------------------------------------------------------------------
+| First author [ref.], year | Study type | Comparative or | Patients treated | Agents used (dosing) | Total | Concurrent or |
+| --- | --- | --- | --- | --- | --- | --- |
+| RAHMAN [6], 2011 | RCT | Comparative | 52/210 | 5 mg DNase; 10 mg tPA (twice daily) | 6 doses of each agent | Sequential |
+| PICCOLO [118], 2014 | Prospective observational | Noncomparative | 107/107 | 5 mg DNase; 10 mg tPA (twice daily) | Maximum 6 doses of each agent | Sequential |
+| MAJID [124], 2016 | Retrospective | Noncomparative | 73/73 | 5 mg DNase; 10 mg tPA (twice daily) | Maximum 6 doses of each agent | Concurrent |
+| MCLUNE [122], 2016 | Retrospective | Noncomparative | 101/101 | 5 mg DNase; 10 mg tPA (twice daily for 3 days) | 6 doses of each agent | Sequential |
+| MEHTA [121], 2016 | Retrospective | Noncomparative | 55/55 | 5 mg DNase; 10 mg tPA (once daily) | Maximum 3 doses of each agent | Concurrent |
+| POPOWICZ [117], 2017 | Prospective observational | Noncomparative | 61/61 | 5 mg DNase; 5 mg tPA (twice daily) | Median 6 doses of each agent | Concurrent |
+| KHEIR [123], 2018 | Prospective observational | Comparative | 38/38 | 5 mg DNase; 10 mg tPA (twice daily) | Maximum 6 doses of each agent | Sequential (n=18); concurrent (n=20) |
+| KHEMASUWAN [196], 2018 | Retrospective analysis | Noncomparative | 84/84 | 5 mg DNase; 10 mg tPA (twice daily) | Maximum 6 doses of each agent | Concurrent |
+| JIANG [200], 2020 | Retrospective cohort | Noncomparative | 56/56 | 5 mg DNase; 10 mg tPA (once daily) | Median 3 doses of each agent | Concurrent |
+
+================================================================================
+--- DROP | p.19-19 | TABLE 6.1 Summary of studies exploring outcome predictors in pleural infection
+caption_clean: TABLE 6.1 Summary of studies exploring outcome predictors in pleural infection
+--------------------------------------------------------------------------------
+| First author Country | Type of study | Population, | Primary outcome | Results |
+| --- | --- | --- | --- | --- |
+| [ref.], year |  | n |  |  |
+| BOBBIO [4], France | National healthcare | 25 512 | Hospital length of stay, | CCI score; malnutrition or cachexia; |
+| 2021 | database (2012–2017) |  | mortality and hospitalisation costs | alcohol abuse; cardiovascular disease |
+| BRIMS [11], Australia | Western Australia public | 601 | Bacteriology and clinical | 3-month mortality: female gender, |
+| 2019 | hospitals electronic records |  | outcomes | age, CRP; 1-year mortality: age, active cancer, renal failure |
+| W [201], 2018 Taiwan | National database | 484 | Predictive scores for risk of death | CCI Score; CHADS and CHADS-VASc scores not predictive |
+| KAHN [202], Finland | Retrospective long-term follow-up, | 191 (1910 | Prognostic factors for | Advanced age; previous malignancies; |
+| 2018 | single-centre study; gender/age matched with healthy controls from national database | controls) | adverse outcome | institutional care; alcoholism; malignant aetiology |
+| PARK [60], 2016 Korea | Retrospective single-centre study | 164 | Predictive factors/scores for 30-day mortality | Scores: CURB-65 ⩾2, PSI risk class IV–V, SOFA score >2; factors: structural lung disease, hospital-acquired infection, withholding intrapleural fibrinolytics |

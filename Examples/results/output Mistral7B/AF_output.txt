@@ -1,0 +1,18 @@
+SEZIONE 1 - NOTA DI AMMISSIONE
+1. Il paziente è ricoverato d'urgenza nel reparto di Cardiologia per l'inizio della terapia anticoagulante, la diagnosi approfondita e la valutazione della strategia ritmo/velocità.
+2. Il paziente e la famiglia sono stati informati della diagnosi (Fibrillazione atriale di nuova risposta ventricolare rapida), del decorso clinico previsto (ricovero in ospedale) e del percorso terapeutico pianificato (ricovero in cardiologia per una diagnosi approfondita, inizio della terapia anticoagulante e valutazione della strategia ritmo/velocità).
+3. Il paziente viene preparato per gli interventi previsti.
+4. Il paziente viene consegnato alle cure del team cardiologico.
+
+SEZIONE 2 - RIFERIMENTI CLINICI
+1 - [E1] - Il paziente viene ricoverato per l'inizio della terapia anticoagulante, per una diagnosi approfondita e per la valutazione della strategia ritmo/velocità, a causa della necessità di valutare i fattori di rischio e le comorbidità nuove ed esistenti, di stratificare il rischio di ictus e di tromboembolismo, di verificare l'impatto dei sintomi di fibrillazione atriale prima e dopo il trattamento, di valutare e gestire i fattori di rischio di emorragia modificabili e di continuare l'OAC nonostante il controllo del ritmo, in caso di rischio di tromboembolismo.
+2 - [E4] - Il paziente è ricoverato per l'inizio della terapia anticoagulante a causa dell'indicazione alla terapia anticoagulante orale basata sul punteggio CHA₂DS₂-VASc (3 punti secondo le linee guida ESC 2020).
+
+============================================================
+ORIGINAL RECOMMENDATIONS (for comparison)
+============================================================
+Si consiglia:
+• Paziente ricoverato presso U.O. Cardiologia per monitoraggio, ecocardiogramma
+transtoracico dedicato, avvio di terapia anticoagulante orale (DOAC) e valutazione in
+elezione della strategia terapeutica.
+• Si informa il paziente e i familiari presenti della diagnosi e del percorso previsto.

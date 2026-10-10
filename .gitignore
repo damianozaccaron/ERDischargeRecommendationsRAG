@@ -1,0 +1,13 @@
+Extras/
+Guidelines/
+__pycache__
+Data/
+Testing/
+docs/
+Demo/
+
+Weights/
+code/config.py
+
+.*
+!.gitignore

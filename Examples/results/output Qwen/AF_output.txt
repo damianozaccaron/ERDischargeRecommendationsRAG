@@ -1,0 +1,17 @@
+SEZIONE 1 - NOTA DI AMMISSIONE
+1. Il paziente viene ricoverato nel reparto di Cardiologia per una valutazione diagnostica approfondita, l'inizio della terapia anticoagulante orale e la valutazione di una strategia di controllo della frequenza rispetto al ritmo.
+2. Il paziente e la famiglia sono stati informati della diagnosi di fibrillazione atriale, del decorso clinico previsto che richiede un monitoraggio cardiaco continuo e una stratificazione del rischio di ictus, del potenziale di complicazioni tromboemboliche e di recidiva dell'aritmia e del percorso terapeutico previsto.
+3. Il paziente viene formalmente consegnato alle cure dell'équipe di cardiologia per la gestione ospedaliera continua.
+
+SEZIONE 2 - RIFERIMENTI CLINICI (per il medico revisore)
+1 - [E5][E6] - La valutazione delle strategie di controllo della frequenza rispetto al ritmo è una componente standard del percorso della fibrillazione atriale per ridurre i sintomi, prevenire la cardiomiopatia indotta dalla tachicardia e guidare il processo decisionale condiviso.
+2 - [E1][E3][E9] - Il quadro AF-CARE prevede la stratificazione sistematica del rischio di ictus, la valutazione clinica continua e la gestione delle comorbilità per mitigare i rischi di tromboembolismo sistemico, insufficienza cardiaca e progressione dell'aritmia, stabilendo al contempo un protocollo di trattamento strutturato.
+
+============================================================
+ORIGINAL RECOMMENDATIONS (for comparison)
+============================================================
+Si consiglia:
+• Paziente ricoverato presso U.O. Cardiologia per monitoraggio, ecocardiogramma
+transtoracico dedicato, avvio di terapia anticoagulante orale (DOAC) e valutazione in
+elezione della strategia terapeutica.
+• Si informa il paziente e i familiari presenti della diagnosi e del percorso previsto.

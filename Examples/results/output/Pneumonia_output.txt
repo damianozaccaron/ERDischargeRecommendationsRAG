@@ -1,0 +1,148 @@
+ROLE:
+You are an emergency department physician writing discharge recommendations for a patient. The document will be read by the patient and their general practitioner.
+
+CLINICAL NOTE:
+
+WOMAN, 52 YEARS OLD
+Medical history:
+- Pathological proximate: The patient presents with shortness of breath and a fever that had started approximately 2 days ago, which was partially relieved by paracetamol but was worsening. She denies having travelled recently. No chest pain. 
+- Remote pathology: No known cardiovascular events or family history of such conditions. No history of diabetes. Normal weight.
+Never a smoker. No known medical conditions. Denies any drug allergies.
+
+Objective examination:
+Vesicular breath sounds present in all lung fields; abnormal breath sounds in the right basal lung field. Heart sounds are normal-rate, rhythmic and with regular pauses. Abdomen is soft, not tender on superficial or deep palpation. CVA Tenderness and Blumberg’s signs are negative. Cystic points are non-tender. No dependent oedema or signs of venous thrombosis.
+
+Clinical diary:
+- Venous access established and biochemistry, complete blood count and pro-BNP tests performed. ECG performed: sinus rhythm, no signs of ST-segment depression or elevation.
+- 500 cc of RIII rehydration solution was administered
+- Arterial blood gas analysis was performed: normal gas exchange, PaO₂ at the lower limit of normal.
+- The patient was referred to radiology for a chest X-ray in two projections.
+- Test results are reviewed: C-reactive protein 78 and white blood cell count 14,000. No other abnormalities.
+- X-ray is reviewed: an opacity in the right lower lobe consistent with an ongoing inflammatory process.
+- A bedside echocardiogram is performed: no pleural, pericardial or intra-abdominal effusion. No B-lines in the lung fields; good pleural sliding. In the right basal region, an opacity is visible, consistent with an inflammatory focus as a preliminary diagnosis.
+- Amoxicillin 2 g + clavulanic acid 200 mg administered intravenously.
+
+Diagnosis: right basal pneumonia
+Prognosis: 10 days
+
+
+
+GUIDELINE EXCERPTS:
+
+[E1] (Pneumonia, p.56-56)
+
+Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights). Page 55 of Return to recommendations Follow-up chest X-rays Recommendations 1.12.1 to 1.12.3 Why the committee made the recommendations The evidence looked at follow-up chest X-rays following discharge from hospital for detecting cancers and other lung conditions and to check whether the pneumonia has resolved. The X-rays took place 4 to 8 weeks after discharge from inpatient care. The evidence showed a cancer detection rate of around 2% and moderate to high rates of pneumonia resolution. The committee agreed that the evidence suggested that radiological changes may persist after symptoms of pneumonia have resolved and these do not always indicate a need for further investigation or treatment. As such, offering routine follow-up chest X-rays to all people hospitalised with pneumonia is not always useful for checking if pneumonia has resolved. It was also unclear if it would provide timeliness of cancer detection.
+
+
+[E2] (CommunityAcquiredPneumonia, p.13-13)
+
+Recommendation In patients with sCAP and aspiration risk factors we suggest standard CAP therapy regimen and not specific therapy targeting anaerobic bacteria (ungraded, good practice statement). Evidence overview and rationale There are no data (randomised or non-randomised) regarding sCAP and suspected aspiration pneumonia that compare standard therapy and specific therapy targeting anaerobic bacteria. Most standard antibiotic regimens (e.g. beta-lactam/beta-lactamase inhibitors, carbapenems, moxifloxacin) contain some anti-anaerobic coverage and this is the reason why regimens specifically targeting anaerobes are not more effective. Standard sCAP regimen does stratify patients based on risks for multidrug resistance. It does not, however, provide specific anaerobic therapy, although many of the agents do provide coverage as part of their broad-spectrum nature. One recent review advised using agents with anti-anaerobic activity (ampicillin/sulbactam, amoxicillin/clavulanate, moxifloxacin or a carbapenem) if the patient has poor dentition that could be a source of oral anaerobes [106].
+
+
+[E3] (Pneumonia, p.25-28)
+
+All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights). Page 25 of • recent microbiological results, including colonisation with multidrug-resistant bacteria • recent contact with a health or social care setting before current admission • the risk of adverse effects with broad-spectrum antibiotics, such as Clostridium difficile infection. [2019] Choice, duration and dose of antibiotic 1.7.4 When prescribing an antibiotic(s) for hospital-acquired pneumonia, see the following tables for antibiotic choice, dosage and course length: • table 3 for adults • table 4 for children and young people. [2019] 1.7.5 For hospital-acquired pneumonia, review treatment after a total of 5 days of antibiotics and consider stopping antibiotics if clinically stable. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights). Page 26 of All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights). Page 27 of All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights). Page 28 of
+
+
+[E4] (Pneumonia, p.42-42)
+
+Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights). Page 41 of Recommendations for research 1 Microbiological tests Which microbiological test, or group of tests, can aid decision making around safely reducing inappropriate antibiotic prescribing in people with suspected pneumonia, community or hospital-acquired? For a short explanation of why the committee made this recommendation for research, see the rationale section on microbiological tests. Full details of the evidence and the committee's discussion are in evidence review C: microbiological tests. 2 Follow-up chest imaging What is the clinical and cost effectiveness of follow-up chest imaging for adults discharged from hospital after treatment for pneumonia? Which people should be offered follow-up chest imaging and when should it be done? For a short explanation of why the committee made this recommendation for research, see the rationale section on follow-up chest imaging. Full details of the evidence and the committee's discussion are in evidence review I: chest X-ray.
+
+
+[E5] (PleuralInfectionAdults, p.6-6)
+
+It is noteworthy that even in situations where an anaerobic organism is not identified on microbiological tests, it is still recommended to continue anaerobic coverage given the difficulty in culturing these organisms that commonly infect the pleural space [50]. The choice of regimen is usually based on whether the infection is community or hospital acquired, together with the local prevalence of microorganisms and antibiotic resistance patterns [12]. Individual factors to be taken in consideration include age, comorbidities, previous hospitalisation and/or antibiotic treatments. Pleural infection by antibiotic-resistant pathogens is relatively common and, in one study, 37% of isolates in community-acquired infections and 77% of isolates in hospital-acquired infections were resistant to at least one of the antibiotics commonly prescribed for respiratory infections [51]. An example antibiotic protocol is presented in supplementary material S3. Difficult to treat infections/special situations Factors associated with bacterial resistance include the presence of chronic kidney disease, diabetes mellitus, malignancy and recent antibiotic therapy [52].
+
+
+[E6] (Pneumonia, p.55-55)
+
+Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights). Page 54 of Information for parents or carers of children with community-acquired pneumonia Recommendations 1.10.2 and 1.10.4 Why the committee made the recommendations The committee agreed that it is important to give parents and carers of children with community-acquired pneumonia advice and information on the usual timeframe for symptom improvement. They agreed that although there can be variation in the time to symptom resolution, for most otherwise healthy children, their symptoms will steadily improve after starting treatment. The committee acknowledged that some symptoms take longer to resolve than parents or carers may expect, particularly cough, which can contribute to unnecessary repeat visits to the GP, so they wanted to reassure parents and carers that cough may persist for up to 4 weeks. The committee discussed symptoms that may indicate more serious illnesses or complications. These symptoms include persistent fever, increased work of breathing, and reduced fluid intake or fatigue.
+
+
+[E7] (SoftTissueInfections, p.32-32)
+
+The combination of ciproﬂoxacin and amoxicillin-clavulanate is the preferred oral antibiotic regimen for low-risk patients [207, 208]. Levoﬂoxacin has better gram-positive activity than ciproﬂoxacin, but is less potent than ciproﬂoxacin against P. aeruginosa, causing some to suggest that a higher dose of levoﬂoxacin therapy (750 mg daily) may be required. Fluoroquinolone prophylaxis should preclude the use of ﬂuoroquinolones for empiric therapy, and instead broad-spectrum β-lactam antibiotics should be considered. Intravenous acyclovir should be added to the empiric antimicrobial regimen of the rare patient who has not been receiving antiviral prophylaxis effective against HSV or VZV, but has developed skin lesions suspected or conﬁrmed to be caused by these viruses. XXIV. What Is the Appropriate Antimicrobial Therapy for Patients With SSTIs During Persistent or Recurrent Episodes of Fever and Neutropenia? Recommendations 69. Yeasts and molds remain the primary cause of infectionassociated with persistent or recurrent fever and neutropenia; therefore, empiric antifungal therapy (Table 6) should be added to the antibacterial regimen (strong, high).
+
+
+[E8] (Pneumonia, p.54-54)
+
+Page 53 of Non-invasive respiratory support Recommendations 1.9.1 to 1.9.3 Why the committee made the recommendations The evidence on use of high-flow nasal oxygen (HFNO), continuous positive airways pressure (CPAP) and non-invasive ventilation (NIV) compared with standard oxygen therapy for people with pneumonia was limited. The committee noted that the populations studied were small and only partially applicable with not all participants having pneumonia. They also noted the evidence showed lack of adverse effects and no impact on mortality at 30 days. Based on the evidence and their expertise and experience, the committee agreed that HFNO was their preferred option because it is less invasive and better tolerated than NIV and CPAP, has fewer safety concerns, and allows the person to eat and drink. The committee also agreed the importance of considering the person's clinical trajectory in multidisciplinary team decisions about trialling HFNO. Lay members emphasised the importance of respecting people's preferences, describing the discomfort of NIV and CPAP compared with HFNO. The ability of different locations within the hospital to deliver HFNO, CPAP or NIV was discussed.
+
+
+[E9] (SoftTissueInfections, p.24-24)
+
+Recommendation 42. An antimicrobial agent or agents active against both aerobic and anaerobic bacteria such as amoxicillin-clavulanate (Table 5) should be used (strong, moderate). Evidence Summary Purulent bite wounds and abscess are more likely to be polymicrobial (mixed aerobes and anaerobes), whereas nonpurulent wounds commonly yield staphylococci and streptococci [156, 157]. Pasteurella species are commonly isolated from both nonpurulent wounds with or without lymphangitis and from abscesses. Additionally, nonpurulent wound infections may also be polymicrobial [156]. Based on this bacteriology, amoxicillin-clavulanate is appropriate oral therapy that covers the most likely aerobes and anaerobes found in bite wounds. Alternative therapies could include second-generation cephalosporins (intravenously [IV] or by mouth [po]) (eg, cefuroxime, other second- or third-generation cephalosporins), plus anaerobic coverage (clindamycin or metronidazole) if required (Table 5). A carbapenem, moxiﬂoxacin, or doxycycline is also appropriate. If SMX-TMP or levoﬂoxacin is used, anaerobic coverage with either clindamycin or metronidazole should be added (Table 5).
+
+
+[E10] (Pneumonia, p.48-49)
+
+re-hospitalisation, intensive care unit (ICU) admission or mortality. However, the committee was concerned that the average standard duration of antibiotic treatment used in the trials of 10 to 12 days was much longer than the UK current recommended practice of 5 days. Furthermore, the trials did not give the committee any information on whether it was safe or effective to use PCT levels to reduce antibiotic treatment below 5 days, so they were not able to make a recommendation about this. There was no evidence linking biomarkers to other aspects of de-escalating care such as discharge from ICU or discharge home, so the committee was unable to make any recommendations about these aspects of care for people with pneumonia. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights). Page 48 of with pneumonia who are not responding to treatment after 3 or 4 days, but this could help identify complications or allow clinicians to amend the treatment plan to be more effective. Although there may be an increase in testing, it would not require significant changes in procedures.
+
+
+GUIDELINE TABLES:
+
+[T1] (CommunityAcquiredPneumonia, p.1-1) Abstract
+
+| The content of this work is not | Background Severe community-acquired pneumonia (sCAP) is associated with high morbidity and |
+| --- | --- |
+| subject to copyright. Design and branding are copyright ©ERS 2023. For reproduction rights and permissions contact permissions@ersnet.org | mortality, and while European and non-European guidelines are available for community-acquired pneumonia, there are no specific guidelines for sCAP. Materials and methodology The European Respiratory Society (ERS), European Society of Intensive Care Medicine (ESICM), European Society of Clinical Microbiology and Infectious Diseases (ESCMID) |
+| Received: 12 April 2022 Accepted: 1 Dec 2022 | and Latin American Thoracic Association (ALAT) launched a task force to develop the first international guidelines for sCAP. The panel comprised a total of 18 European and four non-European experts, as well as two methodologists. Eight clinical questions for sCAP diagnosis and treatment were chosen to be addressed. Systematic literature searches were performed in several databases. Meta-analyses were performed for evidence synthesis, whenever possible. The quality of evidence was assessed with GRADE |
+
+
+[T2] (CommunityAcquiredPneumonia, p.14-14) TABLE 1 Summary of research questions and recommendations
+
+| Group | Questions | Recommendations |
+| --- | --- | --- |
+| HFNO (conditional recommendation, low quality of evidence) | Question 3: When using initial empirical therapy for sCAP, should a macrolide or fluoroquinolone be used as part of combination therapy, to reduce mortality and adverse clinical outcomes? | We suggest the addition of macrolides, not fluoroquinolones, to beta-lactams as empirical antibiotic therapy in hospitalised patients with sCAP (conditional recommendation, very low quality of evidence) |
+| HFNO (conditional recommendation, low quality of evidence) | Question 4: In patients with sCAP, can serum PCT be used to reduce the duration of antibiotic therapy and improve other outcomes in comparison to standard of care not guided by serial biomarker measurements? | We suggest the use of PCT to reduce the duration of antibiotic treatment in patients with sCAP (conditional recommendation, low quality of evidence) |
+| HFNO (conditional recommendation, low quality of evidence) | Question 5: Should oseltamivir be added to standard therapy in patients with sCAP and confirmed influenza? | We suggest the use of oseltamivir for patients with sCAP due to influenza confirmed by PCR (conditional recommendation, very low quality of evidence) When PCR is not available to confirm influenza, we suggest the use of empirical oseltamivir during the influenza season (conditional recommendation, very low quality of evidence) |
+| HFNO (conditional recommendation, low quality of evidence) | Question 6: Does the addition of steroids to antibiotic therapy in specific sCAP populations lead to better outcomes in comparison to when steroid therapy is not used? | In patients with sCAP, we suggest the use of corticosteroids if shock is present (conditional recommendation, low quality of evidence) |
+| HFNO (conditional recommendation, low quality of evidence) | Question 7: Does the use of a prediction score for drug-resistant pathogens lead to more appropriate therapy and improved outcomes (mortality, treatment failure, duration of antibiotic therapy, prolonged ICU stay)? | We suggest integrating specific risk factors (eventually computed into clinical scores) based on local epidemiology and previous colonisation to guide decisions regarding drug-resistant pathogens (excluding those immunocompromised) and empirical antibiotic prescription in sCAP patients (conditional recommendation, moderate quality of evidence) |
+| HFNO (conditional recommendation, low quality of evidence) | Question 8: Do patients with sCAP and aspiration risk factors have better outcomes (mortality, length of stay, treatment failure) if treated with a risk-based therapy regimen instead of standard sCAP antibiotics? sCAP: severe community-acquired pneumonia; NIV: non-invasive ventilation; HFNO: high-flow nasal oxygen; PCT: procalcitonin; ICU: intensive care unit; CAP: community-acquired pneumonia. | In patients with sCAP and aspiration risk factors we suggest standard CAP therapy regimen and not specific therapy targeting anaerobic bacteria (ungraded, good practice statement) |
+
+
+[T3] (Pneumonia, p.30-30) Table 4 Antibiotics for treating hospital-acquired pneumonia in babies aged 1 month  and over, children and young people
+
+| Treatment based on severity of symptoms or signs, risk of resistance and suitability | Antibiotic, dosage and course length |
+| --- | --- |
+| Non-severe symptoms or signs and not at higher risk of resistance: first-line oral antibiotic | Co-amoxiclav: 1 month to 11 months, 0.5 ml/kg of 125/31 suspension three times a day for 5 days, then review 1 year to 5 years, 10 ml of 125/31 suspension (or 5 ml of 250/62 suspension) three times a day, or 0.5 ml/kg of 125/31 suspension three times a day for 5 days, then review 6 years to 11 years, 10 ml of 250/62 suspension three times a day or 0.3 ml/kg of 250/62 suspension three times a day for 5 days, then review 12 years to 17 years, 500/125 mg three times a day for 5 days, then review |
+| Non-severe symptoms or signs and not at higher risk of resistance: alternative oral antibiotic for penicillin allergy or if co-amoxiclav unsuitable (other options may be suitable based on specialist microbiological advice and local resistance data) | Clarithromycin: 1 month to 11 years: • Under 8 kg, 7.5 mg/kg twice a day for 5 days, then review • 8 kg to 11 kg, 62.5 mg twice a day for 5 days, then review • 12 kg to 19 kg, 125 mg twice a day for 5 days, then review • 20 kg to 29 kg, 187.5 mg twice a day for 5 days, then review • 30 kg to 40 kg, 250 mg twice a day for 5 days, then review 12 years to 17 years: 500 mg twice a day for 5 days, then review |
+
+
+TASK:
+Produce discharge recommendations in two sections, do not add anything else.
+
+SECTION 1 — DISCHARGE RECOMMENDATIONS
+A numbered list of concise instructions for the patient.
+Rules:
+- One or two sentences per item. Be direct: "Continue...", "Stop...", "A prescription is issued for...".
+- Combine closely related actions into a single item (e.g. stopping a medication and adopting an alternative is one recommendation, not two). Never combine medication prescriptions with non-medication actions.
+- For medications: always include drug name, dose, route, and frequency (e.g. "every 12 hours"), but do not make up information. Take dosing from the guideline excerpts or tables when they state it; otherwise copy the exact dosing from the clinical note. If neither states the frequency, write "as directed by the specialist".
+- Dosing may be taken from a cited table; copy the value or range exactly as written, never compute or interpolate.
+- Where a table distinguishes routes, use the oral maintenance column for home discharge and ignore intravenous columns.
+- Before prescribing a drug that appears in a table, check every contraindication or criteria column against the clinical note; if a contraindication is present, do not prescribe and state this in Section 2.
+- If a table gives a range rather than a single dose, write the range.
+- For lifestyle factors (smoking, alcohol, diet, exercise): use strong advisory tone ("strongly recommended", "strongly advised") rather than direct orders.
+- For lifestyle factors, if the patient is already doing the right thing (e.g. non-smoking, not overweight),don't acknowledge it. Only give instructions for things that need to be changed or started.
+- For follow-up appointments and specialist referrals, use the phrasing: "A prescription is issued for [specialist type] evaluation for [clinical purpose]" and always specify the specialist type from the clinical note (e.g. "angiologist", "cardiologist", "internist") and the clinical purpose of the visit (e.g. "for thrombophilia screening", "for initiation of anticoagulant therapy", "for echocardiographic follow-up").
+- Do NOT explain why. No rationale, no "because...", no "to reduce the risk of...", no pathophysiology.
+- Do NOT speculate about future treatment decisions (duration of therapy, drug switches). - No sub-bullets, no bold, no markdown headers, no category groupings. Just a numbered list.
+- Do NOT cite [E#] in this section. Citations belong only in Section 2.
+- The second-to-last item must always be: "Go to the nearest emergency department immediately if you experience [relevant warning symptoms for this diagnosis]."
+- The last item must always be: "You are referred back to your general practitioner for any further diagnostic or therapeutic needs and ongoing care."
+- If a topic cannot be addressed by the excerpts: "Refer to specialist for [topic]."
+
+SECTION 2 — CLINICAL REFERENCES (for the reviewing physician)
+For each recommendation number in Section 1, write:
+[number] - [E#][T#] - brief clinical justification
+Example:
+1 - [E4][E7] - Anticoagulation recommended for confirmed distal DVT with high pretest probability.
+2 - [E4][T1] - Apixaban 5 mg twice daily as per the DOAC dose table; no dose-reduction criterion met.
+3 - [E7] - Oral contraceptives classified as moderate VTE risk factor (OR 2-9).
+
+RULES:
+- Use ONLY the provided guideline excerpts. Do not rely on prior medical knowledge.
+- Do NOT invent drug names, dosages, frequencies, or clinical facts not in the clinical note or excerpts.
+- When multiple excerpts cover the same topic, write one recommendation and cite all relevant excerpts.
+- Do not repeat the same recommendation in different wording.
+- Section 1 must be directly usable as a discharge document with no editing needed.

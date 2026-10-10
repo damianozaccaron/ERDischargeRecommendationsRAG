@@ -1,0 +1,32 @@
+## SEZIONE 1 - RACCOMANDAZIONI PER LA DIMISSIONE
+
+1. Continui la terapia antibiotica orale con amoxicillina più acido clavulanico come indicato dal suo medico di base, che determinerà la dose orale appropriata, la frequenza e la durata totale del trattamento.
+2. Continuare il paracetamolo per la gestione della febbre, come necessario, seguendo le istruzioni di dosaggio sulla confezione o come indicato dal suo medico di base.
+3. Assicuri un'adeguata assunzione di liquidi per via orale durante il decorso della malattia.
+4. Rimanga a riposo a casa ed eviti un'attività fisica intensa fino a quando i sintomi non si saranno risolti e il suo medico di base non confermerà la guarigione.
+5. Si prescrive una valutazione da parte del medico di base per una rivalutazione clinica entro 48-72 ore, compresi esami del sangue ripetuti (proteina C-reattiva e conta dei globuli bianchi) per monitorare la risposta al trattamento.
+6. Viene prescritta una radiografia del torace di follow-up, come indicato dal medico di famiglia, per confermare la risoluzione della polmonite basale destra.
+7. Si rechi immediatamente al pronto soccorso più vicino se si verifica un peggioramento della mancanza di respiro, febbre alta che non risponde al paracetamolo, dolore toracico, tosse con sangue, confusione o un deterioramento significativo delle sue condizioni generali.
+8. Viene rimandato al suo medico di famiglia per qualsiasi ulteriore necessità diagnostica o terapeutica e per l'assistenza continua.
+
+## SEZIONE 2 - RIFERIMENTI CLINICI (per il medico revisore)
+
+1 - Non è stato fornito alcun estratto di linea guida direttamente applicabile per il regime antibiotico della polmonite acquisita in comunità; la raccomandazione si basa sull'amoxicillina/acido clavulanico somministrato per via endovenosa nella nota clinica, con step-down orale da gestire da parte del medico di famiglia. Il principio della transizione dalla terapia parenterale a quella orale quando la situazione clinica migliora è supportato per analogia da [E10] (passaggio alla terapia antimicrobica orale nei pazienti che migliorano clinicamente e possono tollerare i fluidi orali).
+2 - Non è stato fornito un estratto specifico della linea guida; la raccomandazione deriva dalla nota clinica che documenta una risposta parziale alla febbre con paracetamolo.
+3 - Non è stato fornito un estratto specifico della linea guida; la raccomandazione si basa sulle cure di supporto standard annotate nel diario clinico (reidratazione per via endovenosa somministrata nel reparto di emergenza).
+4 - Non è stato fornito un estratto specifico della linea guida; misura di supporto generale coerente con la prognosi di 10 giorni documentata nella nota clinica.
+5 - Non è stato fornito un estratto di linea guida specifica; si raccomanda un follow-up clinico, dato l'innalzamento della proteina C-reattiva (78) e dei globuli bianchi (14.000) documentato nella nota clinica, per garantire l'adeguatezza del trattamento.
+6 - Non è stato fornito un estratto specifico della linea guida; il follow-up radiografico è una pratica standard per confermare la risoluzione del focus infiammatorio basale destro identificato dalla radiografia del torace e dall'ecografia al letto.
+7 - [E2] - I segnali di allarme, compresi i sintomi gravi o in rapida evoluzione, giustificano un intervento immediato; qui si applica al contesto della polmonite con compromissione respiratoria (gas arteriosi ai limiti inferiori di PaO2, come documentato nella nota clinica).
+8 - Non è richiesto un estratto specifico della linea guida; raccomandazione standard di disposizione alla dimissione.
+
+============================================================
+ORIGINAL RECOMMENDATIONS (for comparison)
+============================================================
+- Assuma amoxicillina 2gr+acido clavulanico 200mg 1 compressa ogni 8h per i successivi 10gg
+- Assuma azitromicina 500mg 1 compressa una volta al giorno per i successivi 3 gg.
+- Per la febbre paracetamolo 1gr, assumibile fino ad un max di 3 volte al giorno a distanza di 8h.
+- RX di controllo a 20gg di distanza.
+- Se persistenza dei sintomi, modifica del dolore o peggioramento del tale rientra presso il più
+vicino PS.
+- Si riaffida al medico curante per eventuali integrazioni terapuetiche-diagnostiche e presa in carico.

@@ -1,0 +1,20 @@
+FEMALE, 28 YEARS OLD
+Medical history: 
+- Pathological proximate symptoms: The patient presented with abdominal pain that began approximately 12 hours prior to admission; the pain was initially diffuse and cramp-like, but gradually migrated and became localised in the right iliac fossa. This was accompanied by nausea and one episode of vomiting. She reports a low-grade fever in the evening over the past 24 hours (Body Temperature 37.8°C at home). She denies diarrhoea or changes in bowel habits. Her last menstruation was approximately 2 weeks ago; she has a regular cycle.
+- Remote pathology: No known medical conditions. No previous surgical procedures. Was not taking any medication at home. Denies any drug allergies.
+
+Objective examination: Patient alert, oriented and cooperative. In distress. Vesicular breath sounds present in all lung fields; no additional sounds. Heart sounds at normal-rate, rhythmic, with clear intervals. Abdomen tender to touch, markedly tender on palpation in the right iliac fossa. Positive Blumberg’s sign. Positive Rovsing’s sign. Negative CVA Tenderness. Cystic points non-tender. No dependent oedema of the lower limbs. BP 118/74 mmHg. Heart Rate 102 bpm. SpO₂ 99% on air. Body Temperature 38.1°C.
+
+Clinical diary:
+• Venous access established and biochemistry, complete blood count, inflammatory markers, urine pregnancy test (urinary β-hCG) and urinalysis performed.
+• ECG performed: sinus rhythm, reactive sinus tachycardia, no ST-segment changes.
+• Test results reviewed: neutrophilic leucocytosis (WBC 14,200/μL, N 84%). C-reactive protein 4.2 mg/dL. β-hCG negative. Urinalysis: within normal limits, ruling out acute urological pathology.
+• Ketorolac 30 mg in 100 cc of normal saline is administered for pain relief, and ondansetron 4 mg intravenously for nausea, with partial relief.
+• A bedside ultrasound is performed: no appreciable free intra-abdominal fluid is detected. No bilateral hydronephrosis. Appendix not visualisable using this technique due to gas interposition.
+• Given the clinical presentation, laboratory findings and the presence of appendicular signs, the patient was referred to radiology for a contrast-enhanced CT scan of the abdomen and pelvis.
+• CT report: Findings consistent with acute unperforated appendicitis.
+• The on-call general surgery team was contacted for a specialist consultation. The surgeon examined the patient and confirmed the need for surgery.
+• The patient is informed of the diagnosis and the need for surgery. Informed consent is obtained. Fasting is initiated and the patient is prepared for the operating theatre.
+
+Diagnosis: acute appendicitis
+Prognosis: Hospitalisation

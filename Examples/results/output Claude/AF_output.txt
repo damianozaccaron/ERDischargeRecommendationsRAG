@@ -1,0 +1,24 @@
+## SEZIONE 1 - NOTA DI AMMISSIONE
+
+1. Il paziente viene ricoverato nel reparto di Cardiologia per una valutazione diagnostica approfondita, l'inizio di una terapia anticoagulante orale basata su un punteggio CHA₂DS₂-VASc di 3 punti e un processo decisionale condiviso riguardante il controllo del ritmo rispetto alla strategia di controllo della frequenza per una fibrillazione atriale di nuova insorgenza con risposta ventricolare rapida.
+
+2. Il paziente e la famiglia sono stati informati della diagnosi di fibrillazione atriale di nuova insorgenza, del rischio tromboembolico associato che richiede una terapia anticoagulante, della necessità di una gestione continua delle comorbilità e dei fattori di rischio, compresa l'ottimizzazione del controllo dell'ipertensione e del diabete, e della valutazione pianificata delle opzioni di controllo del ritmo rispetto al controllo della frequenza durante il ricovero. Sono stati informati che sarà necessaria una rivalutazione regolare e che l'anticoagulazione orale deve essere continuata anche se viene ripristinato il ritmo sinusale, dato il profilo di rischio tromboembolico del paziente. Sono stati anche informati che il decorso clinico includerà ulteriori immagini cardiache, il monitoraggio ambulatoriale dell'ECG e la rivalutazione dinamica dei sintomi e della risposta al trattamento.
+
+3. Il paziente viene affidato alle cure del team di cardiologia.
+
+---
+
+## SEZIONE 2 - RIFERIMENTI CLINICI (per il medico revisore)
+
+1 - [E1][E4][E6] - Il paziente soddisfa i criteri per l'avvio di un anticoagulante orale con CHA₂DS₂-VASc di 3 (ipertensione, diabete, età ≥65). Le linee guida raccomandano di stratificare il rischio di ictus e tromboembolismo (Classe I) e di iniziare l'OAC di conseguenza. Per la fibrillazione atriale persistente, si raccomanda un processo decisionale condiviso sul controllo del ritmo (Classe I), con un controllo della frequenza mirato alla frequenza cardiaca a riposo <110 bpm come strategia alternativa. La cardioversione richiede un'adeguata valutazione dello stato di anticoagulazione, con OAC a breve termine per un minimo di 4 settimane dopo la cardioversione per tutti i pazienti.
+
+2 - [E1][E2][E3][E8] - Le linee guida prevedono la valutazione e la gestione delle comorbilità esistenti e dei fattori di rischio modificabili, tra cui l'ipertensione e il diabete mellito, che sono fondamentali per prevenire la recidiva e la progressione della FA. Il percorso AF-CARE richiede la gestione delle comorbidità e dei fattori di rischio, la prevenzione di ictus e tromboembolie, la riduzione dei sintomi attraverso il controllo della frequenza e del ritmo e la valutazione con rivalutazione dinamica. L'imaging cardiaco e l'ECG ambulatoriale sono raccomandati come parte della valutazione iniziale. La continuazione dell'OAC nonostante il controllo del ritmo è una raccomandazione di Classe I se il rischio tromboembolico persiste. Si raccomanda una rivalutazione regolare a 6 mesi dalla presentazione e successivamente almeno ogni anno. I fattori che favoriscono il controllo del ritmo includono il sospetto di tachicardiomiopatia, una breve anamnesi di FA e l'atrio sinistro non dilatato, tutti fattori che devono essere valutati durante il ricovero.
+
+============================================================
+ORIGINAL RECOMMENDATIONS (for comparison)
+============================================================
+Si consiglia:
+• Paziente ricoverato presso U.O. Cardiologia per monitoraggio, ecocardiogramma
+transtoracico dedicato, avvio di terapia anticoagulante orale (DOAC) e valutazione in
+elezione della strategia terapeutica.
+• Si informa il paziente e i familiari presenti della diagnosi e del percorso previsto.

@@ -1,0 +1,29 @@
+## SEZIONE 1 - NOTA DI AMMISSIONE
+
+1. Il paziente viene ricoverato d'urgenza nel reparto di Pediatria per la terapia con immunoglobuline endovena ad alto dosaggio, la terapia con aspirina, l'ecocardiografia transtoracica dedicata con valutazione coronarica completa e il monitoraggio clinico-laboratoristico continuo dell'attività della malattia e della risposta al trattamento.
+
+2. La famiglia del paziente è stata informata della diagnosi di malattia di Kawasaki classica, della necessità di iniziare rapidamente il trattamento con immunoglobuline per via endovenosa e aspirina per ridurre il rischio di aneurismi coronarici, della possibilità di resistenza al trattamento che richiede un'escalation della terapia, compresa la considerazione dei corticosteroidi, la necessità di un monitoraggio ecocardiografico ed elettrocardiografico seriale per valutare le complicanze cardiache, compresi gli aneurismi coronarici, il versamento pericardico, la miocardite e l'incompetenza valvolare, e l'importanza di monitorare l'infiammazione sistemica attraverso ripetute valutazioni di laboratorio.
+
+3. La famiglia è stata anche informata che questo paziente presenta caratteristiche associate a una maggiore gravità della malattia, in particolare ipoalbuminemia, transaminasi alanina elevata, lieve iponatriemia e marcatori infiammatori elevati, che guideranno le decisioni sull'intensità del trattamento da parte dell'équipe di ricovero.
+
+4. Il paziente viene affidato alle cure del team di Pediatria.
+
+---
+
+## SEZIONE 2 - RIFERIMENTI CLINICI (per il medico revisore)
+
+1 - [E9][E10] - Non appena viene diagnosticata la malattia di Kawasaki completa o incompleta, il trattamento deve essere iniziato con IVIG alla dose di 2 g/kg come infusione singola e aspirina a 30-50 mg/kg/die fino a quando la febbre non si è stabilizzata per 48 ore, le caratteristiche cliniche stanno migliorando e i livelli di CRP sono in calo. L'ecocardiografia dedicata con valutazione delle arterie coronarie è essenziale, poiché fino al 25% dei casi non trattati sviluppano aneurismi coronarici.
+
+2 - [E4][E9][E1] - La famiglia è stata informata che la malattia di Kawasaki è la causa più comune di cardiopatia acquisita nei bambini, che causa aneurismi coronarici fino al 25% dei pazienti non trattati. Tutti i pazienti con sospetta malattia di Kawasaki devono sottoporsi all'ecocardiografia e al monitoraggio dell'infiammazione sistemica, poiché le manifestazioni cardiache possono includere versamento pericardico, pericardite, miocardite, incompetenza valvolare, insufficienza cardiaca e infarto del miocardio. Il trattamento precoce con IVIG e aspirina riduce l'insorgenza di aneurismi coronarici. I pazienti resistenti all'IVIG sono a maggior rischio e possono richiedere un'escalation, con i corticosteroidi che hanno una base di prove sempre più convincente come trattamento aggiuntivo nei casi più gravi.
+
+3 - [E1][E10] - I fattori di stratificazione del rischio presenti in questo paziente includono l'ipoalbuminemia (2,8 g/dL), l'alanina transaminasi elevata, l'iponatriemia lieve (132 mEq/L) e i marcatori infiammatori marcatamente elevati (CRP 14,2 mg/dL, VES 88 mm/h). Questi fattori aumentano il rischio di gravità della malattia e sono importanti da considerare quando si valuta la scelta della modalità di trattamento primario, compresa la potenziale terapia aggiuntiva con corticosteroidi. Il punteggio di Kobayashi deve essere calcolato dall'équipe di ricovero; nei pazienti non giapponesi, un punteggio positivo (≥4) può indicare il rischio di resistenza all'IVIG, ma un punteggio negativo può non escluderlo in modo affidabile.
+
+============================================================
+ORIGINAL RECOMMENDATIONS (for comparison)
+============================================================
+• Paziente ricoverato in urgenza presso U.O. Pediatria per avvio della terapia con
+immunoglobuline endovena ad alte dosi e ulteriore terapia, ecocardiografia transtoracica
+dedicata con valutazione delle coronarie, e monitoraggio clinico-laboratoristico.
+• Si informa la famiglia del decorso atteso, della possibilità di mancata risposta alle IVIG e
+della necessità di follow-up cardiologico a lungo termine.
+• Si affida alla presa in carico del team pediatrico.

@@ -1,0 +1,34 @@
+SEZIONE 1 - RACCOMANDAZIONI DI DIMISSIONE
+
+1. Continui a prendere Amoxicillina 2g + Acido Clavulanico 200mg ogni 12 ore per bocca fino al completamento della terapia.
+2. Viene prescritta una radiografia del torace di controllo tra 2 settimane per monitorare i progressi della polmonite basale destra.
+3. Si prescrive un follow-up ecocardiografico per valutare la funzione cardiaca e qualsiasi potenziale complicazione.
+4. Si raccomanda vivamente di evitare il fumo e l'esposizione al fumo passivo.
+5. Si consiglia vivamente di mantenere una dieta sana e una regolare attività fisica.
+6. Viene rilasciata una prescrizione per una valutazione da parte del medico di famiglia per la cura e la gestione continua della polmonite basale destra.
+7. Si rechi immediatamente al pronto soccorso più vicino se avverte un peggioramento della dispnea, dolore toracico o segni di infezione.
+8. Verrà rimandato al suo medico di famiglia per qualsiasi ulteriore necessità diagnostica o terapeutica e per l'assistenza continua.
+9. Si rivolga a uno specialista per un'ulteriore valutazione di qualsiasi malattia polmonare sottostante, se sospetta.
+
+SEZIONE 2 - RIFERIMENTI CLINICI
+
+1 - [E1] - Gestione ambulatoriale raccomandata per il trattamento iniziale della polmonite basale destra in contesti di competenza adeguati.
+2 - [E3] - Suggerimento di un dispositivo ambulatoriale nei pazienti sintomatici in cui è disponibile l'assistenza ambulatoriale.
+3 - [E4] - Suggerimento di agoaspirazione nei pazienti sintomatici con pneumotorace.
+4 - [E5] - Valutazione del rischio di osteoporosi raccomandata per tutti i pazienti.
+5 - [E6] - Suggerimento di un follow-up ecocardiografico per i pazienti con pneumotorace.
+6 - [E7] - Terapia antimicrobica orale empirica raccomandata per la pielonefrite che non richiede l'ospedalizzazione.
+7 - [E8] - Si rechi immediatamente al pronto soccorso più vicino se avverte un peggioramento della dispnea, dolore toracico o segni di infezione.
+8 - [E9] - Rinvio al medico di famiglia per qualsiasi ulteriore necessità diagnostica o terapeutica e per l'assistenza continua.
+9 - [E10] - Trattamento della pielonefrite che non richiede l'ospedalizzazione con fluorochinoloni a breve durata come terapia di prima linea.
+
+============================================================
+ORIGINAL RECOMMENDATIONS (for comparison)
+============================================================
+- Assuma amoxicillina 2gr+acido clavulanico 200mg 1 compressa ogni 8h per i successivi 10gg
+- Assuma azitromicina 500mg 1 compressa una volta al giorno per i successivi 3 gg.
+- Per la febbre paracetamolo 1gr, assumibile fino ad un max di 3 volte al giorno a distanza di 8h.
+- RX di controllo a 20gg di distanza.
+- Se persistenza dei sintomi, modifica del dolore o peggioramento del tale rientra presso il più
+vicino PS.
+- Si riaffida al medico curante per eventuali integrazioni terapuetiche-diagnostiche e presa in carico.

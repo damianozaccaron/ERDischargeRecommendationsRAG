@@ -1,0 +1,106 @@
+ROLE:
+You are an emergency department physician writing recommendations for a patient being admitted to hospital. The document will be read by the admitting team, the patient, and their family.
+
+CLINICAL NOTE:
+
+MALE, 47 YEARS OLD
+Medical history:
+- Pathological proximate medical history: The patient presented with swelling, redness and warmth in his left leg, which had developed approximately 5 days previously and had been progressively worsening, accompanied by a high fever (maximum 39.4°C at home) and chills. He also reports marked weakness and loss of appetite. He denies having a cough, shortness of breath or chest pain. He does not report any recent trauma to the leg.
+- Remote pathology: The patient is homeless. He reports active intravenous drug use (heroin). No formally diagnosed medical conditions are known. He is not on any regular home treatment. No declared drug allergies are known. 
+
+Objective examination: The patient is alert, oriented but uncooperative. General condition is poor. Markedly dehydrated and malnourished. Personal hygiene is severely neglected. Vesicular breath sounds are present in all lung fields; no additional sounds. Cardiac sounds: tachycardic, rhythmic. On cardiac auscultation, a 3/6 holosystolic murmur is heard at the mid-precordium, radiating towards the axilla; this has not been reported in the patient’s Medical history nor documented in previous admissions. Abdomen soft to touch, not tender. Negative for CVA Tenderness and Blumberg’s signs. Left lower limb: erythematous patch with sharp, irregular margins extending from the ankle to the middle third of the leg; skin warm, oedematous and tender on palpation. Multiple venepuncture scars are present along the veins of both forearms and the left popliteal fossa. No fluctuation suggestive of a superficial abscess. No contralateral dependent oedema. Blood pressure 98/62 mmHg. Heart Rate 118 bpm. SpO₂ 96% on oxygen. Body Temperature 39.1°C.
+
+Clinical diary:
+• Venous access established with difficulty due to compromised venous access; two blood cultures taken from separate sites prior to any antibiotic therapy. Biochemistry, complete blood count, inflammatory markers, procalcitonin, coagulation profile, renal and hepatic function tests, and serological tests for HIV, HBV and HCV were carried out.
+• ECG performed: sinus tachycardia, Heart Rate 118 bpm, no ST-segment changes, no signs of conduction disturbances.
+• Arterial blood gas analysis was performed: mild hypoxaemia (PaO₂ 68 mmHg), compensatory respiratory alkalosis, lactate 2.8 mmol/L (slightly elevated).
+• A bolus infusion of 500 cc of normal saline is initiated for relative hypotension, resulting in an improvement in blood pressure to 108/68 mmHg. Continuous monitoring of vital signs is commenced.
+• Laboratory results were reviewed: marked neutrophilic leucocytosis (WBC 22,400/μL, neutrophils 89%). C-reactive protein 28.4 mg/dL. Procalcitonin 18.2 ng/mL (normal range <0.5), markedly elevated, suggestive of a systemic bacterial infection. Creatinine 1.6 mg/dL (mild renal impairment). AST/ALT slightly elevated. Coagulation: PT and aPTT at the upper limits of normal. HIV negative, HCV positive, HBsAg negative.
+• A bedside echocardiogram was performed: no pericardial effusion. No diffuse B-lines. Ventricular systolic function visually preserved. On examination of the right heart, a mobile hyperechoic image was observed at the level of the tricuspid valve, suggestive of a vegetation. No significant pleural effusion.
+• Given the overall clinical picture — erysipelas/cellulitis in an intravenous drug user, high fever, markedly elevated procalcitonin, elevated lactate levels, a newly detected heart murmur and suspicious echocardiographic findings — the picture is strongly suggestive of infective endocarditis with a likely cutaneous or venipuncture entry site. The infectious disease specialist on call is contacted urgently. 
+• Broad-spectrum empirical antibiotic therapy is initiated following the collection of blood cultures: vancomycin 25 mg/kg by slow infusion (estimated weight 65 kg, dose 1,625 mg rounded to 1,500 mg) to cover methicillin-resistant Staphylococcus aureus (MRSA), a priority pathogen in intravenous drug users.
+• The infectious disease specialist assesses the patient in A&E and confirms the need for urgent hospitalisation for a dedicated transthoracic/transoesophageal echocardiogram, monitoring of blood cultures and continuation of targeted antibiotic therapy.
+
+Diagnosis: erysipelas/cellulitis of the left lower limb — suspected infective endocarditis (likely involving the tricuspid valve) in an IDU
+Prognosis: urgent hospitalisation
+
+
+
+GUIDELINE EXCERPTS:
+
+[E1] (Endocarditis, p.72-72)
+
+Recommendations for outpatient antibiotic treatment of infective endocarditis. Urgent or non-urgent surgery is recommended in IE caused by fungi or multiresistant organisms according to the haemodynamic condition of the patient. ((iii) Prevention of embolism, I, C) Urgent surgery is recommended in aortic or mitral NVE or PVE with persistent vegetations ≥10 mm after one or more embolic episodes despite appropriate antibiotic therapy. (I, B) Urgent surgery is recommended in IE with vegetation ≥10 mm and other indications for surgery. (Recommendations for the treatment of neurological complications of infective endocarditis, I, C) Brain CT or MRA is recommended in patients with IE and suspected infective cerebral aneurysms. (I, B) Neurosurgery or endovascular therapy is recommended for large aneurysms, those with continuous growth despite optimal antibiotic therapy, and ruptured intracranial infective cerebral aneurysms. (I, C) Recommendations for patients with musculoskeletal manifestations of infective endocarditis (Thrombolytic therapy is not recommended in embolic stroke due to IE., III, C) MRI or PET/CT is recommended in patients with suspected spondylodiscitis and vertebral osteomyelitis complicating IE. (I, C)
+
+
+[E2] (Endocarditis, p.19-19)
+
+). 5.3.1. Blood culture-positive infective endocarditis Positive blood cultures remain the cornerstone of IE diagnosis and provide live bacteria for both identification and susceptibility testing. At least three sets of blood cultures should be obtained at 30-minute intervals prior to antibiotic therapy, each containing 10 mL of blood, and should be incubated in both aerobic and anaerobic atmospheres.Sampling should be obtained from a peripheral vein rather than from a central venous catheter (because of the risk of contamination and misleading interpretation), using a meticulous sterile technique. In the absence of previous antimicrobial therapy, this is virtually always sufficient to identify the usual causative microorganisms. The need for culture before antibiotic administration is self-evident. In IE, bacteraemia is almost constant and has two implications: (i) there is no rationale for delaying blood sampling to coincide with peaks of fever; and (ii) nearly all blood cultures are positive during bacteraemia. As a result, a single positive blood culture should be regarded cautiously for establishing IE diagnosis.
+
+
+[E3] (Endocarditis, p.22-22)
+
+Recommendation Table 5 — Recommendations for the role of echocardiography in infective endocarditis. A. Diagnosis: TTE is recommended as the first-line imaging modality in suspected IE. (I, B) TOE is recommended in all patients with clinical suspicion of IE and a negative or non-diagnostic TTE. (I, B) TOE is recommended in patients with clinical suspicion of IE, when a prosthetic heart valve or an intracardiac device is present. (I, B) Repeating TTE and/or TOE within 5–7 days is recommended in cases of initially negative or inconclusive examination when clinical suspicion of IE remains high. (I, C) TOE is recommended in patients with suspected IE, even in cases with positive TTE, except in isolated right-sided native valve IE with good quality TTE examination and unequivocal echocardiographic findings. (I, C) Performing an echocardiography should be considered in S. aureus, E. faecalis, and some Streptococcus spp. bacteraemia. (IIa, B) B. Follow-up under medical therapy: Repeating TTE and/or TOE is recommended as soon as a new complication of IE is suspected (new murmur, embolism, persisting fever and bacteraemia, HF, abscess, AVB). (I, B) TOE is recommended when patient is stable before switching from intravenous to oral antibiotic therapy. (I, B)
+
+
+[E4] (Endocarditis, p.40-40)
+
+8.2. Heart failure 8.2.1. Heart failure in infective endocarditis Heart failure is the most frequent complication of IE and the main indication for urgent and emergency surgery for IE.The prevalence of HF with left-sided IE is variable and inconsistently defined between reported series, ranging between 19% and 73%.Clinical symptoms Recommendation Table 11 — Recommendations for outpatient antibiotic treatment of infective endocarditis Recommendations Class Level Outpatient parenteral or oral antibiotic treatment should be considered in patients with left-sided IE caused by Streptococcus spp., E. faecalis, S. aureus, or CoNS who were receiving appropriate i.v. antibiotic treatment for at least 10 days (or at least 7 days after cardiac surgery), are clinically stable, and who do not show signs of abscess formation or valve abnormalities requiring surgery on TOE.
+
+
+[E5] (Endocarditis, p.37-37)
+
+sometimes lifelong.Consultation with the Endocarditis Team including an infectious disease specialist is recommended. 7.12. Empirical therapy Treatment of IE should be started promptly. Three sets of blood cultures should be drawn at 30-minute intervals before initiation of antibiotics. The initial choice of empirical treatment depends on several considerations: (i) Previous antibiotic therapy. (ii) IE in a native valve or a prosthesis (and if so, when surgery was performed [early vs. late PVE]). (iii) The place of the infection (community, nosocomial, or nonnosocomial healthcare-associated IE) and knowledge of the local epidemiology, especially for antibiotic resistance and specific genuine culture-negative pathogens. (iv) Cloxacillin/cefazolin administration is associated with lower mortality rates than other beta-lactams, including amoxicillin/clavulanic acid or ampicillin/sulbactam,and vancomycin for empirically treating MSSA bacteraemia/endocarditis.However, recently amoxicillin/clavulanic acid or ampicillin/sulbactam might be an effective empirical treatment for MSSA bacteraemia when de-escalated to cloxacillin or cefazolin within 96 h from the index blood culture.
+
+
+[E6] (Endocarditis, p.43-44)
+
+Non-randomized observational analyses including patients at higher risk also suggest that early surgery may be beneficial in patients with a high likelihood of embolization, and that initial conservative treatment is associated with increased mortality.However, prosthetic dehiscence has also been associated with early surgery in patients with S. aureus IE.Individualized decision-making is required to balance the risk of surgery, which is also influenced by pre-operative neurological events or other co-morbidities. The main indications and the timing of surgery to prevent embolism based on the currently available literature are given in Recommendation Table 12 and Figure 10. 9. Other complications of infective endocarditis 9.1. Neurological complications Neurological manifestations may occur before or after the diagnosis of IE is established and recurrent events can also take place later in the course of IE.The possibility of IE should be considered in patients who present with stroke, meningitis, or brain abscess. Unexplained fever accompanying a stroke in a patient with valvular disease should trigger the suspicion of IE with blood cultures taken prior to empirical antibiotic therapy.
+
+
+[E7] (Endocarditis, p.10-10)
+
+(2) Patients with a previous episode of IE. (3) Patients with CHD: (a) Any type of cyanotic CHD. (b) Any type of CHD repaired with a prosthetic material, whether placed surgically or by percutaneous techniques, up to 6 months after the procedure or lifelong if residual shunt. Antibiotic prophylaxis is recommended in patients with previous IE. Antibiotic prophylaxis is recommended in patients with surgically implanted prosthetic valves and with any material used for surgical cardiac valve repair. Antibiotic prophylaxis is recommended in patients with transcatheter implanted aortic and pulmonary valvular prostheses. Antibiotic prophylaxis should be considered in patients with transcatheter mitral and tricuspid valve repair. IIa C In non-S. aureus CIED-related endocarditis without valve involvement or lead vegetations, and if follow-up blood cultures are negative without septic emboli, 2 weeks of antibiotic treatment may be considered following device extraction. Removal of CIED after a single positive blood culture, with no other clinical evidence of infection, is not recommended. Section 12.
+
+
+[E8] (Endocarditis, p.72-72)
+
+Recommendations for outpatient antibiotic treatment of infective endocarditis. Recommendations for post-discharge follow-up: Patient education on the risk of recurrence and preventive measures, with emphasis on dental health, and based on the individual risk profile is recommended during follow-up. (I, C) Addiction treatment for patients following PWID-related IE is recommended. (I, C) Recommendations for prosthetic valve endocarditis: Surgery is recommended for early PVE (within 6 months of valve surgery) with new valve replacement and complete debridement. (Recommendations for cardiovascular implanted electronic device-related infective endocarditis, I, C) Antibiotic prophylaxis covering S. aureus is recommended for CIED implantation. (I, A) TTE and TOE are both recommended in cases of suspected CIED-related IE to identify vegetations. (I, B) Complete system extraction without delay is recommended in patients with definite CIED-related IE under initial empirical antibiotic therapy. (I, B)
+
+
+[E9] (Endocarditis, p.37-37)
+
+(iii) The place of the infection (community, nosocomial, or nonnosocomial healthcare-associated IE) and knowledge of the local epidemiology, especially for antibiotic resistance and specific genuine culture-negative pathogens. (iv) Cloxacillin/cefazolin administration is associated with lower mortality rates than other beta-lactams, including amoxicillin/clavulanic acid or ampicillin/sulbactam,and vancomycin for empirically treating MSSA bacteraemia/endocarditis.However, recently amoxicillin/clavulanic acid or ampicillin/sulbactam might be an effective empirical treatment for MSSA bacteraemia when de-escalated to cloxacillin or cefazolin within 96 h from the index blood culture. Native valve endocarditis and late PVE regimens should cover staphylococci, streptococci, and enterococci. If the patient was receiving antibiotic therapy, the empirical therapy should include different antibiotics. CoNS should be empirically covered in PVE but not in NVE. Early PVE or healthcare-associated IE regimens should cover methicillin-resistant staphylococci, enterococci and, ideally, non-HACEK Gram-negative pathogens.
+
+
+[E10] (Endocarditis, p.11-12)
+
+Section 12. I B Antibiotic prophylaxis covering S. aureus is recommended for CIED implantation. TOE is recommended in patients with suspected cardiac device-related infective endocarditis with positive or negative blood cultures, independent of the results of TTE, to evaluate lead-related endocarditis and heart valve infection. TTE and TOE are both recommended in case of suspected CIED-related IE to identify vegetations. In patients with NVE or PVE and an intracardiac device with no evidence of associated device infection, complete hardware extraction may be considered. Complete CIED extraction should be considered in case of valvular IE, even without definite lead involvement, taking into account the identified pathogen and requirement for valve surgery. 3. Prevention 3.1. Rationale The development of IE usually requires several conditions, including the presence of predisposing risk factors (i.e. a surface/structure that could be colonized by bacteria), pathogens entering the bloodstream, and the competence of the host’s immune response. The role of predisposing risk factors has been recently underscored by Thornhill et al.
+
+
+TASK:
+The patient is being admitted to hospital. The ER does not prescribe ongoing therapy or follow-up — that is the admitting team's responsibility. Produce a brief handover note in two sections.
+
+SECTION 1 — ADMISSION NOTE
+In a numbered list: 
+- State that the patient is admitted to [department] for [key planned interventions], extracting the department and planned interventions from the clinical note (e.g. "Patient is admitted urgently to the Paediatrics department for high-dose intravenous immunoglobulin therapy, dedicated transthoracic echocardiography with coronary evaluation, and clinical-laboratory monitoring.").
+- State that the patient and/or family have been informed of the diagnosis, the expected clinical course based on the guideline excerpts (e.g. treatment protocol, possible complications, need for monitoring), and the planned treatment pathway. Do not write examples.
+- Do NOT give examples of complications or risks in parentheses. State the information directly without "e.g.", "such as", or "for example".
+- If the patient is being hospitalised to perform surgery,state that the patient has been prepped. 
+- State that the patient is handed over to the care of the [department] team.
+
+- Do NOT prescribe medications, follow-up visits, or lifestyle changes.
+- Do NOT cite [E#] in this section.
+- Keep each item to one or two sentences.
+
+SECTION 2 — CLINICAL REFERENCES (for the reviewing physician)
+For each item in Section 1 that draws on guideline content, write:
+[number] - [E#] - brief clinical justification
+Example:
+2 - [E1][E9] - IVIG 2g/kg and aspirin 30-50mg/kg/day are first-line treatment for Kawasaki disease to prevent coronary artery aneurysms.
+
+
+RULES:
+- Use ONLY the provided guideline excerpts. Do not rely on prior medical knowledge.
+- Do NOT invent clinical facts not in the clinical note or excerpts.
+- Section 1 must be directly usable as a handover note with no editing needed.

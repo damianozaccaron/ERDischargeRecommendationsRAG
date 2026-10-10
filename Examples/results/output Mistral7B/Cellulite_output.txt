@@ -1,0 +1,27 @@
+SEZIONE 1 - NOTA DI AMMISSIONE
+1. Il paziente è ricoverato d'urgenza nel reparto di Malattie Infettive per un'ecocardiografia transtoracica dedicata, il monitoraggio delle emocolture e il proseguimento della terapia antibiotica mirata.
+2. Il paziente e la sua famiglia sono stati informati della diagnosi di sospetta endocardite infettiva, del decorso clinico previsto in base alle linee guida e del percorso terapeutico previsto.
+3. Il paziente è stato preparato per un eventuale intervento chirurgico.
+4. Il paziente viene affidato alle cure del team di Malattie Infettive.
+
+SEZIONE 2 - RIFERIMENTI CLINICI
+1 - [E1] - Il paziente richiede una diagnostica per immagini cardiovascolare, cardiologi, specialisti in malattie infettive e microbiologi per la diagnosi e la gestione dell'endocardite infettiva.
+2 - [E2] - Il paziente sta ricevendo una terapia antibiotica empirica ad ampio spettro per coprire lo stafilococco resistente alla meticillina (MRSA), un patogeno prioritario nei pazienti IVDU.
+3 - [E3] - La sospetta endocardite infettiva del paziente richiede un intervento chirurgico a causa della batteriemia persistente e della disfunzione ventricolare stretta.
+4 - [E4] - Il paziente può essere adatto a un trattamento antibiotico orale se non è adatto alla terapia endovenosa e se soddisfa determinati criteri.
+5 - [E5] - L'endocardite infettiva del paziente richiede un attento follow-up clinico ed ecocardiografico a causa della presenza di piccoli ascessi o pseudoaneurismi.
+6 - [E6] - La terapia antibiotica empirica del paziente deve coprire stafilococchi, streptococchi ed enterococchi.
+7 - [E7] - L'endocardite infettiva del paziente è probabilmente causata dallo Staphylococcus spp, un microrganismo associato ad alti tassi di complicanze e mortalità.
+8 - [E8] - L'endocardite infettiva del paziente può essere trattata con la dalbavancina, un antibiotico glicopeptide con un'emivita molto lunga che può essere somministrato settimanalmente.
+9 - [E9] - L'endocardite infettiva del paziente richiede un attento monitoraggio delle complicanze neurologiche, poiché fino all'80% dei pazienti può avere complicanze cerebrovascolari silenti.
+10 - [E10] - Il protocollo di trattamento del paziente si basa sui dati di efficacia antibiotica pubblicati da studi clinici e studi di coorte su pazienti con endocardite infettiva.
+
+============================================================
+ORIGINAL RECOMMENDATIONS (for comparison)
+============================================================
+• Paziente ricoverato in urgenza presso U.O. Malattie Infettive per prosecuzione della terapia
+antibiotica, ecocardiografia transtoracica e transesofagea dedicata, monitoraggio delle
+emocolture e gestione multidisciplinare.
+• Segnalata la positività per HCV al team ricevente per adeguata gestione e presa in carico.
+• Monitoraggio continuo dei parametri vitali garantito durante il trasferimento.
+• Si affida alla presa in carico del team infettivologico.

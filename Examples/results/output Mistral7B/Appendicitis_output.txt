@@ -1,0 +1,19 @@
+SEZIONE 1 - NOTA DI AMMISSIONE
+1. Il paziente è ricoverato d'urgenza nel reparto di Chirurgia Generale per un'appendectomia.
+2. Il paziente e la famiglia sono stati informati della diagnosi di appendicite acuta, del decorso clinico previsto e del percorso terapeutico pianificato.
+3. Il paziente è stato preparato per l'intervento.
+4. Il paziente viene consegnato alle cure del team di Chirurgia Generale.
+
+SEZIONE 2 - RIFERIMENTI CLINICI
+1 - [E5] - La gestione operativa è suggerita per i pazienti adulti e pediatrici con appendicite non complicata.
+2 - [E9] - Nei pazienti con appendicite complicata, si può prendere in maggiore considerazione la gestione non chirurgica iniziale per minimizzare i rischi chirurgici. Tuttavia, il paziente viene ricoverato per l'appendicectomia.
+
+============================================================
+ORIGINAL RECOMMENDATIONS (for comparison)
+============================================================
+Si consiglia:
+• Paziente ricoverata presso U.O. Chirurgia Generale per appendicectomia laparoscopica in
+urgenza.
+• Si informa la paziente e i familiari presenti della diagnosi, del percorso chirurgico previsto e
+dei rischi correlati.
+• Si affida alla presa in carico del team chirurgico.

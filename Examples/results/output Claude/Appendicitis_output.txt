@@ -1,0 +1,29 @@
+# NOTA DI PASSAGGIO DI AMMISSIONE
+
+## SEZIONE 1 - NOTA DI AMMISSIONE
+
+1. Il paziente è ricoverato d'urgenza nel reparto di Chirurgia Generale per un'appendicectomia per appendicite acuta non perforata, come confermato dalla TAC e dal consulto chirurgico.
+
+2. Il paziente è stato preparato per la sala operatoria: è stato ottenuto il consenso informato, è stato iniziato il digiuno, è stato predisposto l'accesso venoso e sono stati somministrati l'analgesia iniziale e la terapia antiemetica.
+
+3. Il paziente è stato informato della diagnosi di appendicite acuta non perforata (non complicata), dell'indicazione alla gestione operativa come approccio terapeutico raccomandato, del decorso clinico previsto, compresa la natura definitiva dell'appendicectomia nell'eliminare il rischio di recidiva, e del percorso chirurgico pianificato.
+
+4. Il paziente viene consegnato alle cure del team di Chirurgia Generale.
+
+---
+
+## SEZIONE 2 - RIFERIMENTI CLINICI (per il medico revisore)
+
+1 - [E1][E5] - Le attuali linee guida basate sull'evidenza suggeriscono che i pazienti adulti con appendicite non complicata siano gestiti operativamente, in quanto l'appendicectomia fornisce una cura definitiva senza il rischio di recidiva e di successiva necessità di intervento chirurgico. Si tratta di una raccomandazione condizionale basata su una bassa certezza delle prove negli adulti.
+
+3 - [E3][E5][E8] - Il gruppo di esperti suggerisce la gestione operativa rispetto a quella non operativa per l'appendicite non complicata, notando che la maggior parte dei pazienti trarrà maggiori benefici dalla chirurgia. La gestione non chirurgica con antibiotici comporta un tasso di fallimento del 25-42% a un anno. Il paziente non ha comorbidità mediche, malattie infiammatorie intestinali o altri fattori che favorirebbero la gestione non chirurgica, a ulteriore sostegno dell'approccio operativo. Le considerazioni importanti includono l'importanza che il paziente attribuisce all'evitare un'operazione, l'accesso alle cure e le comorbidità mediche, tutte discusse con il paziente prima di ottenere il consenso informato.
+
+============================================================
+ORIGINAL RECOMMENDATIONS (for comparison)
+============================================================
+Si consiglia:
+• Paziente ricoverata presso U.O. Chirurgia Generale per appendicectomia laparoscopica in
+urgenza.
+• Si informa la paziente e i familiari presenti della diagnosi, del percorso chirurgico previsto e
+dei rischi correlati.
+• Si affida alla presa in carico del team chirurgico.

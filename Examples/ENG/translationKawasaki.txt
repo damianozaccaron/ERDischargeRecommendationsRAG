@@ -1,0 +1,20 @@
+MALE, 2 YEARS AND 8 MONTHS
+Medical history: 
+- Pathological proximate: The patient was brought to A&E by his parents due to a persistent high fever lasting 6 days (Body Temperature maximum 40.1°C), which did not respond to antipyretic treatment at home (paracetamol and ibuprofen at weight-appropriate doses). The parents report that, over the last 2–3 days, the child has developed red eyes without discharge, a rash on the trunk, chapped and reddened lips, and an unusual appearance of the tongue. They also report swelling on the right side of the neck. The child is irritable and refuses to play or eat. The mother reports no episodes of cough, runny nose or diarrhoea. No known contact with unwell individuals.
+Remote pathology: Born at term, normal delivery, normal psychomotor development. Vaccinations up to date for his age. No known medical conditions. No previous visits to A&E. No ongoing home treatment. The mother reports no known drug allergies.
+
+Objective examination: The patient is alert, irritable and crying at the time of assessment. General condition is compromised. Vesicular breath sounds present throughout the lungs; no additional sounds. Heart sounds tachycardic, rhythmic, with regular pauses. No appreciable murmurs. Abdomen soft to touch, slightly tender on diffuse palpation; no obvious organomegaly.
+
+Clinical diary:
+• Venous access established and biochemistry, complete blood count, inflammatory markers, procalcitonin, ESR, fibrinogen, ALT/AST, bilirubin, albumin, sodium, potassium, renal function and urinalysis performed. Two blood cultures were performed prior to any antibiotic therapy to rule out bacteraemia. 
+• An ECG was performed: sinus tachycardia, Heart Rate 138 bpm, no ST-segment changes, no conduction disturbances, PR interval within the normal range for age.
+• Laboratory results are reviewed: neutrophilic leucocytosis (WBC 18,600/μL, N 78%). C-reactive protein 14.2 mg/dL. ESR 88 mm/h. Fibrinogen 620 mg/dL (elevated). Procalcitonin 2.4 ng/mL. Platelets
+498,000/μL (thrombocytosis). Slightly elevated ALT. Albumin 2.8 g/dL (hypoalbuminaemia). Urinalysis: sterile leucocyturia. Sodium 132 mEq/L (mild hyponatraemia).
+• The paediatrician on call is contacted urgently for a specialist consultation. The clinical picture—a fever persisting for over 5 days associated with all 5 clinical criteria for Kawasaki disease—is diagnostic of classic Kawasaki disease.
+• Clinical criteria observed: — Fever for 6 days (Body Temperature 39.8°C on admission) — Bilateral non-exudative conjunctivitis — Changes to the lips and oral cavity: erythematous and chapped lips, strawberry tongue — Polymorphic rash on the trunk and at the base of the limbs — Right cervical lymphadenopathy with a single lymph node measuring approximately 2 cm, tender, non-fluctuant — Erythema and mild oedema of the hands and feet. Blood pressure 96/58 mmHg. Heart Rate 138 bpm. SpO₂ 99% on oxygen. Body Temperature 39.8°C. Weight 14kg.
+• A bedside echocardiogram is performed by the paediatrician: cardiac function appears preserved; coronary arteries not clearly dilated using this technique; A dedicated echocardiogram is scheduled for after hospitalisation.
+• Paracetamol 15 mg/kg IV (210 mg) is administered to manage the fever whilst awaiting hospitalisation.
+• The family is informed of the diagnosis, the need for urgent hospitalisation and the importance of early treatment to reduce the risk of coronary aneurysms.
+
+Diagnosis: Kawasaki disease — classic form (5 out of 5 criteria met)
+Prognosis: urgent hospitalisation

@@ -1,0 +1,18 @@
+SEZIONE 1 - NOTA DI AMMISSIONE
+1. Il paziente viene ricoverato d'urgenza nel reparto di Pediatria per la terapia con immunoglobuline endovena ad alto dosaggio, ecocardiografia transtoracica dedicata con valutazione coronarica e monitoraggio clinico-laboratoristico.
+2. Il paziente e la famiglia sono stati informati della diagnosi di malattia di Kawasaki, del decorso clinico previsto che richiede una terapia antinfiammatoria tempestiva, del rischio di aneurismi coronarici e del percorso terapeutico previsto che prevede la somministrazione immediata di immunoglobuline e l'esecuzione di imaging cardiaco seriale.
+3. Il paziente viene affidato alle cure del team di Pediatria.
+
+SEZIONE 2 - RIFERIMENTI CLINICI (per il medico revisore)
+1 - [E1][E4][E9] - La somministrazione precoce di immunoglobulina per via endovenosa a 2 g/kg come infusione singola e di aspirina è necessaria per prevenire gli aneurismi coronarici, mentre l'ecocardiografia dedicata e il monitoraggio dell'infiammazione sistemica sono essenziali per tutti i pazienti.
+2 - [E1][E4][E9] - Il trattamento antinfiammatorio tempestivo con immunoglobulina per via endovenosa e aspirina riduce significativamente l'insorgenza di aneurismi dell'arteria coronaria, mentre l'imaging cardiaco continuo e la sorveglianza di laboratorio sono necessari per monitorare la gravità della malattia e guidare le decisioni terapeutiche.
+
+============================================================
+ORIGINAL RECOMMENDATIONS (for comparison)
+============================================================
+• Paziente ricoverato in urgenza presso U.O. Pediatria per avvio della terapia con
+immunoglobuline endovena ad alte dosi e ulteriore terapia, ecocardiografia transtoracica
+dedicata con valutazione delle coronarie, e monitoraggio clinico-laboratoristico.
+• Si informa la famiglia del decorso atteso, della possibilità di mancata risposta alle IVIG e
+della necessità di follow-up cardiologico a lungo termine.
+• Si affida alla presa in carico del team pediatrico.

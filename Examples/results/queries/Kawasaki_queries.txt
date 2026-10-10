@@ -1,0 +1,44 @@
+--- Query 1 ---
+[floor 0 | in Kawasaki] retrieved 1, 2, 3, 4, 5, 6, 7, 8, 10 | scored 1, 2, 5
+Recommended treatment for patients with Kawasaki disease.
+
+--- Query 2 ---
+[floor 0 | in Kawasaki] retrieved 1, 2, 3, 4, 5, 6, 7, 8, 9 | scored 6, 9
+Recommendations for drug therapy and dosage in patients with Kawasaki disease.
+
+--- Query 3 ---
+[floor 0 | in Kawasaki] retrieved 1, 2, 3, 4, 5, 6, 7, 8, 10 | scored none
+Recommendations for monitoring of patients with Kawasaki disease.
+
+--- Query 4 ---
+[floor 0 | in Kawasaki] retrieved 1, 2, 3, 4, 5, 6, 7, 8, 10 | scored 4, 7, 8
+Recommendations for diagnosis and assessment of Kawasaki disease.
+
+--- Query 5 ---
+[floor 0 | in Kawasaki] retrieved 1, 2, 3, 4, 5, 7, 8, 10 | scored 3
+Recommendations for complications in patients with Kawasaki disease.
+
+--- Query 6 ---
+[floor 1] retrieved 1, 2, 3, 4, 5, 6, 7, 8 | scored none | filled floor with 1
+Recommendations for classic form in patients with Kawasaki disease.
+
+--- Query 7 ---
+[floor 1] retrieved 1, 3, 4, 5, 7, 8, 10 | scored 10 | filled floor with 10
+Recommendations for vaccinations up to date for his age in patients with Kawasaki disease.
+
+--- Query 8 ---
+[floor 1] retrieved 2, 3, 5, 6, 7, 8, 9, 10 | scored none | filled floor with 2
+Recommendations for paracetamol IV to manage the fever whilst awaiting hospitalisation in patients with Kawasaki disease.
+
+--- Query 9 ---
+[floor 0] retrieved 1, 2, 3, 4, 5, 7, 8 | scored none
+Recommendations for slightly elevated ALT in patients with Kawasaki disease.
+
+--- Query 10 ---
+[floor 0] retrieved 1, 2, 3, 4, 5, 6, 7, 8 | scored none
+Recommendations for albumin hypoalbuminemia in patients with Kawasaki disease.
+
+--- Query 11 ---
+[floor 0] retrieved 1, 2, 3, 4, 5, 6, 7, 8 | scored none
+Recommendations for polymorphic rash on the trunk and at the base of the limbs in patients with Kawasaki disease.
+

@@ -1,0 +1,45 @@
+# NOTA DI PASSAGGIO DI AMMISSIONE
+
+---
+
+## SEZIONE 1 - NOTA DI AMMISSIONE
+
+1. Il paziente viene ricoverato d'urgenza nel reparto di Malattie Infettive/Cardiologia (Centro Valvole Cardiache) per un'ecocardiografia transtoracica e transesofagea dedicata, il monitoraggio delle emocolture, la continuazione e l'aggiustamento della terapia antibiotica endovenosa mirata e la valutazione multidisciplinare del Team Endocardite.
+
+2. Il paziente è stato informato della diagnosi di erisipela/cellulite dell'arto inferiore sinistro e di sospetta endocardite infettiva della valvola tricuspide nel contesto di un uso attivo di droghe per via endovenosa, e che questa condizione richiede un ricovero ospedaliero prolungato con terapia antibiotica per via endovenosa della durata di diverse settimane, monitoraggio seriale delle emocolture e imaging cardiaco avanzato per confermare e caratterizzare l'infezione valvolare.
+
+3. Il paziente è stato informato che il decorso clinico può essere complicato da batteriemia persistente, peggioramento del rigurgito tricuspidale con disfunzione ventricolare destra, embolie polmonari settiche ricorrenti, complicazioni neurologiche, infezione non controllata e potenziale necessità di intervento chirurgico cardiaco se l'infezione non risponde adeguatamente alla terapia antibiotica.
+
+4. Il paziente è stato informato che un team per l'endocardite, composto da cardiologi, specialisti in malattie infettive, chirurghi cardiovascolari, microbiologi e altri specialisti, compresa la medicina delle dipendenze, sarà coinvolto nelle decisioni di gestione in corso, compresa l'indicazione e la tempistica di qualsiasi intervento chirurgico.
+
+5. Il paziente è stato informato che i risultati dell'emocoltura guideranno la de-escalation o la modifica dell'attuale regime antibiotico empirico, e che la durata standard del trattamento antibiotico per via endovenosa è di quattro-sei settimane, con la possibilità di una parziale terapia orale step-down solo se sono soddisfatti rigorosi criteri di stabilità clinica.
+
+6. Il paziente è stato informato del risultato positivo della sierologia dell'epatite C e che durante il ricovero saranno organizzati un'ulteriore valutazione e un rinvio specialistico.
+
+7. Il paziente viene affidato alle cure del team di Malattie Infettive/Cardiologia.
+
+---
+
+## SEZIONE 2 - RIFERIMENTI CLINICI (per il medico revisore)
+
+1 - [E1][E3] - I pazienti con endocardite infettiva certa o sospetta devono essere ricoverati in un Centro per le valvole cardiache per la valutazione da parte del Team Endocardite, la valutazione ecocardiografica avanzata, il monitoraggio dell'emocoltura e l'inizio/aggiustamento di una terapia antibiotica mirata. La presenza di S. aureus come probabile patogeno in un paziente con IVDU e una vegetazione sospetta all'ecocardiografia al letto del paziente giustifica una valutazione multidisciplinare urgente.
+
+2 - [E2][E6] - Nell'endocardite infettiva del lato destro nelle persone che fanno uso di droghe, il regime antibiotico standard per via endovenosa è di quattro-sei settimane; i glicopeptidi come la vancomicina non dovrebbero essere usati in regimi abbreviati di due settimane. La terapia empirica nell'endocardite della valvola nativa deve coprire gli stafilococchi, gli streptococchi e gli enterococchi, con una copertura MRSA prioritaria nei pazienti IVDU.
+
+3 - [E2][E3][E5] - Le complicazioni dell'endocardite infettiva del lato destro includono la persistenza della batteriemia oltre una settimana, nonostante la terapia appropriata, la disfunzione del ventricolo destro dovuta al rigurgito acuto della tricuspide, le embolie polmonari settiche ricorrenti che richiedono un supporto ventilatorio e la distruzione locale dei tessuti con formazione di ascessi, tutte indicazioni riconosciute per la discussione chirurgica. Lo S. aureus è associato a una rapida progressione e ad alti tassi di complicanze.
+
+4 - [E1][E5][E7] - Il team per l'endocardite, che comprende cardiologi, chirurghi cardiovascolari, specialisti di malattie infettive, microbiologi e team di medicina delle dipendenze, è essenziale per gestire l'endocardite infettiva complicata, determinare le indicazioni e i tempi chirurgici e coordinare le cure. Lo S. aureus è l'agente causale più comune e temuto in questa popolazione, con i tassi più elevati di complicanze e mortalità.
+
+5 - [E4][E8][E10] - I risultati dell'emocoltura guidano l'aggiustamento antibiotico mirato; la durata del trattamento è calcolata dal primo giorno di terapia antibiotica efficace (prima emocoltura negativa). La terapia orale parziale step-down può essere presa in considerazione solo dopo almeno dieci giorni di antibiotici endovenosi pertinenti, con una stabilità clinica documentata che includa l'assenza di febbre per più di due giorni, CRP inferiore al 25% del valore di picco o inferiore a 20 mg/L, e leucociti inferiori a 15 × 10⁹/L, a seguito di ecocardiografia transesofagea che confermi il controllo dell'infezione e nessuna nuova indicazione chirurgica.
+
+6 - Nessun estratto di linea guida applicabile; si basa sui risultati della nota clinica (sierologia HCV-positiva).
+
+============================================================
+ORIGINAL RECOMMENDATIONS (for comparison)
+============================================================
+• Paziente ricoverato in urgenza presso U.O. Malattie Infettive per prosecuzione della terapia
+antibiotica, ecocardiografia transtoracica e transesofagea dedicata, monitoraggio delle
+emocolture e gestione multidisciplinare.
+• Segnalata la positività per HCV al team ricevente per adeguata gestione e presa in carico.
+• Monitoraggio continuo dei parametri vitali garantito durante il trasferimento.
+• Si affida alla presa in carico del team infettivologico.

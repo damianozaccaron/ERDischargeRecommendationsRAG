@@ -1,0 +1,18 @@
+numpy
+torch
+transformers
+pymupdf
+faiss-cpu
+protobuf
+deepl
+streamlit 
+joblib
+scikit-learn
+sentence-transformers
+pymupdf-layout
+nltk
+requests
+beautifulsoup4
+lxml
+
+# llama-cpp-python --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cu124

@@ -1,0 +1,597 @@
+AtrialFibrillation.pdf: 35 tables {'grid': 13, 'sentence': 22}, 14 grid parts (rejected ones are logged at extraction)
+
+================================================================================
+--- GRID | p.7-7 | Table 2 Levels of evidence
+caption_clean: Table 2 Levels of evidence
+--------------------------------------------------------------------------------
+| Level of evidence A | Data derived from multiple randomized clinical trials or meta-analyses. |
+| --- | --- |
+| Level of evidence B | Data derived from a single randomized clinical trial or large non-randomized studies. |
+| Level of evidence C | Consensus of opinion of the experts and/or small studies, retrospective studies, registries. |
+
+================================================================================
+--- SENTENCE | p.9-11 | Table 3 New recommendations
+caption_clean: Table 3 New recommendations
+--------------------------------------------------------------------------------
+| Group |  |  | Class | Level |
+| --- | --- | --- | --- | --- |
+| Diagnostic evaluation of new AF—Section 3.4 | A transthoracic echocardiogram is recommended in patients with an AF diagnosis where this will guide treatment decisions. |  | I | C |
+| Principles of AF-CARE—Section 4.2 | Education directed to patients, family members, caregivers, and healthcare professionals is recommended to optimize shared decision-making, facilitating open discussion of both the benefit and risk associated with each treatment option. |  | I | C |
+| Principles of AF-CARE—Section 4.2 | Access to patient-centred management according to the AF-CARE principles is recommended in all patients with AF, regardless of gender, ethnicity, and socioeconomic status, to ensure equality in healthcare provision and improve outcomes. |  | I | C |
+| Principles of AF-CARE—Section 4.2 | Patient-centred AF management with a multidisciplinary approach should be considered in all patients with AF to optimize management and improve outcomes. |  | IIa | B |
+| [C] Comorbidity and risk factor management—Section 5 | Diuretics are recommended in patients with AF, HF, and congestion to alleviate symptoms and facilitate better AF management. |  | I | C |
+| [C] Comorbidity and risk factor management—Section 5 | Appropriate medical therapy for HF is recommended in AF patients with HF and impaired LVEF to reduce symptoms and/or HF hospitalization and prevent AF recurrence. |  | I | B |
+| [C] Comorbidity and risk factor management—Section 5 | Sodium-glucose cotransporter-2 inhibitors are recommended for patients with HF and AF regardless of left ventricular ejection fraction to reduce the risk of HF hospitalization and cardiovascular death. |  | I | A |
+| [C] Comorbidity and risk factor management—Section 5 | Effective glycaemic control is recommended as part of comprehensive risk factor management in individuals with diabetes mellitus and AF, to reduce burden, recurrence, and progression of AF. |  | I | C |
+| [C] Comorbidity and risk factor management—Section 5 | Bariatric surgery may be considered in conjunction with lifestyle changes and medical management in individuals with AF and body mass index ≥40 kg/mwhere a rhythm control strategy is planned, to reduce recurrence and progression of AF. |  | IIb | C |
+| [C] Comorbidity and risk factor management—Section 5 | Management of obstructive sleep apnoea may be considered as part of a comprehensive management of risk factors in individuals with AF to reduce recurrence and progression. |  | IIb | B |
+| [C] Comorbidity and risk factor management—Section 5 | When screening for obstructive sleep apnoea in individuals with AF, using only symptom-based questionnaires is not recommended. |  | III | B |
+| Initiating oral anticoagulation—Section 6.1 | Oral anticoagulation is recommended in patients with clinical AF at elevated thromboembolic risk to prevent ischaemic stroke and thromboembolism. |  | I | A |
+| Initiating oral anticoagulation—Section 6.1 | A CHADS-VA score of 2 or more is recommended as an indicator of elevated thromboembolic risk for decisions on initiating oral anticoagulation. |  | I | C |
+| Initiating oral anticoagulation—Section 6.1 | A CHADS-VA score of 1 should be considered an indicator of elevated thromboembolic risk for decisions on initiating oral anticoagulation. |  | IIa | C |
+| Initiating oral anticoagulation—Section 6.1 | Oral anticoagulation is recommended in all patients with AF and hypertrophic cardiomyopathy or cardiac amyloidosis, regardless of CHADS-VA score, to prevent ischaemic stroke and thromboembolism. |  | I | B |
+| Initiating oral anticoagulation—Section 6.1 | Individualized reassessment of thromboembolic risk is recommended at periodic intervals in patients with AF to ensure anticoagulation is started in appropriate patients. |  | I | B |
+| Initiating oral anticoagulation—Section 6.1 | Direct oral anticoagulant therapy may be considered in patients with asymptomatic device-detected subclinical AF and elevated thromboembolic risk to prevent ischaemic stroke and thromboembolism, excluding patients at high risk of bleeding. |  | IIb | B |
+| Oral anticoagulants—Section 6.2 | A reduced dose of DOAC therapy is not recommended, unless patients meet DOAC-specific criteria, to prevent underdosing and avoidable thromboembolic events. |  | III | B |
+| Oral anticoagulants—Section 6.2 | Maintaining VKA treatment rather than switching to a DOAC may be considered in patients aged ≥75 years on clinically stable therapeutic VKA with polypharmacy to prevent excess bleeding risk. | Antiplatelet drugs and combinations with anticoagulants—Section 6.3 | IIb | B |
+| Oral anticoagulants—Section 6.2 | Adding antiplatelet treatment to oral anticoagulation is not recommended in AF patients for the goal of preventing ischaemic stroke or thromboembolism. | Residual ischaemic stroke risk despite anticoagulation—Section 6.4 | III | B |
+| Oral anticoagulants—Section 6.2 | A thorough diagnostic work-up should be considered in patients taking an oral anticoagulant and presenting with ischaemic stroke or thromboembolism to prevent recurrent events, including assessment of non-cardioembolic causes, vascular risk factors, dosage, and adherence. |  | IIa | B |
+| Oral anticoagulants—Section 6.2 | Adding antiplatelet treatment to anticoagulation is not recommended in patients with AF to prevent recurrent embolic stroke. |  | III | B |
+| Oral anticoagulants—Section 6.2 | Switching from one DOAC to another, or from a DOAC to a VKA, without a clear indication is not recommended in patients with AF to prevent recurrent embolic stroke. |  | III | B |
+| Surgical left atrial appendage occlusion—Section 6.6 | Surgical closure of the left atrial appendage should be considered as an adjunct to oral anticoagulation in patients with AF undergoing endoscopic or hybrid AF ablation to prevent ischaemic stroke and thromboembolism. |  | IIa | C |
+| Surgical left atrial appendage occlusion—Section 6.6 | Stand-alone endoscopic surgical closure of the left atrial appendage may be considered in patients with AF and contraindications for long-term anticoagulant treatment to prevent ischaemic stroke and thromboembolism. | Management of bleeding on anticoagulant therapy—Section 6.7.2 | IIb | C |
+| Surgical left atrial appendage occlusion—Section 6.6 | Specific antidotes should be considered in AF patients on a DOAC who develop a life-threatening bleed, or bleed into a critical site, to reverse the antithrombotic effect. |  | IIa | B |
+| Management of heart rate in patients with AF—Section 7.1 | Rate control therapy is recommended in patients with AF, as initial therapy in the acute setting, an adjunct to rhythm control therapies, or as a sole treatment strategy to control heart rate and reduce symptoms. |  | I | B |
+| Management of heart rate in patients with AF—Section 7.1 | Beta-blockers, diltiazem, verapamil, or digoxin are recommended as first-choice drugs in patients with AF and LVEF >40% to control heart rate and reduce symptoms. |  | I | B |
+| Management of heart rate in patients with AF—Section 7.1 | Atrioventricular node ablation combined with cardiac resynchronization therapy should be considered in severely symptomatic patients with permanent AF and at least one hospitalization for HF to reduce symptoms, physical limitations, recurrent HF hospitalization, and mortality. |  | IIa | B |
+| General principles and anticoagulation—Section 7.2.1 | Direct oral anticoagulants are recommended in preference to VKAs in eligible patients with AF undergoing cardioversion for thromboembolic risk reduction. |  | I | A |
+| General principles and anticoagulation—Section 7.2.1 | Cardioversion of AF (either electrical or pharmacological) should be considered in symptomatic patients with persistent AF as part of a rhythm control approach. |  | IIa | B |
+| General principles and anticoagulation—Section 7.2.1 | A wait-and-see approach for spontaneous conversion to sinus rhythm within 48 h of AF onset should be considered in patients without haemodynamic compromise as an alternative to immediate cardioversion. |  | IIa | B |
+| General principles and anticoagulation—Section 7.2.1 | Implementation of a rhythm control strategy should be considered within 12 months of diagnosis in selected patients with AF at risk of thromboembolic events to reduce the risk of cardiovascular death or hospitalization. |  | IIa | B |
+| General principles and anticoagulation—Section 7.2.1 | Early cardioversion is not recommended without appropriate anticoagulation or transoesophageal echocardiography if AF duration is longer than 24 h, or there is scope to wait for spontaneous cardioversion. |  | III | C |
+| Electrical cardioversion—Section 7.2.2 | Electrical cardioversion as a diagnostic tool should be considered in patients with persistent AF where there is uncertainty about the value of sinus rhythm restoration on symptoms, or to assess improvement in left ventricular function. A | Antiarrhythmic drugs—Section 7.2.4 | IIa | C |
+| Electrical cardioversion—Section 7.2.2 | Antiarrhythmic drug therapy is not recommended in patients with advanced conduction disturbances unless antibradycardia pacing is provided. |  | III | C |
+| Sinus node disease/tachycardia–bradycardia syndrome | Atrial fibrillation catheter ablation should be considered in patients with AF-related bradycardia or sinus pauses on AF termination to improve symptoms and avoid pacemaker implantation. |  | IIa | C |
+| Recurrence after catheter ablation | Repeat AF catheter ablation should be considered in patients with AF recurrence after initial catheter ablation, provided the patient’s symptoms were improved after the initial PVI or after failed initial PVI, to reduce symptoms, recurrence, and progression of AF. A | Anticoagulation in patients undergoing catheter ablation—Section 7.2.6 | IIa | B |
+| Recurrence after catheter ablation | Uninterrupted oral anticoagulation is recommended in patients undergoing AF catheter ablation to prevent peri-procedural ischaemic stroke and thromboembolism. |  | I | A |
+| Endoscopic and hybrid AF ablation—Section 7.2.7 | Continuation of oral anticoagulation is recommended in patients with AF at elevated thromboembolic risk after concomitant, endoscopic, or hybrid AF ablation, independent of rhythm outcome or LAA exclusion, to prevent ischaemic stroke and thromboembolism. |  | I | C |
+| Endoscopic and hybrid AF ablation—Section 7.2.7 | Endoscopic and hybrid ablation procedures should be considered in patients with symptomatic persistent AF refractory to AAD therapy to prevent symptoms, recurrence, and progression of AF, within a shared decision-making rhythm control team of electrophysiologists and surgeons. |  | IIa | A |
+| AF ablation during cardiac surgery—Section 7.2.8 | Intraprocedural imaging for detection of left atrial thrombus in patients undergoing surgical ablation is recommended to guide surgical strategy, independent of oral anticoagulant use, to prevent peri-procedural ischaemic stroke and thromboembolism. |  | I | C |
+| AF ablation during cardiac surgery—Section 7.2.8 | Concomitant surgical ablation should be considered in patients undergoing non-mitral valve cardiac surgery and AF suitable for a rhythm control strategy to prevent symptoms and recurrence of AF, with shared decision-making supported by an experienced team of electrophysiologists and arrhythmia surgeons. |  | IIa | B |
+| Patient-reported outcome measures—Section 8.4 | Evaluating quality of care and identifying opportunities for improved treatment of AF should be considered by practitioners and institutions to improve patient experiences. Acute and chronic coronary syndromes in patients with AF—Section 9.2 Recommendations for AF patients with chronic coronary or vascular disease |  | IIa | B |
+| Patient-reported outcome measures—Section 8.4 | Antiplatelet therapy beyond 12 months is not recommended in stable patients with chronic coronary or vascular disease treated with oral anticoagulation, due to lack of efficacy and to avoid major bleeding. |  | III | B |
+| Trigger-induced AF—Section 9.5 | Long-term oral anticoagulation should be considered in suitable patients with trigger-induced AF at elevated thromboembolic risk to prevent ischaemic stroke and systemic thromboembolism. |  | IIa | C |
+| Post-operative AF—Section 9.6 | Peri-operative amiodarone therapy is recommended where drug therapy is desired to prevent post-operative AF after cardiac surgery. |  | I | A |
+| Post-operative AF—Section 9.6 | Concomitant posterior peri-cardiotomy should be considered in patients undergoing cardiac surgery to prevent post-operative AF. | Patients with embolic stroke of unknown source (ESUS)—Section 9.7 | IIa | B |
+| Post-operative AF—Section 9.6 | Initiation of oral anticoagulation in ESUS patients without documented AF is not recommended due to lack of efficacy in preventing ischaemic stroke and thromboembolism. A | Atrial flutter—Section 9.14 | III | A |
+| Post-operative AF—Section 9.6 | Oral anticoagulation is recommended in patients with atrial flutter at elevated thromboembolic risk to prevent ischaemic stroke and thromboembolism. |  | I | B |
+| Screening strategies for AF—Section 10.3 | Review of an ECG (12-lead, single, or multiple leads) by a physician is recommended to provide a definite diagnosis of AF and commence appropriate management. |  | I | B |
+| Screening strategies for AF—Section 10.3 | Population-based screening for AF using a prolonged non-invasive ECG-based approach should be considered in individuals aged ≥75 years, or ≥65 years with additional CHADS-VA risk factors to ensure earlier detection of AF. |  | IIa | B |
+| Primary prevention of AF—Section 10.5 | Maintaining optimal blood pressure is recommended in the general population to prevent AF, with ACE inhibitors or ARBs as first-line therapy. |  | I | B |
+| Primary prevention of AF—Section 10.5 | Appropriate medical HF therapy is recommended in individuals with HFrEF to prevent AF. |  | I | B |
+| Primary prevention of AF—Section 10.5 | Maintaining normal weight (BMI 20–25 kg/m) is recommended for the general population to prevent AF. |  | I | B |
+| Primary prevention of AF—Section 10.5 | Maintaining an active lifestyle is recommended to prevent AF, with the equivalent of 150–300 min per week of moderate intensity or 75– 150 min per week of vigorous intensity aerobic physical activity. |  | I | B |
+| Primary prevention of AF—Section 10.5 | Avoidance of binge drinking and alcohol excess is recommended in the general population to prevent AF. |  | I | B |
+| Primary prevention of AF—Section 10.5 | Metformin or SGLT inhibitors should be considered for individuals needing pharmacological management of diabetes mellitus to prevent AF. |  | IIa | B |
+| Primary prevention of AF—Section 10.5 | Weight reduction should be considered in obese individuals to prevent AF. |  | IIa | B |
+
+================================================================================
+--- GRID | p.13-13 | Section 7.2—Rhythm control strategies in patients with AF
+caption_clean: Section 7.2—Rhythm control strategies in patients with AF
+--------------------------------------------------------------------------------
+| Group |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | AF catheter ablation for PVI should/may be considered as first-line rhythm control therapy to improve symptoms in selected patients with symptomatic: • Paroxysmal AF episodes. | IIa | B | Catheter ablation is recommended as a first-line option within a shared decision-making rhythm control strategy in patients with paroxysmal AF, to reduce symptoms, recurrence, and progression of AF. | I | A |
+|  | Thoracoscopic procedures—including hybrid surgical ablation—should be considered in patients who have symptomatic paroxysmal or persistent AF refractory to AAD therapy and have failed percutaneous AF ablation, or with evident risk factors for catheter ablation failure, to maintain long-term sinus rhythm. The decision must be supported by an experienced team of electrophysiologists and surgeons. | IIa | B | Endoscopic and hybrid ablation procedures may be considered in patients with symptomatic paroxysmal AF refractory to AAD therapy and failed percutaneous catheter ablation strategy to prevent symptoms, recurrence, and progression of AF, within a shared decision-making rhythm control team of electrophysiologists and surgeons. | IIb | B |
+|  | Thoracoscopic procedures—including hybrid surgical ablation—may be considered in patients with persistent AF with risk factors for recurrence, who remain symptomatic during AF despite at least one failed AAD and who prefer further rhythm control therapy. | IIb | C | Endoscopic and hybrid ablation procedures should be considered in patients with symptomatic persistent AF refractory to AAD therapy to prevent symptoms, recurrence, and progression of AF, within a shared decision-making rhythm control team of electrophysiologists and surgeons. | IIa | A |
+|  | Concomitant AF ablation should be considered in patients undergoing cardiac surgery, balancing the benefits of freedom from atrial arrhythmias and the risk factors for recurrence (left atrial dilatation, years in AF, age, renal dysfunction, and other cardiovascular risk factors). | IIa | A | Concomitant surgical ablation is recommended in patients undergoing mitral valve surgery and AF suitable for a rhythm control strategy to prevent symptoms and recurrence of AF, with shared decision-making supported by an experienced team of electrophysiologists and arrhythmia surgeons. | I | A |
+| Section 9.6—Post-operative AF | Long-term OAC therapy to prevent thromboembolic events may be considered in patients at risk for stroke with post-operative AF after cardiac surgery, considering the anticipated net clinical benefit of OAC therapy and informed patient preferences. | IIb | B | Long-term oral anticoagulation should be considered in patients with post-operative AF after cardiac and non-cardiac surgery at elevated thromboembolic risk, to prevent ischaemic stroke and thromboembolism. | IIa | B |
+
+================================================================================
+--- GRID | p.14-14 | Table 5 Definitions and classifications for the temporal  pattern of AF
+caption_clean: Table 5 Definitions and classifications for the temporal pattern of AF
+--------------------------------------------------------------------------------
+| Temporal classification | Definition |
+| --- | --- |
+| First-diagnosed AF | AF that has not been diagnosed before, regardless of symptom status, temporal pattern, or duration. |
+| Paroxysmal AF | AF which terminates spontaneously within 7 days or with the assistance of an intervention. Evidence suggests that most self-terminating paroxysms last <48 h. |
+| Persistent AF | AF episodes which are not self-terminating. Many intervention trials have used 7 days as a cut-off for defining persistent AF. Long-standing persistent AF is arbitrarily defined as continuous AF of at least 12 months’ duration but where rhythm control is still a treatment option in selected patients, distinguishing it from permanent AF. |
+| Permanent AF | AF for which no further attempts at restoration of sinus rhythm are planned, after a shared decision between the patient and physician. |
+
+================================================================================
+--- GRID | p.14-14 | Table 6 Other clinical concepts relevant to AF
+caption_clean: Table 6 Other clinical concepts relevant to AF
+--------------------------------------------------------------------------------
+| Clinical concept | Definition |
+| --- | --- |
+| Clinical AF | Symptomatic or asymptomatic AF that is clearly documented by an ECG (12-lead ECG or other ECG devices). The minimum duration to establish the diagnosis of clinical AF for ambulatory ECG is not clear and depends on the clinical context. Periods of 30 s or more may indicate clinical concern, and trigger further monitoring or risk stratification for thromboembolism. |
+| Device-detected subclinical AF | Device-detected subclinical AF refers to asymptomatic episodes of AF detected on continuous monitoring devices. These devices include implanted cardiac electronic devices, for which most atrial high-rate episodesmay be AF, as well as consumer-based wearable monitors. Confirmation is needed by a competent professional reviewing intracardiac electrograms or an ECG-recorded rhythm.Device-detected subclinical AF is a predictor of future clinical AF. |
+
+================================================================================
+--- GRID | p.16-16 | Table 7 The modified European Heart Rhythm  Association (mEHRA)
+caption_clean: Table 7 The modified European Heart Rhythm Association
+--------------------------------------------------------------------------------
+| Score | Symptoms | Description |
+| --- | --- | --- |
+| 1 | None | AF does not cause any symptoms |
+| 2a | Mild | Normal daily activity not affected by symptoms related to AF |
+| 2b | Moderate | Normal daily activity not affected by symptoms related to AF, but patient troubled by symptoms |
+| 3 | Severe | Normal daily activity affected by symptoms related to AF |
+| 4 | Disabling | Normal daily activity discontinued |
+
+================================================================================
+--- GRID | p.17-17 | Table 8 Diagnostic work-up for patients with AF
+caption_clean: Table 8 Diagnostic work-up for patients with AF
+--------------------------------------------------------------------------------
+| All patients | Selected patients |
+| --- | --- |
+| • Medical history to determine AF pattern, relevant family history, and comorbidities, and to assess risk factors for thromboembolism and bleeding | • Ambulatory ECG monitoring for assessing AF burden and ventricular rate control • Exercise ECG to evaluate rate control or effects of class IC antiarrhythmic drugs |
+| • 12-lead ECG | • Further blood tests for investigation of cardiovascular disease and refinement of stroke/ bleeding risk (e.g. NT-proBNP, troponin) |
+| • Assess symptoms and functional impairment | • Transoesophageal echocardiography for left atrial thrombus and valvular disease assessment |
+| • Collect generic or AF-specific patient-reported outcome measures | • Coronary CT, angiography, or ischaemia imaging for suspected CAD |
+| • Blood tests (full blood count, kidney function, serum electrolytes, liver function, glucose/HbAc, and thyroid function) | • CMR for evaluation of atrial and ventricular cardiomyopathies, and to plan interventional procedures |
+| • Transthoracic echocardiography where this will guide AF-CARE management decisions | • Brain imaging and cognitive function assessment for cerebrovascular disease and dementia risk |
+
+================================================================================
+--- SENTENCE | p.19-19 | Recommendation Table 4 — Recommendations for  patient-centred care and education (see also Evidence  Table 4)
+caption_clean: Recommendation Table 4 — Recommendations for patient-centred care and education
+--------------------------------------------------------------------------------
+| Recommendation | Class | Level |
+| --- | --- | --- |
+| Education directed to patients, family members, caregivers, and healthcare professionals is recommended to optimize shared decision-making, facilitating open discussion of both the benefit and risk associated with each treatment option. | I | C |
+| Access to patient-centred management according to the AF-CARE principles is recommended in all patients with AF, regardless of gender, ethnicity, and socioeconomic status, to ensure equality in healthcare provision and improve outcomes. | I | C |
+| Patient-centred AF management with a multidisciplinary approach should be considered in all patients with AF to optimize management and improve outcomes. | IIa | B |
+
+================================================================================
+--- SENTENCE | p.26-26 | Recommendation Table 5 — Recommendations for  comorbidity and risk factor management in AF (see  also Evidence Table 5)
+caption_clean: Recommendation Table 5 — Recommendations for comorbidity and risk factor management in AF
+--------------------------------------------------------------------------------
+| Recommendation | Class | Level |
+| --- | --- | --- |
+| Identification and management of risk factors and comorbidities is recommended as an integral part of AF care. | I | B |
+| Blood pressure lowering treatment is recommended in patients with AF and hypertension to reduce recurrence and progression of AF and prevent adverse cardiovascular events. | I | B |
+| Diuretics are recommended in patients with AF, HF, and congestion to alleviate symptoms and facilitate better AF management. | I | C |
+| Appropriate medical therapy for HF is recommended in AF patients with HF and impaired LVEF to reduce symptoms and/or HF hospitalization and prevent AF recurrence. | I | B |
+| Sodium-glucose cotransporter-2 inhibitors are recommended for patients with HF and AF regardless of left ventricular ejection fraction to reduce the risk of HF hospitalization and cardiovascular death. | I | A |
+| Effective glycaemic control is recommended as part of comprehensive risk factor management in individuals with diabetes mellitus and AF, to reduce burden, recurrence, and progression of AF. | I | C |
+| Weight loss is recommended as part of comprehensive risk factor management in overweight and obese individuals with AF to reduce symptoms and AF burden, with a target of 10% or more reduction in body weight. | I | B |
+| A tailored exercise programme is recommended in individuals with paroxysmal or persistent AF to improve cardiorespiratory fitness and reduce AF recurrence. | I | B |
+| Reducing alcohol consumption to ≤3 standard drinks (≤30 grams of alcohol) per week is recommended as part of comprehensive risk factor management to reduce AF recurrence. | I | B |
+| Bariatric surgery may be considered in conjunction with lifestyle changes and medical management in individuals with AF and body mass index ≥40 kg/m where a rhythm control strategy is planned, to reduce recurrence and progression of AF. | IIb | C |
+| Management of obstructive sleep apnoea may be considered as part of a comprehensive management of risk factors in individuals with AF to reduce recurrence and progression. | IIb | B |
+| When screening for obstructive sleep apnoea in individuals with AF, using only symptom-based questionnaires is not recommended. | III | B |
+
+================================================================================
+--- SENTENCE | p.29-29 | Recommendation Table 6 — Recommendations to  assess and manage thromboembolic risk in AF (see also  Evidence Table 6)
+caption_clean: Recommendation Table 6 — Recommendations to assess and manage thromboembolic risk in AF
+--------------------------------------------------------------------------------
+| Recommendations | Class | Level |
+| --- | --- | --- |
+| Oral anticoagulation is recommended in patients with clinical AF at elevated thromboembolic risk to prevent ischaemic stroke and thromboembolism. | I | A |
+| A CHADS-VA score of 2 or more is recommended as an indicator of elevated thromboembolic risk for decisions on initiating oral anticoagulation. | I | C |
+| Oral anticoagulation is recommended in all patients with AF and hypertrophic cardiomyopathy or cardiac amyloidosis, regardless of CHADS-VA score, to prevent ischaemic stroke and thromboembolism. | I | B |
+| Individualized reassessment of thromboembolic risk is recommended at periodic intervals in patients with AF to ensure anticoagulation is started in appropriate patients. | I | B |
+
+================================================================================
+--- SENTENCE | p.31-31 | Recommendation Table 7 — Recommendations for  oral anticoagulation in AF (see also Evidence Table 7)
+caption_clean: Recommendation Table 7 — Recommendations for oral anticoagulation in AF
+--------------------------------------------------------------------------------
+| Recommendations | Class | Level |
+| --- | --- | --- |
+| Direct oral anticoagulants are recommended in preference to VKAs to prevent ischaemic stroke and thromboembolism, except in patients with mechanical heart valves or moderate-to-severe mitral stenosis. | I | A |
+| A target INR of 2.0–3.0 is recommended for patients with AF prescribed a VKA for stroke prevention to ensure safety and effectiveness. | I | B |
+| Switching to a DOAC is recommended for eligible patients that have failed to maintain an adequate time in therapeutic range on a VKA (TTR <70%) to prevent thromboembolism and intracranial haemorrhage. | I | B |
+| Keeping the time in therapeutic range above 70% should be considered in patients taking a VKA to ensure safety and effectiveness, with INR checks at appropriate frequency and patient-directed education and counselling. | IIa | A |
+| Maintaining VKA treatment rather than switching to a DOAC may be considered in patients aged ≥75 years on clinically stable therapeutic VKA with polypharmacy to prevent excess bleeding risk. | IIb | B |
+| A reduced dose of DOAC therapy is not recommended, unless patients meet DOAC-specific criteria,to prevent underdosing and avoidable thromboembolic events. | III | B |
+
+================================================================================
+--- GRID | p.32-32 | Table 11 Recommended doses for direct oral anticoagulant therapy
+caption_clean: Table 11 Recommended doses for direct oral anticoagulant therapy
+--------------------------------------------------------------------------------
+| DOAC | Standard full dose | Criteria for dose reduction | Reduced dose only if criteria met |
+| --- | --- | --- | --- |
+| Apixaban | 5 mg twice daily | Two out of three needed for dose reduction: (i) age ≥80 years (ii) body weight ≤60 kg (iii) serum creatinine ≥133 mmol/L. | 2.5 mg twice daily |
+| Dabigatran | 150 mg twice daily | Dose reduction recommended if any apply: (i) age ≥80 years (ii) receiving concomitant verapamil. Dose reduction considered on an individual basis if any apply: (i) age 75–80 (ii) moderate renal impairment (creatinine clearance 30–50 mL/min) (iii) patients with gastritis, oesophagitis, or gastro-oesophageal reflux (iv) others at increased risk of bleeding. | 110 mg twice daily |
+| Edoxaban | 60 mg once daily | Dose reduction if any apply: (i) moderate or severe renal impairment (creatinine clearance 15–50 mL/min) (ii) body weight ≤60 kg (iii) concomitant use of ciclosporin, dronedarone, erythromycin, or ketoconazole. | 30 mg once daily |
+| Rivaroxaban | 20 mg once daily | Creatinine clearance 15–49 mL/min. | 15 mg once daily |
+
+================================================================================
+--- SENTENCE | p.33-33 | Recommendation Table 9 — Recommendations for  thromboembolism despite anticoagulation (see also  Evidence Table 9)
+caption_clean: Recommendation Table 9 — Recommendations for thromboembolism despite anticoagulation
+--------------------------------------------------------------------------------
+| Recommendation | Class | Level |
+| --- | --- | --- |
+| A thorough diagnostic work-up should be considered in patients taking an oral anticoagulant and presenting with ischaemic stroke or thromboembolism to prevent recurrent events, including assessment of non-cardioembolic causes, vascular risk factors, dosage, and adherence. | IIa | B |
+| Adding antiplatelet treatment to anticoagulation is not recommended in patients with AF to prevent recurrent embolic stroke. | III | B |
+| Switching from one DOAC to another, or from a DOAC to a VKA, without a clear indication is not recommended in patients with AF to prevent recurrent embolic stroke. | III | B |
+
+================================================================================
+--- SENTENCE | p.35-35 | Recommendation Table 11 — Recommendations for  surgical left atrial appendage occlusion (see also  Evidence Table 11)
+caption_clean: Recommendation Table 11 — Recommendations for surgical left atrial appendage occlusion
+--------------------------------------------------------------------------------
+| Recommendations | Class | Level |
+| --- | --- | --- |
+| Surgical closure of the left atrial appendage is recommended as an adjunct to oral anticoagulation in patients with AF undergoing cardiac surgery to prevent ischaemic stroke and thromboembolism. | I | B |
+| Surgical closure of the left atrial appendage should be considered as an adjunct to oral anticoagulation in patients with AF undergoing endoscopic or hybrid AF ablation to prevent ischaemic stroke and thromboembolism. | IIa | C |
+| Stand-alone endoscopic surgical closure of the left atrial appendage may be considered in patients with AF and contraindications for long-term anticoagulant treatment to prevent ischaemic stroke and thromboembolism. | IIb | C |
+
+================================================================================
+--- SENTENCE | p.35-35 | Recommendation Table 12 — Recommendations for  assessment of bleeding risk (see also Evidence Table 12)
+caption_clean: Recommendation Table 12 — Recommendations for assessment of bleeding risk
+--------------------------------------------------------------------------------
+| Recommendations | Class | Level |
+| --- | --- | --- |
+| Assessment and management of modifiable bleeding risk factors is recommended in all patients eligible for oral anticoagulation, as part of shared decision-making to ensure safety and prevent bleeding. | I | B |
+| Use of bleeding risk scores to decide on starting or withdrawing oral anticoagulation is not recommended in patients with AF to avoid under-use of anticoagulation. | III | B |
+
+================================================================================
+--- GRID | p.39-40 | Table 12 Drugs for rate control in AF
+caption_clean: Table 12 Drugs for rate control in AF
+--------------------------------------------------------------------------------
+| Group | Agent | Intravenous administration | Usual range for oral maintenance dose | Contraindicated |
+| --- | --- | --- | --- | --- |
+| Beta-blockers | Metoprolol tartrate | 2.5–5 mg bolus over 2 mins; up to 15 mg maximal cumulative dose | 25–100 mg twice daily | In case of asthma, non-selective beta-blockers should be avoided. Contraindicated in acute HF and history of severe bronchospasm. |
+| Beta-blockers | Metoprolol XL (succinate) | N/A | 50–200 mg once daily | In case of asthma, non-selective beta-blockers should be avoided. Contraindicated in acute HF and history of severe bronchospasm. |
+| Beta-blockers | Bisoprolol | N/A | 1.25–20 mg once daily | In case of asthma, non-selective beta-blockers should be avoided. Contraindicated in acute HF and history of severe bronchospasm. |
+| Beta-blockers | Atenolol | N/A | 25–100 mg once daily | In case of asthma, non-selective beta-blockers should be avoided. Contraindicated in acute HF and history of severe bronchospasm. |
+| Beta-blockers | Esmolol | 500 µg/kg i.v. bolus over 1 min; followed by 50–300 µg/kg/min | N/A | In case of asthma, non-selective beta-blockers should be avoided. Contraindicated in acute HF and history of severe bronchospasm. |
+| Beta-blockers | Landiolol | 100 µg/kg i.v. bolus over 1 min; followed by 10–40 µg/kg/min | N/A | In case of asthma, non-selective beta-blockers should be avoided. Contraindicated in acute HF and history of severe bronchospasm. |
+| Beta-blockers | Nebivolol | N/A | 2.5–10 mg once daily | In case of asthma, non-selective beta-blockers should be avoided. Contraindicated in acute HF and history of severe bronchospasm. |
+| Beta-blockers | Carvedilol | N/A | 3.125–50 mg twice daily | In case of asthma, non-selective beta-blockers should be avoided. Contraindicated in acute HF and history of severe bronchospasm. |
+| Non-dihydropyridine calcium channel antagonists | Verapamil | 2.5–10 mg i.v. bolus over 5 min | 40 mg twice daily to 480 mg (extended release) once daily | Contraindicated if LVEF ≤40%. Adapt doses in hepatic and renal impairment. |
+| Non-dihydropyridine calcium channel antagonists | Diltiazem | 0.25 mg/kg i.v. bolus over 5 min, then 5–15 mg/h | 60 mg three times daily to 360 mg (extended release) once daily | Contraindicated if LVEF ≤40%. Adapt doses in hepatic and renal impairment. |
+| Digitalis glycosides | Digoxin | 0.5 mg i.v. bolus (0.75–1.5 mg over 24 h in divided doses) | 0.0625–0.25 mg once daily | High plasma levels associated with adverse events. Check renal function before starting digoxin and adapt dose in CKD patients. |
+| Digitalis glycosides | Digitoxin | 0.4–0.6 mg | 0.05–0.1 mg once daily | High plasma levels associated with adverse events. Check renal function before starting digoxin and adapt dose in CKD patients. |
+| Other | Amiodarone | 300 mg i.v. diluted in 250 mL 5% dextrose over 30–60 min (preferably via central venous cannula), followed by 900–1200 mg i.v. over 24 h diluted in 500–1000 mL via a central venous cannula | 200 mg once daily after loading Loading: 200 mg three times daily for 4 weeks, then 200 mg daily or less as appropriate (reduce other rate control drugs according to heart rate) | Contraindicated in iodine sensitivity. Serious potential adverse effects (including pulmonary, ophthalmic, hepatic, and thyroid). Consider numerous drug interactions. |
+
+================================================================================
+--- SENTENCE | p.42-42 | Recommendation Table 15 — Recommendations for  general concepts in rhythm control (see also Evidence  Table 15)
+caption_clean: Recommendation Table 15 — Recommendations for general concepts in rhythm control
+--------------------------------------------------------------------------------
+| Recommendations | Class | Level |
+| --- | --- | --- |
+| Electrical cardioversion is recommended in AF patients with acute or worsening haemodynamic instability to improve immediate patient outcomes. | I | C |
+| Direct oral anticoagulants are recommended in preference to VKAs in eligible patients with AF undergoing cardioversion for thromboembolic risk reduction. | I | A |
+| Therapeutic oral anticoagulation for at least 3 weeks (adherence to DOACs or INR ≥2.0 for VKAs) is recommended before scheduled cardioversion of AF and atrial flutter to prevent procedure-related thromboembolism. | I | B |
+| Transoesophageal echocardiography is recommended if 3 weeks of therapeutic oral anticoagulation has not been provided, for exclusion of cardiac thrombus to enable early cardioversion. | I | B |
+| Oral anticoagulation is recommended to continue for at least 4 weeks in all patients after cardioversion and long-term in patients with thromboembolic risk factor(s) irrespective of whether sinus rhythm is achieved, to prevent thromboembolism. | I | B |
+| Cardioversion of AF (either electrical or pharmacological) should be considered in symptomatic patients with persistent AF as part of a rhythm control approach. | IIa | B |
+| A wait-and-see approach for spontaneous conversion to sinus rhythm within 48 h of AF onset should be considered in patients without haemodynamic compromise as an alternative to immediate cardioversion. | IIa | B |
+| Implementation of a rhythm control strategy should be considered within 12 months of diagnosis in selected patients with AF at risk of thromboembolic events to reduce the risk of cardiovascular death or hospitalization. | IIa | B |
+| Initiation of therapeutic anticoagulation should be considered as soon as possible in the setting of unscheduled cardioversion for AF or atrial flutter to prevent procedure-related thromboembolism. | IIa | B |
+| Repeat transoesophageal echocardiography should be considered before cardioversion if thrombus has been identified on initial imaging to ensure thrombus resolution and prevent peri-procedural thromboembolism. | IIa | C |
+| Early cardioversion is not recommended without appropriate anticoagulation or transoesophageal echocardiography if AF duration is longer than 24 h, or there is scope to wait for spontaneous cardioversion. | III | C |
+
+================================================================================
+--- SENTENCE | p.43-43 | Recommendation Table 17 — Recommendations for  pharmacological cardioversion of AF (see also Evidence  Table 17)
+caption_clean: Recommendation Table 17 — Recommendations for pharmacological cardioversion of AF
+--------------------------------------------------------------------------------
+| Recommendations | Class | Level |
+| --- | --- | --- |
+| Intravenous flecainide or propafenone is recommended when pharmacological cardioversion of recent-onset AF is desired, excluding patients with severe left ventricular hypertrophy, HFrEF, or coronary artery disease. | I | A |
+| Intravenous vernakalant is recommended when pharmacological cardioversion of recent-onset AF is desired, excluding patients with recent ACS, HFrEF, or severe aortic stenosis. | I | A |
+| Intravenous amiodarone is recommended when cardioversion of AF in patients with severe left ventricular hypertrophy, HFrEF, or coronary artery disease is desired, accepting there may be a delay in cardioversion. | I | A |
+| A single self-administered oral dose of flecainide or propafenone (pill-in-the-pocket) should be considered for patient-led cardioversion in selected patients with infrequent paroxysmal AF, after efficacy and safety assessment and excluding those with severe left ventricular hypertrophy, HFrEF, or coronary artery disease. | IIa | B |
+| Pharmacological cardioversion is not recommended for patients with sinus node dysfunction, atrioventricular conduction disturbances, or prolonged QTc (>500 ms), unless risks for proarrhythmia and bradycardia have been considered. | III | C |
+
+================================================================================
+--- GRID | p.44-44 | Table 13 Antiarrhythmic drugs for sinus rhythm restoration
+caption_clean: Table 13 Antiarrhythmic drugs for sinus rhythm restoration
+--------------------------------------------------------------------------------
+| Drug | Administration route | Initial dosing | Subsequent dosing [long- term approach] | Acute success rate and time to sinus rhythm | Contraindications and precautions |
+| --- | --- | --- | --- | --- | --- |
+| Flecainide | Oral | 200–300 mg | [long-term 50−150 mg twice daily] | 50%–60% at 3 h and 75%–85% at 6–8 h (3–8 h) | • Should not be used in patients with severe structural or coronary artery disease, Brugada syndrome, or severe renal failure (CrCl <35 mL/min/1.73 m). • Prior documentation of safety and efficacy in an inpatient setting is recommended prior to pill-in-the-pocket use. • An AVN-blocking agent should be administered to avoid 1:1 conduction if transformation to AFL. • Drug infusion should be discontinued in case of QRS widening >25% or bundle branch block occurrence. • Caution is needed in patients with sinus node disease and AVN dysfunction. • Do NOT use for conversion of atrial flutter. |
+| Flecainide | Intravenous | 1–2 mg/kg over 10 min |  | 52%–95% (Up to 6 h) | • Should not be used in patients with severe structural or coronary artery disease, Brugada syndrome, or severe renal failure (CrCl <35 mL/min/1.73 m). • Prior documentation of safety and efficacy in an inpatient setting is recommended prior to pill-in-the-pocket use. • An AVN-blocking agent should be administered to avoid 1:1 conduction if transformation to AFL. • Drug infusion should be discontinued in case of QRS widening >25% or bundle branch block occurrence. • Caution is needed in patients with sinus node disease and AVN dysfunction. • Do NOT use for conversion of atrial flutter. |
+| Propafenone | Oral | 450–600 mg | [long-term 150-300 mg three times daily] | 45%–55% at 3 h, 69%–78% at 8 h (3–8 h) | • Should not be used in patients with severe structural or coronary artery disease, Brugada syndrome, or severe renal failure (CrCl <35 mL/min/1.73 m). • Prior documentation of safety and efficacy in an inpatient setting is recommended prior to pill-in-the-pocket use. • An AVN-blocking agent should be administered to avoid 1:1 conduction if transformation to AFL. • Drug infusion should be discontinued in case of QRS widening >25% or bundle branch block occurrence. • Caution is needed in patients with sinus node disease and AVN dysfunction. • Do NOT use for conversion of atrial flutter. |
+| Propafenone | Intravenous | 1.5–2 mg/kg over 10 min |  | 43%–89% (Up to 6 h) | • Should not be used in patients with severe structural or coronary artery disease, Brugada syndrome, or severe renal failure (CrCl <35 mL/min/1.73 m). • Prior documentation of safety and efficacy in an inpatient setting is recommended prior to pill-in-the-pocket use. • An AVN-blocking agent should be administered to avoid 1:1 conduction if transformation to AFL. • Drug infusion should be discontinued in case of QRS widening >25% or bundle branch block occurrence. • Caution is needed in patients with sinus node disease and AVN dysfunction. • Do NOT use for conversion of atrial flutter. |
+| Amiodarone | Intravenous (/oral) | 300 mg intravenous over 30–60 min | 900-1200 mg intravenous over 24 hours (or 200 mg oral three times daily for 4 weeks). [long-term 200 mg oral daily] | 44% (8–12 h to several days) | • May cause phlebitis (use a large peripheral vein, avoid i.v. administration >24 h and use preferably volumetric pump). • May cause hypotension, bradycardia/ atrioventricular block, QT prolongation. • Only if no other option in patients with hyperthyroidism (risk of thyrotoxicosis). • Consider the broad range of drug interactions. |
+| Ibutilide | Intravenous | 1 mg over 10 min (0.01 mg/kg if body weight <60 kg) | 1 mg over 10 min (10–20 min after the initial dose) | 31%–51% (30–90 min) in AF 60–75% in AFL (60 min) | • Should be used in the setting of a cardiac care unit as it may cause QT prolongation and torsades de pointes. • ECG monitoring for at least 4 h after administration to detect any proarrhythmic effects. • Should not be used in patients with prolonged QT, severe LVH, or low LVEF. |
+| Vernakalant | Intravenous | 3 mg/kg over 10 min (maximum 339 mg) | 2 mg/kg over 10 min (10–15 min after the initial dose) (maximum 226 mg) | 50% within 10 min | • Should not be used in patients with arterial hypotension (SBP <100 mmHg), recent ACS (within 1 month), NYHA III or IV HF, QT prolongation or severe aortic stenosis. • May cause arterial hypotension, QT prolongation, QRS widening, or non-sustained ventricular tachycardia. |
+
+================================================================================
+--- SENTENCE | p.45-45 | Recommendation Table 18 — Recommendations for  antiarrhythmic drugs for long-term maintenance of si­ nus rhythm (see also Evidence Table 18)
+caption_clean: Recommendation Table 18 — Recommendations for antiarrhythmic drugs for long-term maintenance of si­ nus rhythm
+--------------------------------------------------------------------------------
+| Recommendations | Class | Level |
+| --- | --- | --- |
+| Amiodarone is recommended in patients with AF and HFrEF requiring long-term antiarrhythmic drug therapy to prevent recurrence and progression of AF, with careful consideration and monitoring for extracardiac toxicity. | I | A |
+| Dronedarone is recommended in patients with AF requiring long-term rhythm control, including those with HFmrEF, HFpEF, ischaemic heart disease, or valvular disease to prevent recurrence and progression of AF. | I | A |
+| Flecainide or propafenone is recommended in patients with AF requiring long-term rhythm control to prevent recurrence and progression of AF, excluding those with impaired left ventricular systolic function, severe left ventricular hypertrophy, or coronary artery disease. | I | A |
+| Concomitant use of a beta-blocker, diltiazem, or verapamil should be considered in AF patients treated with flecainide or propafenone, to prevent 1:1 conduction if their rhythm is transformed to atrial flutter. | IIa | C |
+
+================================================================================
+--- SENTENCE | p.46-46 | Patients with heart failure
+caption_clean: Patients with heart failure
+--------------------------------------------------------------------------------
+| Group |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | AF catheter ablation is recommended in patients with AF and HFrEF with high probability of tachycardia-induced cardiomyopathy to reverse left ventricular dysfunction. |  | I | B |
+|  | AF catheter ablation should be considered in selected AF patients with HFrEF to reduce HF hospitalization and prolong survival. |  | IIa | B |
+| Sinus node disease/tachycardia–bradycardia syndrome | AF catheter ablation should be considered in patients with AF-related bradycardia or sinus pauses on AF termination to improve symptoms and avoid pacemaker implantation. |  | IIa | C |
+| Recurrence after catheter ablation | Repeat AF catheter ablation should be considered in patients with AF recurrence after initial catheter ablation, provided the patient’s symptoms were improved after the initial PVI or after failed initial PVI, to reduce symptoms, recurrence, and progression of AF. |  | IIa | B |
+
+================================================================================
+--- SENTENCE | p.46-46 | Recommendation Table 19 — Recommendations for  catheter ablation of AF (see also Evidence Table 19)
+caption_clean: Recommendation Table 19 — Recommendations for catheter ablation of AF
+--------------------------------------------------------------------------------
+| Group | Recommendations |  | Class | Level |
+| --- | --- | --- | --- | --- |
+| Shared decision-making | Shared decision-making is recommended when considering catheter ablation for AF, taking into account procedural risks, likely benefits, and risk factors for AF recurrence. | AF patients resistant or intolerant to antiarrhythmic drug therapy | I | C |
+| Shared decision-making | Catheter ablation is recommended in patients with paroxysmal or persistent AF resistant or intolerant to antiarrhythmic drug therapy to reduce symptoms, recurrence, and progression of AF. |  | I | A |
+| First-line rhythm control therapy | Catheter ablation is recommended as a first-line option within a shared decision-making rhythm control strategy in patients with paroxysmal AF, to reduce symptoms, recurrence, and progression of AF. |  | I | A |
+| First-line rhythm control therapy | Catheter ablation may be considered as a first-line option within a shared decision-making rhythm control strategy in selected patients with persistent AF to reduce symptoms, recurrence, and progression of AF. |  | IIb | C |
+
+================================================================================
+--- SENTENCE | p.47-47 | Recommendation Table 20 — Recommendations for  anticoagulation in patients undergoing catheter ablation  (see also Evidence Table 20)
+caption_clean: Recommendation Table 20 — Recommendations for anticoagulation in patients undergoing catheter ablation
+--------------------------------------------------------------------------------
+| Recommendations | Class | Level |
+| --- | --- | --- |
+| Initiation of oral anticoagulation is recommended at least 3 weeks prior to catheter-based ablation in AF patients at elevated thromboembolic risk, to prevent peri-procedural ischaemic stroke and thromboembolism. | I | C |
+| Uninterrupted oral anticoagulation is recommended in patients undergoing AF catheter ablation to prevent peri-procedural ischaemic stroke and thromboembolism. | I | A |
+| Continuation of oral anticoagulation is recommended for at least 2 months after AF ablation in all patients, irrespective of rhythm outcome or CHADS-VA score, to reduce the risk of peri-procedural ischaemic stroke and thromboembolism. | I | C |
+| Continuation of oral anticoagulation is recommended after AF ablation according to the patient’s CHADS-VA score, and not the perceived success of the ablation procedure, to prevent ischaemic stroke and thromboembolism. | I | C |
+| Cardiac imaging should be considered prior to catheter ablation of AF in patients at high risk of ischaemic stroke and thromboembolism despite taking oral anticoagulation to exclude thrombus. | IIa | B |
+
+================================================================================
+--- SENTENCE | p.53-53 | Recommendations for AF patients undergoing PCI
+caption_clean: Recommendations for AF patients undergoing PCI
+--------------------------------------------------------------------------------
+|  |  |  |  |
+| --- | --- | --- | --- |
+| After uncomplicated PCI, early cessation (≤1 week) of aspirin and continuation of an oral anticoagulant and a PYinhibitor (preferably clopidogrel) for up to 6 months is recommended to avoid major bleeding, if ischaemic risk is low. |  | I | A |
+| Triple therapy with aspirin, clopidogrel, and an oral anticoagulant for longer than 1 week should be considered after PCI when the risk of stent thrombosis outweighs the bleeding risk, with the total duration (≤1 month) decided according to assessment of these risks and clear documentation. | Recommendations for AF patients with chronic coronary or vascular disease | IIa | B |
+| Antiplatelet therapy beyond 12 months is not recommended in stable patients with chronic coronary or vascular disease treated with oral anticoagulation, due to lack of efficacy and to avoid major bleeding. |  | III | B |
+
+================================================================================
+--- SENTENCE | p.53-53 | Recommendation Table 24 — Recommendations for  patients with acute coronary syndromes or undergoing  percutaneous intervention (see also Evidence Table 24)
+caption_clean: Recommendation Table 24 — Recommendations for patients with acute coronary syndromes or undergoing percutaneous intervention
+--------------------------------------------------------------------------------
+| Group | Recommendations |  | Class | Level |
+| --- | --- | --- | --- | --- |
+|  | For combinations with antiplatelet therapy, a DOAC is recommended in eligible patients in preference to a VKA to mitigate bleeding risk and prevent thromboembolism. |  | I | A |
+|  | Rivaroxaban 15 mg once daily should be considered in preference to rivaroxaban 20 mg once daily when combined with antiplatelet therapy in patients where concerns about bleeding risk prevail over concerns about stent thrombosis or ischaemic stroke. |  | IIa | B |
+|  | Dabigatran 110 mg twice daily should be considered in preference to dabigatran 150 mg twice daily when combined with antiplatelet therapy in patients where concerns about bleeding risk prevail over concerns about stent thrombosis or ischaemic stroke. |  | IIa | B |
+|  | Carefully regulated VKA dosing with a target INR of 2.0–2.5 and TTR >70% should be considered when combined with antiplatelet therapy in AF patients to mitigate bleeding risk. |  | IIa | C |
+| Recommendations for AF patients with ACS | Early cessation (≤1 week) of aspirin and continuation of an oral anticoagulant (preferably DOAC) with a PYinhibitor (preferably clopidogrel) for up to 12 months is recommended in AF patients with ACS undergoing an uncomplicated PCI to avoid major bleeding, if the risk of thrombosis is low or bleeding risk is high. |  | I | A |
+| Recommendations for AF patients with ACS | Triple therapy with aspirin, clopidogrel, and oral anticoagulation for longer than 1 week after an ACS should be considered in patients with AF when ischaemic risk outweighs the bleeding risk, with the total duration (≤1 month) decided according to assessment of these risks and clear documentation of the discharge treatment plan. |  | IIa | C |
+
+================================================================================
+--- GRID | p.54-54 | Table 14 Non-cardiac conditions associated with  trigger-induced AF
+caption_clean: Table 14 Non-cardiac conditions associated with trigger-induced AF
+--------------------------------------------------------------------------------
+| Group | Acute conditions |  |
+| --- | --- | --- |
+| Binge alcohol consumption | Drug use, including methamphetamines, cocaine, opiates, and cannabis | Chronic conditions with inflammation and enhanced AF substrate |
+| Endocrine disorders (thyroid, adrenal, pituitary, others) | Immune-mediated diseases (rheumatoid arthritis, systemic lupus erythematosus, inflammatory bowel disease, coeliac disease, psoriasis, others) |  |
+
+================================================================================
+--- SENTENCE | p.55-55 | Recommendation Table 26 — Recommendations for  management of post-operative AF (see also Evidence  Table 26)
+caption_clean: Recommendation Table 26 — Recommendations for management of post-operative AF
+--------------------------------------------------------------------------------
+| Recommendations | Class | Level |
+| --- | --- | --- |
+| Peri-operative amiodarone therapy is recommended where drug therapy is desired to prevent post-operative AF after cardiac surgery. | I | A |
+| Concomitant posterior peri-cardiotomy should be considered in patients undergoing cardiac surgery to prevent post-operative AF. | IIa | B |
+| Long-term oral anticoagulation should be considered in patients with post-operative AF after cardiac and non-cardiac surgery at elevated thromboembolic risk, to prevent ischaemic stroke and thromboembolism. | IIa | B |
+| Routine use of beta-blockers is not recommended in patients undergoing non-cardiac surgery for the prevention of post-operative AF. | III | B |
+
+================================================================================
+--- SENTENCE | p.56-56 | Recommendation Table 27 — Recommendations for  patients with embolic stroke of unknown source (see  also Evidence Table 27)
+caption_clean: Recommendation Table 27 — Recommendations for patients with embolic stroke of unknown source
+--------------------------------------------------------------------------------
+| Recommendations | Class | Level |
+| --- | --- | --- |
+| Prolonged monitoring for AF is recommended in patients with ESUS to inform on AF treatment decisions. | I | B |
+| Initiation of oral anticoagulation in ESUS patients without documented AF is not recommended due to lack of efficacy in preventing ischaemic stroke and thromboembolism. | III | A |
+
+================================================================================
+--- SENTENCE | p.56-56 | Recommendation Table 28 — Recommendations for  patients with AF during pregnancy (see also Evidence  Table 28)
+caption_clean: Recommendation Table 28 — Recommendations for patients with AF during pregnancy
+--------------------------------------------------------------------------------
+| Recommendations | Class | Level |
+| --- | --- | --- |
+| Immediate electrical cardioversion is recommended in patients with AF during pregnancy and haemodynamic instability or pre-excited AF to improve maternal and foetal outcomes. | I | C |
+| Therapeutic anticoagulation with LMWHs or VKAs (except VKAs for the first trimester or beyond Week 36) is recommended for pregnant patients with AF at elevated thromboembolic risk to prevent ischaemic stroke and thromboembolism. | I | C |
+| Beta-1 selective blockers are recommended for heart rate control of AF in pregnancy to reduce symptoms and improve maternal and foetal outcomes, excluding atenolol. | I | C |
+| Electrical cardioversion should be considered for persistent AF in pregnant women with HCM to improve maternal and foetal outcomes. | IIa | C |
+| Digoxin should be considered for heart rate control of AF in pregnancy, if beta-blockers are ineffective or not tolerated, to reduce symptoms and improve maternal and foetal outcomes. | IIa | C |
+| Intravenous ibutilide or flecainide may be considered for termination of AF in stable pregnant patients with a structurally normal heart to improve maternal and foetal outcomes. | IIb | C |
+| Flecainide or propafenone may be considered for longer-term rhythm control in pregnancy, if rate controlling drugs are ineffective or not tolerated, to reduce symptoms and improve maternal and foetal outcomes. | IIb | C |
+
+================================================================================
+--- GRID | p.60-60 | Table 15 Tools for AF screening
+caption_clean: Table 15 Tools for AF screening
+--------------------------------------------------------------------------------
+| Tools for AF screening |  |
+| --- | --- |
+| (i) Pulse palpation |  |
+| (ii) Use of artificial intelligence algorithms to identify patients at risk |  |
+| (iii) ECG-based devices |  |
+| (a) Conventional ECG devices |  |
+| (1) Classic 12-lead ECG |  |
+| (2) Holter monitoring (from 24 h to a week or more) |  |
+| (3) Mobile cardiac telemetry (during hospitalization) |  |
+| (4) Handheld devices |  |
+| (5) Wearable patches (up to 14 days) |  |
+| (6) Biotextiles (up to 30 days) |  |
+| (7) Smart devices (30 s) |  |
+| (b) Implantable loop recorders (3–5 years) |  |
+| (iv) Non-ECG-based devices |  |
+| (a) Photoplethysmography and automatic algorithms: contact (fingertip, smart device, band) and contactless (video) |  |
+| (b) Oscillometry (blood pressure monitors that derive heart rhythm regularity algorithmically) |  |
+| (c) Mechanocardiography (accelerometers and gyroscopes to sense the mechanical activity of the heart) (d) Contactless video plethysmography (through video monitoring) (e) Smart speakers (through the identification of abnormal heart rate patterns) | © ESC 2024 |
+
+================================================================================
+--- SENTENCE | p.61-61 | Recommendation Table 31 — Recommendations for  screening for AF (see also Evidence Table 31)
+caption_clean: Recommendation Table 31 — Recommendations for screening for AF
+--------------------------------------------------------------------------------
+| Recommendations | Class | Level |
+| --- | --- | --- |
+| Review of an ECG (12-lead, single, or multiple leads) by a physician is recommended to provide a definite diagnosis of AF and commence appropriate management. | I | B |
+| Routine heart rhythm assessment during healthcare contact is recommended in all individuals aged ≥65 years for earlier detection of AF. | I | C |
+| Population-based screening for AF using a prolonged non-invasive ECG-based approach should be considered in individuals aged ≥75 years, or ≥65 years with additional CHADS-VA risk factors to ensure earlier detection of AF. | IIa | B |
+
+================================================================================
+--- GRID | p.62-62 | (no caption)
+caption_clean: Comorbidities and risk factors Hypertension
+--------------------------------------------------------------------------------
+| Comorbidities and risk factors | Hypertension |
+| --- | --- |
+| Comorbidities and risk factors | Heart failure |
+| Comorbidities and risk factors | Valvular disease |
+| Comorbidities and risk factors | Coronary artery disease |
+| Comorbidities and risk factors | Peripheral arterial disease |
+| Comorbidities and risk factors | Congenital heart disease |
+| Comorbidities and risk factors | Heart rate, heart rate variability |
+| Comorbidities and risk factors | Total cholesterol |
+| Comorbidities and risk factors | Low-density lipoprotein cholesterol |
+| Comorbidities and risk factors | High-density lipoprotein cholesterol |
+| Comorbidities and risk factors | Triglycerides |
+| Comorbidities and risk factors | Impaired glucose tolerance,diabetes mellitus |
+| Comorbidities and risk factors | Renal dysfunction/CKD |
+| Comorbidities and risk factors | Obesity |
+| Comorbidities and risk factors | Body mass index, weight |
+| Comorbidities and risk factors | Height |
+| Comorbidities and risk factors | Sleep apnoea |
+| Comorbidities and risk factors | Chronic obstructive pulmonary disease |
+| Subclinical atherosclerosis | Coronary artery calcification |
+| Subclinical atherosclerosis | Carotid IMT and carotid plaque |
+| ECG abnormalities | PR interval prolongation |
+| ECG abnormalities | Sick sinus syndrome |
+| ECG abnormalities | Wolff–Parkinson–White |
+| Genetic factors | Family history of AF |
+| Genetic factors | AF-susceptible loci identified by GWAS |
+| Genetic factors | Short QT syndrome |
+| Genetic factors | Genetic cardiomyopathies |
+| Biomarkers | C-reactive protein |
+| Biomarkers | Fibrinogen |
+| Biomarkers | Growth differentiation factor-15 |
+| Biomarkers | Natriuretic peptides (atrial and B-type) |
+| Biomarkers | Cardiac troponins |
+| Biomarkers | Inflammatory biomarkers |
+| Others | Thyroid dysfunction |
+| Others | Autoimmune diseases |
+| Others | Air pollution |
+| Others | Sepsis |
+| Others | Psychological factors |
+
+================================================================================
+--- GRID | p.62-62 | Table 16 Factors associated with incident AF
+caption_clean: Table 16 Factors associated with incident AF
+--------------------------------------------------------------------------------
+| Demographic factors | Age |
+| --- | --- |
+| Demographic factors | Male sex |
+| Demographic factors | European ancestry |
+| Demographic factors | Lower socioeconomic status |
+| Lifestyle behaviours | Smoking/tobacco use |
+| Lifestyle behaviours | Alcohol intake |
+| Lifestyle behaviours | Physical inactivity |
+| Lifestyle behaviours | Vigorous exercise |
+| Lifestyle behaviours | Competitive or athlete-level endurance sports |
+| Lifestyle behaviours | Caffeine |
+
+================================================================================
+--- SENTENCE | p.63-63 | Recommendation Table 32 — Recommendations for  primary prevention of AF (see also Evidence Table 32)
+caption_clean: Recommendation Table 32 — Recommendations for primary prevention of AF
+--------------------------------------------------------------------------------
+| Recommendation | Class | Level |
+| --- | --- | --- |
+| Maintaining optimal blood pressure is recommended in the general population to prevent AF, with ACE inhibitors or ARBs as first-line therapy. | I | B |
+| Appropriate medical HF therapy is recommended in individuals with HFrEF to prevent AF. | I | B |
+| Maintaining normal weight (BMI 20–25 kg/m) is recommended for the general population to prevent AF. | I | B |
+| Maintaining an active lifestyle is recommended to prevent AF, with the equivalent of 150–300 min per week of moderate intensity or 75–150 min per week of vigorous intensity aerobic physical activity. | I | B |
+| Avoidance of binge drinking and alcohol excess is recommended in the general population to prevent AF. | I | B |
+| Metformin or SGLT inhibitors should be considered for individuals needing pharmacological management of diabetes mellitus to prevent AF. | IIa | B |
+| Weight reduction should be considered in obese individuals to prevent AF. | IIa | B |
+
+================================================================================
+--- SENTENCE | p.66-69 | Table 17 ‘What to do’ and ‘what not to do’
+caption_clean: Table 17 ‘What to do’ and ‘what not to do’
+--------------------------------------------------------------------------------
+| Group | Recommendations |  | Class | Level |
+| --- | --- | --- | --- | --- |
+| Recommendations for the diagnosis of AF | Confirmation by an electrocardiogram (12-lead, multiple, or single leads) is recommended to establish the diagnosis of clinical AF and commence risk stratification and treatment. |  | I | A |
+| Recommendations for symptom evaluation in patients with AF | Evaluating the impact of AF-related symptoms is recommended before and after major changes in treatment to inform shared decision-making and guide treatment choices. | Recommendations for diagnostic evaluation in patients with new AF | I | B |
+| Recommendations for symptom evaluation in patients with AF | A transthoracic echocardiogram is recommended in patients with an AF diagnosis where this will guide treatment decisions. |  | I | C |
+| Recommendations for patient-centred care and education | Education directed to patients, family members, caregivers, and healthcare professionals is recommended to optimize shared decision-making, facilitating open discussion of both the benefit and risk associated with each treatment option. |  | I | C |
+| Recommendations for patient-centred care and education | Access to patient-centred management according to the AF-CARE principles is recommended in all patients with AF, regardless of gender, ethnicity, and socioeconomic status, to ensure equality in healthcare provision and improve outcomes. | Recommendations for comorbidity and risk factor management in AF | I | C |
+| Recommendations for patient-centred care and education | Identification and management of risk factors and comorbidities is recommended as an integral part of AF care. |  | I | B |
+| Recommendations for patient-centred care and education | Blood pressure lowering treatment is recommended in patients with AF and hypertension to reduce recurrence and progression of AF and prevent adverse cardiovascular events. |  | I | B |
+| Recommendations for patient-centred care and education | Diuretics are recommended in patients with AF, HF, and congestion to alleviate symptoms and facilitate better AF management. |  | I | C |
+| Recommendations for patient-centred care and education | Appropriate medical therapy for HF is recommended in AF patients with HF and impaired LVEF to reduce symptoms and/or HF hospitalization and prevent AF recurrence. |  | I | B |
+| Recommendations for patient-centred care and education | Sodium-glucose cotransporter-2 inhibitors are recommended for patients with HF and AF regardless of left ventricular ejection fraction to reduce the risk of HF hospitalization and cardiovascular death. |  | I | A |
+| Recommendations for patient-centred care and education | Effective glycaemic control is recommended as part of comprehensive risk factor management in individuals with diabetes mellitus and AF, to reduce burden, recurrence, and progression of AF. |  | I | C |
+| Recommendations for patient-centred care and education | Weight loss is recommended as part of comprehensive risk factor management in overweight and obese individuals with AF to reduce symptoms and AF burden, with a target of 10% or more reduction in body weight. |  | I | B |
+| Recommendations for patient-centred care and education | A tailored exercise programme is recommended in individuals with paroxysmal or persistent AF to improve cardiorespiratory fitness and reduce AF recurrence. |  | I | B |
+| Recommendations for patient-centred care and education | Reducing alcohol consumption to ≤3 standard drinks (≤30 grams of alcohol) per week is recommended as part of comprehensive risk factor management to reduce AF recurrence. |  | I | B |
+| Recommendations for patient-centred care and education | When screening for obstructive sleep apnoea in individuals with AF, using only symptom-based questionnaires is not recommended. | Recommendations to assess and manage thromboembolic risk in AF | III | B |
+| Recommendations for patient-centred care and education | Oral anticoagulation is recommended in patients with clinical AF at elevated thromboembolic risk to prevent ischaemic stroke and thromboembolism. |  | I | A |
+| Recommendations for patient-centred care and education | A CHADS-VA score of 2 or more is recommended as an indicator of elevated thromboembolic risk for decisions on initiating oral anticoagulation. |  | I | C |
+| Recommendations for patient-centred care and education | Oral anticoagulation is recommended in all patients with AF and hypertrophic cardiomyopathy or cardiac amyloidosis, regardless of CHADS-VA score, to prevent ischaemic stroke and thromboembolism. |  | I | B |
+| Recommendations for patient-centred care and education | Individualized reassessment of thromboembolic risk is recommended at periodic intervals in patients with AF to ensure anticoagulation is started in appropriate patients. |  | I | B |
+| Recommendations for patient-centred care and education | Antiplatelet therapy is not recommended as an alternative to anticoagulation in patients with AF to prevent ischaemic stroke and thromboembolism. |  | III | A |
+| Recommendations for patient-centred care and education | Using the temporal pattern of clinical AF (paroxysmal, persistent, or permanent) is not recommended to determine the need for oral anticoagulation. |  | III | B |
+| Recommendations for oral anticoagulation in AF | Direct oral anticoagulants are recommended in preference to VKAs to prevent ischaemic stroke and thromboembolism, except in patients with mechanical heart valves or moderate-to-severe mitral stenosis. |  | I | A |
+| Recommendations for oral anticoagulation in AF | A target INR of 2.0–3.0 is recommended for patients with AF prescribed a VKA for stroke prevention to ensure safety and effectiveness. |  | I | B |
+| Recommendations for oral anticoagulation in AF | Switching to a DOAC is recommended for eligible patients that have failed to maintain an adequate time in therapeutic range on a VKA (TTR <70%) to prevent thromboembolism and intracranial haemorrhage. |  | I | B |
+| Recommendations for oral anticoagulation in AF | A reduced dose of DOAC therapy is not recommended, unless patients meet DOAC-specific criteria, to prevent underdosing and avoidable thromboembolic events. | Recommendations for combining antiplatelet drugs with anticoagulants for stroke prevention | III | B |
+| Recommendations for oral anticoagulation in AF | Adding antiplatelet treatment to oral anticoagulation is not recommended in AF patients for the goal of preventing ischaemic stroke or thromboembolism. |  | III | B |
+| Recommendations for thromboembolism despite anticoagulation | Adding antiplatelet treatment to anticoagulation is not recommended in patients with AF to prevent recurrent embolic stroke. |  | III | B |
+| Recommendations for thromboembolism despite anticoagulation | Switching from one DOAC to another, or from a DOAC to a VKA, without a clear indication is not recommended in patients with AF to prevent recurrent embolic stroke. |  | III | B |
+| Recommendations for surgical left atrial appendage occlusion | Surgical closure of the left atrial appendage is recommended as an adjunct to oral anticoagulation in patients with AF undergoing cardiac surgery to prevent ischaemic stroke and thromboembolism. |  | I | B |
+| Recommendations for assessment of bleeding risk | Assessment and management of modifiable bleeding risk factors is recommended in all patients eligible for oral anticoagulation, as part of shared decision-making to ensure safety and prevent bleeding. |  | I | B |
+| Recommendations for assessment of bleeding risk | Use of bleeding risk scores to decide on starting or withdrawing oral anticoagulation is not recommended in patients with AF to avoid under-use of anticoagulation. | Recommendations for management of bleeding in anticoagulated patients | III | B |
+| Recommendations for assessment of bleeding risk | Interrupting anticoagulation and performing diagnostic or treatment interventions is recommended in AF patients with active bleeding until the cause of bleeding is identified and resolved. |  | I | C |
+| Recommendations for heart rate control in patients with AF | Rate control therapy is recommended in patients with AF, as initial therapy in the acute setting, an adjunct to rhythm control therapies, or as a sole treatment strategy to control heart rate and reduce symptoms. |  | I | B |
+| Recommendations for heart rate control in patients with AF | Beta-blockers, diltiazem, verapamil, or digoxin are recommended as first-choice drugs in patients with AF and LVEF >40% to control heart rate and reduce symptoms. |  | I | B |
+| Recommendations for heart rate control in patients with AF | Beta-blockers and/or digoxin are recommended in patients with AF and LVEF ≤40% to control heart rate and reduce symptoms. |  | I | B |
+| Recommendations for general concepts in rhythm control | Electrical cardioversion is recommended in AF patients with acute or worsening haemodynamic instability to improve immediate patient outcomes. |  | I | C |
+| Recommendations for general concepts in rhythm control | Direct oral anticoagulants are recommended in preference to VKAs in eligible patients with AF undergoing cardioversion for thromboembolic risk reduction. |  | I | A |
+| Recommendations for general concepts in rhythm control | Therapeutic oral anticoagulation for at least 3 weeks (adherence to DOACs or INR ≥2.0 for VKAs) is recommended before scheduled cardioversion of AF and atrial flutter to prevent procedure-related thromboembolism. |  | I | B |
+| Recommendations for general concepts in rhythm control | Transoesophageal echocardiography is recommended if 3 weeks of therapeutic oral anticoagulation has not been provided, for exclusion of cardiac thrombus to enable early cardioversion. |  | I | B |
+| Recommendations for general concepts in rhythm control | Oral anticoagulation is recommended to continue for at least 4 weeks in all patients after cardioversion and long-term in patients with thromboembolic risk factor(s) irrespective of whether sinus rhythm is achieved, to prevent thromboembolism. |  | I | B |
+| Recommendations for general concepts in rhythm control | Early cardioversion is not recommended without appropriate anticoagulation or transoesophageal echocardiography if AF duration is longer than 24 h, or there is scope to wait for spontaneous cardioversion. |  | III | C |
+| Recommendations for pharmacological cardioversion of AF | Intravenous flecainide or propafenone is recommended when pharmacological cardioversion of recent-onset AF is desired, excluding patients with severe left ventricular hypertrophy, HFrEF, or coronary artery disease. |  | I | A |
+| Recommendations for pharmacological cardioversion of AF | Intravenous vernakalant is recommended when pharmacological cardioversion of recent-onset AF is desired, excluding patients with recent ACS, HFrEF, or severe aortic stenosis. |  | I | A |
+| Recommendations for pharmacological cardioversion of AF | Intravenous amiodarone is recommended when cardioversion of AF in patients with severe left ventricular hypertrophy, HFrEF, or coronary artery disease is desired, accepting there may be a delay in cardioversion. |  | I | A |
+| Recommendations for pharmacological cardioversion of AF | Pharmacological cardioversion is not recommended for patients with sinus node dysfunction, atrioventricular conduction disturbances, or prolonged QTc (>500 ms), unless risks for proarrhythmia and bradycardia have been considered. | Recommendations for antiarrhythmic drugs for long-term maintenance of sinus rhythm | III | C |
+| Recommendations for pharmacological cardioversion of AF | Amiodarone is recommended in patients with AF and HFrEF requiring long-term antiarrhythmic drug therapy to prevent recurrence and progression of AF, with careful consideration and monitoring for extracardiac toxicity. |  | I | A |
+| Recommendations for pharmacological cardioversion of AF | Dronedarone is recommended in patients with AF requiring long-term rhythm control, including those with HFmrEF, HFpEF, ischaemic heart disease, or valvular disease to prevent recurrence and progression of AF. |  | I | A |
+| Recommendations for pharmacological cardioversion of AF | Flecainide or propafenone is recommended in patients with AF requiring long-term rhythm control to prevent recurrence and progression of AF, excluding those with impaired left ventricular systolic function, severe left ventricular hypertrophy, or coronary artery disease. |  | I | A |
+| Recommendations for pharmacological cardioversion of AF | Antiarrhythmic drug therapy is not recommended in patients with advanced conduction disturbances unless antibradycardia pacing is provided. |  | III | C |
+| Shared decision-making | Shared decision-making is recommended when considering catheter ablation for AF, taking into account procedural risks, likely benefits, and risk factors for AF recurrence. |  | I | C |
+| Shared decision-making | A | Atrial fibrillation patients resistant or intolerant to antiarrhythmic drug therapy |  |  |
+| Shared decision-making | Catheter ablation is recommended in patients with paroxysmal or persistent AF resistant or intolerant to antiarrhythmic drug therapy to reduce symptoms, recurrence, and progression of AF. |  | I | A |
+| First-line rhythm control therapy | Catheter ablation is recommended as a first-line option within a shared decision-making rhythm control strategy in patients with paroxysmal AF, to reduce symptoms, recurrence, and progression of AF. |  | I | A |
+| Patients with heart failure | Atrial fibrillation catheter ablation is recommended in patients with AF and HFrEF with high probability of tachycardia-induced cardiomyopathy to reverse left ventricular dysfunction. | Recommendations for anticoagulation in patients undergoing catheter ablation | I | B |
+| Patients with heart failure | Initiation of oral anticoagulation is recommended at least 3 weeks prior to catheter-based ablation in AF patients at elevated thromboembolic risk, to prevent peri-procedural ischaemic stroke and thromboembolism. |  | I | C |
+| Patients with heart failure | Uninterrupted oral anticoagulation is recommended in patients undergoing AF catheter ablation to prevent peri-procedural ischaemic stroke and thromboembolism. |  | I | A |
+| Patients with heart failure | Continuation of oral anticoagulation is recommended for at least 2 months after AF ablation in all patients, irrespective of rhythm outcome or CHADS-VA score, to reduce the risk of peri-procedural ischaemic stroke and thromboembolism. |  | I | C |
+| Patients with heart failure | Continuation of oral anticoagulation is recommended after AF ablation according to the patient’s CHADS-VA score, and not the perceived success of the ablation procedure, to prevent ischaemic stroke and thromboembolism. |  | I | C |
+| Recommendations for endoscopic and hybrid AF ablation | Continuation of oral anticoagulation is recommended in patients with AF at elevated thromboembolic risk after concomitant, endoscopic, or hybrid AF ablation, independent of rhythm outcome or LAA exclusion, to prevent ischaemic stroke and thromboembolism. |  | I | C |
+| Recommendations for AF ablation during cardiac surgery | Concomitant surgical ablation is recommended in patients undergoing mitral valve surgery and AF suitable for a rhythm control strategy to prevent symptoms and recurrence of AF, with shared decision-making supported by an experienced team of electrophysiologists and arrhythmia surgeons. |  | I | A |
+| Recommendations for AF ablation during cardiac surgery | Intraprocedural imaging for detection of left atrial thrombus in patients undergoing surgical ablation is recommended to guide surgical strategy, independent of oral anticoagulant use, to prevent peri-procedural ischaemic stroke and thromboembolism. |  | I | C |
+| Recommendations for AF ablation during cardiac surgery | Recommendations for patients with acute coronary syndromes or undergoing percutaneous intervention |  |  |  |
+| Recommendations for AF ablation during cardiac surgery | General recommendations for patients with AF and an indication for concomitant antiplatelet therapy |  |  |  |
+| Recommendations for AF ablation during cardiac surgery | For combinations with antiplatelet therapy, a DOAC is recommended in eligible patients in preference to a VKA to mitigate bleeding risk and prevent thromboembolism. |  | I | A |
+| Recommendations for AF patients with ACS | Early cessation (≤1 week) of aspirin and continuation of an oral anticoagulant (preferably DOAC) with a PYinhibitor (preferably clopidogrel) for up to 12 months is recommended in AF patients with ACS undergoing an uncomplicated PCI to avoid major bleeding, if the risk of thrombosis is low or bleeding risk is high. |  | I | A |
+| Recommendations for AF patients undergoing PCI | After uncomplicated PCI, early cessation (≤1 week) of aspirin and continuation of an oral anticoagulant and a PYinhibitor (preferably clopidogrel) for up to 6 months is recommended to avoid major bleeding, if ischaemic risk is low. | Recommendations for AF patients with chronic coronary or vascular disease | I | A |
+| Recommendations for AF patients undergoing PCI | Antiplatelet therapy beyond 12 months is not recommended in stable patients with chronic coronary or vascular disease treated with oral anticoagulation, due to lack of efficacy and to avoid major bleeding. |  | III | B |
+| Recommendations for management of post-operative AF | Peri-operative amiodarone therapy is recommended where drug therapy is desired to prevent post-operative AF after cardiac surgery. |  | I | A |
+| Recommendations for management of post-operative AF | Routine use of beta-blockers is not recommended in patients undergoing non-cardiac surgery for the prevention of post-operative AF. | Recommendations for patients with embolic stroke of unknown source | III | B |
+| Recommendations for management of post-operative AF | Prolonged monitoring for AF is recommended in patients with ESUS to inform on AF treatment decisions. |  | I | B |
+| Recommendations for management of post-operative AF | Initiation of oral anticoagulation in ESUS patients without documented AF is not recommended due to lack of efficacy in preventing ischaemic stroke and thromboembolism. |  | III | A |
+| Recommendations for patients with AF during pregnancy | Immediate electrical cardioversion is recommended in patients with AF during pregnancy and haemodynamic instability or pre-excited AF to improve maternal and foetal outcomes. |  | I | C |
+| Recommendations for patients with AF during pregnancy | Therapeutic anticoagulation with LMWHs or VKAs (except VKAs for the first trimester or beyond Week 36) is recommended for pregnant patients with AF at elevated thromboembolic risk to prevent ischaemic stroke and thromboembolism. |  | I | C |
+| Recommendations for patients with AF during pregnancy | Beta-1 selective blockers are recommended for heart rate control of AF in pregnancy to reduce symptoms and improve maternal and foetal outcomes, excluding atenolol. | Recommendations for prevention of thromboembolism in atrial flutter | I | C |
+| Recommendations for patients with AF during pregnancy | Oral anticoagulation is recommended in patients with atrial flutter at elevated thromboembolic risk to prevent ischaemic stroke and thromboembolism. |  | I | B |
+| Recommendations for screening for AF | Review of an ECG (12-lead, single, or multiple leads) by a physician is recommended to provide a definite diagnosis of AF and commence appropriate management. |  | I | B |
+| Recommendations for screening for AF | Routine heart rhythm assessment during healthcare contact is recommended in all individuals aged ≥65 years for earlier detection of AF. |  | I | C |
+| Recommendations for primary prevention of AF | Maintaining optimal blood pressure is recommended in the general population to prevent AF, with ACE inhibitors or ARBs as first-line therapy. |  | I | B |
+| Recommendations for primary prevention of AF | Appropriate medical HF therapy is recommended in individuals with HFrEF to prevent AF. |  | I | B |
+| Recommendations for primary prevention of AF | Maintaining normal weight (BMI 20–25 kg/m) is recommended for the general population to prevent AF. |  | I | B |
+| Recommendations for primary prevention of AF | Maintaining an active lifestyle is recommended to prevent AF, with the equivalent of 150–300 min per week of moderate intensity or 75– 150 min per week of vigorous intensity aerobic physical activity. |  | I | B |
+| Recommendations for primary prevention of AF | Avoidance of binge drinking and alcohol excess is recommended in the general population to prevent AF. |  | I | B |

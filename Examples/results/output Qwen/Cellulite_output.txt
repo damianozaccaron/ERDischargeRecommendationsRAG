@@ -1,0 +1,18 @@
+SEZIONE 1 - NOTA DI AMMISSIONE
+1. Il paziente viene ricoverato d'urgenza nel reparto di Malattie Infettive per l'esecuzione di un'ecocardiografia transtoracica e transesofagea dedicata, il monitoraggio seriale delle emocolture e il proseguimento della terapia antibiotica endovenosa mirata.
+2. Il paziente e la famiglia sono stati informati della diagnosi di sospetta endocardite infettiva, del decorso clinico previsto che richiede un protocollo standard di quattro-sei settimane di antibiotici per via endovenosa, dell'alto rischio di complicanze emboliche polmonari e sistemiche, della necessità di un monitoraggio emodinamico e microbiologico continuo e del percorso terapeutico pianificato che prevede la valutazione multidisciplinare del Team Endocardite con potenziale escalation chirurgica in caso di batteriemia persistente o di instabilità emodinamica.
+3. Il paziente viene formalmente consegnato alle cure del team di Malattie Infettive per la gestione continua.
+
+SEZIONE 2 - RIFERIMENTI CLINICI (per il medico revisore)
+1 - [E1] - Il ricovero urgente in un centro specializzato con un team multidisciplinare per l'endocardite è indicato per la diagnostica per immagini cardiovascolare completa, la condivisione continua dei dati clinici e microbiologici e la gestione coordinata della sospetta endocardite infettiva.
+2 - [E1][E2][E5] - Un ciclo standard di antibiotici per via endovenosa di quattro-sei settimane è necessario per il trattamento definitivo, e i pazienti devono essere monitorati attentamente a causa dell'alta frequenza di eventi embolici pericolosi per la vita, in particolare l'embolia polmonare nelle infezioni del lato destro, mentre la valutazione multidisciplinare determina la tempistica chirurgica per la batteriemia persistente o l'instabilità emodinamica.
+
+============================================================
+ORIGINAL RECOMMENDATIONS (for comparison)
+============================================================
+• Paziente ricoverato in urgenza presso U.O. Malattie Infettive per prosecuzione della terapia
+antibiotica, ecocardiografia transtoracica e transesofagea dedicata, monitoraggio delle
+emocolture e gestione multidisciplinare.
+• Segnalata la positività per HCV al team ricevente per adeguata gestione e presa in carico.
+• Monitoraggio continuo dei parametri vitali garantito durante il trasferimento.
+• Si affida alla presa in carico del team infettivologico.

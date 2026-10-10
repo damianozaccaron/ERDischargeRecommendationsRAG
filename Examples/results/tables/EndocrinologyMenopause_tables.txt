@@ -1,0 +1,56 @@
+EndocrinologyMenopause.pdf: 5 tables {'grid': 5}, 5 grid parts (rejected ones are logged at extraction)
+
+================================================================================
+--- GRID | p.6-6 | Table 1. Clinical questions
+caption_clean: Table 1. Clinical questions
+--------------------------------------------------------------------------------
+| Clinical question |  | Search criteria |  | Papers | Respective |
+| --- | --- | --- | --- | --- | --- |
+| Question I: What is the efficacy of locally absorbed low dose oestrogen on sexual function, compared to systemically absorbed oestrogen or placebo? Question II: What is the impact of different oestrogen dosages on fracture risk in peri/ postmenopausal women? Question III: What is the impact of progestogen monotherapy on menopausal symptoms? | (Peri/ post)menopausal women (Peri/ post)menopausal women Symptomatic (peri/ post)menopausal women | Locally absorbed low dose Systemically absorbed oestrogen oestrogen/ placebo (ie, oral or transdermal) Oestrogen dosage A, Comparative, placebo or no oestrogen dosage B etc treatment Progesterone, synthetic Placebo or no treatment progestogen | Sexual function Fractures: hip, vertebral Symptoms of menopause (ie, VMS, QoL, cognition (memory), sleep) | 4 14 10 | R 2.10 R 2.11 R 2.9 |
+
+================================================================================
+--- GRID | p.9-9 | Table 2. Impact of progestogen monotherapy on menopausal symptoms
+caption_clean: Table 2. Impact of progestogen monotherapy on menopausal symptoms
+--------------------------------------------------------------------------------
+| Symptom | Effect |
+| --- | --- |
+| VMS | No consistent beneficial effect of oral |
+| Sleep Psychological functioning Physical functioning Cognition Sexual health | progesterone No effect of progesterone cream Beneficial effect of i.m. depot MPA No effect of oral progesterone No consistent beneficial effect of progesterone cream No effect of progesterone cream Small improvement in verbal memory after oral progesterone; other components of cognition no effect No effect of progesterone cream |
+
+================================================================================
+--- GRID | p.12-12 | Table 3. Alternative non-pharmacological treatments
+caption_clean: Table 3. Alternative non-pharmacological treatments
+--------------------------------------------------------------------------------
+| Treatment | Type of evidence considered | Reported benefits |
+| --- | --- | --- |
+| Therapies associated with psychological benefits Cognitive behavioural therapy RCT |  | Reduced hot flash distress or interference but not frequency |
+| Hypnosis | RCT | Improved symptoms of depression and anxiety also reported Reduction in vasomotor symptoms |
+| Biofeedback | Systematic review | Improved sleep quality and sexual function Positive effect on menopause symptoms and stress, but low quality evidence and |
+| Relaxation techniques Mindfulness-Based Stress | RCT RCT | inconsistent results noted in systematic reviews Inconsistent effect reported on reduction in vasomotor symptoms No improvement in vasomotor symptoms |
+| Reduction Yoga | Systematic review | May reduce stress and anxiety, and improve sleep quality and quality of life No improvement in vasomotor symptoms |
+| Aromatherapy Physical activity | RCT Systematic review and meta-analysis | Improvement in psychological symptoms of menopause Improved vasomotor and psychological symptoms Significant effect on vasomotor symptoms severity, mixed results concerning frequency |
+| Ingestion of plant-based derivatives Black cohosh | Systematic review | No significant effect on vasomotor symptoms |
+| Evening primrose oil Phytoestrogens | RCT Systematic review | Further studies needed to investigate effects on other menopause symptoms No or minor (non-clinically significant) reduction in vasomotor symptoms No conclusive evidence of reduction in vasomotor symptoms |
+| Maca (Lepidium meyenii) Pollen Extract Dong Quai (Angelica sinensis) | Narrative review | Strong placebo effect observed Potential improvements in menopause symptoms but insufficient to recommend usage |
+
+================================================================================
+--- GRID | p.13-13 | Table 4. Clinical assessments prior to introduction of HRT/M MHT
+caption_clean: Table 4. Clinical assessments prior to introduction of HRT/M MHT
+--------------------------------------------------------------------------------
+| Medical history | Blood tests | Additional | Follow up |
+| --- | --- | --- | --- |
+| Menopausal symptoms (VMS, sleep, mood disorders) | Desirable for general health | Weight/height | Check-in after 3 months, |
+| Comorbidities Menstrual cycle characteristics (bleeding patterns, regularity) Medications (past and current) and supplements Lifestyle factors, including social determinants of health Personal history; emphasis on past obstetric history, parity, mode of delivery, (gynaecological) surgeries, CVD, osteoporosis, cancers Family history; mothers’ age at menopause, CVD, osteoporosis, cancers | assessment: Complete blood count Fasting blood glucose Renal function Liver function Lipid status (may depend on the country’s policy) Optional: FSH (<45 years) Thyroid function Vitamin D Additional evaluation for those with POI is often undertaken (see section on POI) | Waist circumference Blood pressure If indicated: Pelvic/breast examination Thyroid examination Mammography Bone densitometry Pap smear/HPV screening | thereafter 1-2 year basis: Evaluation of symptoms Blood pressure Changes in health status (risk/benefit profile) |
+
+================================================================================
+--- GRID | p.14-14 | Table 5. MHT/ HRT preparations and regimens this table refers to women with natural menopause as young women (ie, those under 40 years)
+caption_clean: Table 5. MHT/ HRT preparations and regimens this table refers to women with natural menopause as young women
+--------------------------------------------------------------------------------
+| Lowest dose Highest dose (MHT) Safe high dose Equivalent doses |  |
+| --- | --- |
+| ORAL OESTROGEN (always use with progestogen in women with uterus) Oestradiol valerate 0.5 mg 2 mg 4 mg 2 mg E valerate = 0.625 mg conjugated oestrogen Oestradiol hemihydrate 0.5 mg 2 mg 4 mg 17β oestradiol 0.5 mg 2 mg 4 mg Conjugated oestrogen 0.3 mg 1.25 mg 1.5 mg Conjugated oestrogen/ conjugated oestrogen 0.45 mg/ 0.45 mg conjugated oestrogen 0.45 mg / - bazedoxifene /bazedoxifene 20 mg bazedoxifene 20 mg Oestriol 1 mg 2 mg 2 mg |  |
+| TRANSDERMAL OESTROGEN (always use with progestogen in women with uterus) Oestriol 0.5 mg 2 mg Oestradiol hemihydrate 1.53 mg/1 spray 4.59 mg/3 sprays skin spray Oestradiol hemihydrate 0.5 mg 1.5 mg gel Oestradiol hemihydrate skin patch 25 mcg 100 mcg | 2 mg 4.59 mg EH skin spray 4.59 mg/3 = 1.5 mg EH gel sprays 1.5 mg = 100 mcg EH skin patch 100 mcg |
+| Colour legend Oral synthetic oestradiol Transdermal oestradiol Natural oestradiol Natural progesterone (dydrogesterone is considered a natural since it is an isomer) Synthetic progestogen Equivalent dose |  |
+| Lowest dose Highest dose (MHT) | Safe high dose (HRT) Equivalent doses |
+| SEQUENTIAL PROGESTOGEN (from day 12 to day 26 of menstrual cycle) Micronized progesterone 200 mg 300 mg Dydrogesterone 10 mg 10 mg Norethisterone acetate 1.25 mg 5 mg Transdermal norethisterone acetate 0.140 mg/day 0.250 mg/day Medroxyprogesterone acetate 5 mg 10 mg | 300 mg 200 mg micronized P = 10 mg 15 mg 5 mg 0.250 mg/day 10 mg |
+| CONTINUOUS PROGESTOGEN (daily) Micronized progesterone 100 mg 200 mg Dydrogesterone 2.5 mg 10 mg Norethisterone acetate 0.1–0.5 mg 2.5 mg Transdermal norethisterone acetate 0.140 mg/day 0.250 mg/day Medroxyprogesterone acetate 5 mg 10 mg Drospirenone 2 mg 2 mg Tibolone 2.5 mg 2.5 mg | 200 mg dydrogesterone = 5 mg norethisterone acetate = 10 mg MPA 10 mg 2.5 mg 0.250 mg/day 10 mg 2 mg 2.5 mg |

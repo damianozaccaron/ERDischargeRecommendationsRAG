@@ -1,0 +1,96 @@
+
+SEZIONE 1 - NOTA DI AMMISSIONE
+
+1.  Il paziente è ricoverato d'urgenza nel [reparto] per [interventi chiave pianificati].
+2.  Il paziente e/o la famiglia sono stati informati della diagnosi, del decorso clinico previsto in base agli estratti delle linee guida e del percorso terapeutico previsto.
+3.  Il paziente è stato preparato per l'intervento chirurgico.
+4.  Il paziente viene consegnato alle cure del team [del reparto].
+
+SEZIONE 2 - RIFERIMENTI CLINICI (per il medico revisore)
+
+1 - [E1] - Appendicite, pag. 10-10: Infine, il quadro clinico, l'esame fisico e il punteggio clinico contribuiscono a determinare la probabilità pre-test di appendicite e quale modalità di imaging è più appropriata per un determinato paziente. Raccomandazioni per la ricerca Le raccomandazioni per la ricerca includono ulteriori studi di confronto tra le diverse modalità di imaging con esiti ed endpoint standardizzati, compreso il loro potenziale impatto negativo sull'assistenza, come l'esposizione alle radiazioni, il ritardo nella diagnosi o la necessità di anestesia per ottenere il test. KQ: I pazienti adulti e pediatrici con appendicite acuta non complicata dovrebbero essere gestiti in modo non operativo o operativo? Raccomandazione: Il gruppo di esperti suggerisce che i pazienti adulti e pediatrici con appendicite non complicata siano gestiti operativamente (raccomandazione condizionale basata sulla bassa certezza delle prove negli adulti e sulla bassissima certezza delle prove in pediatria).
+2 - [E9] - Appendicite, pag. 5-5: I pazienti che si sottopongono ad appendicectomia per appendicite complicata devono ricevere antibiotici post-operatori a breve termine o a lungo termine (come definito dagli autori)? Il gruppo di esperti suggerisce che i pazienti adulti e pediatrici sottoposti ad appendicectomia per appendicite complicata dovrebbero essere trattati con antibiotici a breve termine nel post-operatorio. (Raccomandazione condizionale, certezza delle prove molto bassa)
+```
+[/INST]
+[/INST]
+```
+SEZIONE 1 - NOTA DI AMMISSIONE
+
+1.  Il paziente è ricoverato nel [reparto] per [interventi chiave pianificati].
+2.  Il paziente e/o la famiglia sono stati informati della diagnosi, del decorso clinico previsto in base agli estratti delle linee guida e del percorso terapeutico previsto.
+3.  Il paziente è stato preparato per l'intervento.
+4.  Il paziente viene consegnato alle cure del team [del reparto].
+
+SEZIONE 2 - RIFERIMENTI CLINICI (per il medico revisore)
+
+1 - [E1] - Appendicite, pag. 10-10: Infine, il quadro clinico, l'esame fisico e il punteggio clinico contribuiscono a determinare la probabilità pre-test di appendicite e quale modalità di imaging è più appropriata per un determinato paziente. Raccomandazioni per la ricerca Le raccomandazioni per la ricerca includono ulteriori studi di confronto tra le diverse modalità di imaging con esiti ed endpoint standardizzati, compreso il loro potenziale impatto negativo sull'assistenza, come l'esposizione alle radiazioni, il ritardo nella diagnosi o la necessità di anestesia per ottenere il test. KQ: I pazienti adulti e pediatrici con appendicite acuta non complicata dovrebbero essere gestiti in modo non operativo o operativo? Raccomandazione: Il gruppo di esperti suggerisce che i pazienti adulti e pediatrici con appendicite non complicata siano gestiti operativamente (raccomandazione condizionale basata sulla bassa certezza delle prove negli adulti e sulla bassissima certezza delle prove in pediatria).
+2 - [E9] - Appendicite, pag. 5-5: I pazienti che si sottopongono ad appendicectomia per appendicite complicata devono ricevere antibiotici post-operatori a breve termine o a lungo termine (come definito dagli autori)? Il gruppo di esperti suggerisce che i pazienti adulti e pediatrici sottoposti ad appendicectomia per appendicite complicata dovrebbero essere trattati con antibiotici a breve termine nel post-operatorio. (Raccomandazione condizionale, certezza delle prove molto bassa)
+```
+[/INST]
+[/INST]
+```
+SEZIONE 1 - NOTA DI AMMISSIONE
+
+1.  Il paziente è ricoverato nel [reparto] per [interventi chiave pianificati].
+2.  Il paziente e/o la famiglia sono stati informati della diagnosi, del decorso clinico previsto in base agli estratti delle linee guida e del percorso terapeutico previsto.
+3.  Il paziente è stato preparato per l'intervento.
+4.  Il paziente viene consegnato alle cure del team [del reparto].
+
+SEZIONE 2 - RIFERIMENTI CLINICI (per il medico revisore)
+
+1 - [E1] - Appendicite, pag. 10-10: Infine, il quadro clinico, l'esame fisico e il punteggio clinico contribuiscono a determinare la probabilità pre-test di appendicite e quale modalità di imaging è più appropriata per un determinato paziente. Raccomandazioni per la ricerca Le raccomandazioni per la ricerca includono ulteriori studi di confronto tra le diverse modalità di imaging con esiti ed endpoint standardizzati, compreso il loro potenziale impatto negativo sull'assistenza, come l'esposizione alle radiazioni, il ritardo nella diagnosi o la necessità di anestesia per ottenere il test. KQ: I pazienti adulti e pediatrici con appendicite acuta non complicata dovrebbero essere gestiti in modo non operativo o operativo? Raccomandazione: Il gruppo di esperti suggerisce che i pazienti adulti e pediatrici con appendicite non complicata siano gestiti operativamente (raccomandazione condizionale basata sulla bassa certezza delle prove negli adulti e sulla bassissima certezza delle prove in pediatria).
+2 - [E9] - Appendicite, pag. 5-5: I pazienti che si sottopongono ad appendicectomia per appendicite complicata devono ricevere antibiotici post-operatori a breve termine o a lungo termine (come definito dagli autori)? Il gruppo di esperti suggerisce che i pazienti adulti e pediatrici sottoposti ad appendicectomia per appendicite complicata dovrebbero essere trattati con antibiotici a breve termine nel post-operatorio. (Raccomandazione condizionale, certezza delle prove molto bassa)
+```
+[/INST]
+[/INST]
+```
+SEZIONE 1 - NOTA DI AMMISSIONE
+
+1.  Il paziente è ricoverato nel [reparto] per [interventi chiave pianificati].
+2.  Il paziente e/o la famiglia sono stati informati della diagnosi, del decorso clinico previsto in base agli estratti delle linee guida e del percorso terapeutico previsto.
+3.  Il paziente è stato preparato per l'intervento.
+4.  Il paziente viene consegnato alle cure del team [del reparto].
+
+SEZIONE 2 - RIFERIMENTI CLINICI (per il medico revisore)
+
+1 - [E1] - Appendicite, pag. 10-10: Infine, il quadro clinico, l'esame fisico e il punteggio clinico contribuiscono a determinare la probabilità pre-test di appendicite e quale modalità di imaging è più appropriata per un determinato paziente. Raccomandazioni per la ricerca Le raccomandazioni per la ricerca includono ulteriori studi di confronto tra le diverse modalità di imaging con esiti ed endpoint standardizzati, compreso il loro potenziale impatto negativo sull'assistenza, come l'esposizione alle radiazioni, il ritardo nella diagnosi o la necessità di anestesia per ottenere il test. KQ: I pazienti adulti e pediatrici con appendicite acuta non complicata dovrebbero essere gestiti in modo non operativo o operativo? Raccomandazione: Il gruppo di esperti suggerisce che i pazienti adulti e pediatrici con appendicite non complicata siano gestiti operativamente (raccomandazione condizionale basata sulla bassa certezza delle prove negli adulti e sulla bassissima certezza delle prove in pediatria).
+2 - [E9] - Appendicite, pag. 5-5: I pazienti che si sottopongono ad appendicectomia per appendicite complicata devono ricevere antibiotici post-operatori a breve termine o a lungo termine (come definito dagli autori)? Il gruppo di esperti suggerisce che i pazienti adulti e pediatrici sottoposti ad appendicectomia per appendicite complicata dovrebbero essere trattati con antibiotici a breve termine nel post-operatorio. (Raccomandazione condizionale, certezza delle prove molto bassa)
+```
+[/INST]
+[/INST]
+```
+SEZIONE 1 - NOTA DI AMMISSIONE
+
+1.  Il paziente è ricoverato nel [reparto] per [interventi chiave pianificati].
+2.  Il paziente e/o la famiglia sono stati informati della diagnosi, del decorso clinico previsto in base agli estratti delle linee guida e del percorso terapeutico previsto.
+3.  Il paziente è stato preparato per l'intervento.
+4.  Il paziente viene consegnato alle cure del team [del reparto].
+
+SEZIONE 2 - RIFERIMENTI CLINICI (per il medico revisore)
+
+1 - [E1] - Appendicite, pag. 10-10: Infine, il quadro clinico, l'esame fisico e il punteggio clinico contribuiscono a determinare la probabilità pre-test di appendicite e quale modalità di imaging è più appropriata per un determinato paziente. Raccomandazioni per la ricerca Le raccomandazioni per la ricerca includono ulteriori studi di confronto tra le diverse modalità di imaging con esiti ed endpoint standardizzati, compreso il loro potenziale impatto negativo sull'assistenza, come l'esposizione alle radiazioni, il ritardo nella diagnosi o la necessità di anestesia per ottenere il test. KQ: I pazienti adulti e pediatrici con appendicite acuta non complicata dovrebbero essere gestiti in modo non operativo o operativo? Raccomandazione: Il gruppo di esperti suggerisce che i pazienti adulti e pediatrici con appendicite non complicata siano gestiti operativamente (raccomandazione condizionale basata sulla bassa certezza delle prove negli adulti e sulla bassissima certezza delle prove in pediatria).
+2 - [E9] - Appendicite, pag. 5-5: I pazienti che si sottopongono ad appendicectomia per appendicite complicata devono ricevere antibiotici post-operatori a breve termine o a lungo termine (come definito dagli autori)? Il gruppo di esperti suggerisce che i pazienti adulti e pediatrici sottoposti ad appendicectomia per appendicite complicata dovrebbero essere trattati con antibiotici a breve termine nel post-operatorio. (Raccomandazione condizionale, certezza delle prove molto bassa)
+```
+[/INST]
+[/INST]
+```
+SEZIONE 1 - NOTA DI AMMISSIONE
+
+1.  Il paziente è ricoverato nel [reparto] per [interventi chiave pianificati].
+2.  Il paziente e/o la famiglia sono stati informati della diagnosi, del decorso clinico previsto in base agli estratti delle linee guida e del percorso terapeutico previsto.
+3.  Il paziente è stato preparato per l'intervento.
+4.  Il paziente viene consegnato alle cure del team [del reparto].
+
+SEZIONE 2 - RIFERIMENTI CLINICI (per il medico revisore)
+
+1 - [E1] - Appendicite, pag. 10-10: Infine, il quadro clinico, l'esame fisico e il punteggio clinico contribuiscono a determinare la probabilità pre-test di appendicite e quale modalità di imaging è più appropriata per un determinato paziente. Raccomandazioni per la ricerca Le raccomandazioni per la ricerca includono ulteriori studi di confronto tra le diverse modalità di imaging con esiti ed endpoint standardizzati, compreso il loro potenziale impatto negativo sull'assistenza, come l'esposizione alle radiazioni, il ritardo nella diagnosi o la necessità di anestesia per ottenere il test. KQ: I pazienti adulti e pediatrici con appendicite acuta non complicata dovrebbero essere gestiti in modo non operativo o operativo? Raccomandazione: Il gruppo di esperti suggerisce che i pazienti adulti e pediatrici con appendicite non complicata siano gestiti operativamente (raccomandazione condizionale basata su una bassa certezza delle prove negli adulti e su una bassissima certezza delle prove negli adulti).
+
+============================================================
+ORIGINAL RECOMMENDATIONS (for comparison)
+============================================================
+Si consiglia:
+• Paziente ricoverata presso U.O. Chirurgia Generale per appendicectomia laparoscopica in
+urgenza.
+• Si informa la paziente e i familiari presenti della diagnosi, del percorso chirurgico previsto e
+dei rischi correlati.
+• Si affida alla presa in carico del team chirurgico.

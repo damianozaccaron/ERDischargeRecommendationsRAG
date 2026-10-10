@@ -1,0 +1,19 @@
+MALE, 42 YEARS OLD
+Medical history:
+- Pathological proximate: The patient presents with retrosternal chest pain whilst lying on his back, which had been present for approximately 3 days and was not exacerbated by breathing or movement. He reported a dry cough lasting several weeks. He denied having a fever or shortness of breath.
+- Remote pathology: No known cardiovascular events or family history of such conditions. No history of diabetes. Normal weight. Former smoker of approximately half a packet a day; stopped smoking ten years ago. Previous Helicobacter pylori infection, eradicated approximately 5 years ago. Otherwise, no known medical conditions. Denies any drug allergies.
+
+Objective examination: Vesicular breath sounds present in all lung fields; no additional sounds. Heart sounds of normal-rate, rhythmic and with regular pauses. Abdomen soft to touch, not tender on superficial or deep palpation. Negative for CVA Tenderness and Blumberg’s signs. Cystic points are non-tender. No dependent oedema or signs of venous thrombosis.
+
+Clinical diary:
+- Venous access established and troponin, biochemistry, complete blood count and pro-BNP tests performed. An ECG was performed: sinus rhythm, no signs of ST-segment depression or elevation.
+- Arterial blood gas analysis was performed: physiological parameters
+- The patient was referred to radiology for a chest X-ray in two projections.
+- Test results reviewed: troponin <14, therefore negative. No signs of inflammation. Chest X-ray negative
+for acute findings.
+- 40 mg of pantoprazole administered in 100 cc of normal saline.
+- A bedside echocardiogram is performed: no pleural, pericardial or intra-abdominal effusion. No B-lines in the lung fields; good pleural sliding. Gallbladder normally distended; no gallstones visible using this technique. No bilateral hydronephrosis.
+- Within one hour, the symptoms had reduced until they had completely resolved. The patient was discharged home.
+
+Diagnosis: gastro-oesophageal reflux
+Prognosis: 4 days

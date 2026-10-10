@@ -1,0 +1,32 @@
+SEZIONE 1 - NOTA DI AMMISSIONE
+1. La paziente è ricoverata d'urgenza nel reparto di Ginecologia per un ricovero urgente, ulteriori indagini e valutazione della strategia terapeutica per una sospetta gravidanza extrauterina.
+2. La paziente e la famiglia sono state informate della diagnosi sospetta, del percorso terapeutico previsto e della necessità di un ricovero urgente con un linguaggio chiaro e adeguato all'età.
+3. La paziente è stata preparata per gli interventi previsti.
+4. La paziente viene consegnata alle cure del team di ginecologia.
+
+SEZIONE 2 - RIFERIMENTI CLINICI
+1 - [E1] - La diagnosi e la gestione della gravidanza ectopica extrauterina e uterina.
+2 - [E1] - Il potenziale impatto psicologico della gravidanza ectopica.
+3 - [E2] - Fattori di rischio, eziologia e patogenesi della gravidanza ectopica.
+4 - [E2] - Valutazione clinica e diagnosi della gravidanza ectopica.
+5 - [E2] - Gestione della gravidanza ectopica extrauterina.
+6 - [E2] - Assistenza a lungo termine della gravidanza ectopica.
+7 - [E3] - Rischio di gravidanza ectopica legato allo spessore dell'endometrio.
+8 - [E3] - Caratteristiche ecografiche delle gravidanze eutopiche ed ectopiche.
+9 - [E4] - Rischio di gravidanza ectopica nelle donne con e senza IUD.
+10 - [E4] - Fertilità ed esito riproduttivo dopo una gravidanza ectopica tubarica.
+11 - [E5] - Gravidanze ectopiche addominali precoci.
+12 - [E6] - Terminologia per descrivere le gravidanze in sede normale e quelle ectopiche all'ecografia.
+13 - [E7] - Efficacia diagnostica di una prima ecografia transvaginale nel rilevare una gravidanza ectopica.
+14 - [E8] - Utilizzo del rapporto hCG per selezionare le donne da sottoporre alla gestione medica o in attesa della gravidanza ectopica.
+15 - [E9] - La stimolazione ovarica aumenta il rischio di gravidanza ectopica per i trasferimenti di embrioni freschi.
+16 - [E10] - La combinazione di dapoxetina e lidocaina-prilocaina è approvata per il trattamento on-demand dell'EPP permanente.
+
+============================================================
+ORIGINAL RECOMMENDATIONS (for comparison)
+============================================================
+• Paziente ricoverata in urgenza presso U.O. Ginecologia e Ostetricia per ecografia
+transvaginale dedicata, monitoraggio del β-hCG e valutazione terapeutica.
+• Digiuno disposto in previsione di eventuale intervento chirurgico.
+• Monitoraggio dei parametri vitali garantito durante il trasferimento.
+• Si affida alla presa in carico del team ginecologico.

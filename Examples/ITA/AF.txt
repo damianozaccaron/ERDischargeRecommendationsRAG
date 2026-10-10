@@ -1,0 +1,21 @@
+MASCHIO, 71 AA
+Anamnesi:
+Patologica prossima: Il paziente accede per cardiopalmo e senso di irregolarità del battito cardiaco insorti circa 4 ore prima dell'accesso, associati a lieve astenia. Nega dolore toracico, sincope o pre-sincope. Riferisce episodio simile e autorisolto circa 3 mesi fa, non indagato. Nega dispnea.
+Patologica remota: Ipertensione arteriosa in terapia con amlodipina 5mg. Diabetico in terapia con metfromina. Non dislipidemia nota. Ex fumatore, circa 1 pacchetto/die per 30 anni, STOP quindici anni fa. Non noti eventi cardiovascolari né familiarità per aritmie. Nega farmacoallergie.
+
+Esame obiettivo: Paziente vigile, orientato, collaborante. Lievemente ansioso. Eupnoico a riposo. Murmure vescicolare presente in tutti gli ambiti polmonari, non rumori aggiunti. Toni cardiaci aritmici, pause non libere, frequenza cardiaca circa 110-120 bpm. Non soffi apprezzabili. Addome trattabile, non dolente. Giordano e Blumberg negativi. Non edemi declivi o segni di trombosi venosa profonda. PA 158/94 mmHg. FC 114 bpm. SpO2 97% aa. TC 36.5°C.
+
+Diario clinico:
+• Si esegue ECG immediato: fibrillazione atriale a risposta ventricolare rapida (FC 114 bpm), non segni di ischemia acuta, non alterazioni della ripolarizzazione. Primo riscontro documentato.
+• Reperito accesso venoso ed esecuzione di troponina, biochimica, emocromo, TSH, pro-BNP, elettroliti. Si esegue EGA arterioso: scambi fisiologici, lieve ipossiemia (PaO2 72 mmHg).
+• Si invia il paziente in radiologia per RX torace in 2 proiezioni: lieve incremento della trama vascolare ilare bilateralmente, non versamento pleurico franco, non addensamenti parenchimali. Modico ingrandimento dell'ombra cardiaca.
+• Si visionano gli esami: troponina <14, negativa. Non indici di flogosi significativi. Emocromo nella norma. TSH nella norma. Pro-BNP 480 pg/mL (lievemente elevato). Potassio 3.8 mEq/L. Sodio 139 mEq/L.
+• Si esegue eco bedside: non versamento pericardico. Modesta dilatazione atriale sinistra. Non linee B diffuse nei campi polmonari. Funzione sistolica del ventricolo sinistro visivamente conservata.
+• Si contatta la cardiologia di guardia per valutazione collegiale. Considerata la durata dell'episodio riferita dal paziente (circa 4 ore), si discute l'approccio: il paziente è emodinamicamente stabile, pertanto si decide per controllo della frequenza in prima istanza.
+• Si somministra metoprololo tartrato 5mg e.v. in monitoraggio continuo. Controllo ECG dopo 20 minuti: FA persistente, FC ridotta a 88 bpm. Paziente riferisce lieve miglioramento della sintomatologia.
+• Si informa il paziente della diagnosi, della necessità di terapia anticoagulante e del rischio tromboembolico correlato. Si calcola CHA₂DS₂-VASc: 3 punti ( secondo le linee guida ESC 2020). Indicazione alla terapia anticoagulante orale.
+• Si ricovera il paziente in cardiologia per approfondimento diagnostico, avvio di terapia anticoagulante e valutazione strategia ritmo vs frequenza in elezione.
+
+Diagnosi: FIBRILLAZIONE ATRIALE DI NUOVO RISCONTRO A RISPOSTA VENTRICOLARE RAPIDA
+
+Prognosi: ricovero

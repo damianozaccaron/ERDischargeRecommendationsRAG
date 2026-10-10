@@ -1,0 +1,18 @@
+FEMALE, 23 YEARS OLD
+Medical history:
+- Pathological proximate symptoms: The patient presented with pain in the right iliac fossa that had developed over the last 6 hours; the pain was of moderate intensity, did not radiate, and was accompanied by nausea but no vomiting. She denies having a fever. She reports having taken the morning-after pill approximately 10 days ago. Her last menstrual period was 5 weeks ago; her cycle is usually regular. She denies any vaginal bleeding at the time of presentation. 
+- Remote pathology: No known medical conditions. Previous appendectomy. No previous pregnancies. Was not taking any long-term medication at home. Denies any drug allergies. Objective examination: Patient is alert, oriented and cooperative. In pain. Vesicular breath sounds present in all lung fields; no additional sounds. Heart sounds at normal-rate, rhythmic, with clear intervals. Abdomen soft to touch, tender on palpation in the right iliac fossa and hypogastrium; no signs of overt peritonitis. Blumberg’s sign negative. CVA Tenderness negative. No dependent oedema in the lower limbs. Blood pressure 112/70 mmHg. Heart Rate 94 bpm. SpO₂ 99% on oxygen. Body Temperature 36.6°C.
+
+Clinical diary:
+• Venous access established and quantitative serum β-hCG, biochemistry, complete blood count, inflammatory markers, blood group and Rh factor determined. Qualitative urinary β-hCG test performed at the same time: positive.
+• An ECG was performed: sinus rhythm, no abnormalities.
+• Test results were reviewed: serum β-hCG 1,840 mIU/mL. Complete blood count: Hb 12.8 g/dL, no current anaemia. No significant inflammatory markers. Blood group: A positive.
+• Ketorolac 30 mg in 100 cc saline solution was administered for pain relief, with partial relief.
+• An E-FAST scan was performed: fluid collection in the Douglas pouch.
+• Given the positive β-hCG result and the pain in the right iliac fossa, the presentation is highly suggestive of an ectopic pregnancy. The gynaecology on-call service was contacted immediately.
+• The patient was assessed by the gynaecologist on call directly in A&E. An ultrasound scan is performed: the uterus is of normal size; no intrauterine gestational sac is visible. Right adnexa: a round para-ovarian mass of approximately 2 cm, with heterogeneous content, suspected to be an ectopic gestational sac. A modest amount of free fluid in the Douglas pouch. Left adnexa normal.
+• Indication for urgent hospitalisation for further investigation and assessment of the treatment strategy (medical vs surgical).
+• The patient is informed of the suspected diagnosis, the planned course of action and the need for urgent hospitalisation, using clear language appropriate to her age. The patient understands and consents.
+
+Diagnosis: suspected ectopic pregnancy
+Prognosis: urgent hospitalisation

@@ -1,0 +1,21 @@
+SEZIONE 1 - NOTA DI AMMISSIONE
+1. Il paziente è ricoverato nel reparto di Chirurgia Generale per l'appendicectomia e il monitoraggio clinico postoperatorio.
+2. Il paziente e la famiglia sono stati informati della diagnosi, del decorso clinico previsto che prevede il protocollo di trattamento operatorio, delle possibili complicanze e della necessità di monitoraggio, oltre che del percorso terapeutico previsto.
+3. Il paziente è stato preparato per l'intervento con l'avvio del digiuno e il consenso informato.
+4. Il paziente viene consegnato alle cure del team di Chirurgia Generale.
+
+SEZIONE 2 - RIFERIMENTI CLINICI (per il medico revisore)
+1 - [E1][E5] - Il gruppo di esperti suggerisce la gestione operativa per i pazienti adulti con appendicite non complicata, in quanto generalmente fornisce un beneficio clinico maggiore rispetto alla gestione non operativa.
+2 - [E3][E5] - L'intervento chirurgico fornisce una cura definitiva senza il rischio di recidiva, e la consulenza sul protocollo di trattamento, sulle potenziali complicanze e sui requisiti di monitoraggio si allinea ai principi del processo decisionale condiviso.
+3 - [E6] - Ottenere il consenso informato e valutare l'urgenza della procedura in un contesto multidisciplinare sono passi necessari prima di iniziare la gestione chirurgica.
+4 - [E6] - Il passaggio di consegne all'équipe chirurgica assicura una valutazione appropriata dell'urgenza assistenziale, la disponibilità di funzioni di supporto e una pianificazione perioperatoria ottimizzata.
+
+============================================================
+ORIGINAL RECOMMENDATIONS (for comparison)
+============================================================
+Si consiglia:
+• Paziente ricoverata presso U.O. Chirurgia Generale per appendicectomia laparoscopica in
+urgenza.
+• Si informa la paziente e i familiari presenti della diagnosi, del percorso chirurgico previsto e
+dei rischi correlati.
+• Si affida alla presa in carico del team chirurgico.

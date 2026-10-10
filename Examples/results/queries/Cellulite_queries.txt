@@ -1,0 +1,44 @@
+--- Query 1 ---
+[floor 0 | in Cellulitis, Endocarditis, SoftTissueInfections] retrieved 1, 4, 8 | scored 1, 8
+Recommended treatment for patients with erysipelas/cellulitis of the lower limb and infective endocarditis in an IDU.
+
+--- Query 2 ---
+[floor 0 | in Cellulitis, Endocarditis, SoftTissueInfections] retrieved none | scored none
+Recommendations for drug therapy and dosage in patients with erysipelas/cellulitis of the lower limb and infective endocarditis in an IDU.
+
+--- Query 3 ---
+[floor 0 | in Cellulitis, Endocarditis, SoftTissueInfections] retrieved 1, 8 | scored none
+Recommendations for monitoring of patients with erysipelas/cellulitis of the lower limb and infective endocarditis in an IDU.
+
+--- Query 4 ---
+[floor 0 | in Cellulitis, Endocarditis, SoftTissueInfections] retrieved 1 | scored none
+Recommendations for diagnosis and assessment of erysipelas/cellulitis of the lower limb and infective endocarditis in an IDU.
+
+--- Query 5 ---
+[floor 0 | in Cellulitis, Endocarditis, SoftTissueInfections] retrieved 1, 4, 6 | scored 4, 6
+Recommendations for complications in patients with erysipelas/cellulitis of the lower limb and infective endocarditis in an IDU.
+
+--- Query 6 ---
+[floor 1] retrieved 7, 8, 10 | scored 10 | filled floor with 10
+Recommendations for active intravenous drug use heroin in patients with infective endocarditis.
+
+--- Query 7 ---
+[floor 1] retrieved 2, 5, 7, 8, 9 | scored 2, 5 | filled floor with 2
+Recommendations for broad-spectrum empirical antibiotic therapy following the collection of blood cultures in patients with infective endocarditis.
+
+--- Query 8 ---
+[floor 1] retrieved 5, 9 | scored 9 | filled floor with 9
+Recommendations for vancomycin by slow infusion to cover methicillin-resistant Staphylococcus aureus MRSA in patients with infective endocarditis.
+
+--- Query 9 ---
+[floor 0] retrieved 1, 2, 3, 5, 7, 8 | scored 3, 7
+Recommendations for suggestive of a systemic bacterial infection in patients with infective endocarditis.
+
+--- Query 10 ---
+[floor 0] retrieved none | scored none
+Recommendations for erysipelas/cellulitis in an intravenous drug user in patients with erysipelas/cellulitis of the lower limb.
+
+--- Query 11 ---
+[floor 0] retrieved none | scored none
+Recommendations for high fever in patients with erysipelas/cellulitis of the lower limb.
+

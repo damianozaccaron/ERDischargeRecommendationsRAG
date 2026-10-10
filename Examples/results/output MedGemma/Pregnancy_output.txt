@@ -1,0 +1,18 @@
+SEZIONE 1 - NOTA DI AMMISSIONE
+1. Il paziente è ricoverato d'urgenza nel [reparto] per [interventi chiave pianificati].
+2. Il paziente e/o la famiglia sono stati informati della diagnosi, del decorso clinico previsto in base agli estratti della linea guida e del percorso terapeutico previsto.
+3. Il paziente è stato preparato per l'intervento chirurgico.
+4. Il paziente viene consegnato alle cure del team [del reparto].
+
+SEZIONE 2 - RIFERIMENTI CLINICI (per il medico revisore)
+1 - [E1] - Gravidanza extrauterina - La paziente è sospettata di avere una gravidanza extrauterina e le linee guida forniscono una revisione completa della letteratura pubblicata per riassumere le nuove evidenze ed esplorare i temi emergenti in relazione alla gravidanza ectopica.
+2 - [E9] - Gravidanza extrauterina - Si sospetta che la paziente abbia una gravidanza extrauterina e le linee guida forniscono una revisione completa della letteratura pubblicata per riassumere le nuove evidenze ed esplorare i temi emergenti in relazione alla gravidanza ectopica.
+
+============================================================
+ORIGINAL RECOMMENDATIONS (for comparison)
+============================================================
+• Paziente ricoverata in urgenza presso U.O. Ginecologia e Ostetricia per ecografia
+transvaginale dedicata, monitoraggio del β-hCG e valutazione terapeutica.
+• Digiuno disposto in previsione di eventuale intervento chirurgico.
+• Monitoraggio dei parametri vitali garantito durante il trasferimento.
+• Si affida alla presa in carico del team ginecologico.

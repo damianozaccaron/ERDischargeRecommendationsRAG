@@ -1,0 +1,40 @@
+## SEZIONE 1 - RACCOMANDAZIONI PER LA DIMISSIONE
+
+1. Continuare l'enoxaparina 8.000 UI (100 UI per kg) per via sottocutanea ogni 12 ore; la durata totale della terapia anticoagulante deve essere determinata dallo specialista.
+2. Interrompa la terapia contraccettiva orale con estrogeni e discuta con il suo medico di base o ginecologo di metodi contraccettivi alternativi non ormonali.
+3. Si raccomanda vivamente di smettere di fumare immediatamente, in quanto il fumo è un fattore di rischio significativo per la sua condizione.
+4. Indossi una calza a compressione graduata sulla gamba sinistra, come indicato dallo specialista.
+5. Si prescrive una valutazione da parte di un angiologo o di un internista per rivalutare la trombosi venosa profonda, definire la durata della terapia anticoagulante e fare uno screening della trombofilia.
+6. Si prescrive una valutazione ematologica per lo screening della trombofilia, data l'assenza di un chiaro fattore provocante diverso dall'uso di estrogeni e dal fumo.
+7. Monitorare i segni di trombocitopenia indotta dall'eparina: eseguire un emocromo con controllo delle piastrine entro 5 giorni dall'inizio dell'enoxaparina e successivamente secondo le indicazioni dello specialista.
+8. Evitare l'immobilizzazione prolungata; si incoraggia una camminata leggera se tollerata, ma evitare un'attività fisica faticosa fino alla revisione dello specialista.
+9. Si rechi immediatamente al pronto soccorso più vicino se avverte improvvisa mancanza di respiro, dolore toracico, tosse con sangue, peggioramento del gonfiore o del dolore alle gambe, cambiamenti del colore della pelle dell'arto interessato o qualsiasi segno di sanguinamento insolito.
+10. Verrà rinviato al suo medico di famiglia per qualsiasi ulteriore necessità diagnostica o terapeutica e per l'assistenza continua.
+
+## SEZIONE 2 - RIFERIMENTI CLINICI (per il medico revisore)
+
+1 - [E3][E2] - L'anticoagulazione è il trattamento standard per la trombosi venosa profonda del polpaccio confermata; la dose di enoxaparina è coerente con il regime di eparina a basso peso molecolare basato sul peso, come da nota clinica. La TVP del polpaccio comporta il rischio di recidiva, soprattutto in presenza di fattori di rischio come l'eziologia non provocata.
+2 - [E7] - La terapia contraccettiva orale è classificata come un fattore di rischio moderato per il tromboembolismo venoso (odds ratio 2-9) e deve essere interrotta in caso di trombosi venosa profonda confermata.
+3 - [E7] - Il fumo e l'uso di contraccettivi orali sono fattori predisponenti riconosciuti per il tromboembolismo venoso; la cessazione è fortemente consigliata per ridurre il carico di rischio cumulativo.
+4 - [E5] - La sindrome post-trombotica si sviluppa in una percentuale significativa di pazienti con trombosi venosa profonda degli arti inferiori; la terapia compressiva fa parte della gestione standard per attenuare la stasi venosa.
+5 - [E2][E3] - La trombosi venosa profonda del polpaccio richiede un follow-up specialistico per valutare l'estensione prossimale, definire la durata dell'anticoagulazione e valutare i fattori di rischio di recidiva (età, sesso, provocata rispetto a non provocata, coinvolgimento bilaterale rispetto a unilaterale).
+6 - [E8] - Il test di trombofilia è rilevante in questo giovane paziente con fattori provocatori limitati; le trombofilie ereditarie (fattore V Leiden, mutazione della protrombina G20210A, carenze di antitrombina/proteina C/proteina S) devono essere valutate per guidare le decisioni di anticoagulazione a lungo termine.
+7 - [E4] - Il sistema di punteggio 4Ts guida la valutazione della trombocitopenia indotta dall'eparina; il monitoraggio delle piastrine durante la terapia con eparina è una pratica standard, con una tempistica di caduta delle piastrine tipicamente tra il giorno 5 e il giorno 10.
+8 - [E3][E2] - La mobilizzazione precoce è generalmente raccomandata nella trombosi venosa profonda distale sotto anticoagulazione; l'immobilizzazione prolungata è di per sé un fattore di rischio per la tromboembolia venosa.
+9 - [E7][E2] - L'embolia polmonare è una complicanza riconosciuta della trombosi venosa profonda; i sintomi di allarme (dispnea, dolore toracico, emottisi) e i segni di estensione del trombo o di complicazioni emorragiche giustificano una rivalutazione di emergenza.
+10 - Raccomandazione generale per la continuità delle cure.
+
+============================================================
+ORIGINAL RECOMMENDATIONS (for comparison)
+============================================================
+Si consiglia:
+• Prosegua enoxaparina 8.000 UI s.c. ogni 12 ore fino a rivalutazione specialistica, oppure si
+imposti terapia con DOAC secondo indicazione dello specialista.
+• Sospenda immediatamente la pillola anticoncezionale e si rivolga al ginecologo per metodo
+contraccettivo alternativo non ormonale.
+• Si rilascia impegnativa per visita angiologica/ematologica e valutazione per trombofilia (da
+eseguire a distanza dalla fase acuta e dalla sospensione dell'anticoagulante).
+• Astensione dal fumo raccomandata con fermezza.
+• Se comparsa di dispnea, dolore toracico, emottisi o peggioramento del quadro locale,
+rientrare immediatamente presso il più vicino PS.
+• Si riaffida al medico curante per presa in carico e continuazione terapeutica.

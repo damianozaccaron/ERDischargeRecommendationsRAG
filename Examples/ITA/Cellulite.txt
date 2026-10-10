@@ -1,0 +1,20 @@
+MASCHIO, 47 AA
+Anamnesi:
+- Patologica prossima: Il paziente accede per tumefazione, arrossamento e calore alla gamba sinistra insorti da circa 5 giorni, progressivamente ingravescenti, associati a febbre elevata (max 39.4°C a domicilio) e brividi. Riferisce inoltre astenia marcata e inappetenza. Nega tosse, dispnea o dolore toracico. Non riferisce traumi recenti alla gamba.
+- Patologica remota: Paziente senza fissa dimora. Riferisce uso di sostanze stupefacenti per via endovenosa (eroina), attivo. Non patologie note formalmente diagnosticate. Non assume terapia domiciliare regolare. Non note allergie farmacologiche dichiarate. 
+
+Esame obiettivo: Paziente vigile, orientato, scarsamente collaborante. Condizioni generali scadute. Marcatamente deidratato, malnutrito. Igiene personale gravemente carente. Murmure vescicolare presente in tutti gli ambiti polmonari, non rumori aggiunti. Toni cardiaci tachicardici, ritmici. All'auscultazione cardiaca si apprezza soffio olosistolico 3/6 al mesocardio, irradiato verso l'ascella, non riferito in anamnesi né documentato in precedenti accessi. Addome trattabile, non dolente. Giordano e Blumberg negativi. Arto inferiore sinistro: placca eritematosa a margini netti ed irregolari estesa dalla caviglia al terzo medio della gamba, cute calda, edematosa, dolente allapalpazione. Presenti plurime cicatrici da venopuntura lungo le vene dell'avambraccio bilateralmente e del cavo popliteo sinistro. Non fluttuazione suggestiva di ascesso superficiale. Non edemi declivi controlaterali. PA 98/62 mmHg. FC 118 bpm. SpO2 96% aa. TC 39.1°C.
+
+Diario clinico:
+• Reperito accesso venoso con difficoltà per patrimonio venoso compromesso; esecuzione di emocolture x2 da siti distinti prima di ogni terapia antibiotica. Esecuzione di biochimica, emocromo, indici di flogosi, procalcitonina, coagulazione, funzionalità renale ed epatica, sierologie per HIV, HBV, HCV.
+• Si esegue ECG: tachicardia sinusale, FC 118 bpm, non alterazioni del tratto ST, non segni di disturbi della conduzione.
+• Si esegue EGA arterioso: lieve ipossiemia (PaO2 68 mmHg), alcalosi respiratoria compensatoria, lattati 2.8 mmol/L (lievemente elevati).
+• Si avvia infusione di soluzione fisiologica 500cc in bolo per ipotensione relativa, con miglioramento della PA a 108/68 mmHg. Si inizia monitoraggio continuo dei parametri vitali.
+• Si visionano gli esami: leucocitosi neutrofila marcata (GB 22.400/μL, N 89%). PCR 28.4 mg/dL. Procalcitonina 18.2 ng/mL (v.n. <0.5), marcatamente elevata, suggestiva per processo infettivo batterico sistemico. Creatinina 1.6 mg/dL (lieve insufficienza renale). AST/ALT lievemente elevate. Coagulazione: PT e aPTT ai limiti superiori. HIV negativo, HCV positivo, HBsAg negativo.
+• Si esegue eco bedside: non versamento pericardico. Non linee B diffuse. Funzione sistolica del ventricolo sinistro visivamente conservata. All'esame delle sezioni destre si apprezza immagine iperecogena mobile a livello della valvola tricuspide, sospetta per vegetazione. Non versamento pleurico significativo.
+• Considerato il quadro complessivo — erisipela/cellulite in paziente IVDU, febbre elevata, procalcitonina marcatamente elevata, lattati aumentati, soffio cardiaco di nuovo riscontro e reperto ecocardiografico sospetto — il quadro è fortemente suggestivo per endocardite infettiva con verosimile porta d'ingresso cutanea/da venopuntura. Si contatta urgentemente l'infettivologo di guardia. 
+• Si avvia terapia antibiotica empirica ad ampio spettro dopo esecuzione delle emocolture: vancomicina 25mg/kg in infusione lenta (peso stimato 65kg, dose 1.625mg arrotondata a 1.500mg) per copertura di stafilococco meticillino-resistente (MRSA), patogeno prioritario in paziente IVDU.
+• L'infettivologo valuta il paziente in PS e conferma l'indicazione al ricovero urgente per ecocardiografia transtoracica/transesofagea dedicata, monitoraggio delle emocolture e prosecuzione della terapia antibiotica mirata.
+
+Diagnosi: ERISIPELA/CELLULITE DELL'ARTO INFERIORE SINISTRO — SOSPETTA ENDOCARDITE INFETTIVA (verosimilmente su valvola tricuspide) IN PAZIENTE IVDU
+Prognosi: ricovero urgente

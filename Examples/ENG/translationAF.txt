@@ -1,0 +1,20 @@
+MALE, 71 YEARS OLD
+Medical history:
+Pathological proximate symptoms: The patient presents with palpitations and a sensation of an irregular heartbeat that began approximately 4 hours prior to presentation, accompanied by mild weakness. He denies chest pain, syncope or presyncope. He reports a similar episode that resolved spontaneously approximately 3 months ago; this was not investigated. He denies shortness of breath.
+Remote pathology: Hypertension managed with 5 mg amlodipine. Diabetic on metformin. No known dyslipidaemia. Former smoker, approximately 1 packet per day for 30 years; stopped smoking fifteen years ago. No known cardiovascular events or family history of arrhythmias. Denies any drug allergies.
+
+Objective examination: Patient alert, oriented and cooperative. Slightly anxious. Eupneic at rest. Vesicular breath sounds present in all lung fields; no additional sounds. Arrhythmic heart sounds, irregular rhythm, heart rate approximately 110–120 bpm. No audible murmurs. Abdomen soft to palpation, not tender. CVA Tenderness and Blumberg’s signs negative. No dependent oedema or signs of deep vein thrombosis. Blood pressure 158/94 mmHg. Heart Rate 114 bpm. SpO₂ 97% on air. Body Temperature 36.5°C.
+
+Clinical diary:
+• An ECG was performed immediately: atrial fibrillation with rapid ventricular response (Heart Rate 114 bpm), no signs of acute ischaemia, no abnormalities in repolarisation. First documented finding.
+• A venous line was established and troponin, biochemistry, complete blood count, TSH, pro-BNP and electrolytes were measured. Arterial blood gas analysis was performed: normal gas exchange, mild hypoxaemia (PaO₂ 72 mmHg).
+• The patient was referred to radiology for a chest X-ray in two views: mild increase in bilateral hilar vascular pattern, no clear pleural effusion, no parenchymal opacities. Slight enlargement of the cardiac shadow.
+• The test results are reviewed: troponin <14, negative. No significant markers of inflammation. Complete blood count within normal limits. TSH within normal limits. Pro-BNP 480 pg/mL (slightly elevated). Potassium 3.8 mEq/L. Sodium 139 mEq/L.
+• A bedside echocardiogram is performed: no pericardial effusion. Mild left atrial dilatation. No diffuse B-lines in the pulmonary fields. Left ventricular systolic function visually preserved.
+• The on-call cardiology team is contacted for a specialist consultation. Given the duration of the episode reported by the patient (approximately 4 hours), the management approach is discussed: the patient is haemodynamically stable; therefore, it is decided to control the heart rate as a first step.
+• 5 mg metoprolol tartrate is administered intravenously under continuous monitoring. ECG check after 20 minutes: persistent AF, Heart Rate reduced to 88 bpm. The patient reports a slight improvement in symptoms.
+• The patient is informed of the diagnosis, the need for anticoagulant therapy and the associated thromboembolic risk. The CHA₂DS₂-VASc score is calculated: 3 points (according to the 2020 ESC guidelines). Indication for oral anticoagulant therapy.
+
+Diagnosis: newly diagnosed atrial fibrillation with rapid ventricular response
+
+Prognosis: 4 days

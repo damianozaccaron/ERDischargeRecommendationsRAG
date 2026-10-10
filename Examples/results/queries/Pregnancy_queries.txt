@@ -1,0 +1,36 @@
+--- Query 1 ---
+[floor 0 | in ExtraUterinePregnancy] retrieved 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 | scored 1, 2, 3, 4, 5, 6, 7, 8, 10
+Recommended treatment for patients with ectopic pregnancy.
+
+--- Query 2 ---
+[floor 0 | in ExtraUterinePregnancy] retrieved 2, 3, 5, 6, 9 | scored none
+Recommendations for drug therapy and dosage in patients with ectopic pregnancy.
+
+--- Query 3 ---
+[floor 0 | in ExtraUterinePregnancy] retrieved 5, 6, 8, 9 | scored none
+Recommendations for monitoring of patients with ectopic pregnancy.
+
+--- Query 4 ---
+[floor 0 | in ExtraUterinePregnancy] retrieved 1, 3, 4, 5, 6, 8, 9 | scored 9
+Recommendations for diagnosis and assessment of ectopic pregnancy.
+
+--- Query 5 ---
+[floor 0 | in ExtraUterinePregnancy] retrieved 5, 6, 8, 9 | scored none
+Recommendations for complications in patients with ectopic pregnancy.
+
+--- Query 6 ---
+[floor 1] retrieved 2, 3, 5, 7, 9 | scored none | filled floor with 2
+Recommendations for ketorolac for pain relief in patients with ectopic pregnancy.
+
+--- Query 7 ---
+[floor 1] retrieved 4, 5, 6, 7, 8, 9 | scored none | filled floor with 5
+Recommendations for the planned course of action and the need for urgent hospitalisation in patients with ectopic pregnancy.
+
+--- Query 8 ---
+[floor 0] retrieved 3, 5, 6, 8, 9, 10 | scored none
+Recommendations for the presentation is highly suggestive of an ectopic pregnancy in patients with ectopic pregnancy.
+
+--- Query 9 ---
+[floor 0] retrieved 1, 3, 6, 9 | scored none
+Recommendations for a modest amount of free fluid in the Douglas pouch in patients with ectopic pregnancy.
+
