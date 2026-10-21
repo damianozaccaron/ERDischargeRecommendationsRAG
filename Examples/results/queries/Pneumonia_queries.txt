@@ -1,24 +1,32 @@
 --- Query 1 ---
-[floor 0 | in PleuralInfectionAdults, Pneumonia] retrieved 1, 5, 6, 8, 10 | scored 5, 8, 10
-Recommended treatment for patients with basal pneumonia.
+[floor 1] retrieved 6, 11 | scored 11 | filled floor with 11
+Oral amoxicillin is recommended as first-line antibiotic for low-severity community-acquired pneumonia in adults managed in the community, for a total course of 5 days
 
 --- Query 2 ---
-[floor 0 | in PleuralInfectionAdults, Pneumonia] retrieved 3, 5, 6, 8, 10 | scored 3
-Recommendations for drug therapy and dosage in patients with basal pneumonia.
+[floor 1] retrieved 3, 11 | scored 3 | filled floor with 3
+Amoxicillin-clavulanate is recommended for outpatient adults with community-acquired pneumonia when atypical coverage or a combination with a macrolide is considered
 
 --- Query 3 ---
-[floor 0 | in PleuralInfectionAdults, Pneumonia] retrieved 1, 4, 6, 8, 10 | scored 1, 4
-Recommendations for follow-up of patients with basal pneumonia.
+[floor 1] retrieved 1, 6, 8, 9 | scored 1, 6, 8, 9 | filled floor with 1
+Switch from intravenous to oral antibiotic therapy is recommended in community-acquired pneumonia when the patient is clinically stable and improving, without prolonging the total duration
 
 --- Query 4 ---
-[floor 0 | in PleuralInfectionAdults, Pneumonia] retrieved 1, 6, 8 | scored none
-Recommendations for lifestyle and risk factor management in patients with basal pneumonia.
+[floor 1] retrieved 2, 7, 10 | scored 2, 7, 10 | filled floor with 2
+The CRB-65 score is recommended to assess severity and guide home management of adults with community-acquired pneumonia
 
 --- Query 5 ---
-[floor 0 | in PleuralInfectionAdults, Pneumonia] retrieved 1, 6, 10 | scored 6
-Recommendations for complications and warning signs in patients with basal pneumonia.
+[floor 1] retrieved 4, 5, 6, 12 | scored none | filled floor with 12
+Patients with community-acquired pneumonia treated at home should be reassessed if symptoms do not improve within 3 days or worsen, with clinical review at 6 weeks
 
 --- Query 6 ---
-[floor 1] retrieved 2, 7, 9 | scored 2, 7, 9 | filled floor with 2
-Recommendations for amoxicillin + clavulanic acid administered intravenously in patients with basal pneumonia.
+[floor 1] retrieved 4, 12 | scored 4, 12 | filled floor with 4
+Patients with community-acquired pneumonia should be informed that fever resolves within a week, cough and breathlessness may persist for several weeks, and should seek review if worsening
+
+--- Query 7 ---
+[floor 1] retrieved 2, 4 | scored none
+A follow-up chest X-ray at 6 weeks is recommended only for patients with community-acquired pneumonia whose symptoms persist or who are at higher risk of lung malignancy
+
+--- Query 8 ---
+[floor 1] retrieved 5, 12 | scored 5
+Patients with community-acquired pneumonia who fail to respond to treatment should be evaluated for complications such as parapneumonic effusion, empyema or lung abscess
 

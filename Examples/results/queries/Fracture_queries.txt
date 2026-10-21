@@ -1,28 +1,32 @@
 --- Query 1 ---
-[floor 0 | in ChronicPelvicPain, UrologicalTrauma] retrieved none | scored none
-Recommended treatment for patients with fracture of the peroneal malleolus.
+[floor 1] retrieved 2, 7, 12 | scored 12
+Non-displaced isolated lateral malleolus fracture (Weber B stable ankle fracture) can be managed non-operatively with cast or boot immobilisation and early weight-bearing as tolerated
 
 --- Query 2 ---
-[floor 0 | in ChronicPelvicPain, UrologicalTrauma] retrieved 9 | scored 9
-Recommendations for drug therapy and dosage in patients with fracture of the peroneal malleolus.
+[floor 1] retrieved 7, 12 | scored 7
+Stable ankle fractures treated with immobilisation should have follow-up radiographs at one to two weeks to detect displacement or talar shift before continuing non-operative management
 
 --- Query 3 ---
-[floor 0 | in ChronicPelvicPain, UrologicalTrauma] retrieved none | scored none
-Recommendations for follow-up of patients with fracture of the peroneal malleolus.
+[floor 1] retrieved 1, 8, 9 | scored 1, 8, 9 | filled floor with 1
+Pharmacological thromboprophylaxis with low molecular weight heparin should be considered for patients with lower limb immobilisation in a plaster cast after ankle fracture based on VTE risk assessment
 
 --- Query 4 ---
-[floor 0 | in ChronicPelvicPain, UrologicalTrauma] retrieved none | scored none
-Recommendations for lifestyle and risk factor management in patients with fracture of the peroneal malleolus.
+[floor 1] retrieved 6, 8, 11 | scored 6, 11 | filled floor with 6
+Combined hormonal contraception use in women with lower limb plaster cast immobilisation increases venous thromboembolism risk and should be considered in thromboprophylaxis decisions
 
 --- Query 5 ---
-[floor 0 | in ChronicPelvicPain, UrologicalTrauma] retrieved 6 | scored 6
-Recommendations for complications and warning signs in patients with fracture of the peroneal malleolus.
+[floor 1] retrieved 4 | scored 4 | filled floor with 4
+Paracetamol and NSAIDs are recommended for analgesia in adults with ankle fracture managed in a cast
 
 --- Query 6 ---
-[floor 1] retrieved 1, 2, 3, 5, 10 | scored 1, 2, 3, 5, 10 | filled floor with 1
-Recommendations for paracetamol administered orally in patients with fracture of the peroneal malleolus.
+[floor 1] retrieved 5 | scored 5 | filled floor with 5
+Patients discharged in a lower limb plaster cast should be given written advice on cast care and to return urgently with increasing pain, numbness, swelling or colour change suggesting compartment syndrome
 
 --- Query 7 ---
-[floor 1] retrieved 4, 7, 8 | scored 4, 7, 8 | filled floor with 4
-Recommendations for a plaster cast in patients with fracture of the peroneal malleolus.
+[floor 1] retrieved 3 | scored 3 | filled floor with 3
+Patients with lower limb cast immobilisation should be advised to seek urgent care for calf pain, leg swelling, chest pain or breathlessness indicating deep vein thrombosis or pulmonary embolism
+
+--- Query 8 ---
+[floor 1] retrieved 2, 10 | scored 2, 10 | filled floor with 2
+Rehabilitation with physiotherapy, ankle range of motion exercises and progressive weight-bearing is recommended after removal of immobilisation for ankle fracture
 

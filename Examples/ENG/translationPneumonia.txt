@@ -1,21 +1,21 @@
-WOMAN, 52 YEARS OLD
+Female, 52 years old
 Medical history:
-- Pathological proximate: The patient presents with shortness of breath and a fever that had started approximately 2 days ago, which was partially relieved by paracetamol but was worsening. She denies having travelled recently. No chest pain. 
-- Remote pathology: No known cardiovascular events or family history of such conditions. No history of diabetes. Normal weight.
-Never a smoker. No known medical conditions. Denies any drug allergies.
+- Pathological proximate: The patient presents with dyspnoea and onset of fever for about 2 days, partially responsive to paracetamol and worsening. Denies recent travel. No chest pain. 
+- Remote pathology: No known cardiovascular events nor family history. Not affected by diabetes. Normal weight.
+Never smoker. No known diseases. Denies drug allergies.
 
 Objective examination:
-Vesicular breath sounds present in all lung fields; abnormal breath sounds in the right basal lung field. Heart sounds are normal-rate, rhythmic and with regular pauses. Abdomen is soft, not tender on superficial or deep palpation. CVA Tenderness and Blumberg’s signs are negative. Cystic points are non-tender. No dependent oedema or signs of venous thrombosis.
+Vesicular breath sounds present in all lung fields, pathological sounds in the right basal lung field. Heart sounds normal-rate, rhythmic and with no murmurs. Soft abdomen, not painful on superficial or deep palpation. CVA Tenderness and Blumberg negative. Cystic points non-tender. No dependent oedema or signs of venous thrombosis.
 
 Clinical diary:
-- Venous access established and biochemistry, complete blood count and pro-BNP tests performed. ECG performed: sinus rhythm, no signs of ST-segment depression or elevation.
-- 500 cc of RIII rehydration solution was administered
-- Arterial blood gas analysis was performed: normal gas exchange, PaO₂ at the lower limit of normal.
-- The patient was referred to radiology for a chest X-ray in two projections.
-- Test results are reviewed: C-reactive protein 78 and white blood cell count 14,000. No other abnormalities.
-- X-ray is reviewed: an opacity in the right lower lobe consistent with an ongoing inflammatory process.
-- A bedside echocardiogram is performed: no pleural, pericardial or intra-abdominal effusion. No B-lines in the lung fields; good pleural sliding. In the right basal region, an opacity is visible, consistent with an inflammatory focus as a preliminary diagnosis.
-- Amoxicillin 2 g + clavulanic acid 200 mg administered intravenously.
+- Venous access obtained and execution of biochemistry, complete blood count and pro-BNP. ECG performed: sinus rhythm, no signs of ST segment depression/elevation.
+- 500cc rehydrating solution RIII administered
+- Arterial blood gas performed: physiological exchanges, Po2 at lower limits.
+- The patient is sent to radiology for execution of chest X-ray in 2 projections.
+- The tests are reviewed: C-reactive protein 78 and white blood cells 14000. Nothing else abnormal.
+- X-ray reviewed: consolidation in right base compatible with ongoing inflammatory process.
+- Bedside ultrasound performed: no pleuro-pericardial or intra-abdominal effusion. No B-lines in the lung fields, valid pleural sliding. In the right basal site, visualisable opacity comaptible with inflammatory consolidation as first hypothesis.
+- Amoxicillin 2gr+clavulanic acid 200mg administered intravenously.
 
-Diagnosis: right basal pneumonia
-Prognosis: 10 days
+Diagnosis: RIGHT BASAL PNEUMONIA
+Prognosis: 10gg

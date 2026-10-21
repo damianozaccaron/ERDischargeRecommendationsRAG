@@ -1,24 +1,32 @@
 --- Query 1 ---
-[floor 0 | in Gastro-oesophagealReflux] retrieved 1, 2, 3, 4, 6, 7, 8 | scored 2, 3, 4, 6, 8
-Recommended treatment for patients with gastro-oesophageal reflux.
+[floor 1] retrieved 6 | scored none
+An 8-week course of a full-dose proton pump inhibitor such as pantoprazole 40 mg once daily is recommended for adults with gastro-oesophageal reflux disease presenting with heartburn or non-cardiac chest pain
 
 --- Query 2 ---
-[floor 0 | in Gastro-oesophagealReflux] retrieved 1, 2, 3, 4, 6, 7, 8 | scored none
-Recommendations for drug therapy and dosage in patients with gastro-oesophageal reflux.
+[floor 1] retrieved 6 | scored 6 | filled floor with 6
+Proton pump inhibitor therapy is recommended as an empirical diagnostic trial in patients with non-cardiac chest pain suspected to be due to gastro-oesophageal reflux disease after cardiac causes have been excluded
 
 --- Query 3 ---
-[floor 0 | in Gastro-oesophagealReflux] retrieved 1, 3, 4, 6, 7, 8 | scored 1, 7
-Recommendations for follow-up of patients with gastro-oesophageal reflux.
+[floor 1] retrieved 2 | scored 2 | filled floor with 2
+Chronic cough associated with gastro-oesophageal reflux disease may be treated with proton pump inhibitor therapy, with reassessment after 8 to 12 weeks
 
 --- Query 4 ---
-[floor 0 | in Gastro-oesophagealReflux] retrieved 1, 3, 4, 5, 6, 7, 9 | scored 5
-Recommendations for lifestyle and risk factor management in patients with gastro-oesophageal reflux.
+[floor 1] retrieved 1, 7, 8, 9, 10, 11, 12 | scored 1, 7, 8, 9, 10, 11, 12 | filled floor with 1
+Lifestyle measures including raising the head of the bed, avoiding late meals before lying down, and avoiding trigger foods, alcohol and caffeine are recommended in gastro-oesophageal reflux disease with nocturnal symptoms
 
 --- Query 5 ---
-[floor 0 | in Gastro-oesophagealReflux] retrieved 3, 4, 5, 6, 7, 9 | scored 9
-Recommendations for complications and warning signs in patients with gastro-oesophageal reflux.
+[floor 1] retrieved none | scored none
+After initial proton pump inhibitor therapy for gastro-oesophageal reflux disease, step down to the lowest effective dose or on-demand use and review long-term treatment need
 
 --- Query 6 ---
-[floor 1] retrieved 3, 6, 7, 10 | scored 10 | filled floor with 10
-Recommendations for pantoprazole administered in patients with gastro-oesophageal reflux.
+[floor 1] retrieved 4 | scored 4 | filled floor with 4
+Urgent endoscopy referral is recommended for patients with reflux symptoms and alarm features such as dysphagia, weight loss, gastrointestinal bleeding, anaemia or persistent vomiting
+
+--- Query 7 ---
+[floor 1] retrieved 4, 5 | scored 5 | filled floor with 5
+Endoscopy should be considered for gastro-oesophageal reflux disease symptoms not responding to proton pump inhibitor therapy, with testing for Helicobacter pylori in previously treated patients
+
+--- Query 8 ---
+[floor 1] retrieved 3 | scored 3 | filled floor with 3
+Patients with chest pain discharged after exclusion of acute coronary syndrome should seek urgent care if chest pain recurs with exertion, dyspnoea, sweating or radiation to the arm or jaw
 

@@ -1,20 +1,20 @@
-FEMALE, 28 YEARS OLD
+Female, 28 years old
 Medical history: 
-- Pathological proximate symptoms: The patient presented with abdominal pain that began approximately 12 hours prior to admission; the pain was initially diffuse and cramp-like, but gradually migrated and became localised in the right iliac fossa. This was accompanied by nausea and one episode of vomiting. She reports a low-grade fever in the evening over the past 24 hours (Body Temperature 37.8°C at home). She denies diarrhoea or changes in bowel habits. Her last menstruation was approximately 2 weeks ago; she has a regular cycle.
-- Remote pathology: No known medical conditions. No previous surgical procedures. Was not taking any medication at home. Denies any drug allergies.
+- Pathological proximate: The patient presents with abdominal pain that began approximately 12 hours before arrival, initially diffuse and cramp-like, progressively migrated and localised in the right iliac fossa. Associated nausea with one episode of vomiting. Reports evening low-grade fever in the last 24 hours (Body Temperature max 37.8°C at home). Denies diarrhoea or changes in bowel habits. Last menstruation approximately 2 weeks ago, regular cycle.
+- Remote pathology: No known pathologies. No previous surgical procedures. Was not taking home pharmacological therapy. Denies drug allergies.
 
-Objective examination: Patient alert, oriented and cooperative. In distress. Vesicular breath sounds present in all lung fields; no additional sounds. Heart sounds at normal-rate, rhythmic, with clear intervals. Abdomen tender to touch, markedly tender on palpation in the right iliac fossa. Positive Blumberg’s sign. Positive Rovsing’s sign. Negative CVA Tenderness. Cystic points non-tender. No dependent oedema of the lower limbs. BP 118/74 mmHg. Heart Rate 102 bpm. SpO₂ 99% on air. Body Temperature 38.1°C.
+Objective examination: Patient alert, oriented, cooperative. In distress. Vesicular breath sounds present in all lung fields, no added sounds. Heart sounds normal-rate, rhythmic, no murmurs. Soft abdomen, markedly painful on palpation in the right iliac fossa. Blumberg positive. Rovsing's sign positive. CVA Tenderness negative. Cystic points non-tender. No dependent oedema. BP 118/74 mmHg. Heart Rate 102 bpm. SpO2 99% RA. Body Temperature 38.1°C.
 
 Clinical diary:
-• Venous access established and biochemistry, complete blood count, inflammatory markers, urine pregnancy test (urinary β-hCG) and urinalysis performed.
-• ECG performed: sinus rhythm, reactive sinus tachycardia, no ST-segment changes.
-• Test results reviewed: neutrophilic leucocytosis (WBC 14,200/μL, N 84%). C-reactive protein 4.2 mg/dL. β-hCG negative. Urinalysis: within normal limits, ruling out acute urological pathology.
-• Ketorolac 30 mg in 100 cc of normal saline is administered for pain relief, and ondansetron 4 mg intravenously for nausea, with partial relief.
-• A bedside ultrasound is performed: no appreciable free intra-abdominal fluid is detected. No bilateral hydronephrosis. Appendix not visualisable using this technique due to gas interposition.
-• Given the clinical presentation, laboratory findings and the presence of appendicular signs, the patient was referred to radiology for a contrast-enhanced CT scan of the abdomen and pelvis.
-• CT report: Findings consistent with acute unperforated appendicitis.
-• The on-call general surgery team was contacted for a specialist consultation. The surgeon examined the patient and confirmed the need for surgery.
-• The patient is informed of the diagnosis and the need for surgery. Informed consent is obtained. Fasting is initiated and the patient is prepared for the operating theatre.
+• Venous access obtained and execution of biochemistry, complete blood count, inflammatory markers, urine pregnancy test (urinary β-hCG), urinalysis.
+• ECG performed: sinus rhythm, reactive sinus tachycardia, no ST segment changes.
+• Tests reviewed: neutrophilic leukocytosis (WBC 14.200/μL, N 84%). C-reactive protein 4.2 mg/dL. β-hCG negative. Urinalysis: within normal limits, excludes acute urological pathology.
+• Ketorolac 30mg in 100cc saline solution administered for analgesia and ondansetron 4mg IV for nausea, with partial benefit.
+• Bedside ultrasound performed: no appreciable free intra-abdominal effusion. No hydronephrosis bilaterally. Appendix not visualisable with this method due to gas interposition.
+• Considering the clinical picture, the laboratory findings and the positivity of the appendiceal signs, the patient is sent to radiology for abdominal CT and pelvis with contrast medium.
+• CT report: Finding compatible with non-perforated acute appendicitis.
+• The on-call general surgery is contacted for specialist consultation. The surgeon examines the patient and confirms the surgical indication.
+• The patient is informed of the diagnosis and of the need for surgery. Informed consent obtained. Fasting is started and the patient is prepared for the operating theatre.
 
-Diagnosis: acute appendicitis
-Prognosis: Hospitalisation
+Diagnosis: ACUTE APPENDICITIS
+Prognosis: hospitalisation

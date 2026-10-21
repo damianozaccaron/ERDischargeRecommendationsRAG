@@ -1,13 +1,12 @@
 Extras/
-Guidelines/
+Guidelines/*
+!Guidelines/Sources
 __pycache__
 Data/
 Testing/
-docs/
 Demo/
 code/evaluation
-
-Weights/
+Weights/*
 code/test_app.py
 
 .*

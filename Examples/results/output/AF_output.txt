@@ -1,219 +1,30 @@
-ROLE:
-You are an emergency department physician writing discharge recommendations for a patient. The document will be read by the patient and their general practitioner.
-
-CLINICAL NOTE:
-
-MALE, 71 YEARS OLD
-Medical history:
-Pathological proximate symptoms: The patient presents with palpitations and a sensation of an irregular heartbeat that began approximately 4 hours prior to presentation, accompanied by mild weakness. He denies chest pain, syncope or presyncope. He reports a similar episode that resolved spontaneously approximately 3 months ago; this was not investigated. He denies shortness of breath.
-Remote pathology: Hypertension managed with 5 mg amlodipine. Diabetic on metformin. No known dyslipidaemia. Former smoker, approximately 1 packet per day for 30 years; stopped smoking fifteen years ago. No known cardiovascular events or family history of arrhythmias. Denies any drug allergies.
-
-Objective examination: Patient alert, oriented and cooperative. Slightly anxious. Eupneic at rest. Vesicular breath sounds present in all lung fields; no additional sounds. Arrhythmic heart sounds, irregular rhythm, heart rate approximately 110–120 bpm. No audible murmurs. Abdomen soft to palpation, not tender. CVA Tenderness and Blumberg’s signs negative. No dependent oedema or signs of deep vein thrombosis. Blood pressure 158/94 mmHg. Heart Rate 114 bpm. SpO₂ 97% on air. Body Temperature 36.5°C.
-
-Clinical diary:
-• An ECG was performed immediately: atrial fibrillation with rapid ventricular response (Heart Rate 114 bpm), no signs of acute ischaemia, no abnormalities in repolarisation. First documented finding.
-• A venous line was established and troponin, biochemistry, complete blood count, TSH, pro-BNP and electrolytes were measured. Arterial blood gas analysis was performed: normal gas exchange, mild hypoxaemia (PaO₂ 72 mmHg).
-• The patient was referred to radiology for a chest X-ray in two views: mild increase in bilateral hilar vascular pattern, no clear pleural effusion, no parenchymal opacities. Slight enlargement of the cardiac shadow.
-• The test results are reviewed: troponin <14, negative. No significant markers of inflammation. Complete blood count within normal limits. TSH within normal limits. Pro-BNP 480 pg/mL (slightly elevated). Potassium 3.8 mEq/L. Sodium 139 mEq/L.
-• A bedside echocardiogram is performed: no pericardial effusion. Mild left atrial dilatation. No diffuse B-lines in the pulmonary fields. Left ventricular systolic function visually preserved.
-• The on-call cardiology team is contacted for a specialist consultation. Given the duration of the episode reported by the patient (approximately 4 hours), the management approach is discussed: the patient is haemodynamically stable; therefore, it is decided to control the heart rate as a first step.
-• 5 mg metoprolol tartrate is administered intravenously under continuous monitoring. ECG check after 20 minutes: persistent AF, Heart Rate reduced to 88 bpm. The patient reports a slight improvement in symptoms.
-• The patient is informed of the diagnosis, the need for anticoagulant therapy and the associated thromboembolic risk. The CHA₂DS₂-VASc score is calculated: 3 points (according to the 2020 ESC guidelines). Indication for oral anticoagulant therapy.
-
-Diagnosis: newly diagnosed atrial fibrillation with rapid ventricular response
-
-Prognosis: 4 days
-
-
-
-GUIDELINE EXCERPTS:
-
-[E1] (AtrialFibrillation, p.67-68)
-
-Table 17 ‘What to do’ and ‘what not to do’. Recommendations for heart rate control in patients with AF: Beta-blockers, diltiazem, verapamil, or digoxin are recommended as first-choice drugs in patients with AF and LVEF >40% to control heart rate and reduce symptoms. (I, B) Beta-blockers and/or digoxin are recommended in patients with AF and LVEF ≤40% to control heart rate and reduce symptoms. (I, B) Recommendations for general concepts in rhythm control: Electrical cardioversion is recommended in AF patients with acute or worsening haemodynamic instability to improve immediate patient outcomes. (I, C) Direct oral anticoagulants are recommended in preference to VKAs in eligible patients with AF undergoing cardioversion for thromboembolic risk reduction. (I, A) Therapeutic oral anticoagulation for at least 3 weeks (adherence to DOACs or INR ≥2.0 for VKAs) is recommended before scheduled cardioversion of AF and atrial flutter to prevent procedure-related thromboembolism. (I, B) Transoesophageal echocardiography is recommended if 3 weeks of therapeutic oral anticoagulation has not been provided, for exclusion of cardiac thrombus to enable early cardioversion. (I, B)
-
-
-[E2] (AtrialFibrillation, p.10-10)
-
-Table 3 New recommendations. Initiating oral anticoagulation—Section 6.1: Oral anticoagulation is recommended in patients with clinical AF at elevated thromboembolic risk to prevent ischaemic stroke and thromboembolism. (I, A) A CHADS-VA score of 2 or more is recommended as an indicator of elevated thromboembolic risk for decisions on initiating oral anticoagulation. (I, C) A CHADS-VA score of 1 should be considered an indicator of elevated thromboembolic risk for decisions on initiating oral anticoagulation. (IIa, C) Oral anticoagulation is recommended in all patients with AF and hypertrophic cardiomyopathy or cardiac amyloidosis, regardless of CHADS-VA score, to prevent ischaemic stroke and thromboembolism. (I, B) Individualized reassessment of thromboembolic risk is recommended at periodic intervals in patients with AF to ensure anticoagulation is started in appropriate patients. (I, B) Direct oral anticoagulant therapy may be considered in patients with asymptomatic device-detected subclinical AF and elevated thromboembolic risk to prevent ischaemic stroke and thromboembolism, excluding patients at high risk of bleeding. (IIb, B)
-
-
-[E3] (AtrialFibrillation, p.10-10)
-
-Table 3 New recommendations. Diagnostic evaluation of new AF—Section 3.4: A transthoracic echocardiogram is recommended in patients with an AF diagnosis where this will guide treatment decisions. (I, C) Principles of AF-CARE—Section 4.2: Education directed to patients, family members, caregivers, and healthcare professionals is recommended to optimize shared decision-making, facilitating open discussion of both the benefit and risk associated with each treatment option. (I, C) Access to patient-centred management according to the AF-CARE principles is recommended in all patients with AF, regardless of gender, ethnicity, and socioeconomic status, to ensure equality in healthcare provision and improve outcomes. (I, C) Patient-centred AF management with a multidisciplinary approach should be considered in all patients with AF to optimize management and improve outcomes. (IIa, B) [C] Comorbidity and risk factor management—Section 5: Diuretics are recommended in patients with AF, HF, and congestion to alleviate symptoms and facilitate better AF management. (I, C)
-
-
-[E4] (AtrialFibrillation, p.25-26)
-
-AF, atrial fibrillation; AF-CARE, Atrial fibrillation—[C] Comorbidity and risk factor management, [A] Avoid stroke and thromboembolism, [R] Reduce symptoms by rate and rhythm control, [E] Evaluation and dynamic reassessment; b.p.m., Permanent AF is a shared decision made between the patient and physician that no further attempts at restoration of sinus rhythm are planned. Note that the combination of betablockers with diltiazem or verapamil should only be used under specialist advice, and monitored with an ambulatory ECG to check for bradycardia. 5. [C] Comorbidity and risk factor management A broad array of comorbidities are associated with the recurrence and progression of AF. Managing comorbidities is also central to the success of other aspects of care for patients with AF, with evidence available for hypertension, heart failure, diabetes mellitus, obesity, and sleep apnoea, along with lifestyle changes that improve physical activity and reduce alcohol intake (see Supplementary data online, Additional Evidence Table S4).
-
-
-[E5] (AtrialFibrillation, p.39-39)
-
-Rate control is indicated as initial therapy in the acute setting, in combination with rhythm control therapies, or as the sole treatment strategy to control heart rate and reduce symptoms. Limited evidence exists to inform the best type and intensity of rate control treatment.The approach to heart rate control presented in Figure 7 can be used for all types of AF, including paroxysmal, persistent, and permanent AF. Beta-blockers and/or digoxin are recommended in patients with AF and LVEF ≤40% to control heart rate and reduce symptoms. Combination rate control therapy should be considered if a single drug does not control symptoms or heart rate in patients with AF, providing that bradycardia can be avoided, to control heart rate and reduce symptoms. Lenient rate control with a resting heart rate of < 110 b.p.m. should be considered as the initial target for patients with AF, with stricter control reserved for those with continuing AF-related Atrioventricular node ablation in combination with pacemaker implantation should be considered in patients unresponsive to, or ineligible for, intensive rate and rhythm control therapy to control heart rate and reduce symptoms.
-
-
-[E6] (AtrialFibrillation, p.32-32)
-
-Recommendation Table 7 — Recommendations for oral anticoagulation in AF. Direct oral anticoagulants are recommended in preference to VKAs to prevent ischaemic stroke and thromboembolism, except in patients with mechanical heart valves or moderate-to-severe mitral stenosis. (I, A) A target INR of 2.0–3.0 is recommended for patients with AF prescribed a VKA for stroke prevention to ensure safety and effectiveness. (I, B) Switching to a DOAC is recommended for eligible patients that have failed to maintain an adequate time in therapeutic range on a VKA (TTR <70%) to prevent thromboembolism and intracranial haemorrhage. (I, B) Keeping the time in therapeutic range above 70% should be considered in patients taking a VKA to ensure safety and effectiveness, with INR checks at appropriate frequency and patient-directed education and counselling. (IIa, A) Maintaining VKA treatment rather than switching to a DOAC may be considered in patients aged ≥75 years on clinically stable therapeutic VKA with polypharmacy to prevent excess bleeding risk. (IIb, B) A reduced dose of DOAC therapy is not recommended, unless patients meet DOAC-specific criteria,to prevent underdosing and avoidable thromboembolic events. (III, B)
-
-
-[E7] (AtrialFibrillation, p.22-23)
-
-sodium-glucose cotransporter-2; VKA, vitamin K antagonist. As part of a comprehensive management of cardiometabolic risk factors. Patient with first-diagnosed AF Follow AF-CARE for [C] comorbidity and risk factor management & [A] avoid stroke and thromboembolism Haemodynamically stable Initial rate control Electrical cardioversion Beta-blocker, digoxin, diltiazem or verapamil Beta-blocker or digoxin Combination rate control therapy (Class IIa) Combination rate control therapy (Class IIa) Cardioversion of symptomatic persistent AF Wait-and-see if sinus rhythm restores spontaneously <48 h (Class IIa) Figure 4 [R] Pathway for patients with first-diagnosed AF. AF, atrial fibrillation; AF-CARE, Atrial fibrillation—[C] Comorbidity and risk factor management, [A] Avoid stroke and thromboembolism, [R] Reduce symptoms by rate and rhythm control, [E] Evaluation and dynamic reassessment; LVEF, left ventricular ejection fraction. After following the pathway for first-diagnosed AF, patients with recurrent AF should enter the AF-CARE [R] pathway for paroxysmal, persistent, or permanent AF, depending on the type of their AF. Rate control target = resting heart rate <110 b.p.m. (lenient control),
-
-
-[E8] (AtrialFibrillation, p.30-30)
-
-Recommendation Table 6 — Recommendations to assess and manage thromboembolic risk in AF. A CHADS-VA score of 1 should be considered an indicator of elevated thromboembolic risk for decisions on initiating oral anticoagulation. (IIa, C) Direct oral anticoagulant therapy may be considered in patients with asymptomatic device-detected subclinical AF and elevated thromboembolic risk to prevent ischaemic stroke and thromboembolism, excluding patients at high risk of bleeding. (IIb, B) Antiplatelet therapy is not recommended as an alternative to anticoagulation in patients with AF to prevent ischaemic stroke and thromboembolism. (III, A) Using the temporal pattern of clinical AF (paroxysmal, persistent, or permanent) is not recommended to determine the need for oral anticoagulation. (III, B)
-
-
-[E9] (AtrialFibrillation, p.67-68)
-
-Table 17 ‘What to do’ and ‘what not to do’. Recommendations for oral anticoagulation in AF: A target INR of 2.0–3.0 is recommended for patients with AF prescribed a VKA for stroke prevention to ensure safety and effectiveness. (I, B) Switching to a DOAC is recommended for eligible patients that have failed to maintain an adequate time in therapeutic range on a VKA (TTR <70%) to prevent thromboembolism and intracranial haemorrhage. (I, B) A reduced dose of DOAC therapy is not recommended, unless patients meet DOAC-specific criteria, to prevent underdosing and avoidable thromboembolic events. (Recommendations for combining antiplatelet drugs with anticoagulants for stroke prevention, III, B) Adding antiplatelet treatment to oral anticoagulation is not recommended in AF patients for the goal of preventing ischaemic stroke or thromboembolism. (III, B) Recommendations for thromboembolism despite anticoagulation: Adding antiplatelet treatment to anticoagulation is not recommended in patients with AF to prevent recurrent embolic stroke. (III, B) Switching from one DOAC to another, or from a DOAC to a VKA, without a clear indication is not recommended in patients with AF to prevent recurrent embolic stroke. (III, B)
-
-
-[E10] (AcuteAndChronicHeartFailure, p.59-60)
-
-Recommendation Table 15 — Recommendations for management of atrial fibrillation in patients with heart failure. Cardioversion: Urgent cardioversion is recommended in the setting of DHF in patients presenting with rapid ventricular rates and haemodynamic instability to restore sinus rhythm. (I, C) Atrial fibrillation catheter ablation: Catheter ablation for AF should be considered in selectedpatients with symptomatic AF and HFrEF to improve QoL and reduce the risk of HFH or death. (IIa, C)
-
-
-[E11] (AtrialFibrillation, p.27-27)
-
-Recommendation Table 5 — Recommendations for comorbidity and risk factor management in AF. Identification and management of risk factors and comorbidities is recommended as an integral part of AF care. (I, B) Blood pressure lowering treatment is recommended in patients with AF and hypertension to reduce recurrence and progression of AF and prevent adverse cardiovascular events. (I, B) Diuretics are recommended in patients with AF, HF, and congestion to alleviate symptoms and facilitate better AF management. (I, C) Appropriate medical therapy for HF is recommended in AF patients with HF and impaired LVEF to reduce symptoms and/or HF hospitalization and prevent AF recurrence. (I, B) Sodium-glucose cotransporter-2 inhibitors are recommended for patients with HF and AF regardless of left ventricular ejection fraction to reduce the risk of HF hospitalization and cardiovascular death. (I, A) Effective glycaemic control is recommended as part of comprehensive risk factor management in individuals with diabetes mellitus and AF, to reduce burden, recurrence, and progression of AF. (I, C)
-
-
-[E12] (AtrialFibrillation, p.64-64)
-
-Type 2 diabetes mellitus The integrated care of type 2 diabetes, based on lifestyle and pharmacological treatments for comorbidities such as obesity, hypertension, and dyslipidaemia, are useful steps in preventing atrial remodelling and subsequent AF. Intensive glucose-lowering therapy targeting an HbA1c level of <6.0% (<42 mmol/mol) failed to show a protective effect on incident AF.More than glycaemic control per se, the class of glucose-lowering agent may influence the risk of AF.Insulin promotes adipogenesis and cardiac fibrosis, and sulfonylureas have been consistently associated with an increased risk of AF.Observational studies have associated metformin with lower rates of incident AF.Various recent studies and meta-analyses point to the positive role of SGLT2 inhibitors to reduce the risk of incident AF in diabetic and non-diabetic patients.Pooled data from 22 trials including 52 951 patients with type 2 diabetes and heart failure showed that SGLT2 inhibitors compared with placebo can significantly reduce the incidence of AF by 18% in studies on diabetes, and up to 37% in heart failure with or without type 2 diabetes. 10.5.4.
-
-
-GUIDELINE TABLES:
-
-[T1] (AtrialFibrillation, p.33-33) Table 11 Recommended doses for direct oral anticoagulant therapy
-
-| DOAC | Standard full dose | Criteria for dose reduction | Reduced dose only if criteria met |
-| --- | --- | --- | --- |
-| Apixaban | 5 mg twice daily | Two out of three needed for dose reduction: (i) age ≥80 years (ii) body weight ≤60 kg (iii) serum creatinine ≥133 mmol/L. | 2.5 mg twice daily |
-| Dabigatran | 150 mg twice daily | Dose reduction recommended if any apply: (i) age ≥80 years (ii) receiving concomitant verapamil. Dose reduction considered on an individual basis if any apply: (i) age 75–80 (ii) moderate renal impairment (creatinine clearance 30–50 mL/min) (iii) patients with gastritis, oesophagitis, or gastro-oesophageal reflux (iv) others at increased risk of bleeding. | 110 mg twice daily |
-| Edoxaban | 60 mg once daily | Dose reduction if any apply: (i) moderate or severe renal impairment (creatinine clearance 15–50 mL/min) (ii) body weight ≤60 kg (iii) concomitant use of ciclosporin, dronedarone, erythromycin, or ketoconazole. | 30 mg once daily |
-| Rivaroxaban | 20 mg once daily | Creatinine clearance 15–49 mL/min. | 15 mg once daily |
-
-
-[T2] (AtrialFibrillation, p.40-41) Table 12 Drugs for rate control in AF
-
-| Group | Agent | Intravenous administration | Usual range for oral maintenance dose | Contraindicated |
-| --- | --- | --- | --- | --- |
-| Beta-blockers | Metoprolol tartrate | 2.5–5 mg bolus over 2 mins; up to 15 mg maximal cumulative dose | 25–100 mg twice daily | In case of asthma, non-selective beta-blockers should be avoided. Contraindicated in acute HF and history of severe bronchospasm. |
-| Beta-blockers | Metoprolol XL (succinate) | N/A | 50–200 mg once daily | same as above |
-| Beta-blockers | Bisoprolol | N/A | 1.25–20 mg once daily | same as above |
-| Beta-blockers | Atenolol | N/A | 25–100 mg once daily | same as above |
-| Beta-blockers | Esmolol | 500 µg/kg i.v. bolus over 1 min; followed by 50–300 µg/kg/min | N/A | same as above |
-| Beta-blockers | Landiolol | 100 µg/kg i.v. bolus over 1 min; followed by 10–40 µg/kg/min | N/A | same as above |
-| Beta-blockers | Nebivolol | N/A | 2.5–10 mg once daily | same as above |
-| Beta-blockers | Carvedilol | N/A | 3.125–50 mg twice daily | same as above |
-| Non-dihydropyridine calcium channel antagonists | Verapamil | 2.5–10 mg i.v. bolus over 5 min | 40 mg twice daily to 480 mg (extended release) once daily | Contraindicated if LVEF ≤40%. Adapt doses in hepatic and renal impairment. |
-| Non-dihydropyridine calcium channel antagonists | Diltiazem | 0.25 mg/kg i.v. bolus over 5 min, then 5–15 mg/h | 60 mg three times daily to 360 mg (extended release) once daily | same as above |
-| Digitalis glycosides | Digoxin | 0.5 mg i.v. bolus (0.75–1.5 mg over 24 h in divided doses) | 0.0625–0.25 mg once daily | High plasma levels associated with adverse events. Check renal function before starting digoxin and adapt dose in CKD patients. |
-| Digitalis glycosides | Digitoxin | 0.4–0.6 mg | 0.05–0.1 mg once daily | same as above |
-| Other | Amiodarone | 300 mg i.v. diluted in 250 mL 5% dextrose over 30–60 min (preferably via central venous cannula), followed by 900–1200 mg i.v. over 24 h diluted in 500–1000 mL via a central venous cannula | 200 mg once daily after loading Loading: 200 mg three times daily for 4 weeks, then 200 mg daily or less as appropriate (reduce other rate control drugs according to heart rate) | Contraindicated in iodine sensitivity. Serious potential adverse effects (including pulmonary, ophthalmic, hepatic, and thyroid). Consider numerous drug interactions. |
-
-
-[T3] (AcuteAndChronicHeartFailure, p.36-37) Table 11 Evidence-based doses of disease-modifying drugs in key randomized trials in patients with heart failure
-
-| Group | Drug | Starting dose | Target dose |
-| --- | --- | --- | --- |
-| ACE-Is | Captopril | 6.25 mg t.i.d. | 50 mg t.i.d. |
-| ACE-Is | Enalapril | 2.5 mg b.i.d. | 10–20 mg b.i.d. |
-| ACE-Is | Lisinopril | 2.5–5 mg o.d. | 20–35 mg o.d. |
-| ACE-Is | Ramipril | 1.25–2.5 mg b.i.d. | 5 mg b.i.d. |
-| ACE-Is | Trandolapril | 0.5 mg o.d. | 4 mg o.d. |
-| ARNIs | Sacubitril–valsartan | 49/51 mg b.i.d. | 97/103 mg b.i.d. |
-| ARBs | Candesartan | 4 mg o.d. | 32 mg o.d. |
-| ARBs | Losartan | (12.5) 25–50 mg o.d. | 150 mg o.d. |
-| ARBs | Valsartan | 40 mg b.i.d. | 160 mg b.i.d. |
-| Beta-blockers | Bisoprolol | 1.25 mg o.d. | 10 mg o.d. |
-| Beta-blockers | Carvedilol | 3.125 mg b.i.d. | 25 mg b.i.d. |
-| Beta-blockers | Metoprolol succinate (CR/XL) | 12.5–25 mg o.d. | 200 mg o.d. |
-| Beta-blockers | Nebivolol | 1.25 mg o.d. | 10 mg o.d. |
-| Steroidal | Eplerenone | 25 mg o.d. | 50 mg o.d. |
-| Steroidal | Spironolactone | 12.5–25 mg o.d. | 50 mg o.d. |
-| Non-steroidal | Finerenone | 10–20 mg o.d. | 20–40 mg o.d. |
-| SGLT2-Is | Dapagliflozin | 10 mg o.d. | 10 mg o.d. |
-| SGLT2-Is | Empagliflozin | 10 mg o.d. | 10 mg o.d. |
-| Other agents | Digoxin | 62.5 µg o.d. | 250 µg o.d. |
-| Other agents | Digitoxin | 0.07 mg o.d. | 0.1 mg o.d. |
-| Other agents | Ivabradine | 5 mg b.i.d. | 7.5 mg b.i.d. |
-| Other agents | Vericiguat | 2.5 mg o.d. | 10 mg o.d. |
-| Other agents | Hydralazine/isosorbide dinitrate | 37.5 mg t.i.d./20 mg t.i.d. | 75 mg t.i.d./40 mg t.i.d. |
-
-
-[T4] (AcuteAndChronicHeartFailure, p.13-15) Table 6 Revised recommendations
-
-| Group | Recommendations in 2021 version | Class | Level | Recommendations in 2026 version | Class | Level |
-| --- | --- | --- | --- | --- | --- | --- |
-| Advanced heart failure—Section 8 | Continuous inotropes and/or vasopressors may be considered in patients with low cardiac output and evidence of organ hypoperfusion as bridge to MCS or heart transplantation. | IIb | C | Continuous inotropes should be considered in patients with advanced HFrEF, low cardiac output, and evidence of hypoperfusion or end-organ dysfunction, as BTD, BTT, or as bridge to durable MCS, to increase cardiac output and improve symptoms. | IIa | C |
-| Advanced heart failure—Section 8 | Long-term MCS should be considered in patients with advanced HFrEF despite optimal medical and device therapy, not eligible for heart transplantation or other surgical options, and without severe right ventricular dysfunction, to reduce the risk of death and improve symptoms. | IIa | A | Durable MCS (LVAD) is recommended in selected patients with advanced HFrEF, despite FMT and GDIT, as BTT, BTC, BTR, or as destination therapy to improve symptoms and reduce the risk of death. | I | C |
-| Advanced heart failure—Section 8 | Long-term MCS should be considered in patients with advanced HFrEF refractory to optimal medical and device therapy as a bridge to cardiac transplantation in order to improve symptoms, reduce the risk of HF hospitalization and the risk of premature death. | IIa | B | same as above | I | C |
-| Cardiovascular comorbidities—Section 9 | Beta-blockers should be considered for short- and long-term rate control in patients with HF and AF. | IIa | B | Beta-blockers are recommended in stable patients with HFrEF and AF as first-line therapy for short- and long-term rate control. | I | C |
-| Cardiovascular comorbidities—Section 9 | In cases of a clear association between paroxysmal or persistent AF and worsening of HF symptoms, which persist despite MT, catheter ablation should be considered for the prevention or treatment of AF. | IIa | B | Catheter ablation for AF should be considered in selected patients with symptomatic AF and HFrEF to improve QoL and reduce the risk of HFH or death. | IIa | C |
-| Cardiovascular comorbidities—Section 9 | Coronary revascularization should be considered to relieve persistent symptoms of angina (or an angina-equivalent) in patients with HFrEF, CCS, and coronary anatomy suitable for revascularization, despite OMT including antianginal drugs. | IIa | C | Coronary revascularization is recommended in patients with HF, obstructive CAD, and persistent angina, despite FMT for HF and antianginal drugs, to relieve symptoms. | I | C |
-| Cardiovascular comorbidities—Section 9 | Aortic valve intervention, TAVI or SAVR, is recommended in patients with HF and severe high-gradient aortic stenosis to reduce mortality and improve symptoms. | I | B | Aortic valve intervention, SAVR or TAVI, is recommended in patients with severe aortic stenosis and HF to improve symptoms and reduce the risk of death. | I | B1 |
-| Cardiovascular comorbidities—Section 9 | Percutaneous edge-to-edge mitral valve repair should be considered in carefully selected patients with secondary mitral regurgitation, not eligible for surgery and not needing coronary revascularization, who are symptomatic despite OMT and who fulfil criteria for achieving a reduction in HF hospitalizations. | IIa | B | Mitral transcatheter edge-to-edge repair is recommended in haemodynamically stable, symptomatic patients with HFrEF and persistent severe secondary mitral regurgitation despite optimized FMT and CRT if indicated, who fulfil specific clinical and echocardiographic criteria, in order to reduce the risk of HFH and improve QoL. | I | B1 |
-
-
-TASK:
-Write the discharge recommendations: exactly the two sections below, in plain text, with nothing before, between or after them.
-Base the recommendations on the excerpts and tables that concern this patient's diagnosis or a condition treated in this visit (the treatment, measures and follow-up they recommend after discharge, and any home medication they say to stop), together with what the clinical note records (therapy begun in the emergency department, specialist advice). The excerpts were retrieved automatically and some may concern other conditions: ignore those.
-
-SECTION 1 — DISCHARGE RECOMMENDATIONS
-A numbered list of instructions for the patient. Go through these groups in this order, one instruction per item, and skip every group where nothing applies:
-a. Medications to start, including a therapy begun in the emergency department that goes on at home: "Take [drug] [dose] [route] [frequency]." or "Continue [drug] [dose] [route] [frequency]."
-b. Medications to stop or change: "Stop [drug]." or "Stop [drug] and take [drug] [dose] [route] [frequency] instead."
-c. Other treatments and self-care measures, as direct instructions, including the care of anything applied in the emergency department (cast, splint, dressing).
-d. Lifestyle changes (smoking, alcohol, diet, exercise): "[Change] is strongly recommended." Only what needs to change or start; say nothing about what the patient already does right.
-e. Follow-up visits, tests and specialist referrals: "A prescription is issued for [specialist type] evaluation for [clinical purpose]." or "A prescription is issued for [test] for [clinical purpose]." Take the specialist type from the clinical note when it names one.
-f. Always: "Go to the nearest emergency department immediately if you experience [warning symptoms for this diagnosis]."
-g. Always, last: "You are referred back to your general practitioner for any further diagnostic or therapeutic needs and ongoing care."
-
-Medications:
-- Never mention a medication the patient already takes and keeps taking unchanged: the patient goes on with it without being told. Mention a home medication only to stop or change it, and only when the clinical note or an excerpt that applies to this visit calls for it.
-- Give every medication you mention its dose, route and frequency. Take them from the excerpts or tables when they state them, otherwise copy them exactly from the clinical note; where neither states them, write "as directed by the specialist" in their place. Intravenous therapy does not go on at home: give the oral form when the excerpts or tables state it.
-- A dose may come from a cited table: copy the value or range exactly as written, never compute or interpolate. Where a table distinguishes routes, use the oral maintenance column and ignore intravenous ones. Before starting a drug from a table, check its contraindication or criteria columns against the clinical note; if one applies, do not start it.
-- Stopping a medication and its replacement is one item. Never put a medication and a non-medication instruction in the same item.
-
-Every item:
-- One or two sentences. No reasons or explanations (no "because", no "to reduce the risk of"), no speculation about future treatment (duration of therapy, drug switches), no citations, no bold, headers or sub-bullets.
-- If the patient needs a decision that the excerpts do not cover, such as the further work-up of the problem of this visit, do not make it: issue the referral of group e instead. Refer only for the problem of this visit, never for chronic conditions it did not concern.
-- Never write the same instruction twice in different words.
+SECTION 1 — ADMISSION NOTE
+1. The patient is admitted urgently to the Cardiology department for diagnostic work-up, initiation of anticoagulant therapy and elective evaluation of rhythm vs rate strategy.
+2. The patient has been informed of the diagnosis and the planned care pathway.
+3. The patient is handed over to the care of the Cardiology team.
 
 SECTION 2 — CLINICAL REFERENCES (for the reviewing physician)
-One line for every item of Section 1, with its number, in this format:
-[number] - [sources] - [one-sentence clinical justification]
-[sources] is always one of:
-- the excerpts or tables that support the item. Cite each source by copying the (document, pages) shown next to its [E#] or [T#] label, never the label itself, and each distinct source once. Cite only a source that states what the item says.
-- (Clinical note) when the item rests on the clinical note and no excerpt supports it. When both do, write the excerpts and then (Clinical note).
-- (No guideline source) when neither an excerpt nor the clinical note supports it.
+1 - (AtrialFibrillation, p.67-68)(AtrialFibrillation, p.43-43)(AtrialFibrillation, p.11-12)(AtrialFibrillation, p.39-39)(Clinical note) - Oral anticoagulation is indicated by the elevated thromboembolic risk score recorded in the clinical note, and the choice between rate control and rhythm control is to be defined electively, with rhythm control to be considered within 12 months of diagnosis.
+2 - (Clinical note) - The patient was informed of the diagnosis, the need for anticoagulant therapy and the related thromboembolic risk.
+3 - (No guideline source) - Standard handover item.
 
-Example of the format only, for a different patient who takes ramipril and ibuprofen at home (ramipril goes on unchanged, so it is not mentioned):
-SECTION 1 — DISCHARGE RECOMMENDATIONS
-1. Stop ibuprofen and take diclofenac 75 mg orally every 12 hours instead.
-2. Drinking at least 2 litres of water a day is strongly recommended.
-3. A prescription is issued for urologist evaluation for management of the ureteral stone.
-4. Go to the nearest emergency department immediately if you experience fever, persistent vomiting or pain not controlled by the prescribed therapy.
-5. You are referred back to your general practitioner for any further diagnostic or therapeutic needs and ongoing care.
+TRADUZIONE IN ITALIANO
 
-SECTION 2 — CLINICAL REFERENCES (for the reviewing physician)
-1 - (RenalColic, p.6-6)(RenalColic, p.8-9) - Diclofenac is first-line analgesia for renal colic; ibuprofen stopped to avoid two NSAIDs.
-2 - (RenalColic, p.12-12) - High fluid intake reduces stone recurrence.
-3 - (Clinical note) - Urology follow-up requested by the on-call urologist.
-4 - (RenalColic, p.4-4) - Fever with an obstructed kidney needs urgent decompression.
-5 - (No guideline source) - Standard closing item.
+SEZIONE 1 — NOTA DI RICOVERO
+1. Il paziente viene ricoverato urgentemente presso il reparto di Cardiologia per inquadramento diagnostico, avvio della terapia anticoagulante e valutazione elettiva della strategia di controllo del ritmo vs controllo della frequenza.
+2. Il paziente è stato informato della diagnosi e del percorso assistenziale previsto.
+3. Il paziente viene affidato alle cure dell'équipe di Cardiologia.
 
+SEZIONE 2 — RIFERIMENTI CLINICI (per il medico revisore)
+1 - (AtrialFibrillation, p.67-68)(AtrialFibrillation, p.43-43)(AtrialFibrillation, p.11-12)(AtrialFibrillation, p.39-39)(Clinical note) - La terapia anticoagulante orale è indicata dall'elevato punteggio di rischio tromboembolico riportato nella nota clinica, e la scelta tra controllo della frequenza e controllo del ritmo deve essere definita in elezione, considerando il controllo del ritmo entro 12 mesi dalla diagnosi.
+2 - (Clinical note) - Il paziente è stato informato della diagnosi, della necessità di terapia anticoagulante e del relativo rischio tromboembolico.
+3 - (No guideline source) - Elemento standard del passaggio di consegne.
 
-RULES:
-- Use ONLY the clinical note and the excerpts that apply to it. Do not rely on prior medical knowledge.
-- Do NOT invent drug names, doses, frequencies or clinical facts.
-- When several excerpts support the same instruction, write one item and cite them all.
-- Section 1 must be usable as a discharge document with no editing.
-- Before answering, check that no unchanged home medication appears in Section 1 and that every line of Section 2 has the number of its item and sources in one of the three forms above.
+============================================================
+ORIGINAL RECOMMENDATIONS (for comparison)
+============================================================
+Si consiglia:
+• Paziente ricoverato presso U.O. Cardiologia per monitoraggio, ecocardiogramma
+transtoracico dedicato, avvio di terapia anticoagulante orale (DOAC) e valutazione in
+elezione della strategia terapeutica.
+• Si informa il paziente e i familiari presenti della diagnosi e del percorso previsto.

@@ -1,44 +1,32 @@
 --- Query 1 ---
-[floor 0 | in VenousThrombosis] retrieved 1, 2, 8, 10 | scored 1, 10
-Recommended treatment for patients with deep vein thrombosis of the gastrocnemius veins.
+[floor 1] retrieved 1, 2, 5, 8 | scored 1, 5, 8 | filled floor with 1
+Anticoagulation for 3 months is recommended in patients with symptomatic isolated distal deep vein thrombosis of the calf muscle veins rather than serial ultrasound surveillance
 
 --- Query 2 ---
-[floor 0 | in VenousThrombosis] retrieved 1, 2, 3, 5, 7, 8 | scored 7
-Recommendations for drug therapy and dosage in patients with deep vein thrombosis of the gastrocnemius veins.
+[floor 1] retrieved 3, 6, 11 | scored 3, 6, 11 | filled floor with 3
+Direct oral anticoagulants such as rivaroxaban or apixaban are recommended over vitamin K antagonists for treatment of deep vein thrombosis provoked by combined oral contraceptive use
 
 --- Query 3 ---
-[floor 0 | in VenousThrombosis] retrieved 1, 2, 8 | scored none
-Recommendations for follow-up of patients with deep vein thrombosis of the gastrocnemius veins.
+[floor 1] retrieved 5, 8, 10, 12 | scored 10, 12 | filled floor with 5
+Low molecular weight heparin enoxaparin 1 mg/kg twice daily is recommended for initial treatment of deep vein thrombosis followed by oral anticoagulation
 
 --- Query 4 ---
-[floor 0 | in VenousThrombosis] retrieved 1, 2, 6, 8, 9, 10 | scored none
-Recommendations for lifestyle and risk factor management in patients with deep vein thrombosis of the gastrocnemius veins.
+[floor 1] retrieved none | scored none
+Combined oestrogen-progestogen oral contraceptives should be discontinued in women with venous thromboembolism and switched to progestogen-only or non-hormonal contraception
 
 --- Query 5 ---
-[floor 0 | in VenousThrombosis] retrieved 1, 2, 10 | scored none
-Recommendations for complications and warning signs in patients with deep vein thrombosis of the gastrocnemius veins.
+[floor 1] retrieved 9 | scored 9 | filled floor with 9
+Women of childbearing potential receiving direct oral anticoagulants or warfarin should use effective contraception and be counselled on teratogenicity and pregnancy planning
 
 --- Query 6 ---
-[floor 1] retrieved 1, 4, 6, 9 | scored none | filled floor with 4
-Recommendations for oral oestrogen-progestogen contraceptive pill in patients with deep vein thrombosis.
+[floor 1] retrieved 4 | scored 4 | filled floor with 4
+Smoking cessation is recommended in patients with venous thromboembolism using combined hormonal contraception to reduce recurrent thrombosis risk
 
 --- Query 7 ---
-[floor 1] retrieved 1, 4, 5, 6, 8, 9, 10 | scored none | filled floor with 10
-Recommendations for has smoked approximately one packet a day in patients with deep vein thrombosis.
+[floor 1] retrieved 2, 6, 7, 8 | scored 2, 7 | filled floor with 2
+Repeat compression ultrasonography is recommended to assess proximal extension of isolated distal deep vein thrombosis and reassess anticoagulation duration at 3 months
 
 --- Query 8 ---
-[floor 1] retrieved 1, 2, 3, 4, 5, 6, 8, 9 | scored 2, 3, 4, 5, 6, 8, 9 | filled floor with 2
-Recommendations for anticoagulant therapy in patients with deep vein thrombosis.
-
---- Query 9 ---
-[floor 1] retrieved 1, 2, 3, 4, 5, 8 | scored none | filled floor with 3
-Recommendations for enoxaparin subcutaneously in patients with deep vein thrombosis.
-
---- Query 10 ---
-[floor 1] retrieved 1, 2, 4, 5, 8 | scored none | filled floor with 5
-Recommendations for the first dose administered in A&E in patients with deep vein thrombosis.
-
---- Query 11 ---
-[floor 0] retrieved 1, 2, 5, 10 | scored none
-Recommendations for unilateral oedema in patients with deep vein thrombosis.
+[floor 1] retrieved 5 | scored none
+Patients with deep vein thrombosis should seek urgent care for symptoms of pulmonary embolism such as dyspnoea, chest pain or haemoptysis, or for bleeding on anticoagulation
 

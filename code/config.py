@@ -9,13 +9,13 @@ USE_LAYOUT = True
 INGESTION_WORKERS = 0
 
 # True skips LLM generation, used to test retrieval quality.
-RETRIEVAL_ONLY = True
+RETRIEVAL_ONLY = False
 
 # Use DeepL pre-translated files to save characters usage and ensure reproducibility.
 USE_EXISTING_TRANSLATION = False
 
 # Query building. False uses rule-based queries, true LLM-made ones. QUERY_MODEL picks the writer through OpenRouter
-LLM_QUERIES = False
+LLM_QUERIES = True
 QUERY_MODEL = "anthropic/claude-opus-5.5"
 
 # Translation of the note when USE_EXISTING_TRANSLATION is False.

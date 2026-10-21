@@ -1,36 +1,32 @@
 --- Query 1 ---
-[floor 0 | in ExtraUterinePregnancy] retrieved 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 | scored 1, 2, 3, 4, 5, 6, 7, 8, 10
-Recommended treatment for patients with ectopic pregnancy.
+[floor 1] retrieved 3, 8, 11 | scored 3 | filled floor with 3
+Methotrexate is recommended for women with tubal ectopic pregnancy, serum hCG below 5000 IU/L, no significant pain, no intrauterine pregnancy and adnexal mass under 35 mm
 
 --- Query 2 ---
-[floor 0 | in ExtraUterinePregnancy] retrieved 2, 3, 5, 6, 9 | scored none
-Recommendations for drug therapy and dosage in patients with ectopic pregnancy.
+[floor 1] retrieved 12 | scored 12 | filled floor with 12
+Laparoscopic salpingectomy is recommended for tubal ectopic pregnancy when the contralateral tube is healthy, with surgical management offered for significant pain, haemoperitoneum or rupture
 
 --- Query 3 ---
-[floor 0 | in ExtraUterinePregnancy] retrieved 5, 6, 8, 9 | scored none
-Recommendations for monitoring of patients with ectopic pregnancy.
+[floor 1] retrieved 8, 11 | scored 11 | filled floor with 11
+Single-dose intramuscular methotrexate 50 mg/m2 should be given, with serum hCG measured on days 4 and 7 and a second dose if hCG falls less than 15%
 
 --- Query 4 ---
-[floor 0 | in ExtraUterinePregnancy] retrieved 1, 3, 4, 5, 6, 8, 9 | scored 9
-Recommendations for diagnosis and assessment of ectopic pregnancy.
+[floor 1] retrieved 1, 5, 6, 8, 9, 11 | scored 1, 5, 6, 8, 9 | filled floor with 1
+Before methotrexate, full blood count, renal and liver function tests are required and women must be able to attend follow-up
 
 --- Query 5 ---
-[floor 0 | in ExtraUterinePregnancy] retrieved 5, 6, 8, 9 | scored none
-Recommendations for complications in patients with ectopic pregnancy.
+[floor 1] retrieved 3 | scored none
+Expectant management may be offered for clinically stable women with tubal ectopic pregnancy, hCG below 1500 IU/L and declining, with serial hCG monitoring
 
 --- Query 6 ---
-[floor 1] retrieved 2, 3, 5, 7, 9 | scored none | filled floor with 2
-Recommendations for ketorolac for pain relief in patients with ectopic pregnancy.
+[floor 1] retrieved 8, 11 | scored none
+Women should be warned of tubal rupture risk after methotrexate and advised to seek urgent care for increasing abdominal pain or signs of haemodynamic instability
 
 --- Query 7 ---
-[floor 1] retrieved 4, 5, 6, 7, 8, 9 | scored none | filled floor with 5
-Recommendations for the planned course of action and the need for urgent hospitalisation in patients with ectopic pregnancy.
+[floor 1] retrieved 2, 7, 8 | scored 2, 7 | filled floor with 2
+After methotrexate, women should avoid pregnancy for at least 3 months and avoid folic acid, NSAIDs, alcohol and sexual intercourse during treatment
 
 --- Query 8 ---
-[floor 0] retrieved 3, 5, 6, 8, 9, 10 | scored none
-Recommendations for the presentation is highly suggestive of an ectopic pregnancy in patients with ectopic pregnancy.
-
---- Query 9 ---
-[floor 0] retrieved 1, 3, 6, 9 | scored none
-Recommendations for a modest amount of free fluid in the Douglas pouch in patients with ectopic pregnancy.
+[floor 1] retrieved 3, 4, 10 | scored 4, 10 | filled floor with 4
+Anti-D immunoglobulin prophylaxis is not required for rhesus-positive women undergoing medical or surgical management of ectopic pregnancy
 

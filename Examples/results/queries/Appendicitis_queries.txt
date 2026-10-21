@@ -1,44 +1,32 @@
 --- Query 1 ---
-[floor 0 | in Appendicitis] retrieved 1, 2, 3, 5, 6, 7 | scored 1, 3, 5
-Recommended treatment for patients with acute appendicitis.
+[floor 1] retrieved 1, 2, 7, 8, 12 | scored 1, 2, 7, 8, 12 | filled floor with 1
+Laparoscopic appendectomy is recommended as the treatment of choice in adults with uncomplicated acute appendicitis, performed within 24 hours of diagnosis
 
 --- Query 2 ---
-[floor 0 | in Appendicitis] retrieved 1, 2, 3, 6, 7, 8 | scored none
-Recommendations for drug therapy and dosage in patients with acute appendicitis.
+[floor 1] retrieved 2, 4, 7, 8, 10, 11 | scored none | filled floor with 11
+Preoperative single-dose broad-spectrum antibiotic prophylaxis is recommended in patients with uncomplicated acute appendicitis undergoing appendectomy
 
 --- Query 3 ---
-[floor 0 | in Appendicitis] retrieved 1, 2, 3, 4, 5, 6, 7, 8 | scored none
-Recommendations for monitoring of patients with acute appendicitis.
+[floor 1] retrieved 2, 4, 7, 10, 11 | scored 10, 11 | filled floor with 2
+Postoperative antibiotics are not recommended in patients with uncomplicated non-perforated acute appendicitis after appendectomy
 
 --- Query 4 ---
-[floor 0 | in Appendicitis] retrieved 1, 2, 3, 4, 5, 7, 8, 9 | scored 4, 8, 9
-Recommendations for diagnosis and assessment of acute appendicitis.
+[floor 1] retrieved 7, 12 | scored none
+Laparoscopic appendectomy in women of reproductive age with acute appendicitis allows evaluation of gynaecological pathology of the pelvis
 
 --- Query 5 ---
-[floor 0 | in Appendicitis] retrieved 1, 2, 6, 7 | scored 7
-Recommendations for complications in patients with acute appendicitis.
+[floor 1] retrieved 3, 5, 6, 9, 10 | scored 3, 5, 6, 9 | filled floor with 3
+Histopathological examination of the appendix specimen is recommended after appendectomy to identify unexpected findings such as neoplasms
 
 --- Query 6 ---
-[floor 1] retrieved 1, 10 | scored 10 | filled floor with 10
-Recommendations for ketorolac for pain relief in patients with acute appendicitis.
+[floor 1] retrieved 2, 8, 10, 11 | scored none | filled floor with 8
+Postoperative intra-abdominal abscess and surgical site infection after appendectomy for acute appendicitis should be suspected with persistent fever and investigated with CT
 
 --- Query 7 ---
-[floor 1] retrieved 1, 3, 6, 7 | scored none | filled floor with 6
-Recommendations for ondansetron intravenously for nausea in patients with acute appendicitis.
+[floor 1] retrieved 2, 4, 10, 11 | scored 4 | filled floor with 4
+Non-operative management with antibiotics is a safe alternative to appendectomy in selected patients with uncomplicated acute appendicitis without appendicolith on CT
 
 --- Query 8 ---
-[floor 1] retrieved 1, 2, 3, 5, 6, 7, 8 | scored 2, 6 | filled floor with 2
-Recommendations for the need for surgery in patients with acute appendicitis.
-
---- Query 9 ---
-[floor 1] retrieved 1, 3, 6, 8 | scored none | filled floor with 3
-Recommendations for fasting and the patient is prepared for the operating theatre in patients with acute appendicitis.
-
---- Query 10 ---
-[floor 0] retrieved 1, 2, 3, 4, 5, 7 | scored none
-Recommendations for findings consistent with acute unperforated appendicitis in patients with acute appendicitis.
-
---- Query 11 ---
-[floor 0] retrieved 2, 3, 4, 5, 7, 8, 9 | scored none
-Recommendations for laboratory findings and the presence of appendicular signs in patients with acute appendicitis.
+[floor 1] retrieved 7, 8, 12 | scored none
+Early discharge and enhanced recovery are recommended in patients after laparoscopic appendectomy for uncomplicated acute appendicitis
 

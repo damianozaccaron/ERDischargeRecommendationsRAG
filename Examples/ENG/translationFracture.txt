@@ -1,16 +1,16 @@
-WOMAN, 27 YEARS OLD
+Female, 27 years old
 Medical history:
-- Pathological proximate: The patient presented following a single-joint injury to the left ankle. She has not taken any pain relief. She denies having sustained a head injury.
-- Remote pathology: Non-smoker. No known medical conditions. Denies any drug allergies. Categorically denies being pregnant.
+- Pathological proximate: The patient presents following single-region trauma to the left ankle. Has not taken pain therapy. Denies head trauma.
+- Remote pathology: Non-smoker. No known pathologies. Denies drug allergies. Denies with certainty current pregnancy.
 
 Objective examination:
-The patient is alert, oriented and cooperative. She arrives in a wheelchair; unable to walk. Pale, non-tender swelling of the lateral malleolus of the left ankle. The metatarsals and the remaining bony structures of the left leg are non-tender. No current vascular or neurological deficits.
+Patient lucid, oriented, cooperative. Enters in wheelchair, ambulation not possible. Pale and painful swelling of the lateral malleolus of the left ankle. Non-tender the metatarsals and the remaining bony components of the left leg. No neurovascular deficits present.
 
 Clinical diary:
-- 1 g of paracetamol administered orally
-- The patient is accompanied to the radiology department for an X-ray of the left tibiotarsal joint.
-- Radiological images are reviewed: compound spiral fracture of the left lateral malleolus.
-- Orthopaedic management: a plaster cast is applied.
+- Paracetamol 1gr is administered orally
+- The patient is accompanied to radiology for performance of X-ray of the left tibiotarsal joint.
+- The radiological images are viewed: non-displaced spiral fracture left lateral malleolus.
+- Orthopaedic take-over of care: a plaster cast is applied.
 
-Diagnosis: fracture of the left peroneal malleolus
-Prognosis: 30 days, barring complications
+Diagnosis: FRACTURE LEFT LATERAL MALLEOLUS
+Prognosis: 30 days barring complications

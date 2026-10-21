@@ -1,44 +1,36 @@
 --- Query 1 ---
-[floor 0 | in Cellulitis, Endocarditis, SoftTissueInfections] retrieved 1, 4, 8 | scored 1, 8
-Recommended treatment for patients with erysipelas/cellulitis of the lower limb and infective endocarditis in an IDU.
+[floor 1] retrieved 4 | scored 4 | filled floor with 4
+Empirical antibiotic therapy for right-sided native valve infective endocarditis in people who inject drugs should cover Staphylococcus aureus including MRSA, with vancomycin or daptomycin
 
 --- Query 2 ---
-[floor 0 | in Cellulitis, Endocarditis, SoftTissueInfections] retrieved none | scored none
-Recommendations for drug therapy and dosage in patients with erysipelas/cellulitis of the lower limb and infective endocarditis in an IDU.
+[floor 1] retrieved 2, 9, 10 | scored 2, 9, 10 | filled floor with 2
+Transthoracic and transoesophageal echocardiography are recommended in patients with suspected infective endocarditis to confirm tricuspid vegetation size and assess valvular involvement
 
 --- Query 3 ---
-[floor 0 | in Cellulitis, Endocarditis, SoftTissueInfections] retrieved 1, 8 | scored none
-Recommendations for monitoring of patients with erysipelas/cellulitis of the lower limb and infective endocarditis in an IDU.
+[floor 1] retrieved 5 | scored 5 | filled floor with 5
+Targeted antibiotic therapy for methicillin-susceptible Staphylococcus aureus tricuspid valve endocarditis in people who inject drugs, including short-course two-week regimens and oral step-down
 
 --- Query 4 ---
-[floor 0 | in Cellulitis, Endocarditis, SoftTissueInfections] retrieved 1 | scored none
-Recommendations for diagnosis and assessment of erysipelas/cellulitis of the lower limb and infective endocarditis in an IDU.
+[floor 1] retrieved 3, 11 | scored 3, 11 | filled floor with 3
+Vancomycin dosing in infective endocarditis should be guided by therapeutic drug monitoring of trough or AUC levels with dose adjustment in acute kidney injury
 
 --- Query 5 ---
-[floor 0 | in Cellulitis, Endocarditis, SoftTissueInfections] retrieved 1, 4, 6 | scored 4, 6
-Recommendations for complications in patients with erysipelas/cellulitis of the lower limb and infective endocarditis in an IDU.
+[floor 1] retrieved 1, 7, 8 | scored 1, 7, 8 | filled floor with 1
+Surgery is indicated in right-sided infective endocarditis with persistent bacteraemia, vegetations larger than 20 mm, recurrent septic pulmonary emboli or right heart failure
 
 --- Query 6 ---
-[floor 1] retrieved 7, 8, 10 | scored 10 | filled floor with 10
-Recommendations for active intravenous drug use heroin in patients with infective endocarditis.
+[floor 1] retrieved none | scored none
+Repeat blood cultures every 24–48 hours are recommended in Staphylococcus aureus bacteraemia to document clearance and identify persistent bacteraemia
 
 --- Query 7 ---
-[floor 1] retrieved 2, 5, 7, 8, 9 | scored 2, 5 | filled floor with 2
-Recommendations for broad-spectrum empirical antibiotic therapy following the collection of blood cultures in patients with infective endocarditis.
+[floor 1] retrieved 1, 9, 12 | scored 12 | filled floor with 12
+Septic pulmonary embolism is a common complication of tricuspid valve endocarditis and should be investigated with chest CT in patients with hypoxaemia
 
 --- Query 8 ---
-[floor 1] retrieved 5, 9 | scored 9 | filled floor with 9
-Recommendations for vancomycin by slow infusion to cover methicillin-resistant Staphylococcus aureus MRSA in patients with infective endocarditis.
+[floor 1] retrieved none | scored none
+Opioid substitution therapy and addiction services should be offered during hospitalisation to people who inject drugs with infective endocarditis to prevent reinfection
 
 --- Query 9 ---
-[floor 0] retrieved 1, 2, 3, 5, 7, 8 | scored 3, 7
-Recommendations for suggestive of a systemic bacterial infection in patients with infective endocarditis.
-
---- Query 10 ---
-[floor 0] retrieved none | scored none
-Recommendations for erysipelas/cellulitis in an intravenous drug user in patients with erysipelas/cellulitis of the lower limb.
-
---- Query 11 ---
-[floor 0] retrieved none | scored none
-Recommendations for high fever in patients with erysipelas/cellulitis of the lower limb.
+[floor 1] retrieved 6 | scored 6
+Patients with infective endocarditis and chronic hepatitis C infection should be referred for antiviral treatment as part of multidisciplinary endocarditis team care
 

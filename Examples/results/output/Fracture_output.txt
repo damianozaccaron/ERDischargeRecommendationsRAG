@@ -1,132 +1,49 @@
-ROLE:
-You are an emergency department physician writing discharge recommendations for a patient. The document will be read by the patient and their general practitioner.
-
-CLINICAL NOTE:
-
-WOMAN, 27 YEARS OLD
-Medical history:
-- Pathological proximate: The patient presented following a single-joint injury to the left ankle. She has not taken any pain relief. She denies having sustained a head injury.
-- Remote pathology: Non-smoker. No known medical conditions. Denies any drug allergies. Categorically denies being pregnant.
-
-Objective examination:
-The patient is alert, oriented and cooperative. She arrives in a wheelchair; unable to walk. Pale, non-tender swelling of the lateral malleolus of the left ankle. The metatarsals and the remaining bony structures of the left leg are non-tender. No current vascular or neurological deficits.
-
-Clinical diary:
-- 1 g of paracetamol administered orally
-- The patient is accompanied to the radiology department for an X-ray of the left tibiotarsal joint.
-- Radiological images are reviewed: compound spiral fracture of the left lateral malleolus.
-- Orthopaedic management: a plaster cast is applied.
-
-Diagnosis: fracture of the left peroneal malleolus
-Prognosis: 30 days, barring complications
-
-
-
-GUIDELINE EXCERPTS:
-
-[E1] (NonComplexFractures, p.5-6)
-
-1.1 Initial pain management and immobilisation Pain assessment 1.1.1 See the NICE guideline on patient experience in adult NHS services for advice on assessing pain in adults. 1.1.2 Assess pain regularly in people with fractures using a pain assessment scale suitable for the person's age, developmental stage and cognitive function. 1.1.3 Continue to assess pain in hospital using the same pain assessment scale that was used in the pre-hospital setting. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights). Initial pharmacological management of pain in adults (16 or over) 1.1.4 For the initial management of pain in adults (16 or over) with suspected long bone fractures of the legs (tibia, fibula) or arms (humerus, radius, ulna), offer: • oral paracetamol for mild pain • oral paracetamol and codeine for moderate pain • intravenous paracetamol supplemented with intravenous morphine titrated to effect for severe pain. 1.1.5 Use intravenous opioids with caution in frail or older adults. 1.1.6 Do not offer non-steroidal anti-inflammatory drugs (NSAIDs) to frail or older adults with fractures.
-
-
-[E2] (NonComplexFractures, p.6-6)
-
-1.1.5 Use intravenous opioids with caution in frail or older adults. 1.1.6 Do not offer non-steroidal anti-inflammatory drugs (NSAIDs) to frail or older adults with fractures. 1.1.7 Consider NSAIDs to supplement the pain relief in recommendation 1.1.4 except for frail or older adults. Initial pharmacological management of pain in children (under 16s) 1.1.8 For the initial management of pain in children (under 16s) with suspected long bone fractures of the legs (femur, tibia, fibula) or arms (humerus, radius, ulna), offer: • oral ibuprofen, or oral paracetamol, or both for mild to moderate pain • intranasal or intravenous opioids for moderate to severe pain (use intravenous opioids if intravenous access has been established). Hot reporting 1.1.9 A radiologist, radiographer or other trained reporter should deliver the definitive written report of emergency department X-rays of suspected fractures before the patient is discharged from the emergency department. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights).
-
-
-[E3] (PostmenopausalOsteoporosis, p.10-10)
-
-The UK (NICE) guidelines aligned in suggesting continuing treatment in patients with a prior hip or vertebral fracture [2]; in Spain, some experts recommend continuing treatment if the patient has a history of hip or vertebral fracture on a case-by-case basis [16, 17]. In Italy, guidelines advised that in patients at high risk of (re)fracture, treatment should be continued unless serious adverse events occur [20], for up to 10 years in those receiving oral bisphosphonates and up to 6 years if prescribed zoledronate [15]. German DVO 2023 guidance aligned with other European countries, suggesting bisphosphonate treatment continuation or switch to an alternative where the fracture risk remains high, above the DVO treatment threshold [14]. Consideration should be given to stopping treatment if the repeat DXA scan reveals a T-score >  − 2.5 in the UK [2]. In France, drug holidays should be considered in patients with no fractures during treatment, no new risk factors nor significantly reduced BMD at the spine or hip and in patients with a history of severe fracture, a femoral T-score ≥  − 2.5 or − 2 [13].
-
-
-[E4] (FemaleLUTS, p.44-44)
-
-Crossover between treatment arms was allowed and 49% of women in the physiotherapy group and 11.2% of women in the surgery group crossed over to the alternative treatment. Subjective improvement was reported by 90.8% of women in the surgery group and 64.4% of women in the physiotherapy group at twelve months [325]. 4.2.4.a..b	Long-term efficacy of pelvic floor muscle training In an SR including nineteen studies, 1,141 women were followed up for one to fifteen years after PFMT for SUI [326]. Meta-analysis was not performed, due to high heterogeneity of outcome measures and training dosage (frequency, intensity, duration and adherence). Only two studies provided interventions during follow-up. Losses to follow-up ranged between 0% and 39%. Long-term adherence to PFMT varied between 10% and 70%. Five studies reported that the initial success rate on SUI and MUI was maintained in the long term. Long-term success based on responders in the original trial varied between 41% and 85%. Surgery rates in the long term varied between 4.9% and 58%.
-
-
-[E5] (PostmenopausalOsteoporosis, p.10-10)
-
-For high-risk patients, treatment continuation was advised in the UK [2]. This is aligned with French guidance which suggested further treatment where the hip T-score is <  − 2.5 after the recommended initial treatment period of oral or intravenous bisphosphonates or denosumab [13] and Archives of Osteoporosis (2024) 19:84 84 Page 10 of 12 the Spanish guidance, which suggested continuing therapy if the femoral neck T-score is <  − 2.5 [16, 17]. In Spain, treatment should also be continued if fragility fractures occur during treatment, 3–5 years prior to evaluation [16, 17]. The UK (NICE) guidelines aligned in suggesting continuing treatment in patients with a prior hip or vertebral fracture [2]; in Spain, some experts recommend continuing treatment if the patient has a history of hip or vertebral fracture on a case-by-case basis [16, 17]. In Italy, guidelines advised that in patients at high risk of (re)fracture, treatment should be continued unless serious adverse events occur [20], for up to 10 years in those receiving oral bisphosphonates and up to 6 years if prescribed zoledronate [15].
-
-
-[E6] (UrologicalTrauma, p.28-28)
-
-In complete injuries, the aim of re-alignment is correction of severe distraction defect rather than stricture prevention [262, 276, 284]. Re-alignment can be done by either open or endoscopic techniques [284, 285]. The open technique is associated with longer operation times, greater blood loss and longer hospital stays. As such, endoscopic re-alignment is now preferred [264]. Using a flexible/rigid cystoscope and biplanar fluoroscopy, a guidewire is placed inside the bladder under direct visual control, over this, a catheter is placed. If necessary, two cystoscopes can be used: one retrograde (per urethra) and one antegrade (suprapubic route through the bladder neck) [241]. The duration of catheterisation is three weeks for partial and six weeks for complete ruptures with voiding urethrography upon catheter removal [241]. It is important to avoid traction on the balloon catheter as it can damage the remaining sphincter mechanism at the bladder neck [241]. Data from an RCT demonstrated no difference in the urethral stricture rate following early re-alignment for complete rupture PFUI [276].
-
-
-[E7] (NonComplexFractures, p.9-10)
-
-• within 72 hours of injury for intra-articular fractures • within 7 days of injury for extra-articular fractures. 1.4.4 When needed for re-displacement of distal radius fractures, perform surgery within 72 hours of the decision to operate. Definitive treatment of distal radius fractures in adults (skeletally mature) 1.4.5 Consider manipulation and a plaster cast in adults (skeletally mature) with dorsally displaced distal radius fractures. 1.4.6 When surgical fixation is needed for dorsally displaced distal radius fractures in adults (skeletally mature): • offer K-wire fixation if: － no fracture of the articular surface of the radial carpal joint is detected or － displacement of the radial carpal joint can be reduced by closed manipulation • consider open reduction and internal fixation if closed reduction of the radial carpal joint surface is not possible. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights). (skeletally immature) 1.4.7 In children (skeletally immature) with dorsally displaced distal radius fractures (including fractures involving a growth plate) who have undergone manipulation, consider:
-
-
-[E8] (NonComplexFractures, p.10-10)
-
-(skeletally immature) 1.4.7 In children (skeletally immature) with dorsally displaced distal radius fractures (including fractures involving a growth plate) who have undergone manipulation, consider: • a below-elbow plaster cast or • K-wire fixation if the fracture is completely displaced (off-ended). Definitive treatment of proximal humerus fractures in adults (skeletally mature) 1.4.8 For adults (skeletally mature) with displaced low energy proximal humerus fractures: • offer non-surgical management for definitive treatment of uncomplicated injuries • consider surgery for injuries complicated by an open wound, tenting of the skin, vascular injury, fracture dislocation or a split of the humeral head. Definitive treatment of femoral shaft fractures in children (skeletally immature) 1.4.9 Admit all children (skeletally immature) with femoral shaft fractures and consider 1 of the following according to age and weight: All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights).
-
-
-[E9] (ChronicPelvicPain, p.46-46)
-
-Amitriptyline has been shown to be beneficial when compared with placebo plus behavioural modification [405]. Drowsiness is a limiting factor with amitriptyline; nortriptyline is sometimes considered instead. Pentosane polysulphate Pentosan polysulphate is a semi-synthetic drug manufactured from beech wood hemicellulose. Subjective improvement of pain, urgency, frequency, but not nocturia, has been reported [406, 407]. Pentosane polysulphate had a more favourable effect in PBPS type 3C than in non-lesion disease [408]. Response was not dose dependent but related more to treatment duration. At 32 weeks, about half the patients responded. Combination therapy showed a RR of 40% compared to 13% with placebo. For patients with an initial minor response to pentosane polysulphate, additional subcutaneous heparin was helpful [409, 410]. Immunosuppressants Azathioprine treatment has resulted in disappearance of pain and urinary frequency [411]. Initial evaluation of methotrexate [412] showed good analgesic effect but limited efficacy for urgency and frequency. Corticosteroids are not recommended in the management of patients with PBPS because of a lack of evidence.
-
-
-[E10] (SexualReproductiveHealth, p.65-66)
-
-The tolerability during the 12-week study period in men with PE was acceptable [756]. Several other studies have also reported that tramadol exhibits a significant dose-related efficacy along with potential TRAEs in the treatment of PE [753, 754]. The Guidelines Panel considers tramadol a possible alternative to established first line therapies in men with PE. Nevertheless, the use of tramadol should be approached with caution due to the limited evidence available on the long term safety of this agent in this specific context. 6.2.6.b. Phosphodiesterase type 5 inhibitors Although IELT was not significantly improved, sildenafil increased confidence, the perception of ejaculatory control, and overall sexual satisfaction, and reduced anxiety and the refractory time to achieve a second erection after ejaculation [757, 758]. Several open-label studies have shown that a combination of PDE5Is and SSRIs is superior to SSRI monotherapy, which has also been confirmed by a Bayesian network meta-analysis [737, 759]. 6.2.6.b. Other drugs In addition to the aforementioned drugs, there is continuous research into other treatment options.
-
-
-GUIDELINE TABLES:
-
-[T1] (PostmenopausalOsteoporosis, p.6-6) Table 3 Pha armacological ma anagement of ost eoporosis i l
-
-| Group |  | UK |  | France | Spain | Italy |  | Germany | Europe |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Recommended treatments | Oral bis- phospho- nates | Y | Y | Y (SNVF,VF,NSF) | Y (HFR/ VF,NVF,HF) |  | Y | Y | Y |
-| Recommended treatments | IV bispho- spho- nates | Y | Y | Y (SNVF,VF,NSF) | Y (HFR/ VF,NVF,HF) |  | Y | Y | Y |
-| Recommended treatments | Deno- sumab | Y | Y | Y (SNVF,VF,NSF) | Y (HFR/ VF,NVF,HF) |  |  | Y | Y |
-| Recommended treatments | Teripara- tide | Y | Y (VHFR) | Y (VF) | Y (VHFR) | Y (HFR) | Y (HFR) | Y (VHFR) | Y (HFR/ VF) |
-| Recommended treatments | Romo- sozumab |  | Y (VHFR) |  | Y (VHFR) | Y (HFR) |  | Y (VHFR) |  |
-| Recommended treatments | Duration of | treatment |  |  |  |  |  |  |  |
-| Recommended treatments | Oral bis- phospho- nates | 3–5 years HFR (7–10 years) | ≥ 5 years HFR/VHFR (≥ 10 years) | 5 years | 5 years or (10 years) |  | 5 years (HFR ≤ 10 years) | Alendronate (RCT: 3 years) (ET:10 years) Risedronate (RCT: 3–5 years) (ET: 7 years) Ibandronate (RCT: 3 years) (ET: 5 years) | 5 years |
-| Recommended treatments | IV bispho- spho- nates |  | ≥ 3 years HFR/VHFR (≥ 6 years) | 3 years (zole- dronate) | 3 years or (6 years) (zoledronate) |  | 3 years or HFR ≤ 6 years (zoledronate) | Zoledronate (RCT: 3 years) (ET: 6 years) Ibandronate (RCT: 2 years) (ET:5 years) | 3 years (zole- dronate) |
-| Recommended treatments | Deno- sumab |  |  | 3 years | 5–10 years |  |  | RCT: 3 years ET: 6–10 years |  |
-| Recommended treatments | Teripara- tide |  | 24 months | 18 months | 24 months |  | 24 months | 24 months/ lifetime |  |
-| Recommended treatments | Romo- sozumab |  | 12 months |  | 12 months |  |  | 12 months/ cycle |  |
-
-
-TASK:
-Produce discharge recommendations in two sections, do not add anything else.
-
 SECTION 1 — DISCHARGE RECOMMENDATIONS
-A numbered list of concise instructions for the patient.
-Rules:
-- One or two sentences per item. Be direct: "Continue...", "Stop...", "A prescription is issued for...".
-- Combine closely related actions into a single item (e.g. stopping a medication and adopting an alternative is one recommendation, not two). Never combine medication prescriptions with non-medication actions.
-- For medications: always include drug name, dose, route, and frequency (e.g. "every 12 hours"), but do not make up information. Take dosing from the guideline excerpts or tables when they state it; otherwise copy the exact dosing from the clinical note. If neither states the frequency, write "as directed by the specialist".
-- Dosing may be taken from a cited table; copy the value or range exactly as written, never compute or interpolate.
-- Where a table distinguishes routes, use the oral maintenance column for home discharge and ignore intravenous columns.
-- Before prescribing a drug that appears in a table, check every contraindication or criteria column against the clinical note; if a contraindication is present, do not prescribe and state this in Section 2.
-- If a table gives a range rather than a single dose, write the range.
-- For lifestyle factors (smoking, alcohol, diet, exercise): use strong advisory tone ("strongly recommended", "strongly advised") rather than direct orders.
-- For lifestyle factors, if the patient is already doing the right thing (e.g. non-smoking, not overweight),don't acknowledge it. Only give instructions for things that need to be changed or started.
-- For follow-up appointments and specialist referrals, use the phrasing: "A prescription is issued for [specialist type] evaluation for [clinical purpose]" and always specify the specialist type from the clinical note (e.g. "angiologist", "cardiologist", "internist") and the clinical purpose of the visit (e.g. "for thrombophilia screening", "for initiation of anticoagulant therapy", "for echocardiographic follow-up").
-- Do NOT explain why. No rationale, no "because...", no "to reduce the risk of...", no pathophysiology.
-- Do NOT speculate about future treatment decisions (duration of therapy, drug switches). - No sub-bullets, no bold, no markdown headers, no category groupings. Just a numbered list.
-- Do NOT cite [E#] in this section. Citations belong only in Section 2.
-- The second-to-last item must always be: "Go to the nearest emergency department immediately if you experience [relevant warning symptoms for this diagnosis]."
-- The last item must always be: "You are referred back to your general practitioner for any further diagnostic or therapeutic needs and ongoing care."
-- If a topic cannot be addressed by the excerpts: "Refer to specialist for [topic]."
+1. Take paracetamol 1 g orally as needed for pain.
+2. Keep the plaster cast on your left ankle clean, dry and intact, and do not remove it yourself.
+3. Put weight on your left leg as much as you can tolerate.
+4. A prescription is issued for orthopaedic evaluation for follow-up of the left lateral malleolus fracture and management of the plaster cast.
+5. Go to the nearest emergency department immediately if you experience swelling of the whole leg or calf, pain along the leg, sudden shortness of breath or chest pain, numbness, tingling, coldness or bluish colour of the toes, or pain not controlled by the prescribed therapy.
+6. You are referred back to your general practitioner for any further diagnostic or therapeutic needs and ongoing care.
 
 SECTION 2 — CLINICAL REFERENCES (for the reviewing physician)
-For each recommendation number in Section 1, write:
-[number] - [E#][T#] - brief clinical justification
-Example:
-1 - [E4][E7] - Anticoagulation recommended for confirmed distal DVT with high pretest probability.
-2 - [E4][T1] - Apixaban 5 mg twice daily as per the DOAC dose table; no dose-reduction criterion met.
-3 - [E7] - Oral contraceptives classified as moderate VTE risk factor (OR 2-9).
+1 - (NonComplexFractures, p.6-6) (Clinical note) - Oral paracetamol is recommended for mild fracture pain, and 1 g orally was started in the emergency department.
+2 - (Clinical note) - A plaster cast was applied by the orthopaedic team and must stay intact until orthopaedic review.
+3 - (NonComplexFractures, p.8-9) - Immediate unrestricted weight-bearing as tolerated is advised in the non-surgical management of unimalleolar ankle fractures.
+4 - (NonComplexFractures, p.8-9) (Clinical note) - Orthopaedic follow-up is advised for unimalleolar ankle fractures, and the orthopaedic team took over care with a 30-day prognosis.
+5 - (SevereLimbTraumaAcuteCare, p.10-10) (VenousThrombosis, p.9-9) - Ankle fracture with cast immobilisation carries a moderate VTE risk, and leg swelling and tenderness along the deep veins are signs of DVT.
+6 - (No guideline source) - Standard closing item.
 
-RULES:
-- Use ONLY the provided guideline excerpts. Do not rely on prior medical knowledge.
-- Do NOT invent drug names, dosages, frequencies, or clinical facts not in the clinical note or excerpts.
-- When multiple excerpts cover the same topic, write one recommendation and cite all relevant excerpts.
-- Do not repeat the same recommendation in different wording.
-- Section 1 must be directly usable as a discharge document with no editing needed.
+TRADUZIONE IN ITALIANO
+
+SEZIONE 1 — RACCOMANDAZIONI ALLA DIMISSIONE
+1. Assuma paracetamolo 1 g per via orale al bisogno in caso di dolore.
+2. Mantenga l'apparecchio gessato della caviglia sinistra pulito, asciutto e integro, e non lo rimuova da sola.
+3. Carichi il peso sulla gamba sinistra quanto tollerato.
+4. Si rilascia impegnativa per visita ortopedica per il follow-up della frattura del malleolo laterale sinistro e la gestione dell'apparecchio gessato.
+5. Si rechi immediatamente al pronto soccorso più vicino in caso di gonfiore di tutta la gamba o del polpaccio, dolore lungo la gamba, improvvisa mancanza di respiro o dolore toracico, intorpidimento, formicolio, freddezza o colorito bluastro delle dita del piede, oppure dolore non controllato dalla terapia prescritta.
+6. Si rimanda al medico di medicina generale per ogni ulteriore necessità diagnostica o terapeutica e per il proseguimento delle cure.
+
+SEZIONE 2 — RIFERIMENTI CLINICI (per il medico revisore)
+1 - (NonComplexFractures, p.6-6) (Clinical note) - Il paracetamolo per via orale è raccomandato per il dolore lieve da frattura, e 1 g per via orale è stato iniziato in pronto soccorso.
+2 - (Clinical note) - L'apparecchio gessato è stato applicato dal team ortopedico e deve rimanere integro fino alla rivalutazione ortopedica.
+3 - (NonComplexFractures, p.8-9) - Nel trattamento non chirurgico delle fratture unimalleolari di caviglia si consiglia il carico immediato senza restrizioni, quanto tollerato.
+4 - (NonComplexFractures, p.8-9) (Clinical note) - Il follow-up ortopedico è consigliato per le fratture unimalleolari di caviglia, e il team ortopedico ha preso in carico la paziente con una prognosi di 30 giorni.
+5 - (SevereLimbTraumaAcuteCare, p.10-10) (VenousThrombosis, p.9-9) - La frattura di caviglia con immobilizzazione in gesso comporta un rischio moderato di TEV, e il gonfiore della gamba e la dolorabilità lungo le vene profonde sono segni di TVP.
+6 - (No guideline source) - Voce standard di chiusura.
+
+============================================================
+ORIGINAL RECOMMENDATIONS (for comparison)
+============================================================
+Si consiglia:
+- Mantiene gesso per 30gg
+- Mantiene arto elevato, muovere le dita, controllo del circolo periferico.
+- Se dolore assuma paracetamolo 1gr per massimo 3 volte al giorno, ogni 8h per i successivi 5
+giorni.
+- Esegua puntura sottocute di ENOXAPARINA 4000 UI una volta al giorno
+- Tra 7 gg nuovo controllo ortopedico con esecuzione di nuova RX.
+- Utilizzo di stampelle. Non deambulazione.
+- Se persistenza dei sintomi, modifica del dolore o peggioramento del tale rientra presso il più
+vicino PS. In particolare presti attenzione alla comparsa di parestesie o modificazioni nel colore
+delle dita del piede interessato dal trauma.
+- Si resta a disposizione.

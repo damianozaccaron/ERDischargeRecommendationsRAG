@@ -1,19 +1,19 @@
-MALE, 42 YEARS OLD
+Male, 42 years old
 Medical history:
-- Pathological proximate: The patient presents with retrosternal chest pain whilst lying on his back, which had been present for approximately 3 days and was not exacerbated by breathing or movement. He reported a dry cough lasting several weeks. He denied having a fever or shortness of breath.
-- Remote pathology: No known cardiovascular events or family history of such conditions. No history of diabetes. Normal weight. Former smoker of approximately half a packet a day; stopped smoking ten years ago. Previous Helicobacter pylori infection, eradicated approximately 5 years ago. Otherwise, no known medical conditions. Denies any drug allergies.
+- Pathological proximate: The patient presents with retrosternal chest pain in the supine position present for about 3 days, not exacerbated by breathing or movement. He complains of dry cough for several weeks. Denies fever or dyspnoea.
+- Remote pathology: No known cardiovascular events nor family history. Not affected by diabetes. Normal weight. Former smoker of about half a pack per day, STOP ten years ago. Previous helicobacter pilori infection, eradicated about 5 years ago. Otherwise no known diseases. Denies drug allergies.
 
-Objective examination: Vesicular breath sounds present in all lung fields; no additional sounds. Heart sounds of normal-rate, rhythmic and with regular pauses. Abdomen soft to touch, not tender on superficial or deep palpation. Negative for CVA Tenderness and Blumberg’s signs. Cystic points are non-tender. No dependent oedema or signs of venous thrombosis.
+Objective examination: Vesicular breath sounds present in all lung fields, no added sounds. Heart sounds normal-rate, rhythmic and with no murmurs. Soft abdomen, not painful on superficial or deep palpation. CVA Tenderness and Blumberg negative. Cystic points non-tender. No dependent oedema or signs of venous thrombosis.
 
 Clinical diary:
-- Venous access established and troponin, biochemistry, complete blood count and pro-BNP tests performed. An ECG was performed: sinus rhythm, no signs of ST-segment depression or elevation.
-- Arterial blood gas analysis was performed: physiological parameters
-- The patient was referred to radiology for a chest X-ray in two projections.
-- Test results reviewed: troponin <14, therefore negative. No signs of inflammation. Chest X-ray negative
+- Venous access obtained and performance of troponin plus biochemistry, complete blood count and pro-BNP. ECG performed: sinus rhythm, no signs of ST segment depression/elevation.
+- Arterial blood gas performed: physiological exchanges
+- The patient is sent to radiology for performance of chest X-ray in 2 projections.
+- The tests are reviewed: troponin <14 therefore negative. No inflammatory markers. Chest X-ray negative
 for acute findings.
-- 40 mg of pantoprazole administered in 100 cc of normal saline.
-- A bedside echocardiogram is performed: no pleural, pericardial or intra-abdominal effusion. No B-lines in the lung fields; good pleural sliding. Gallbladder normally distended; no gallstones visible using this technique. No bilateral hydronephrosis.
-- Within one hour, the symptoms had reduced until they had completely resolved. The patient was discharged home.
+- 40mg of pantoprazole in 100cc saline solution is administered.
+- Bedside ultrasound performed: no pleuro-pericardial or intra-abdominal effusion. No B lines in the lung fields, valid pleural sliding. Gallbladder normally distended, no stone formations observable with this method. No hydronephrosis bilaterally.
+- After one hour reduction up to complete resolution of the symptomatic picture. Discharged home.
 
-Diagnosis: gastro-oesophageal reflux
+Diagnosis: GASTRO-OESOPHAGEAL REFLUX DISEASE
 Prognosis: 4 days

@@ -1,18 +1,18 @@
-FEMALE, 23 YEARS OLD
+Female, 23 years old
 Medical history:
-- Pathological proximate symptoms: The patient presented with pain in the right iliac fossa that had developed over the last 6 hours; the pain was of moderate intensity, did not radiate, and was accompanied by nausea but no vomiting. She denies having a fever. She reports having taken the morning-after pill approximately 10 days ago. Her last menstrual period was 5 weeks ago; her cycle is usually regular. She denies any vaginal bleeding at the time of presentation. 
-- Remote pathology: No known medical conditions. Previous appendectomy. No previous pregnancies. Was not taking any long-term medication at home. Denies any drug allergies. Objective examination: Patient is alert, oriented and cooperative. In pain. Vesicular breath sounds present in all lung fields; no additional sounds. Heart sounds at normal-rate, rhythmic, with clear intervals. Abdomen soft to touch, tender on palpation in the right iliac fossa and hypogastrium; no signs of overt peritonitis. Blumberg’s sign negative. CVA Tenderness negative. No dependent oedema in the lower limbs. Blood pressure 112/70 mmHg. Heart Rate 94 bpm. SpO₂ 99% on oxygen. Body Temperature 36.6°C.
+- Pathological proximate: The patient presents with pain in the right iliac fossa that started in the last 6 hours, of moderate intensity, non-radiating, associated with nausea without episodes of vomiting. Denies fever. Reports taking the morning-after pill about 10 days earlier. Last menstruation 5 weeks ago, cycle usually regular. Denies vaginal blood loss at the time of presentation. 
+- Remote pathology: No known pathology. Previous appendectomy. No previous pregnancy. Was not taking continuous home drug therapy. Denies drug allergies. Objective examination: Patient alert, oriented, cooperative. Suffering. Vesicular breath sounds present in all lung fields, no added sounds. Heart sounds normal-rate, rhythmic, no murmurs. Soft abdomen, tender on palpation in the right iliac fossa and hypogastrium, no signs of frank peritonism. Blumberg negative. CVA Tenderness negative. No dependent oedema. BP 112/70 mmHg. Heart Rate 94 bpm. SpO2 99% RA. Body Temperature 36.6°C.
 
 Clinical diary:
-• Venous access established and quantitative serum β-hCG, biochemistry, complete blood count, inflammatory markers, blood group and Rh factor determined. Qualitative urinary β-hCG test performed at the same time: positive.
-• An ECG was performed: sinus rhythm, no abnormalities.
-• Test results were reviewed: serum β-hCG 1,840 mIU/mL. Complete blood count: Hb 12.8 g/dL, no current anaemia. No significant inflammatory markers. Blood group: A positive.
-• Ketorolac 30 mg in 100 cc saline solution was administered for pain relief, with partial relief.
-• An E-FAST scan was performed: fluid collection in the Douglas pouch.
-• Given the positive β-hCG result and the pain in the right iliac fossa, the presentation is highly suggestive of an ectopic pregnancy. The gynaecology on-call service was contacted immediately.
-• The patient was assessed by the gynaecologist on call directly in A&E. An ultrasound scan is performed: the uterus is of normal size; no intrauterine gestational sac is visible. Right adnexa: a round para-ovarian mass of approximately 2 cm, with heterogeneous content, suspected to be an ectopic gestational sac. A modest amount of free fluid in the Douglas pouch. Left adnexa normal.
-• Indication for urgent hospitalisation for further investigation and assessment of the treatment strategy (medical vs surgical).
-• The patient is informed of the suspected diagnosis, the planned course of action and the need for urgent hospitalisation, using clear language appropriate to her age. The patient understands and consents.
+• Venous access obtained and quantitative serum β-hCG, biochemistry, complete blood count, inflammatory markers, blood group and Rh performed. Qualitative urinary β-hCG performed at the same time: positive.
+• ECG performed: sinus rhythm, no abnormalities.
+• Tests reviewed: serum β-hCG 1.840 mIU/mL. Complete blood count: Hb 12.8 g/dL, no ongoing anaemisation. No significant inflammatory markers. Blood group: A positive.
+• Ketorolac 30mg in 100cc saline solution administered for analgesia, with partial benefit.
+• E FAST performed: effusion in Douglas.
+• Considering the positivity of the β-hCG, and the pain in the right iliac fossa, the picture is strongly suggestive of extrauterine pregnancy. The on-call gynaecology is contacted immediately.
+• The patient is assessed by the on-call gynaecologist directly in the ED. Performs ultrasound: uterus of normal size, no intrauterine gestational sac visualisable. Right adnexa: rounded para-ovarian image of about 2cm, with inhomogeneous content, suspicious for ectopic gestational sac. Modest layer of free effusion in Douglas. Left adnexa normal.
+• Indication for urgent hospitalisation for further investigation and assessment of the therapeutic strategy (medical vs surgical).
+• The patient is informed of the suspected diagnosis, of the planned pathway and of the need for urgent hospitalisation, with clear language appropriate to age. The patient understands and consents.
 
-Diagnosis: suspected ectopic pregnancy
+Diagnosis: SUSPECTED EXTRAUTERINE PREGNANCY
 Prognosis: urgent hospitalisation

@@ -1,106 +1,35 @@
-ROLE:
-You are an emergency department physician writing recommendations for a patient being admitted to hospital. The document will be read by the admitting team, the patient, and their family.
-
-CLINICAL NOTE:
-
-FEMALE, 28 YEARS OLD
-Medical history: 
-- Pathological proximate symptoms: The patient presented with abdominal pain that began approximately 12 hours prior to admission; the pain was initially diffuse and cramp-like, but gradually migrated and became localised in the right iliac fossa. This was accompanied by nausea and one episode of vomiting. She reports a low-grade fever in the evening over the past 24 hours (Body Temperature 37.8°C at home). She denies diarrhoea or changes in bowel habits. Her last menstruation was approximately 2 weeks ago; she has a regular cycle.
-- Remote pathology: No known medical conditions. No previous surgical procedures. Was not taking any medication at home. Denies any drug allergies.
-
-Objective examination: Patient alert, oriented and cooperative. In distress. Vesicular breath sounds present in all lung fields; no additional sounds. Heart sounds at normal-rate, rhythmic, with clear intervals. Abdomen tender to touch, markedly tender on palpation in the right iliac fossa. Positive Blumberg’s sign. Positive Rovsing’s sign. Negative CVA Tenderness. Cystic points non-tender. No dependent oedema of the lower limbs. BP 118/74 mmHg. Heart Rate 102 bpm. SpO₂ 99% on air. Body Temperature 38.1°C.
-
-Clinical diary:
-• Venous access established and biochemistry, complete blood count, inflammatory markers, urine pregnancy test (urinary β-hCG) and urinalysis performed.
-• ECG performed: sinus rhythm, reactive sinus tachycardia, no ST-segment changes.
-• Test results reviewed: neutrophilic leucocytosis (WBC 14,200/μL, N 84%). C-reactive protein 4.2 mg/dL. β-hCG negative. Urinalysis: within normal limits, ruling out acute urological pathology.
-• Ketorolac 30 mg in 100 cc of normal saline is administered for pain relief, and ondansetron 4 mg intravenously for nausea, with partial relief.
-• A bedside ultrasound is performed: no appreciable free intra-abdominal fluid is detected. No bilateral hydronephrosis. Appendix not visualisable using this technique due to gas interposition.
-• Given the clinical presentation, laboratory findings and the presence of appendicular signs, the patient was referred to radiology for a contrast-enhanced CT scan of the abdomen and pelvis.
-• CT report: Findings consistent with acute unperforated appendicitis.
-• The on-call general surgery team was contacted for a specialist consultation. The surgeon examined the patient and confirmed the need for surgery.
-• The patient is informed of the diagnosis and the need for surgery. Informed consent is obtained. Fasting is initiated and the patient is prepared for the operating theatre.
-
-Diagnosis: acute appendicitis
-Prognosis: Hospitalisation
-
-
-
-GUIDELINE EXCERPTS:
-
-[E1] (Appendicitis, p.10-11)
-
-Introduction While operative management of acute appendicitis has historically been the standard of care, medical management with antibiotics has become more widely utilized. Studies have demonstrated a 58-75% 1-year success rate in adults and children with no increase in complications if recurrence occurs [19,20]. The advantage of nonoperative treatment is primarily the avoidance of surgery, general anesthesia, and their associated risks. On the other hand, appendectomy provides a definitive cure for appendicitis without the risk of recurrence and later need for surgery. There have been numerous systematic reviews suggesting that antibiotic therapy could be a reasonable alternative to appendectomy if the patient accepts the subsequent risk of recurrence [21-25]. Summary of the evidence Uncomplicated appendicitis was defined as cases without preoperative evidence of abscess or perforation. The highest level of evidence available for each outcome deemed critical or important to decision-making was utilized to inform the panel’s recommendation. In the adult population, six RCTs were identified [1]. In the pediatric population, four RCTs and nine observational studies were identified.
-
-
-[E2] (Appendicitis, p.6-6)
-
-The recommendations included in this guideline are based on a systematic review of the published literature [1]. The strengths and weaknesses of the available evidence are highlighted. Description of the health problem Appendicitis is one of the most common indications for surgery in both adult and pediatric patients, with a lifetime incidence of 6.7-8.6% [2]. It imposes a significant burden on patients, families, and healthcare systems with high hospital costs, rates of emergency department and outpatient clinic revisits, prolonged antibiotic treatment courses, and incidence of postoperative complications [3-5]. Diagnosis is typically determined by clinical assessment, including history and physical exam, as well as imaging. The ideal imaging modality for accurate diagnosis, distinguishing between acute and complicated appendicitis, and optimal resource utilization has not yet been determined [6]. While appendectomy has traditionally been the mainstay of treatment for appendicitis, the past decade has witnessed increased popularity of non-operative management in both acute and complicated appendicitis [7,8].
-
-
-[E3] (Appendicitis, p.10-10)
-
-Finally, the clinical picture, physical exam, and clinical score all aid in determining the pre-test probability of appendicitis and which imaging modality is most appropriate for a particular patient. Research Recommendations Research recommendations include additional studies comparing the different imaging modalities with standardized outcomes and endpoints, including their potential for negative impact on care, such as radiation exposure, delay in diagnosis, or need for anesthesia to obtain the test. KQ2: Should adult and pediatric patients with acute, uncomplicated appendicitis be managed nonoperatively or operatively? Recommendation: The panel suggests that adult and pediatric patients with uncomplicated appendicitis be managed operatively (conditional recommendation based on low certainty of evidence in adults and very low certainty of evidence in pediatrics). Introduction While operative management of acute appendicitis has historically been the standard of care, medical management with antibiotics has become more widely utilized. Studies have demonstrated a 58-75% 1-year success rate in adults and children with no increase in complications if recurrence occurs [19,20].
-
-
-[E4] (Appendicitis, p.9-9)
-
-long term (as defined by authors)? KQ8: In asymptomatic patients with previous complicated appendicitis treated nonoperatively, should an interval appendectomy be performed versus observation RECOMMENDATIONS KQ1: Should abdominal CT versus alternative imaging be used for diagnosing acute appendicitis? Recommendation: Ultrasound is a reasonable first line study given its low cost and lack of radiation. However, CT and MRI are the most definitive imaging modalities (Expert opinion; GRADE not utilized). Introduction Although history, physical exam, and laboratory values are used to diagnose appendicitis, imaging plays an important role in the work up as well. Ultrasound, computed tomography (CT) scan, and magnetic resonance imaging (MRI) are the most frequently utilized imaging modalities [17,18]. They serve as adjuncts to clinical diagnosis to minimize the potential for misdiagnosis resulting in either disease progression or negative appendectomy. However, there are disadvantages to unnecessary or noncontributory imaging including radiation exposure, cost, and delay to treatment.
-
-
-[E5] (Appendicitis, p.6-6)
-
-The ideal imaging modality for accurate diagnosis, distinguishing between acute and complicated appendicitis, and optimal resource utilization has not yet been determined [6]. While appendectomy has traditionally been the mainstay of treatment for appendicitis, the past decade has witnessed increased popularity of non-operative management in both acute and complicated appendicitis [7,8]. With the increased utilization of nonoperative initial management, the necessity of interval appendectomy has also been debated [9,10]. Additionally, operative technique and post-operative antibiotic duration for complicated appendicitis are areas of active research. A systematic review of the evidence informed the guideline recommendations. The guideline panel determined the certainty of evidence, and the direction and strength of recommendations, with the widely used Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach [11,12] using the GRADEpro guideline development tool [13]. Reporting of the guideline adheres to the Essential Reporting Items for Practice Guidelines in Healthcare (RIGHT) checklist [14].
-
-
-[E6] (Appendicitis, p.17-17)
-
-However, there is uncertainty in this recommendation both due to the quality of the evidence and the variation across individual patients in how they value the outcomes assessed. Important considerations include how significant the patient’s inflammatory process is; significant inflammation may lead to extended resection and such patients would likely benefit from initial nonoperative management. KQ4: Should adult and pediatric patients with acute, uncomplicated appendicitis undergo delayed (>12h) or immediate operation (<12h)? Recommendation: The panel suggests that adult and pediatric patients with uncomplicated appendicitis may undergo either delayed (>12h) or immediate operation (<12h)  (conditional recommendation, based on very low certainty of evidence). Introduction The ideal timing of appendectomy is controversial [40]. Advocates for delayed operation argue initial treatment with antibiotics allows for better preoperative resuscitation. In addition, there are practical concerns such as OR availability, staffing, surgeon schedule, and patient considerations which may require delay.
-
-
-[E7] (Appendicitis, p.1-2)
-
-The results of this systematic review were then presented to a panel of adult and pediatric surgeons. Evidence-based recommendations were formulated using the GRADE methodology by subject experts. Results: Conditional recommendations were made in favor of uncomplicated and complicated appendicitis being managed operatively, either delayed (>12h) or immediate operation (<12h), either suction and lavage or suction alone, no routine drain placement, treatment with short-term antibiotics postoperatively for complicated appendicitis, and 9 10 11 12 13 complicated appendicitis previously treated nonoperatively undergoing interval appendectomy. A conditional recommendation signals that the benefits of adhering to a recommendation probably outweigh the harms although it does also indicate uncertainty. Conclusions: These recommendations should provide guidance with regard to current controversies in appendicitis. The panel also highlighted future research opportunities where the evidence base can be strengthened. Key Words: Appendicitis, Complicated, Appendectomy, Pediatrics, Antibiotics, Guideline,
-
-
-[E8] (Appendicitis, p.30-30)
-
-The World Society of Emergency Surgery (WSES) reported on a consensus conference on the diagnosis and treatment of adult patients with acute appendicitis in 2015 and updated the recommendations in 2020 [54]. For diagnosis, they recommend the routine use of a combination of clinical parameters and US. Implementation The panel believes that it is feasible to successfully implement these recommendations into local practice and that the recommendations will be accepted by stakeholders. The main considerations regarding implementation of this guideline are the costs and availability of the testing and treatment options. The panel plans to survey physicians in the future to monitor and audit compliance with the recommendations put forth in this guideline. Updating this guideline SAGES plans to repeat a comprehensive literature review in approximately three years to reevaluate and identify any new evidence. Particular attention will be paid to any future studies that specifically address the research recommendations proposed in this guideline. A formal update will be generated when substantial literature is detected.
-
-
-[E9] (Appendicitis, p.3-3)
-
-Recommendations for future research were also proposed. Interpretation of strong and conditional recommendations All guideline recommendations were assigned either a “strong” or “conditional” recommendation. The words “the guideline panel recommends” are used for strong recommendations, and “the guideline panel suggests” for conditional recommendations, as per the GRADE approach. A conditional recommendation signals that the benefits of adhering to a recommendation probably outweigh the harms although it does also indicate uncertainty. This uncertainty may be due to a lack of high-quality evidence or variability in how individual patients value the outcomes of interest. How to use these guidelines The primary aim of these guidelines is to make recommendations for the diagnosis and management of appendicitis to aid physicians facing clinical dilemmas. They are also intended to provide education for patients, inform advocacy, and describe future areas for research. The guidelines are meant to provide a suggested, not prescribed, approach for the management of appendicitis, especially given the lack of strong evidence.
-
-
-[E10] (Urolithiasis, p.16-16)
-
-Finally, the anatomy of the entire pelvicalyceal system should be assessed for each patient. The design of therapeutic algorithms including all the above parameters is difficult, mainly due to the great heterogeneity of stone disease between patients. Furthermore, there is a significant lack of comparative clinical studies to support the development of algorithms using parameters other than stone size and composition. 3.4.1 Renal colic Pain relief Non-steroidal anti-inflammatory drugs (NSAIDs) (including metamizole dipyrone) and paracetamol are effective in patients with acute stone colic [107] and have better analgesic efficacy than opioids [108]. Compared with ketorolac, ibuprofen is a more rapid-acting drug in controlling pain caused by renal colic, with a similar side effect profile [109]. Pain relief from intramuscular (i.m.) diclofenac compared favourably with those from intravenous (i.v.) ibuprofen and i.v. ketorolac; however, no recommendation can be given due to the way in which the results have been reported [110]. The addition of antispasmodics to NSAIDs does not result in improved pain control.
-
-
-TASK:
-The patient is being admitted to hospital. The ER does not prescribe ongoing therapy or follow-up — that is the admitting team's responsibility. Produce a brief handover note in two sections.
-
 SECTION 1 — ADMISSION NOTE
-In a numbered list: 
-- State that the patient is admitted to [department] for [key planned interventions], extracting the department and planned interventions from the clinical note (e.g. "Patient is admitted urgently to the Paediatrics department for high-dose intravenous immunoglobulin therapy, dedicated transthoracic echocardiography with coronary evaluation, and clinical-laboratory monitoring.").
-- State that the patient and/or family have been informed of the diagnosis, the expected clinical course based on the guideline excerpts (e.g. treatment protocol, possible complications, need for monitoring), and the planned treatment pathway. Do not write examples.
-- Do NOT give examples of complications or risks in parentheses. State the information directly without "e.g.", "such as", or "for example".
-- If the patient is being hospitalised to perform surgery,state that the patient has been prepped. 
-- State that the patient is handed over to the care of the [department] team.
-
-- Do NOT prescribe medications, follow-up visits, or lifestyle changes.
-- Do NOT cite [E#] in this section.
-- Keep each item to one or two sentences.
+1. The patient is admitted urgently to the General Surgery department for appendectomy.
+2. The patient has been prepared for surgery.
+3. The patient has been informed of the diagnosis and the planned care pathway.
+4. The patient is handed over to the care of the General Surgery team.
 
 SECTION 2 — CLINICAL REFERENCES (for the reviewing physician)
-For each item in Section 1 that draws on guideline content, write:
-[number] - [E#] - brief clinical justification
-Example:
-2 - [E1][E9] - IVIG 2g/kg and aspirin 30-50mg/kg/day are first-line treatment for Kawasaki disease to prevent coronary artery aneurysms.
+1 - (AcuteAppendicitis, p.6-6)(AcuteAppendicitis, p.5-5)(AcuteAppendicitis, p.8-8)(Clinical note) - Appendectomy is the gold standard for uncomplicated appendicitis and should be performed as soon as possible because delay increases the risk of perforation; CT showed non-perforated acute appendicitis and the on-call surgeon confirmed the surgical indication.
+2 - (Clinical note) - Fasting was started and the patient was prepared for the operating theatre.
+3 - (Clinical note) - The patient was informed of the diagnosis and of the need for surgery, and informed consent was obtained.
+4 - (No guideline source) - Standard handover item.
 
+TRADUZIONE IN ITALIANO
 
-RULES:
-- Use ONLY the provided guideline excerpts. Do not rely on prior medical knowledge.
-- Do NOT invent clinical facts not in the clinical note or excerpts.
-- Section 1 must be directly usable as a handover note with no editing needed.
+SEZIONE 1 — NOTA DI RICOVERO
+1. La paziente viene ricoverata d'urgenza presso il reparto di Chirurgia Generale per appendicectomia.
+2. La paziente è stata preparata per l'intervento chirurgico.
+3. La paziente è stata informata della diagnosi e del percorso di cura previsto.
+4. La paziente viene affidata alle cure dell'équipe di Chirurgia Generale.
+
+SEZIONE 2 — RIFERIMENTI CLINICI (per il medico revisore)
+1 - (AcuteAppendicitis, p.6-6)(AcuteAppendicitis, p.5-5)(AcuteAppendicitis, p.8-8)(Clinical note) - L'appendicectomia è il gold standard per l'appendicite non complicata e deve essere eseguita il prima possibile, poiché il ritardo aumenta il rischio di perforazione; la TC ha mostrato un'appendicite acuta non perforata e il chirurgo di guardia ha confermato l'indicazione chirurgica.
+2 - (Clinical note) - È stato avviato il digiuno e la paziente è stata preparata per la sala operatoria.
+3 - (Clinical note) - La paziente è stata informata della diagnosi e della necessità dell'intervento chirurgico, ed è stato ottenuto il consenso informato.
+4 - (No guideline source) - Voce standard del passaggio di consegne.
+
+============================================================
+ORIGINAL RECOMMENDATIONS (for comparison)
+============================================================
+Si consiglia:
+• Paziente ricoverata presso U.O. Chirurgia Generale per appendicectomia laparoscopica in
+urgenza.
+• Si informa la paziente e i familiari presenti della diagnosi, del percorso chirurgico previsto e
+dei rischi correlati.
+• Si affida alla presa in carico del team chirurgico.

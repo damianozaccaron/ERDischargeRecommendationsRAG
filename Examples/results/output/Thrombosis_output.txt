@@ -1,166 +1,48 @@
-ROLE:
-You are an emergency department physician writing discharge recommendations for a patient. The document will be read by the patient and their general practitioner.
-
-CLINICAL NOTE:
-
-FEMALE, 31 YEARS OLD
-Medical history:
-- Pathological proximate: The patient presented with pain and swelling in her left calf, which had started approximately 3 days ago and had been progressively worsening. She reported no shortness of breath, chest pain or haemoptysis. She reported no fever. She reported no recent trauma or prolonged immobilisation.
-- Remote pathology: No known medical conditions. No history of thromboembolic events or family history of thrombophilia. Currently taking oral oestrogen-progestogen (contraceptive pill). Has smoked approximately one packet a day for 10 years. Denies any drug allergies.
-
-Objective examination: The patient is alert, oriented and cooperative. She is not in distress at rest. Vesicular breath sounds are present in all lung fields; no additional sounds. Heart sounds are normal-rate, rhythmic, with clear intervals. Abdomen soft to palpation, not tender. Left lower limb: oedema of the calf, skin warm and erythematous distally. Right lower limb normal. BP 122/76 mmHg. Heart Rate 82 bpm. SpO₂ 99% on air. Body Temperature 36.8°C.
-
-Clinical diary:
-• Wells score for DVT calculated: tenderness along the deep venous course (+1), unilateral oedema (+1), swelling >3 cm (+1). Total score: 3 — high pretest probability.
-• Venous access established and D-dimer, biochemistry, complete blood count and coagulation tests performed.
-• ECG performed: sinus rhythm, no abnormalities.
-• Arterial blood gas analysis performed: normal gas exchange, no acid-base abnormalities. Performed to complete the diagnostic work-up in view of the suspected thromboembolism; results within normal limits.
-• Test results reviewed: D-dimer 2,840 ng/mL (normal range <500), significantly elevated. No signs of inflammation. Complete blood count and coagulation parameters within normal limits.
-• A venous Doppler ultrasound of the left lower limb was performed: deep vein thrombosis of the left gastrocnemius veins, not extending to the popliteal vein. No involvement of the proximal venous circulation.
-• The on-call angiologist/internist was contacted for a specialist consultation and to determine the treatment plan.
-• Anticoagulant therapy was initiated: enoxaparin 8,000 IU (100 IU/kg, weight 80 kg) subcutaneously, with the first dose administered in A&E.
-
-Diagnosis: deep vein thrombosis of the left gastrocnemius veins
-Prognosis: 4 days
-
-
-
-GUIDELINE EXCERPTS:
-
-[E1] (VenousThrombosis, p.60-60)
-
-7.6. What is the treatment for deep vein thrombosis? For most patients with DVT, the principal treatment is medication to thin the blood in order to prevent PE and stop the clot from spreading further in the deep veins. Many different types of blood thinning medications are available, each with different advantages and potential risks. Several studies have been performed to see which blood thinning medications work best and the guideline committee evaluated these trials in detail. For people with a clear reason for their DVT (such as hospital admission or surgery), blood thinning medication for a duration of three months is recommended (recommendation 14) using one of the newer blood thinning drugs (known as direct oral anticoagulants, or DOACs) rather than the traditional blood thinner warfarin (recommendation 16). Where there is not an obvious reason for the DVT, the risk of further DVT after stopping blood thinning medication is relatively high. Therefore, assuming the risk of bleeding is not too high, extending blood thinning treatment beyond three months is recommended (recommendation 21).
-
-
-[E2] (VenousThrombosis, p.45-45)
-
-Recommendations and a ﬂowchart (Fig. 11) on diagnosis, investigations, and treatment for SVT are shown below. Suspected lower limb superficial vein thrombosis Whole leg ultrasound scan to determine thrombus extent and exclude asymptomatic deep vein thrombosis An intermediate dose of a low molecular weight heparin should be considered as an alternative to fondaparinux Class IIa B Deep vein thrombosis (± superficial vein thrombosis) present Treatment of deep vein thrombosis Superficial vein thrombosis Fondaparinux 2.5 mg once daily is recommended A 45 day course of anticoagulation treatment is recommended Superficial vein thrombosis ≥ 3 cm away from the junction with the deep veins and extending ≥ 5 cm in Superficial vein thrombosis < 3 cm away from the junction with the deep veins Therapeutic anticoagulation is recommended A three month course of anticoagulation may be considered if high risk clinical and/or anatomical features Class IIb C Ablation of incompetent superficial veins should be considered once the acute inflammatory and prothrombotic phase has settled, at least three months after the most recent thrombotic event Class IIa C Figure 11. Flowchart of recommendations on treatment for superﬁcial vein thrombosis.
-
-
-[E3] (VenousThrombosis, p.22-22)
-
-2.3.6.3. Choice of anticoagulation for the treatment of provoked deep vein thrombosis. Most of the RCTs that have evaluated the efﬁcacy and safety of different anticoagulant medications for DVT have included patients with unprovoked DVT, with a variable proportion of patients with provoked DVT. Therefore, the analysis of this subgroup is challenging. Traditionally, the treatment of DVT has been dominated by the use of IV UFH or subcutaneous LMWH for the initial acute phase (up to 10 days), followed by a VKA such as acenocoumarol, phenprocoumon, or warfarin, or LMWH for the principal phase of treatment (three months). The role of LMWH in the principal treatment of provoked DVT not related to cancer has not been well deﬁned. One recent Cochrane Review concluded that there are no differences between LMWH and VKA in terms of bleeding complications, recurrent VTE, or death after symptomatic DVT.
-
-
-[E4] (VenousThrombosis, p.38-39)
-
-increase the dose of LMWH or DOAC to therapeutic dose, or switch to VKAs with a higher INR target Class IIa B Recurrent DVT while compliant with Recurrent (second or subsequent) unprovoked proximal DVT Extend anticoagulation therapy beyond three months Major transient risk factor Persistent risk factor Anticoagulation beyond three months after evaluation of thrombotic and bleeding risks, with periodical re-assessment Class IIa C Early compression at 30–40 mmHg to reduce pain, oedema, and residual venous obstruction Below knee compression stockings to reduce the risk of PTS Class IIa A Discontinue at 6–12 months if low Villalta score Class I A Uneventful treatment Minor transient risk factor Anticoagulation beyond three months after evaluation of thrombotic and bleeding risks, with periodical re-assessment Class IIb C Figure 7. Flowchart of recommendations on treatment for provoked deep vein thrombosis (DVT). PTS ¼ post-thrombotic syndrome; 38 Stavros K. Kakkos et al. these.
-
-
-[E5] (VenousThrombosis, p.46-46)
-
-ESVS 2021 Clinical Practice Guidelines on the Management of Venous Thrombosis 45 Recommendation 43 For patients with suspected lower limb superﬁcial vein thrombosis, a whole leg ultrasound scan is recommended to determine thrombus extent and exclude asymptomatic deep vein thrombosis. Class Level References I B Decousus et al. (2010), Di Minno et al. (2016), Jorgensen et al. (1993) Recommendation 44 Forpatientswithisolatedlowerlimbsuperﬁcialveinthrombosis < 5 cm in length on ultrasound and lacking high risk features, such as malignancy, thrombophilia, or proximity to the deep venous system, anticoagulation is not recommended. Class Level Reference III C Consensus Recommendation 45 For patients with lower limb superﬁcial vein thrombosis ‡ 3 cm away from the junction with the deep veins and extending ‡ 5 cm in length, fondaparinux 2.5 mg once daily is recommended. Class Level Reference I B Decousus et al. (2010) Recommendation 46 For patients with lower limb superﬁcial vein thrombosis ‡ 3 cm away from the junction with the deep veins and extending ‡ 5 cm in length, an intermediate dose of a low molecular weight heparinshould beconsideredasan alternativetofondaparinux.
-
-
-[E6] (VenousThrombosis, p.22-22)
-
-95% CI 1.25 e 6.69; p ¼ .013).In addition, risk of recurrence was similar in the ﬁrst six months after stopping anticoagulation in the group treated with three months of therapy, compared with patients treated for longer, with no differences in all haemorrhages (RR 0.96; 95% CI 0.66 e 1.40) or in major bleeding (RR 0.73, 95% CI 0.24 e 2.27).While this strategy may be beneﬁcial for patients with proximal DVT as a result of a major transient risk factor (e.g., surgery), patients with proximal DVT provoked by a persistent risk factor (see Chapter 2.1.2 on risk factors and also Table 4) may beneﬁt from extended anticoagulation. Periodic assessment of the presence and intensity of the provoking risk factor, and bleeding risk is suggested to help inform the decision whether or not to continue anticoagulation. Advice from other specialties may be needed where the provoking factor is a chronic illness (e.g., autoimmune disease). 2.3.6.3. Choice of anticoagulation for the treatment of provoked deep vein thrombosis.
-
-
-[E7] (VenousThrombosis, p.57-57)
-
-The reader is referred to the SPC of the various LMWHs and fondaparinux for further information on dosing and precautions in CKD. In recent years the relative efﬁcacy and safety of DOACs vs. VKAs in patients with VTE and with mild to moderate CKD (CrCl 30 e 80 mL/minute) has been conﬁrmed in the initial/principal and extended treatment of DVT.Rivaroxaban, apixaban, and edoxaban are not recommended in patients with a CrCl < 15 mL/minute, which is raised to 30 mL/minute for dabigatran. However, the GWC acknowledges that this a rapidly moving ﬁeld, after the USA Food and Drug Administration approved apixaban for treating atrial ﬁbrillation in patients with end stage renal disease, where dose monitoring may play a role in the future in patients with DVT. Periodic re-assessment of renal function in patients with severe or moderate CKD receiving LMWH, fondaparinux or a DOAC could be helpful in preventing bioaccumulation and bleeding. 4.7. Deep vein thrombosis in patients with extremes of body weight Treatment of DVT in patients with very low or very high body weight may be challenging.
-
-
-[E8] (VenousThrombosis, p.15-15)
-
-Treatment of deep vein thrombosis: anticoagulation 2.3.1. Phases of anticoagulation for deep vein thrombosis. Anticoagulation treatment for DVT may be divided into three distinct phases:(1) an initial treatment phase (up to 10 days) with the aim of rapidly instigating anticoagulation therapy to prevent propagation of DVT and PE; (2) a principal treatment phase (ﬁrst three months) to maintain therapeutic levels of anticoagulation to prevent propagation of DVT and PE, and reduce the risk of early recurrent VTE; and (3) an extended treatment phase (beyond three months, with no scheduled stop date) with the speciﬁc aim of reducingthe long term risk of recurrent VTE. After the principal treatment period (three months), the recurrence risk varies depending on the underlying risk factors. Extended anticoagulation treatment may be required for speciﬁc patient groups at high risk of recurrent VTE. 2.3.2. Anticoagulation mechanisms of action. Indirect anticoagulants, including the heparins, fondaparinux, or danaparoid, require the presence of antithrombin for inhibiting factor IIa (thrombin) and factor Xa, while direct anticoagulants act without the requirement of any co-factor (Fig. 2).
-
-
-[E9] (VenousThrombosis, p.21-21)
-
-Anticoagulation therapy for the treatment of provoked deep vein thrombosis. Provoking factors for DVT can be transient (such as surgery or hospital admission with bed rest [strict or with bathroom privileges] lasting at least three days) or persistent (such as thrombophilia) and may be associated with varying risks of DVT recurrence (see Table 4).Treatment options for cancer associated venous thrombosis (CAVT) are presented in Chapter 4.3. The duration of treatment for lower extremity DVT depends on the balance of bleeding risk due to anticoagulation and the risk of recurrence with and without anticoagulation. One published expert consensus suggested that a risk of VTE recurrence > 5% per year or >15% at ﬁve years would justify extended anticoagulant therapy as the beneﬁts outweigh the risks.In view of the reduced bleeding risks of DOACs, these recurrence rates should be lowered to < 3% per year, or even further when prophylactic doses of rivaroxaban or apixaban are to be used. The presence or absence of a recognisable risk factor when diagnosing VTE allows more accurate estimation of the potential risk of recurrence.
-
-
-[E10] (VenousThrombosis, p.61-61)
-
-there is a risk of clot spreading into the deep veins and becoming a DVT. As the risks from SVT are related to the precise location and length of the clot in the superﬁcial veins, it is recommended that all people suspected of having a SVT should have a detailed ultrasound scan of superﬁcial and deep veins of the leg (recommendation 43). If the clot is longer than 5 cm, between 30 days and three months of blood thinning medication is recommended, depending on how close the clot is to the deep veins (recommendation 47, 49). For some people, treatment of the varicose veins may be necessary in a second stage to prevent further episodes of SVT. 7.11. How should I be treated if I have a deep vein thrombosis of the arm? Around one in 10 of all DVTs occur in the arm and the most common cause is the presence of a cannula or “drip” used to give medications for cancer and other conditions. Some people develop DVT in the arm after strenuous effort or exercise (known as “effort thrombosis”). In people with effort thrombosis, there is thought to be pressure on the deep veins as they leave the arm, which reduces the ﬂow and causes the clot to form.
-
-
-GUIDELINE TABLES:
-
-[T1] (VenousThrombosis, p.54-54) Recommendation 64
-
-| Group | For patients with active | cancer associated deep vein |
-| --- | --- | --- |
-|  | thrombosis, switching from a low molecular weight heparin to an oral anticoagulant is recommended after three to six months of treatment for extended treatment. |  |
-|  | Class Level | Reference |
-|  | I C | Consensus |
-| Recommendation 65 | In selected patients with thrombosis, with the malignancy not located in the gastrointestinal or genitourinary systems, an approved direct oral anticoagulant for initial, principal, and extended treatment should be considered. | cancer associated deep vein |
-| Recommendation 65 | Class Level | References |
-| Recommendation 65 | IIa A | Posch et al. (2015),Kirkilesis et al. (2019),Kraaijpoel et al. (2018),McBane et al. (2020),Agnelli et al. (2020) |
-
-
-[T2] (VenousThrombosis, p.23-23) Recommendation 14
-
-| Group | For patients with a provoked proximal deep vein thrombosis |  |
-| --- | --- | --- |
-|  | with a major transient anticoagulation treatment duration. | risk factor, three months of is recommended over a shorter |
-|  | Class Level | References |
-|  | I A with a major transient anticoagulation treatment duration should be considered. | Boutitie et al. (2011),Kearon et al. (2004) risk factor, three months of over six months or longer |
-| For patients with a provoked proximal deep vein thrombosis | Class Level | References |
-| For patients with a provoked proximal deep vein thrombosis | IIa A | Boutitie et al. (2011),Pinede et al. (2001) |
-| Recommendation 16 | For patients with provoked treatment with a direct oral anticoagulant is recommended over a vitamin K antagonist for the principal treatment phase. | proximal deep vein thrombosis, |
-| Recommendation 16 | Class Level | Reference |
-| Recommendation 16 | I A | Kakkos et al. (2014) |
-| Recommendation 17 | In selected patients with thrombosis with a persistent risk factor other than malignancy, anticoagulation beyond three months should be considered after evaluation of thrombotic and bleeding risks, with periodic reassessment. | provoked proximal deep vein |
-| Recommendation 17 | Class Level | Reference |
-| Recommendation 17 | IIa C | Consensus |
-| Recommendation 18 | In selected patients with thrombosis with a minor transient risk factor, anticoagulation beyond three months may be considered, after evaluation of thrombotic and bleeding risks with periodic reassessment. | provoked proximal deep vein |
-| Recommendation 18 | Class Level | Reference |
-| Recommendation 18 | IIb C | Prins et al. (2018) |
-
-
-[T3] (VenousThrombosis, p.56-56) Recommendation 66
-
-| Group | For patients with deep | vein thrombosis and high risk |
-| --- | --- | --- |
-|  | thrombophilia (e.g., homozygous factor V Leiden mutation, or deﬁciencies of protein C or S, or antithrombin), full dose extended anticoagulant therapy is recommended with periodic re- evaluation. | antiphospholipid syndrome, |
-|  | Class Level | References |
-|  | I C syndrome who are triple positive or have a history of arterial or small vessel thrombosis, direct oral anticoagulants should not be used. | Tektonidou et al. (2019), Nicolaides et al. (2013) |
-| For patients with deep vein thrombosis and antiphospholipid | Class Level | References |
-| For patients with deep vein thrombosis and antiphospholipid | III B antiphospholipid syndrome, treatment with a vitamin K antagonist titrated to normalised ratio between 2e3 should be considered. | Tektonidou et al. (2019), Pengo et al. (2018),Malec et al. (2020),Ordi-Ros et al. (2019) maintain a target international |
-| For patients with deep vein thrombosis and triple positive | Class Level | Reference |
-| For patients with deep vein thrombosis and triple positive | IIa B | Pengo et al. (2018) |
-| Recommendation 69 | For patients with deep thrombophilia, long term follow up by a thrombophilia expert is recommended. | vein thrombosis and a high risk |
-| Recommendation 69 | Class Level | Reference |
-| Recommendation 69 | I C | Consensus |
-
-
-TASK:
-Produce discharge recommendations in two sections, do not add anything else.
-
 SECTION 1 — DISCHARGE RECOMMENDATIONS
-A numbered list of concise instructions for the patient.
-Rules:
-- One or two sentences per item. Be direct: "Continue...", "Stop...", "A prescription is issued for...".
-- Combine closely related actions into a single item (e.g. stopping a medication and adopting an alternative is one recommendation, not two). Never combine medication prescriptions with non-medication actions.
-- For medications: always include drug name, dose, route, and frequency (e.g. "every 12 hours"), but do not make up information. Take dosing from the guideline excerpts or tables when they state it; otherwise copy the exact dosing from the clinical note. If neither states the frequency, write "as directed by the specialist".
-- Dosing may be taken from a cited table; copy the value or range exactly as written, never compute or interpolate.
-- Where a table distinguishes routes, use the oral maintenance column for home discharge and ignore intravenous columns.
-- Before prescribing a drug that appears in a table, check every contraindication or criteria column against the clinical note; if a contraindication is present, do not prescribe and state this in Section 2.
-- If a table gives a range rather than a single dose, write the range.
-- For lifestyle factors (smoking, alcohol, diet, exercise): use strong advisory tone ("strongly recommended", "strongly advised") rather than direct orders.
-- For lifestyle factors, if the patient is already doing the right thing (e.g. non-smoking, not overweight),don't acknowledge it. Only give instructions for things that need to be changed or started.
-- For follow-up appointments and specialist referrals, use the phrasing: "A prescription is issued for [specialist type] evaluation for [clinical purpose]" and always specify the specialist type from the clinical note (e.g. "angiologist", "cardiologist", "internist") and the clinical purpose of the visit (e.g. "for thrombophilia screening", "for initiation of anticoagulant therapy", "for echocardiographic follow-up").
-- Do NOT explain why. No rationale, no "because...", no "to reduce the risk of...", no pathophysiology.
-- Do NOT speculate about future treatment decisions (duration of therapy, drug switches). - No sub-bullets, no bold, no markdown headers, no category groupings. Just a numbered list.
-- Do NOT cite [E#] in this section. Citations belong only in Section 2.
-- The second-to-last item must always be: "Go to the nearest emergency department immediately if you experience [relevant warning symptoms for this diagnosis]."
-- The last item must always be: "You are referred back to your general practitioner for any further diagnostic or therapeutic needs and ongoing care."
-- If a topic cannot be addressed by the excerpts: "Refer to specialist for [topic]."
+1. Continue enoxaparin 8,000 IU subcutaneously as directed by the specialist.
+2. Stop the oral oestroprogestin contraceptive pill.
+3. Stopping smoking is recommended.
+4. A prescription is issued for angiologist/internal medicine evaluation for management of the deep vein thrombosis and planning of anticoagulant therapy.
+5. Go to the nearest emergency department immediately if you experience shortness of breath, chest pain, coughing up blood, worsening pain or swelling of the leg, or any bleeding.
+6. You are referred back to your general practitioner for any further diagnostic or therapeutic needs and ongoing care.
 
 SECTION 2 — CLINICAL REFERENCES (for the reviewing physician)
-For each recommendation number in Section 1, write:
-[number] - [E#][T#] - brief clinical justification
-Example:
-1 - [E4][E7] - Anticoagulation recommended for confirmed distal DVT with high pretest probability.
-2 - [E4][T1] - Apixaban 5 mg twice daily as per the DOAC dose table; no dose-reduction criterion met.
-3 - [E7] - Oral contraceptives classified as moderate VTE risk factor (OR 2-9).
+1 - (VenousThrombosis, p.42-42) (Clinical note) - Symptomatic calf DVT requiring anticoagulation warrants treatment, and weight-based enoxaparin was started in the ED with therapeutic planning deferred to the on-call angiologist/internist.
+2 - (VenousThrombosis, p.26-26) - Combined oral contraceptives are a recognised risk factor for calf vein thrombosis and are to be discontinued.
+3 - (Clinical note) - The patient smokes about 1 pack/day for 10 years.
+4 - (Clinical note) - The on-call angiologist/internal medicine physician was consulted for specialist consultation and therapeutic planning.
+5 - (Clinical note) - Symptoms of pulmonary embolism, thrombus progression or anticoagulant-related bleeding require urgent reassessment.
+6 - (No guideline source) - Standard closing item.
 
-RULES:
-- Use ONLY the provided guideline excerpts. Do not rely on prior medical knowledge.
-- Do NOT invent drug names, dosages, frequencies, or clinical facts not in the clinical note or excerpts.
-- When multiple excerpts cover the same topic, write one recommendation and cite all relevant excerpts.
-- Do not repeat the same recommendation in different wording.
-- Section 1 must be directly usable as a discharge document with no editing needed.
+TRADUZIONE IN ITALIANO
+
+SEZIONE 1 — RACCOMANDAZIONI ALLA DIMISSIONE
+1. Proseguire enoxaparina 8.000 UI per via sottocutanea secondo le indicazioni dello specialista.
+2. Sospendere la pillola contraccettiva estroprogestinica orale.
+3. Si raccomanda di smettere di fumare.
+4. Si rilascia impegnativa per valutazione angiologica/internistica per la gestione della trombosi venosa profonda e la pianificazione della terapia anticoagulante.
+5. Recarsi immediatamente al pronto soccorso più vicino in caso di mancanza di respiro, dolore toracico, tosse con sangue, peggioramento del dolore o del gonfiore della gamba, o qualsiasi sanguinamento.
+6. Si rimanda al medico di medicina generale per ogni ulteriore necessità diagnostica o terapeutica e per la presa in carico continuativa.
+
+SEZIONE 2 — RIFERIMENTI CLINICI (per il medico revisore)
+1 - (VenousThrombosis, p.42-42) (Clinical note) - La TVP surale sintomatica che richiede anticoagulazione va trattata; l'enoxaparina a dose basata sul peso è stata iniziata in PS, con pianificazione terapeutica affidata all'angiologo/internista di guardia.
+2 - (VenousThrombosis, p.26-26) - I contraccettivi orali combinati sono un fattore di rischio riconosciuto per la trombosi venosa surale e vanno sospesi.
+3 - (Clinical note) - La paziente fuma circa 1 pacchetto/die da 10 anni.
+4 - (Clinical note) - È stato consultato l'angiologo/internista di guardia per consulenza specialistica e pianificazione terapeutica.
+5 - (Clinical note) - Sintomi di embolia polmonare, progressione del trombo o sanguinamento da anticoagulante richiedono una rivalutazione urgente.
+6 - (No guideline source) - Voce di chiusura standard.
+
+============================================================
+ORIGINAL RECOMMENDATIONS (for comparison)
+============================================================
+Si consiglia:
+• Prosegua enoxaparina 8.000 UI s.c. ogni 12 ore fino a rivalutazione specialistica, oppure si
+imposti terapia con DOAC secondo indicazione dello specialista.
+• Sospenda immediatamente la pillola anticoncezionale e si rivolga al ginecologo per metodo
+contraccettivo alternativo non ormonale.
+• Si rilascia impegnativa per visita angiologica/ematologica e valutazione per trombofilia (da
+eseguire a distanza dalla fase acuta e dalla sospensione dell'anticoagulante).
+• Astensione dal fumo raccomandata con fermezza.
+• Se comparsa di dispnea, dolore toracico, emottisi o peggioramento del quadro locale,
+rientrare immediatamente presso il più vicino PS.
+• Si riaffida al medico curante per presa in carico e continuazione terapeutica.

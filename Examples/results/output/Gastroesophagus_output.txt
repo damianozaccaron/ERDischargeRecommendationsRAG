@@ -1,111 +1,49 @@
-ROLE:
-You are an emergency department physician writing discharge recommendations for a patient. The document will be read by the patient and their general practitioner.
-
-CLINICAL NOTE:
-
-MALE, 42 YEARS OLD
-Medical history:
-- Pathological proximate: The patient presents with retrosternal chest pain whilst lying on his back, which had been present for approximately 3 days and was not exacerbated by breathing or movement. He reported a dry cough lasting several weeks. He denied having a fever or shortness of breath.
-- Remote pathology: No known cardiovascular events or family history of such conditions. No history of diabetes. Normal weight. Former smoker of approximately half a packet a day; stopped smoking ten years ago. Previous Helicobacter pylori infection, eradicated approximately 5 years ago. Otherwise, no known medical conditions. Denies any drug allergies.
-
-Objective examination: Vesicular breath sounds present in all lung fields; no additional sounds. Heart sounds of normal-rate, rhythmic and with regular pauses. Abdomen soft to touch, not tender on superficial or deep palpation. Negative for CVA Tenderness and Blumberg’s signs. Cystic points are non-tender. No dependent oedema or signs of venous thrombosis.
-
-Clinical diary:
-- Venous access established and troponin, biochemistry, complete blood count and pro-BNP tests performed. An ECG was performed: sinus rhythm, no signs of ST-segment depression or elevation.
-- Arterial blood gas analysis was performed: physiological parameters
-- The patient was referred to radiology for a chest X-ray in two projections.
-- Test results reviewed: troponin <14, therefore negative. No signs of inflammation. Chest X-ray negative
-for acute findings.
-- 40 mg of pantoprazole administered in 100 cc of normal saline.
-- A bedside echocardiogram is performed: no pleural, pericardial or intra-abdominal effusion. No B-lines in the lung fields; good pleural sliding. Gallbladder normally distended; no gallstones visible using this technique. No bilateral hydronephrosis.
-- Within one hour, the symptoms had reduced until they had completely resolved. The patient was discharged home.
-
-Diagnosis: gastro-oesophageal reflux
-Prognosis: 4 days
-
-
-
-GUIDELINE EXCERPTS:
-
-[E1] (Gastro-oesophagealReflux, p.17-17)
-
-Main therapeutic trials 6.3.3.1. Trial duration, endpoints and general design issues: The treatment of GORD, being chronic in nature, can be subdivided into acute treatment during which healing of oesophageal lesions or primary symptom control is the aim, and a maintenance phase, during which the maintenance of healing and/or symptom control should be achieved. Large randomised, double-blind treatment trials are required for the proof of efficacy. Prior to the start of trials that include patients pre-treated with acid-suppressive medication, usually an appropriate wash-out period should be part of the protocol (e.g. one week in case of H2-antagonists, and 4 weeks in the case of PPIs). However, this is not applicable in case an add-on indication to acid suppressives is investigated. In these cases, a run-in period under active treatment is required (see 4.1.2 and 6.1.1.) A possible rebound effect after the end of treatment should be evaluated during an appropriate followup period. Acute treatment: Reflux oesophagitis The treatment duration in these trials has traditionally been 4-8 weeks.
-
-
-[E2] (Gastro-oesophagealReflux, p.11-11)
-
-5. Possible targets of treatment: Acid suppression Acid suppressive agents, particularly PPIs are currently the mainstay of therapy in GORD, with good efficacy and tolerability. However, a need to optimise acid suppression with regard to the daily course of acid secretion, especially during the night, has been identified. Also, higher healing rates of the more severe forms of reflux oesophagitis or a faster onset of full treatment effects may constitute a further potential for optimisation. Therefore, attempts to develop compounds with a longer duration of action (i.e. longer half-life, different release characteristics, and different way of binding to the proton pump) or a faster onset of action are under way. Whether these will lead to clinically relevant improvements in efficacy, however, is currently unclear. It is considered self-evident that, even if superiority to existing PPIs can be shown in specific features (such as night-time reflux complaints, better control in on-demand medication), this will most likely not lead to a different indication in the labelling, as the disease to be treated will essentially not change.
-
-
-[E3] (Gastro-oesophagealReflux, p.1-5)
-
-biologics, non-steroidal anti-inﬂammatory drugs) on fracture healing (delayed or non-union) and on atypical femoral fractures ▸Implementation of recommendations. Reproduction is authorised provided the source is acknowledged. 17 March 2011 EMA/CHMP/EWP/342691/2009 Committee for Medicinal Products for Human Use (CHMP) Guideline on the evaluation of drugs for the treatment of Gastro-oesophageal reflux disease Keywords Gastro-oesophageal Reflux Disease (GORD), Reflux Oesophagitis, Non-Erosive Reflux Disease (NERD) Executive summary This guideline intends to address the EU regulatory position on the main topics of the clinical development of new medicinal products in the treatment of patients with gastro-oesophageal reflux disease (GORD). 1.  Introduction (background) 1.1.  Definition of GORD: Gastro-oesophageal reflux disease (GORD) has been identified as the most common gastrointestinal diagnosis in outpatient clinics. Estimations suggest that up to 20% of adults are affected (weekly complaints over an observation period of 1 year). Over the last 2 decades there has been an overall increase in GORD, with trends indicating further increases still.
-
-
-[E4] (Gastro-oesophagealReflux, p.6-6)
-
-A recent consensus document, however, defined GORD in the paediatric population based on troublesome symptoms in a similar way as adult GORD, i.e. reflux symptoms that are not troublesome should not be diagnosed as GORD. Definition of “troublesome”, however, remains a challenge, particularly in infants and for this age-group, GORD is defined by the presence of complications as well. Symptoms associated with GORD in the younger paediatric population range from regurgitation, vomiting, abdominal pain, arching and irritability, to feeding refusal, and/or poor growth. Extra-oesophageal symptoms, e.g. respiratory symptoms, occur in children as well as adults. Children with secondary GORD (i.e. associated with underlying disorders such as neurodevelopmental delay or congenital abnormalities) form a separate sub-group of the paediatric GORD population as they are more prone to severe and chronic forms of GORD with complications. Conservative management of mild GORD in infants consists of positioning and feeding changes. Pharmacological options for moderate to severe GORD include acid inhibitory agents and prokinetic agents.
-
-
-[E5] (Gastro-oesophagealReflux, p.5-6)
-
-GORD has traditionally been seen as a nonprogressive disease (as regards the progression from non-erosive to erosive disease, to more severe erosive disease and to Barrett’s oesophagus and other complications), with progression occurring in only a small proportion of patients. However, conflicting evidence is available on this topic, indicating higher progression rates than previously thought. The pathophysiological factors causing GORD can be divided into those inducing greater exposure of the oesophagus to stomach contents, and those providing increased mucosal damage or increased perception of reflux. Key elements representing these factors have been identified to be transient lower oesophageal sphincter relaxations, and oesophageal hypersensitivity as a result of visceral neural pathways dysfunction. Risk factors associated with the development of GORD have been identified to be largely environmental/demographic in nature, such as smoking and alcohol consumption, age and high body mass index. Although it has long been known that family history is significantly associated with GORD, the search for genetic susceptibility and identification of specific loci has only just begun 1.2.
-
-
-[E6] (Gastro-oesophagealReflux, p.8-8)
-
-If studies in this patient population are conducted, data on endoscopic diagnosis (exclusion of mucosal breaks) are required before inclusion (see 6.1.1. ). The condition “Symptomatic Gastro-oesophageal Reflux Disease” is slightly different from pure “nonerosive disease” because mild reflux oesophagitis (defined as grade A of L.A classification) has traditionally been included in trials in the “non-erosive” population leading to the claim “symptomatic GORD” or “symptomatic treatment of GORD”. The inclusion of mild oesophagitis patients and subsequent claim of “Symptomatic Gastro-oesophageal Reflux Disease” is considered acceptable on the basis of adequate justification. 4.1.2. Further Subdivision/claims based on the response to acid suppressive medication, especially PPIs: In recent years, there have been a growing number of reports suggesting that about 30% of GORD patients treated with PPI are partially or completely unresponsive to standard dose and duration of PPI therapy. For these patients, it is usually suggested – as a first step – to increase (usually double) the dose and duration of therapy with a PPI.
-
-
-[E7] (Gastro-oesophagealReflux, p.12-12)
-
-For endoscopic grading, the Los Angeles classification should be used (see 4.1.1. and 6.2.2. ). For substances where a “symptomatic claim” only is being sought, endoscopic status should nevertheless be documented. To this end, either pre-inclusion endoscopy results should be available, which should not be older than 1 year, or – in pre-treated patients (e.g. as “add-on” to acid suppressive therapy), previously diagnosed reflux oesophagitis should be re-checked for healing at the time of inclusion, and if unhealed, also be followed-up after the end of the trial. For the requirements for patients with mild reflux oesophagitis included in such trials, see 4.1.1. As the cardinal symptoms of GORD are regarded to be heartburn and acid regurgitation, the presence of both symptoms are required for inclusion of GORD patients in clinical trials in which recruitment of patients is based on symptoms only, no matter whether the primary endpoint refers to endoscopy or symptoms only. Both acid regurgitation and heartburn, have displayed a relatively weak performance in the stringent sense of diagnostic accuracy.
-
-
-[E8] (Gastro-oesophagealReflux, p.17-17)
-
-Acute treatment: Reflux oesophagitis The treatment duration in these trials has traditionally been 4-8 weeks. A trial duration of 8 weeks will be regarded as the minimum requirement for the documentation of healing of reflux oesophagitis. The primary endpoint is the complete healing of all mucosal breaks (see also 6.2.2.) at the end of the trial period. Other endpoints, such as “complete remission”, which is a composite of a validated symptom questionnaire and mucosal healing may be acceptable, depending on justification. Non-erosive disease: Trial durations in non-erosive GORD have traditionally been shorter, in the range of 2-4 weeks. However, treatment durations shorter than 8 weeks will only be acceptable in the future, if either efficacy in repeated cycles of treatment, maintenance treatment, or in the so-called “on-demand” treatment can be shown at the same time. The choice of the length of this primary treatment cycle (and possible further treatment cycles) should be based on the pharmacodynamic properties and the success rates achieved in phase II, which might bring up the need to explore different treatment durations.
-
-
-[E9] (Gastro-oesophagealReflux, p.5-5)
-
-The typical symptoms, heartburn and acid regurgitation have been defined by consensus only and do currently lack adequate validation. Accompanying symptoms are regarded to be epigastric pain, sleep disturbances, dyspepsia, dysphagia, odynophagia, nausea, vomiting and others. The main complications of GORD can be regarded to be reflux oesophagitis, the development of strictures, Barrett’s oesophagus (intestinal metaplasia and dysplasia) and oesophageal adenocarcinoma. In rare cases, oesophagitis may also lead to clinically significant bleeding and/or perforation. However, despite the possible serious consequences, GORD usually presents as a relatively benign condition, not leading to a relevant increase in mortality. GORD has traditionally been seen as a nonprogressive disease (as regards the progression from non-erosive to erosive disease, to more severe erosive disease and to Barrett’s oesophagus and other complications), with progression occurring in only a small proportion of patients. However, conflicting evidence is available on this topic, indicating higher progression rates than previously thought.
-
-
-[E10] (BarrettEsophagus, p.5-6)
-
-and at least one of the following risk factors (white ethnicity, male sex, obesity, smoking, having a first-degree relative with BE or EAC). Weak recommendation, low quality of evidence. * Standard PPI dose for the indication “severe esophagitis” is omeprazole 40 mg or its dose equivalent (pantoprazole 40 mg, esomeprazole 40 mg, rabeprazole 20 mg, or lansoprazole 30 mg) [14]. was significantly higher (12.2 %) than in individuals with GERD symptoms alone. A positive linear relationship was shown between BE prevalence and the number of risk factors, increasing the prevalence of BE by 1.2 % for each additional risk factor. These data support the concept of case finding of BE in select individuals with GERD symptoms and at least one additional risk factor. It must be noted that approximately 50 %–60 % of all BE cases occur in patients without GERD symptoms [28, 29]. These patients will be missed when adhering to the currently suggested strategies for screening and case finding, because these all require GERD symptoms as an indication for screening. However, given the large population of individuals without GERD symptoms, all-comer screening would lead to substantial economic costs.
-
-
-TASK:
-Produce discharge recommendations in two sections, do not add anything else.
-
 SECTION 1 — DISCHARGE RECOMMENDATIONS
-A numbered list of concise instructions for the patient.
-Rules:
-- One or two sentences per item. Be direct: "Continue...", "Stop...", "A prescription is issued for...".
-- Combine closely related actions into a single item (e.g. stopping a medication and adopting an alternative is one recommendation, not two). Never combine medication prescriptions with non-medication actions.
-- For medications: always include drug name, dose, route, and frequency (e.g. "every 12 hours"), but do not make up information. Take dosing from the guideline excerpts when they state it; otherwise copy the exact dosing from the clinical note. If neither states the frequency, write "as directed by the specialist".
-- For lifestyle factors (smoking, alcohol, diet, exercise): use strong advisory tone ("strongly recommended", "strongly advised") rather than direct orders.
-- For lifestyle factors, if the patient is already doing the right thing (e.g. non-smoking, not overweight),don't acknowledge it. Only give instructions for things that need to be changed or started.
-- For follow-up appointments and specialist referrals, use the phrasing: "A prescription is issued for [specialist type] evaluation for [clinical purpose]" and always specify the specialist type from the clinical note (e.g. "angiologist", "cardiologist", "internist") and the clinical purpose of the visit (e.g. "for thrombophilia screening", "for initiation of anticoagulant therapy", "for echocardiographic follow-up").
-- Do NOT explain why. No rationale, no "because...", no "to reduce the risk of...", no pathophysiology.
-- Do NOT speculate about future treatment decisions (duration of therapy, drug switches). - No sub-bullets, no bold, no markdown headers, no category groupings. Just a numbered list.
-- Do NOT cite [E#] in this section. Citations belong only in Section 2.
-- The second-to-last item must always be: "Go to the nearest emergency department immediately if you experience [relevant warning symptoms for this diagnosis]."
-- The last item must always be: "You are referred back to your general practitioner for any further diagnostic or therapeutic needs and ongoing care."
-- If a topic cannot be addressed by the excerpts: "Refer to specialist for [topic]."
+1. Raise the head of your bed when sleeping.
+2. Sleep lying on your left side.
+3. Avoid lying down after meals and leave at least three hours between your evening meal and going to bed.
+4. Avoid wearing clothes or items that are tight around your waist.
+5. A low-fat diet is recommended.
+6. Go to the nearest emergency department immediately if you experience chest pain that returns or worsens, chest pressure or tightness, pain spreading to the arm, neck or jaw, or shortness of breath.
+7. You are referred back to your general practitioner for any further diagnostic or therapeutic needs and ongoing care.
 
 SECTION 2 — CLINICAL REFERENCES (for the reviewing physician)
-For each recommendation number in Section 1, write:
-[number] - [E#] - brief clinical justification
-Example:
-1 - [E4][E7] - Anticoagulation recommended for confirmed distal DVT with high pretest probability.
-3 - [E7] - Oral contraceptives classified as moderate VTE risk factor (OR 2-9).
+1 - (RefluxLikeSymptoms, p.4-4)(RefluxLikeSymptoms, p.7-7)(RefluxLikeSymptoms, p.6-7) - Head-of-the-bed elevation is recommended for night-time reflux-like symptoms, and this patient's pain occurs when lying supine.
+2 - (RefluxLikeSymptoms, p.4-4)(RefluxLikeSymptoms, p.7-7) - Left lateral decubitus sleeping is recommended for night-time reflux-like symptoms and shortens acid exposure compared with the supine position.
+3 - (RefluxLikeSymptoms, p.4-4)(RefluxLikeSymptoms, p.7-7) - Avoiding recumbence after meals and leaving a 3-hour dinner-to-bed interval is recommended for night-time reflux-like symptoms.
+4 - (RefluxLikeSymptoms, p.4-4) - Individuals with reflux-like symptoms should be advised to avoid items that are tight around the waist.
+5 - (RefluxLikeSymptoms, p.4-4) - A low-fat diet is recommended for individuals with reflux-like symptoms.
+6 - (AcuteCoronarySyndromes, p.16-16)(Clinical note) - Chest discomfort and its equivalents (dyspnoea, arm, neck or jaw pain) require urgent reassessment for ACS despite the negative troponin and ECG at this visit.
+7 - (No guideline source) - Standard closing item.
 
-RULES:
-- Use ONLY the provided guideline excerpts. Do not rely on prior medical knowledge.
-- Do NOT invent drug names, dosages, frequencies, or clinical facts not in the clinical note or excerpts.
-- When multiple excerpts cover the same topic, write one recommendation and cite all relevant excerpts.
-- Do not repeat the same recommendation in different wording.
-- Section 1 must be directly usable as a discharge document with no editing needed.
+TRADUZIONE IN ITALIANO
+
+SEZIONE 1 — RACCOMANDAZIONI ALLA DIMISSIONE
+1. Sollevi la testata del letto quando dorme.
+2. Dorma sdraiato sul fianco sinistro.
+3. Eviti di sdraiarsi dopo i pasti e lasci almeno tre ore tra la cena e il momento di coricarsi.
+4. Eviti di indossare indumenti o oggetti stretti in vita.
+5. Si raccomanda una dieta povera di grassi.
+6. Si rechi immediatamente al pronto soccorso più vicino in caso di dolore toracico che ricompare o peggiora, sensazione di pressione o costrizione al torace, dolore che si irradia al braccio, al collo o alla mandibola, oppure mancanza di respiro.
+7. Viene rinviato al suo medico di medicina generale per ogni ulteriore esigenza diagnostica o terapeutica e per la presa in carico continuativa.
+
+SEZIONE 2 — RIFERIMENTI CLINICI (per il medico revisore)
+1 - (RefluxLikeSymptoms, p.4-4)(RefluxLikeSymptoms, p.7-7)(RefluxLikeSymptoms, p.6-7) - Il sollevamento della testata del letto è raccomandato per i sintomi simil-reflusso notturni, e il dolore di questo paziente si manifesta in posizione supina.
+2 - (RefluxLikeSymptoms, p.4-4)(RefluxLikeSymptoms, p.7-7) - Dormire in decubito laterale sinistro è raccomandato per i sintomi simil-reflusso notturni e riduce l'esposizione acida rispetto alla posizione supina.
+3 - (RefluxLikeSymptoms, p.4-4)(RefluxLikeSymptoms, p.7-7) - Evitare il decubito dopo i pasti e lasciare un intervallo di 3 ore tra cena e coricarsi è raccomandato per i sintomi simil-reflusso notturni.
+4 - (RefluxLikeSymptoms, p.4-4) - Ai soggetti con sintomi simil-reflusso va consigliato di evitare indumenti o oggetti stretti in vita.
+5 - (RefluxLikeSymptoms, p.4-4) - Una dieta povera di grassi è raccomandata ai soggetti con sintomi simil-reflusso.
+6 - (AcuteCoronarySyndromes, p.16-16)(Clinical note) - Il dolore toracico e i suoi equivalenti (dispnea, dolore al braccio, al collo o alla mandibola) richiedono una rivalutazione urgente per sindrome coronarica acuta, nonostante troponina ed ECG negativi in questo accesso.
+7 - (No guideline source) - Voce di chiusura standard.
+
+============================================================
+ORIGINAL RECOMMENDATIONS (for comparison)
+============================================================
+Si consiglia:
+- Assuma pantoprazolo 40mg 1cp al mattino mezz’ora prima di colazione, per i prossimi 20 gg o
+fino a rivalutazione da parte del proprio medico curante.
+- Si rilascia impegnativa per esecuzione di gastroscopia, visti i precedenti, da prenotare tramite
+CUP.
+- Se persistenza dei sintomi, modifica del dolore o peggioramento del tale rientra presso il più
+vicino PS.
+- Si riaffida al medico curante per eventuali integrazioni terapuetiche-diagnostiche e presa in carico.

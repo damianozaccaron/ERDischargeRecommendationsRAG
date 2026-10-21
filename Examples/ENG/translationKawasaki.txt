@@ -1,20 +1,20 @@
-MALE, 2 YEARS AND 8 MONTHS
+Male, 2 years old and 8 months
 Medical history: 
-- Pathological proximate: The patient was brought to A&E by his parents due to a persistent high fever lasting 6 days (Body Temperature maximum 40.1°C), which did not respond to antipyretic treatment at home (paracetamol and ibuprofen at weight-appropriate doses). The parents report that, over the last 2–3 days, the child has developed red eyes without discharge, a rash on the trunk, chapped and reddened lips, and an unusual appearance of the tongue. They also report swelling on the right side of the neck. The child is irritable and refuses to play or eat. The mother reports no episodes of cough, runny nose or diarrhoea. No known contact with unwell individuals.
-Remote pathology: Born at term, normal delivery, normal psychomotor development. Vaccinations up to date for his age. No known medical conditions. No previous visits to A&E. No ongoing home treatment. The mother reports no known drug allergies.
+- Pathological proximate: The patient is brought to the ED by his parents for high fever persisting for 6 days (Body Temperature max 40.1°C), not responsive to home antipyretic therapy (paracetamol and ibuprofen at weight-appropriate doses). The parents report onset, in the last 2-3 days, of redness of the eyes without discharge, skin rash on the trunk, cracked and reddened lips, and unusual-looking tongue. They also report right laterocervical swelling. The child is irritable, refuses play and feeding. The mother denies episodes of cough, rhinorrhoea or diarrhoea. No known contact with sick individuals.
+Remote pathology: Born at term, eutocic delivery, normal psychomotor development. Vaccinations up to date for age. No known conditions. No previous ED visits. No ongoing home therapy. The mother denies known drug allergies.
 
-Objective examination: The patient is alert, irritable and crying at the time of assessment. General condition is compromised. Vesicular breath sounds present throughout the lungs; no additional sounds. Heart sounds tachycardic, rhythmic, with regular pauses. No appreciable murmurs. Abdomen soft to touch, slightly tender on diffuse palpation; no obvious organomegaly.
+Objective examination: Patient alert, irritable, crying during the assessment. General condition compromised. Vesicular breath sounds present in all lung fields, no added sounds. Heart sounds tachycardic, rhythmic, no murmurs. No appreciable murmurs. Soft abdomen, mildly tender on diffuse palpation, no evident organomegaly.
 
 Clinical diary:
-• Venous access established and biochemistry, complete blood count, inflammatory markers, procalcitonin, ESR, fibrinogen, ALT/AST, bilirubin, albumin, sodium, potassium, renal function and urinalysis performed. Two blood cultures were performed prior to any antibiotic therapy to rule out bacteraemia. 
-• An ECG was performed: sinus tachycardia, Heart Rate 138 bpm, no ST-segment changes, no conduction disturbances, PR interval within the normal range for age.
-• Laboratory results are reviewed: neutrophilic leucocytosis (WBC 18,600/μL, N 78%). C-reactive protein 14.2 mg/dL. ESR 88 mm/h. Fibrinogen 620 mg/dL (elevated). Procalcitonin 2.4 ng/mL. Platelets
-498,000/μL (thrombocytosis). Slightly elevated ALT. Albumin 2.8 g/dL (hypoalbuminaemia). Urinalysis: sterile leucocyturia. Sodium 132 mEq/L (mild hyponatraemia).
-• The paediatrician on call is contacted urgently for a specialist consultation. The clinical picture—a fever persisting for over 5 days associated with all 5 clinical criteria for Kawasaki disease—is diagnostic of classic Kawasaki disease.
-• Clinical criteria observed: — Fever for 6 days (Body Temperature 39.8°C on admission) — Bilateral non-exudative conjunctivitis — Changes to the lips and oral cavity: erythematous and chapped lips, strawberry tongue — Polymorphic rash on the trunk and at the base of the limbs — Right cervical lymphadenopathy with a single lymph node measuring approximately 2 cm, tender, non-fluctuant — Erythema and mild oedema of the hands and feet. Blood pressure 96/58 mmHg. Heart Rate 138 bpm. SpO₂ 99% on oxygen. Body Temperature 39.8°C. Weight 14kg.
-• A bedside echocardiogram is performed by the paediatrician: cardiac function appears preserved; coronary arteries not clearly dilated using this technique; A dedicated echocardiogram is scheduled for after hospitalisation.
-• Paracetamol 15 mg/kg IV (210 mg) is administered to manage the fever whilst awaiting hospitalisation.
-• The family is informed of the diagnosis, the need for urgent hospitalisation and the importance of early treatment to reduce the risk of coronary aneurysms.
+• Venous access obtained and biochemistry, complete blood count, inflammatory markers, procalcitonin, ESR, fibrinogen, ALT/AST, bilirubin, albumin, sodium, potassium, renal function, urinalysis performed. Blood cultures x2 are performed before any antibiotic therapy, to rule out bacteraemia. 
+• ECG performed: sinus tachycardia, Heart Rate 138 bpm, no ST segment changes, no conduction disturbances, PR interval normal for age.
+• Tests reviewed: neutrophilic leukocytosis (WBC 18.600/μL, N 78%). C-reactive protein 14.2 mg/dL. ESR 88 mm/h. Fibrinogen 620 mg/dL (elevated). Procalcitonin 2.4 ng/mL. Platelets
+498.000/μL (thrombocytosis). ALT mildly elevated. Albumin 2.8 g/dL (hypoalbuminaemia). Urinalysis: sterile leukocyturia. Sodium 132 mEq/L (mild hyponatraemia).
+• The on-call paediatrician is urgently contacted for specialist consultation. The clinical picture persistent fever for more than 5 days associated with all 5 clinical criteria of Kawasaki disease is diagnostic for Kawasaki disease in classic form.
+• Clinical criteria found: — Fever for 6 days (Body Temperature 39.8°C in the ED) — Bilateral non-exudative conjunctivitis — Changes of the lips and oral cavity: erythematous and cracked lips, strawberry tongue — Polymorphous exanthem on the trunk and at the root of the limbs — Right cervical lymphadenopathy with single lymph node of approximately 2cm, tender, non-fluctuant — Erythema andmild oedema of the hands and feet BP 96/58 mmHg. Heart Rate 138 bpm. SpO2 99% RA. Body Temperature 39.8°C. Weight 14kg.
+• Bedside ultrasound performed by the paediatrician: cardiac function visually preserved, coronary arteries not clearly dilated with this method; dedicated echocardiography reserved for the hospitalisation setting.
+• Paracetamol 15mg/kg IV (210mg) is administered for fever management while awaiting hospitalisation.
+• The family is informed of the diagnosis, of the need for urgent hospitalisation and of the importance of early treatment to reduce the risk of coronary aneurysms.
 
-Diagnosis: Kawasaki disease — classic form (5 out of 5 criteria met)
+Diagnosis: KAWASAKI DISEASE — CLASSIC FORM (5/5 criteria present)
 Prognosis: urgent hospitalisation

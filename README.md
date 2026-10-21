@@ -2,9 +2,11 @@
 
 A Retrieval-Augmented Generation pipeline that ingests ER clinical documents (in Italian) and generates guideline-grounded discharge recommendations based on official European guidelines.
 
-The system extracts relevant clinical entities from ER notes, retrieves matching guideline passages through a multi-stage retrieval pipeline, and produces structured discharge recommendations via an LLM. Translation between Italian and English is handled automatically via DeepL.
+The system extracts relevant clinical entities from ER notes, retrieves matching guideline passages through a multi-stage retrieval pipeline, and produces structured discharge recommendations via an LLM. Translation between Italian and English is done by the LLM by default, or by DeepL.
 
-For a detailed discussion of the architecture, evaluation, and design rationale, the project paper is included in `docs/`.
+The domain vocabulary (Clinical Note, Chunk, Excerpt, Grid Table, ...) is defined in `CONTEXT.md`.
+
+For a detailed discussion of the architecture, evaluation, and design rationale, the project thesis is included in `docs/`.
 
 ![Pipeline Overview](docs/pipeline.png)
 
@@ -14,21 +16,21 @@ For a detailed discussion of the architecture, evaluation, and design rationale,
 .
 ├── code/
 │   ├── main.py               # Main pipeline entry point
-│   ├── app.py                # Streamlit UI: discharge recommendations (or only their prompt) from the PDF of an ER report
+│   ├── app.py                # Streamlit UI: discharge recommendations (or only their prompt) from the PDF of an Italian ER report
 │   ├── build_index.py        # Guideline ingestion and FAISS index builder
 │   ├── config.py             # All configurable parameters (models, paths, API keys)
-│   ├── ingestion/            # PDF parsing, cleaning, chunking and tables (dump_tables.py to inspect them)
+│   ├── ingestion/            # PDF parsing, cleaning, chunking and tables
 │   ├── storage/              # Embeddings, FAISS index, TF-IDF vectorizer, table store
 │   ├── retrieval/            # Query building, retrieval and re-ranking
 │   ├── generation/           # Prompt building and LLM backends
-│   ├── pipeline/             # Clinical note input, ER report parsing, translation and glossary
-│   ├── scraping/             # Builds the guideline corpus from PubMed, one module per step
-│   └── evaluation/           # Dose check of the outputs, table-reading evaluation against a gold set
-├── docs/                      # Project paper, pipeline figure, guideline corpus chapter
+│   ├── pipeline/             # Clinical note input, ER report parsing, translation
+│   └── scraping/             # Builds the guideline corpus from PubMed, one module per step
+├── docs/                      # Project paper (Thesis.pdf) and pipeline figure
 ├── Examples/                  # Sample clinical notes, translations, and generated outputs
-├── Weights/                   # Pre-trained model weights and FAISS index (ready to use)
-├── Guidelines/                # Optional - Must be created and populated manually (see below)
-├── launch.sh                  # Starts the site (or opens it, if running) in the browser, for a desktop shortcut
+├── Weights/                   # FAISS index, table store, TF-IDF vectorizer (not in git: run build_index.py on your guidelines)
+├── Guidelines/                # Contains only a subfolder Sources, used for the scraping. If copying the guidelines in manually, the subfolder can be ignored or removed.
+├── launch.sh                  # Starts the site (or opens it, if running) in the browser, for a shortcut
+├── CONTEXT.md                 # Glossary of the domain terms used in code and docs
 ├── requirements.txt
 └── README.md
 ```
@@ -58,36 +60,45 @@ Alternatively, you can build from source, but it will take some time:
 CMAKE_ARGS="-DGGML_CUDA=on" pip install llama-cpp-python
 ```
 
-> **Google Colab note:** The recommended environment is the **2025.07 Colab runtime with T4 GPU** (CUDA 12.4), since pre-built wheels are available for that version. The latest Colab runtime ships CUDA 12.8, which would require rebuilding `llama-cpp-python` from source on every session.
-
 Full installation details: [llama-cpp-python GitHub](https://github.com/abetlen/llama-cpp-python)
 
 ### 2. Configure
 
 All tunable parameters live in **`code/config.py`**, which is thoroughly commented. Key things to set up:
 
-- **DeepL API key** — Required for automatic Italian ↔ English translation. Paste your key into the appropriate field. If you don't have a DeepL account and don't want to set up one, see the "Running without DeepL" section below.
-- **OpenRouter API key** — Required if using a remote LLM for generation.
+- **OpenRouter API key** — Required with `API = True` (the default): generation, LLM translation and LLM queries go through OpenRouter.
+- **DeepL API key** and glossary id — Only needed when DeepL translates the note (see "Translation" below).
+- **`RETRIEVAL_ONLY`** — `True` stops at the prompt and writes it as the output, without calling the LLM. Set it to `False` to generate the recommendations.
 - Model paths, retrieval parameters, and generation settings can all be adjusted from this file.
 
 ### 3. Prepare the guidelines (only needed to rebuild the index)
 
-The pre-built FAISS index and model weights in `Weights/` are ready to use out of the box — you can skip this step if you just want to run the pipeline on clinical notes.
+If you already have a built `Weights/` folder (FAISS index, table store, vectorizer), you can skip this step. 
 
 If you want to **rebuild the index** with new or updated guidelines:
 
 1. Create a `Guidelines/` folder in the project root.
 2. Place your guideline PDFs inside it, or let the scraper build the corpus from PubMed
-   (`python code/scrape_guidelines.py --help` for its steps and options; it needs poppler's `pdftotext`).
+   (`python code/scrape_guidelines.py --help` for its steps and options). Note that this operation requires several LLM calls and therefore comes at a cost if performed using APIs.
 3. Run:
 
 ```bash
 python code/build_index.py
 ```
 
-> Guidelines are not included in the repository due to file size constraints and licensing issues.
+> Guidelines and Weights are not included in the repository due to licensing issues.
 
 ## Usage
+
+### Web app (Streamlit)
+
+```bash
+streamlit run code/app.py
+```
+
+Takes the PDF of a Verbale di Pronto Soccorso (anonymised before anything is translated) or a pasted note, and returns the
+recommendations in Italian, each cited guideline linked to its PDF in `Guidelines/` at the page. "Solo prompt" returns only
+the prompt, ready for copy-paste into an external LLM. `./launch.sh` starts the app on port 8501 (or opens it, if already running), for a desktop shortcut.
 
 ### Run on all clinical notes in the input folder (Examples/ITA)
 
@@ -95,33 +106,23 @@ python code/build_index.py
 python code/main.py
 ```
 
+> The notes in the Example folder serve only as examples and are not realistic. Notes used for during development and testing are not shared due to data protection agreements.
+
 ### Run on a single clinical note
 
 ```bash
-python code/main.py <filename.txt>
+python code/main.py <folder/filename\>
 ```
 
-### Run on ER reports (PDF)
+> Accepts both txt and PDF files, though the former do not undergo the anonymisation process.
 
-```bash
-python code/main.py Data/            # every .pdf (and .txt) in the folder
-python code/main.py Data/5.pdf       # one report
-```
+### Translation
 
-Each Verbale di Pronto Soccorso is anonymised first (`code/pipeline/verbale.py`). Its Clinical Note goes to `Data/ITA/`,
-and the discharge advice the physician wrote goes to `Data/recommendations/` as the gold standard. The advice is taken
-from Prescrizione e Consigli, from Condizioni alla dimissione and from the diary, and the note the model reads never
-contains it. The translation is cached in `Data/ENG/` and the results go to `Data/results/`, as for `Examples/`.
+Set in `code/config.py`:
 
-### Running without DeepL
-
-Pre-translated input files (in English) are provided so you can test the pipeline without a DeepL account. For the output side, comment out line 162 in `code/main.py`:
-
-```python
-# output = deepl_translation_en_it(output)
-```
-
-This will keep the generated recommendations in English instead of translating them back to Italian.
+- `USE_EXISTING_TRANSLATION = True` reuses the English note cached in `ENG/` (pre-translated notes ship in `Examples/ENG/`), so no translation service is needed.
+- Otherwise the note is translated by the LLM (`LLM_TRANSLATION`, on whenever the LLM is used) or by DeepL.
+- `OUTPUT_LLM_TRANSLATION` adds an Italian copy of the recommendations, written by the LLM in the same call (`OUTPUT_TRANSLATION_IN_PROMPT = True`) or in a second one.
 
 ## Results
 

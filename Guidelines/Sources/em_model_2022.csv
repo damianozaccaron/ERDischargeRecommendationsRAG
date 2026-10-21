@@ -1,0 +1,1352 @@
+num,title,critical,emergent,lower
+1,"SIGNS, SYMPTOMS, AND PRESENTATIONS",,,
+1.1,Abnormal Vital Signs,,,
+1.1.1,Hypothermia,1,1,1
+1.1.2,Fever,1,1,1
+1.1.3,Bradycardia,1,1,1
+1.1.4,Tachycardia,1,1,
+1.1.5,Bradypnea/Apnea,1,1,
+1.1.6,Tachypnea,1,1,
+1.1.7,Hypoxia,1,1,
+1.1.8,Hypotension,1,1,
+1.1.9,Hypertension,1,1,1
+1.1.10,Hyperthermia,1,1,1
+1.2,Pain,,,
+1.2.1,Pain (unspecified),1,1,1
+1.2.2,Headache (See 12.3),1,1,1
+1.2.3,Eye pain,,1,1
+1.2.4,Chest pain,1,1,1
+1.2.5,Abdominal pain,1,1,1
+1.2.6,Pelvic and genital pain,1,1,1
+1.2.7,Back pain,1,1,1
+1.2.8,Chronic pain,,,1
+1.2.9,Extremity pain,1,1,1
+1.2.10,Neck pain,1,1,1
+1.3,General,,,
+1.3.1,Altered mental status,1,1,1
+1.3.2,Anuria/Oliguria,,1,
+1.3.3,Ascites,,1,1
+1.3.4,Ataxia,,1,1
+1.3.5,Auditory disturbances,,,1
+1.3.6,Bleeding,1,1,1
+1.3.7,Congestion/Rhinorrhea,,,1
+1.3.8,Constipation/Obstipation,,1,1
+1.3.9,Cough,,1,1
+1.3.10,Crying/Fussiness,,1,1
+1.3.11,Cyanosis,1,,
+1.3.12,Dehydration,1,1,
+1.3.13,Diarrhea,,1,1
+1.3.14,Dysmenorrhea,,,1
+1.3.15,Dysphagia,,1,1
+1.3.16,Dysuria,,,1
+1.3.17,Edema,,1,1
+1.3.18,Failure to thrive,,1,1
+1.3.19,Fatigue/Malaise,,1,1
+1.3.20,Feeding problems,,,1
+1.3.21,Hematemesis,1,1,
+1.3.22,Hematuria,,1,1
+1.3.23,Hemoptysis,1,1,
+1.3.24,Hiccup,,,1
+1.3.25,Jaundice,,1,
+1.3.26,Joint swelling,,1,1
+1.3.27,Lightheadedness,,1,1
+1.3.28,Limp,,1,1
+1.3.29,Lymphadenopathy,,,1
+1.3.30,"Mechanical and indwelling devices, complications",1,1,1
+1.3.31,Nausea/Vomiting,,1,1
+1.3.32,Occupational exposure,,1,1
+1.3.33,Palpitations,1,1,1
+1.3.34,Paralysis,1,1,
+1.3.35,Paresthesia/Dysesthesia,,1,1
+1.3.36,Poisoning,1,1,1
+1.3.37,Pruritus,,1,1
+1.3.38,Rash,1,1,1
+1.3.39,Rectal bleeding,1,1,1
+1.3.40,Shock,1,,
+1.3.41,Shortness of breath,1,1,
+1.3.42,Sore throat,,1,1
+1.3.43,Stridor,1,1,
+1.3.44,Syncope/Near syncope,1,1,1
+1.3.45,Tinnitus,,,1
+1.3.46,Tremor,,1,1
+1.3.47,Urinary incontinence,,,1
+1.3.48,Urinary retention,,1,
+1.3.49,Vaginal bleeding,1,1,1
+1.3.50,Vaginal discharge,,,1
+1.3.51,Visual disturbances,,1,1
+1.3.52,Weakness,,1,1
+1.3.53,Wheezing,1,1,
+1.3.54,Toxidromes,1,1,1
+1.3.55,Sudden unexpected infant death (SUID),1,,
+1.3.56,Suicidal ideation,1,1,1
+1.3.57,Brief resolved unexplained events (BRUE),1,1,1
+1.3.58,Intoxication syndromes,1,1,1
+1.3.59,Postsurgical complications,1,1,1
+1.3.60,Agitation,1,1,1
+1.3.61,Hypo/Hyperglycemia,1,1,1
+2,ABDOMINAL AND GASTROINTESTINAL DISORDERS,,,
+2.1,Abdominal Wall,,,
+2.1.1,Hernias,,1,1
+2.1.2,Hematoma,,,1
+2.2,Esophagus,,,
+2.2.1,Infectious disorders,,,
+2.2.1.1,"Candida (See 4.4.2.1, 7.4.6)",,1,1
+2.2.2,Inflammatory disorders,,,
+2.2.2.1,Esophagitis,,1,1
+2.2.2.2,Gastroesophageal reflux (GERD),,,1
+2.2.2.3,Toxic effects of caustic agents (See 17.1.16.1),,,
+2.2.2.3.1,Acid,1,1,
+2.2.2.3.2,Alkali,1,1,
+2.2.3,Motor abnormalities,,,
+2.2.4,Structural disorders,,,
+2.2.4.1,Boerhaave’s syndrome,1,1,
+2.2.4.2,Diverticula,,1,1
+2.2.4.3,Foreign body,,1,
+2.2.4.4,Hernias,,1,1
+2.2.4.5,Mallory-Weiss syndrome,1,1,
+2.2.4.6,Stricture and stenosis,,1,1
+2.2.4.7,Tracheoesophageal fistula,1,1,
+2.2.4.8,Varices,1,1,
+2.2.5,Tumors,,1,1
+2.3,Liver,,,
+2.3.1,Noninfectious hepatitis/Cirrhosis,,1,1
+2.3.1.1,Alcoholic,,1,1
+2.3.1.2,Biliary obstructive,,1,
+2.3.1.3,Drug-induced,,1,1
+2.3.1.4,Nonalcoholic steatohepatitis (NASH),,,1
+2.3.1.5,Toxin-induced hepatitis,1,1,
+2.3.2,Hepatorenal failure,1,1,
+2.3.3,Infectious disorders,,1,1
+2.3.3.1,Abscess,,1,
+2.3.3.2,Hepatitis,,1,
+2.3.4,Tumors,,1,1
+2.3.5,Hepatic encephalopathy,,1,1
+2.4,Gall Bladder and Biliary Tract,,,
+2.4.1,Cholangitis,1,1,
+2.4.2,Cholecystitis,1,1,
+2.4.3,Cholelithiasis/Choledocholithiasis,,1,1
+2.4.4,Tumors,,1,1
+2.5,Pancreas,,,
+2.5.1,Pancreatitis,1,1,
+2.5.2,Tumors,,1,1
+2.5.3,Pseudocyst,,,1
+2.6,Peritoneum,,,
+2.6.1,Spontaneous bacterial peritonitis,1,1,
+2.6.2,Abdominal compartment syndrome,1,1,
+2.7,Stomach,,,
+2.7.1,Infectious disorders,,,1
+2.7.2,Inflammatory disorders,,,
+2.7.2.1,Gastritis,,1,1
+2.7.3,Peptic ulcer disease,,1,1
+2.7.3.1,Hemorrhage,1,1,
+2.7.3.2,Perforation,1,1,
+2.7.4,Structural disorders,,,
+2.7.4.1,Congenital hypertrophic pyloric stenosis,,1,
+2.7.4.2,Foreign body,,1,1
+2.7.5,Tumors,,1,1
+2.7.6,Gastroparesis,,1,1
+2.7.7,Cyclic vomiting syndrome (See 17.1.24.1.1),,1,1
+2.8,Small Bowel,,,
+2.8.1,Infectious disorders,,1,1
+2.8.2,Inflammatory disorders,,,
+2.8.2.1,Regional enteritis/Crohn’s disease,,1,1
+2.8.3,Motor abnormalities,,,
+2.8.3.1,Obstruction,1,1,
+2.8.3.2,Paralytic ileus,,1,
+2.8.4,Structural disorders,,,
+2.8.4.1,Aortoenteric fistula,1,,
+2.8.4.2,Congenital anomalies,,1,1
+2.8.4.3,Intestinal malabsorption,,1,1
+2.8.4.4,Meckel's diverticulum,,1,1
+2.8.5,Tumors,,1,1
+2.8.6,Vascular insufficiency,1,1,
+2.9,Large Bowel,,,
+2.9.1,Infectious disorders,,,
+2.9.1.1,Antibiotic-associated,,1,
+2.9.1.2,Bacterial,,1,1
+2.9.1.3,Parasitic,,1,1
+2.9.1.4,Viral,,1,1
+2.9.2,Inflammatory disorders,,,
+2.9.2.1,Appendicitis,,1,
+2.9.2.2,Necrotizing enterocolitis (NEC),1,1,
+2.9.2.3,Radiation colitis,,1,
+2.9.2.4,Ulcerative colitis,,1,1
+2.9.2.5,Neutropenic enterocolitis/Typhlitis,1,1,
+2.9.2.6,Ischemic colitis,1,1,
+2.9.3,Motor abnormalities,,,
+2.9.3.1,Hirschsprung’s disease,,1,1
+2.9.3.2,Irritable bowel,,,1
+2.9.3.3,Obstruction,1,1,
+2.9.4,Structural disorders,,,
+2.9.4.1,Congenital anomalies,,1,1
+2.9.4.2,Diverticular disease,1,1,1
+2.9.4.3,Intussusception,1,1,
+2.9.4.4,Volvulus,1,1,
+2.9.4.5,Perforation,1,1,
+2.9.5,Tumors,,1,1
+2.10,Rectum and Anus,,,
+2.10.1,Infectious disorders,,,
+2.10.1.1,Perianal/Anal abscess,,1,1
+2.10.1.2,Perirectal abscess,,1,
+2.10.1.3,Pilonidal cyst and abscess,,1,1
+2.10.2,Inflammatory disorders,,,
+2.10.2.1,Proctitis,,,1
+2.10.3,Structural disorders,,,
+2.10.3.1,Anal fissure,,,1
+2.10.3.2,Anal fistula,,1,1
+2.10.3.3,Congenital anomalies,,,1
+2.10.3.4,Foreign body,,1,1
+2.10.3.5,Hemorrhoids,,,1
+2.10.3.6,Rectal prolapse,,1,
+2.10.4,Tumors,,1,1
+2.11,Spleen,,,
+2.11.1,Asplenism,,1,1
+2.11.2,Splenomegaly,,,1
+2.11.3,Vascular insufficiency/Infarction,1,1,1
+2.12,Specific Post-surgical Populations,,,
+2.12.1,Bariatric surgery complications,1,1,1
+2.12.2,Ostomy,,1,1
+3,CARDIOVASCULAR DISORDERS,,,
+3.1,Cardiopulmonary Arrest,1,,
+3.2,Congenital Abnormalities of the Cardiovascular System,1,1,1
+3.2.1,Tetralogy of Fallot spells,1,1,
+3.2.2,Patent ductus arteriosus-dependent congenital heart anomalies,1,1,
+3.3,Disorders of Circulation,,,
+3.3.1,Arterial,,,
+3.3.1.1,Aneurysm,1,1,1
+3.3.1.2,Dissection,1,,
+3.3.1.2.1,Aortic,1,1,1
+3.3.1.2.2,Non-aortic,1,1,1
+3.3.1.3,Thromboembolism,1,1,
+3.3.2,Venous,,,
+3.3.2.1,Thromboembolism (See 16.6.2),1,1,
+3.4,Disturbances of Cardiac Rhythm,,,
+3.4.1,Cardiac dysrhythmias,1,1,1
+3.4.1.1,Ventricular,1,1,
+3.4.1.2,Supraventricular,1,1,1
+3.4.1.3,Pulseless electrical activity,1,,
+3.4.2,Conduction disorders,1,1,1
+3.5,"Diseases of the Myocardium, Acquired",,,
+3.5.1,Cardiac failure,1,1,
+3.5.1.1,Cor pulmonale,1,1,
+3.5.1.2,High output,1,1,
+3.5.1.3,Low output,1,1,
+3.5.2,Cardiomyopathy,1,1,1
+3.5.2.1,Hypertrophic,1,1,1
+3.5.2.2,Dilated,1,1,1
+3.5.2.3,Takotsubo,1,1,
+3.5.3,Congestive heart failure,1,1,
+3.5.4,Coronary syndromes,1,1,
+3.5.5,Ischemic heart disease,1,1,
+3.5.6,Myocardial infarction,1,1,
+3.5.7,Myocarditis,1,1,1
+3.5.8,Ventricular aneurysm,1,1,1
+3.6,Diseases of the Pericardium,,,
+3.6.1,Pericardial effusion/tamponade (See 18.1.2.6),1,1,
+3.6.2,Pericarditis,,1,1
+3.7,Hypertension,1,1,1
+3.7.1,Asymptomatic hypertension,,,1
+3.7.2,Hypertensive emergency,1,1,
+3.8,Tumors,1,1,
+3.9,Valvular Disorders,1,1,1
+3.9.1,Endocarditis,1,1,
+3.9.2,Valvular stenosis/insufficiency,1,1,1
+3.10,Cardiovascular Devices,,,
+3.10.1,Pacemaker/Automatic implantable cardioverter- defibrillator (AICD) complication,1,1,1
+3.10.2,Left ventricular assist device (LVAD),1,1,1
+3.10.3,Extracorporeal membrane oxygenation (ECMO) (See 19.2.11),1,,
+4,CUTANEOUS DISORDERS,,,
+4.1,Cancers of the Skin,,,
+4.1.1,Basal cell carcinoma,,,1
+4.1.2,Kaposi's sarcoma,,,1
+4.1.3,Melanoma,,,1
+4.1.4,Squamous cell carcinoma,,,1
+4.2,Cutaneous Ulcers,,,
+4.2.1,Decubitus ulcer,,1,1
+4.2.2,Venous stasis ulcer,,,1
+4.2.3,Diabetic foot ulcers,,1,1
+4.2.4,Arterial insufficiency ulcer,,,1
+4.2.5,Calciphylaxis,,,1
+4.3,Dermatitis,,,
+4.3.1,Eczema,,,1
+4.3.2,Contact dermatitis,,,1
+4.3.3,Psoriasis,,,1
+4.3.4,Seborrheic dermatitis,,,1
+4.3.5,Diaper dermatitis,,,1
+4.4,Infections,,,
+4.4.1,Bacterial,,,
+4.4.1.1,Abscess,,1,1
+4.4.1.2,Cellulitis,,1,1
+4.4.1.3,Erysipelas,,1,
+4.4.1.4,Impetigo/Ecthyma,,,1
+4.4.1.5,Necrotizing infection,1,1,
+4.4.1.6,Spirochete/Rickettsia,,1,1
+4.4.2,Fungal,,,
+4.4.2.1,"Candida (See 2.2.1.1, 7.4.6)",,,1
+4.4.2.2,Dermatophytes (tinea),,,1
+4.4.3,Ectoparasites,,,1
+4.4.3.1,Pediculosis,,,1
+4.4.3.2,Scabies,,,1
+4.4.3.3,Bed bugs,,,1
+4.4.4,Viral,,,
+4.4.4.1,Herpetic infections,,1,1
+4.4.4.1.1,"Herpes simplex (See 10.6.4, 13.1.3.1)",,,1
+4.4.4.1.2,Herpes zoster (See 10.6.5),,,1
+4.4.4.2,Human papillomavirus (HPV) (See 13.1.3.2),,,1
+4.4.4.3,Molluscum contagiosum,,,1
+4.4.4.4,Hand-foot-mouth disease,,,1
+4.5,Maculopapular Lesions,,,
+4.5.1,Erythema multiforme,,1,1
+4.5.2,Pityriasis rosea,,,1
+4.5.3,Urticaria,,1,1
+4.5.4,Drug eruptions,,1,1
+4.5.4.1,Drug rash with eosinophilia and systemic symptoms syndrome (DRESS),1,1,1
+4.6,Papular/Nodular Lesions,,,
+4.6.1,Hemangioma/Lymphangioma,,,1
+4.6.2,Lipoma,,,1
+4.6.3,Sebaceous cyst,,,1
+4.6.4,Erythema nodosum,,,1
+4.6.5,Hidradenitis suppurativa,,,1
+4.6.6,Lichen planus,,,1
+4.6.7,Pyogenic granuloma,,,1
+4.7,Vesicular/Bullous/Sloughing Conditions or Syndromes,,,
+4.7.1,Pemphigus vulgaris,,1,
+4.7.2,Staphylococcal scalded skin syndrome,1,1,
+4.7.3,Stevens-Johnson syndrome,1,1,
+4.7.4,Toxic epidermal necrolysis,1,1,
+4.7.5,Bullous pemphigoid,,1,1
+4.7.6,Toxicodendron,,,1
+4.8,Purpuric Rash,1,1,1
+4.8.1,Vasculitis,,1,1
+4.8.1.1,Infectious,1,1,
+4.8.1.2,Drug-induced,,1,1
+4.8.1.3,Autoimmune,,1,1
+4.8.1.3.1,IgA vasculitis,1,,
+5,"ENDOCRINE, METABOLIC, AND NUTRITIONAL DISORDERS",,,
+5.1,Acid-base Disturbances,,,
+5.1.1,Metabolic or respiratory,,,
+5.1.1.1,Acidosis,1,1,
+5.1.1.2,Alkalosis,1,1,1
+5.1.2,Mixed acid-base balance disorder,1,1,
+5.2,Adrenal Disease,,,
+5.2.1,Corticoadrenal insufficiency,1,1,
+5.2.2,Cushing’s syndrome,,1,1
+5.3,Fluid and Electrolyte Disturbances,,,
+5.3.1,Calcium metabolism,1,1,1
+5.3.2,Hypervolemia/Hypovolemia,1,1,1
+5.3.3,Potassium metabolism,1,1,1
+5.3.4,Sodium metabolism,1,1,1
+5.3.5,Magnesium metabolism,,1,1
+5.3.6,Phosphorus metabolism,,1,1
+5.4,Glucose Metabolism,,,
+5.4.1,Diabetes mellitus,1,1,1
+5.4.1.1,Complications in glucose metabolism,,,
+5.4.1.1.1,Hyperglycemia,,1,1
+5.4.1.1.2,Diabetic ketoacidosis (DKA),1,1,1
+5.4.1.1.2.1,Euglycemic DKA,,1,
+5.4.1.1.3,Hyperosmolar hyperglycemic state,1,1,
+5.4.1.1.4,Hypoglycemia,1,1,
+5.5,Nutritional Disorders,,,
+5.5.1,Vitamin deficiencies,,,1
+5.5.2,Wernicke-Korsakoff syndrome,,1,
+5.5.3,Malnutrition,,1,1
+5.6,Parathyroid Disease,,1,1
+5.7,Pituitary Disorders,,1,1
+5.7.1,Panhypopituitarism,,1,
+5.8,Thyroid Disorders,,,
+5.8.1,Hyperthyroidism,1,1,1
+5.8.1.1,Thyroid storm,1,1,
+5.8.2,Hypothyroidism,1,1,1
+5.8.2.1,Myxedema coma,1,1,
+5.9,Tumors of Endocrine Glands,,,
+5.9.1,Adrenal,,1,1
+5.9.1.1,Pheochromocytoma,1,1,
+5.9.2,Pituitary,,1,1
+5.9.3,Thyroid,,1,1
+6,ENVIRONMENTAL DISORDERS,,,
+6.1,Bites and Envenomation (See 18.1.3.2),,,
+6.1.1,Arthropods,,1,1
+6.1.1.1,Insects,,,1
+6.1.1.1.1,Hymenoptera,1,1,1
+6.1.1.2,Arachnids,1,1,1
+6.1.2,Mammals,,1,1
+6.1.3,Marine organisms (See 17.1.20),1,1,1
+6.1.4,Reptiles,1,1,1
+6.2,Dysbarism,,,
+6.2.1,Air embolism,1,1,
+6.2.2,Barotrauma,1,1,1
+6.2.3,Decompression syndrome,1,1,
+6.3,Electrical Injury (See 18.1.3.3.1),1,1,1
+6.3.1,Lightning,1,1,
+6.4,High-altitude Illness,,,
+6.4.1,Acute mountain sickness,,1,1
+6.4.2,High-altitude cerebral edema,1,1,
+6.4.3,High-altitude pulmonary edema,1,1,
+6.5,Submersion Incidents,1,1,1
+6.6,Temperature-related Illness,,,
+6.6.1,Heat,1,1,1
+6.6.2,Cold,1,1,1
+6.6.2.1,Frostbite,,1,1
+6.6.2.2,Hypothermia,1,1,
+6.7,Radiation Emergencies,1,1,1
+7,"HEAD, EAR, EYE, NOSE, THROAT DISORDERS",,,
+7.1,Ear,,,
+7.1.1,Foreign body,,1,1
+7.1.1.1,Impacted cerumen,,,1
+7.1.2,Inner ear disorders,,,1
+7.1.3,Mastoiditis,,1,
+7.1.4,Otitis externa,,,1
+7.1.4.1,Infective,,,1
+7.1.4.1.1,Malignant,,1,
+7.1.5,Otitis media,,1,1
+7.1.6,Perforated tympanic membrane (See 18.1.11.2),,,1
+7.2,Eye,,,
+7.2.1,External eye,,,
+7.2.1.1,Burn confined to eye (See 18.1.10.2),,1,
+7.2.1.2,Conjunctivitis,,,1
+7.2.1.3,Corneal abrasions (See 18.1.10.1),,1,1
+7.2.1.4,Disorders of lacrimal system,,1,1
+7.2.1.5,Foreign body,,1,1
+7.2.1.6,Disorders of the eyelids,,,1
+7.2.1.7,Keratitis,,1,1
+7.2.1.8,Chemical exposure,1,1,1
+7.2.2,Anterior pole,,,
+7.2.2.1,Glaucoma,,1,1
+7.2.2.2,Hyphema (See 18.1.10.5),,1,1
+7.2.2.3,Iritis (See 18.1.10.8),,1,1
+7.2.2.4,Hypopyon,,1,
+7.2.3,Posterior pole,,,
+7.2.3.1,Optic neuritis,,1,
+7.2.3.2,Papilledema,1,1,
+7.2.3.3,Retinal detachments and defects (See 18.1.10.7),,1,
+7.2.3.4,Retinal vascular occlusion,,1,
+7.2.3.5,Vitreous hemorrhage,,1,
+7.2.4,Orbit,,,
+7.2.4.1,Cellulitis,,,
+7.2.4.1.1,Preseptal,,1,
+7.2.4.1.2,Septal/Orbital,,1,
+7.2.4.2,Endophthalmitis,,1,
+7.3,Nose,,,
+7.3.1,Epistaxis,1,1,1
+7.3.2,Foreign body,,1,1
+7.3.3,Rhinitis,,,1
+7.3.4,Sinusitis,,,1
+7.4,Oropharynx/Throat,,,
+7.4.1,Dentalgia,,,1
+7.4.2,Diseases of the oral soft tissue,,,
+7.4.2.1,Ludwig's angina (see 16.1.1.3),1,1,
+7.4.2.2,Stomatitis,,,1
+7.4.2.3,Gingival and periodontal disorders,,1,1
+7.4.2.4,Odontogenic infections/Abscesses,,1,1
+7.4.2.5,Aphthous ulcers,,,1
+7.4.3,Diseases of the salivary glands,,,
+7.4.3.1,Sialolithiasis,,1,1
+7.4.3.2,Suppurative parotitis,,1,
+7.4.4,Foreign body,1,1,
+7.4.5,Larynx/Trachea,,,
+7.4.5.1,Epiglottitis (See 16.1.1.2),1,1,
+7.4.5.2,Laryngitis,,,1
+7.4.5.3,Tracheitis,,1,1
+7.4.5.4,Tracheostomy complications,1,1,1
+7.4.6,"Oral candidiasis (See 2.2.1.1, 4.4.2.1)",,,1
+7.4.7,Pharyngitis/Tonsillitis,,,1
+7.4.7.1,Post-tonsillectomy bleeding,1,1,
+7.4.7.2,Peritonsillar abscess,,1,
+7.4.8,Retropharyngeal abscess,1,1,
+7.4.9,Temporomandibular joint disorders,,,1
+7.5,Tumors,1,1,1
+8,HEMATOLOGIC AND ONCOLOGIC DISORDERS,,,
+8.1,Blood Transfusion,,,
+8.1.1,Complications,1,1,
+8.2,Hemostatic Disorders,,,
+8.2.1,Coagulation defects,1,1,1
+8.2.1.1,Acquired,1,1,1
+8.2.1.2,Hemophilias,1,1,1
+8.2.1.3,Anticoagulation agents,1,1,1
+8.2.1.4,Anticoagulation reversal,1,1,
+8.2.2,Disseminated intravascular coagulation,1,,
+8.2.3,Platelet disorders,1,1,1
+8.2.3.1,Thrombocytopenia,,1,1
+8.2.3.2,Idiopathic thrombocytopenic purpura,1,1,1
+8.2.3.3,Thrombotic thrombocytopenic purpura,1,1,
+8.3,Lymphomas,,1,1
+8.4,Pancytopenia,1,1,
+8.5,Red Blood Cell Disorders,,,
+8.5.1,Anemias,,,
+8.5.1.1,Aplastic,1,1,
+8.5.1.2,Hemoglobinopathies,,1,1
+8.5.1.2.1,Sickle cell anemia,1,1,1
+8.5.1.2.2,Thalassemia,,1,1
+8.5.1.3,Hemolytic,,1,
+8.5.1.4,Hypochromic,,,
+8.5.1.4.1,Iron deficiency,,1,1
+8.5.1.5,Megaloblastic,,1,1
+8.5.2,Polycythemia,,1,1
+8.5.3,Methemoglobinemia (See 17.1.21),1,1,
+8.6,White Blood Cell Disorders,,,
+8.6.1,Leukemia,,1,1
+8.6.2,Multiple myeloma,,1,1
+8.6.3,Leukopenia,,1,1
+8.7,Oncologic Emergencies,1,1,1
+8.7.1,Febrile neutropenia,1,1,1
+8.7.2,Hypercalcemia of malignancy,1,1,1
+8.7.3,Hyperviscosity syndrome,1,1,1
+8.7.4,Malignant pericardial effusion,1,1,1
+8.7.5,Spinal cord compression (See 12.10),1,1,
+8.7.6,Superior vena cava syndrome,1,1,
+8.7.7,Tumor hemorrhage,1,1,1
+8.7.8,Tumor lysis syndrome,1,1,
+8.7.9,Chemotherapy complications,1,1,1
+8.7.10,Immunotherapy complications,1,1,1
+9,IMMUNE SYSTEM DISORDERS,,,
+9.1,Collagen Vascular Disease,,,
+9.1.1,Raynaud’s disease,,,1
+9.1.2,Reactive arthritis (See 11.3.1.6),,1,1
+9.1.3,Rheumatoid arthritis (See 11.3.1.3),,1,1
+9.1.4,Scleroderma,,1,1
+9.1.5,Systemic lupus erythematosus,,1,1
+9.1.6,Vasculitis,,1,1
+9.2,Hypersensitivity,,,
+9.2.1,Allergic reaction,,1,1
+9.2.2,Anaphylaxis,1,,
+9.2.3,Angioedema,1,1,
+9.2.4,Drug allergies,1,1,1
+9.3,Transplant-related Problems,1,1,1
+9.3.1,Immunosuppression,,1,1
+9.3.2,Rejection,1,1,
+9.4,Immune Complex Disorders,,1,
+9.4.1,Kawasaki Disease,,1,1
+9.4.2,Rheumatic fever,,1,1
+9.4.3,Sarcoidosis,,1,1
+9.4.4,Post-streptococcal glomerulonephritis (See 15.3.1),,1,
+9.5,Medication-induced Immunosuppression,1,1,
+9.5.1,Chemotherapeutic agents,1,1,
+9.5.2,Steroids,1,1,
+9.5.3,Targeted immune modulators,1,1,
+9.6,Multisystem Inflammatory Syndrome in Children,1,1,1
+10,SYSTEMIC INFECTIOUS DISORDERS,,,
+10.1,Bacterial,,,
+10.1.1,Bacterial food poisoning,,1,1
+10.1.1.1,Botulism,1,1,
+10.1.2,Chlamydia,,1,1
+10.1.3,Gonococcus,,1,1
+10.1.4,Meningococcus,1,1,
+10.1.5,Mycobacterium,,,
+10.1.5.1,Atypical mycobacteria,,1,1
+10.1.5.2,Tuberculosis,,1,1
+10.1.6,Other bacterial diseases,1,1,
+10.1.6.1,Gas gangrene (See 11.6.3),1,1,
+10.1.7,Sepsis/Bacteremia,1,1,
+10.1.7.1,Septic shock,1,,
+10.1.7.2,Toxic shock syndrome,1,1,
+10.1.8,Spirochetes,,,
+10.1.8.1,Syphilis,,1,1
+10.1.9,Tetanus,1,1,
+10.1.10,Scarlet fever,,1,1
+10.2,Bioterrorism Agents/Diseases,1,1,
+10.2.1,Class A agents,1,1,
+10.2.2,"Other microorganisms, viruses, and toxins",1,1,
+10.3,Fungal Infections,,1,1
+10.4,Protozoan/Parasites,,,
+10.4.1,Malaria,,1,
+10.4.2,Toxoplasmosis,,1,1
+10.5,Tick-borne,,,
+10.5.1,Anaplasmosis (Ehrlichiosis),,1,
+10.5.2,Lyme disease,,1,
+10.5.3,Rocky Mountain spotted fever,,1,
+10.5.4,Babesiosis,,1,
+10.5.5,Southern tick-associated rash illness (STARI),,1,1
+10.6,Viral,,1,1
+10.6.1,Infectious mononucleosis,,1,1
+10.6.2,Influenza/Parainfluenza,,1,1
+10.6.3,Arbovirus,1,1,1
+10.6.4,"Herpes simplex (See 4.4.4.1.1, 13.1.3.1)",,1,1
+10.6.5,Herpes zoster/Varicella (See 4.4.4.1.2),,1,1
+10.6.6,HIV/AIDS,1,1,1
+10.6.7,Rabies,1,,
+10.6.8,Roseola,,,1
+10.6.9,Rubella,,,1
+10.6.10,Measles,1,1,1
+10.6.11,Mumps (Paramyxovirus),,1,1
+10.6.12,COVID-19 (SARS-CoV2),1,1,1
+10.6.13,Parvovirus (fifth disease),,1,1
+10.7,Emerging Infections/Pandemics,1,1,1
+10.8,Drug Resistance,1,1,1
+11,MUSCULOSKELETAL DISORDERS (NONTRAUMATIC),,,
+11.1,Bony Abnormalities,,,
+11.1.1,Aseptic/Avascular necrosis,,1,1
+11.1.2,Osteomyelitis,,1,
+11.1.3,Tumors,,1,1
+11.1.4,Atypical fractures,,1,1
+11.1.4.1,Osteoporotic,,1,1
+11.1.4.2,Tumor-related,,1,1
+11.1.4.3,Congenital disorders,,1,1
+11.2,Disorders of the Spine,,,
+11.2.1,Disc disorders,,1,1
+11.2.2,Inflammatory/Infectious spondylopathies,,1,1
+11.2.3,Radiculopathy (See 12.7.3),,1,1
+11.2.4,Spinal stenosis,,1,1
+11.2.5,Cervical pain,1,1,1
+11.2.6,Thoracic pain,1,1,1
+11.2.7,Lumbosacral pain,1,1,1
+11.2.7.1,Cauda equina syndrome (See 18.1.15.1),1,1,
+11.2.7.2,Sacroiliitis,,,1
+11.2.7.3,Sciatica,,1,1
+11.2.8,Discitis,,1,1
+11.3,Joint Abnormalities,,,
+11.3.1,Arthritis,,,
+11.3.1.1,Septic,,1,
+11.3.1.2,Crystal arthropathies,,1,1
+11.3.1.3,Rheumatoid (See 9.1.3),,,1
+11.3.1.4,Juvenile idiopathic arthritis,,,1
+11.3.1.5,Osteoarthrosis,,,1
+11.3.1.6,Reactive arthritis (See 9.1.2),,1,1
+11.3.2,Developmental dysplasia of the hip,,1,1
+11.3.3,Slipped capital femoral epiphysis,,1,
+11.3.4,Synovitis,,1,1
+11.4,Muscle Abnormalities,,,
+11.4.1,Myositis,,,1
+11.4.2,Rhabdomyolysis,1,1,
+11.4.3,Compartment syndrome (See 18.1.14.2),1,1,
+11.5,Overuse Syndromes,,,
+11.5.1,Bursitis,,,1
+11.5.2,Muscle strains,,,1
+11.5.3,Peripheral nerve syndrome,,,1
+11.5.3.1,Carpal tunnel syndrome,,,1
+11.5.4,Tendinopathy,,,1
+11.5.5,Stress reaction fracture,,1,1
+11.6,Soft Tissue Infections,,,
+11.6.1,Necrotizing infections,1,1,
+11.6.2,Felon,,1,
+11.6.3,Gangrene (See 10.1.6.1),1,1,
+11.6.4,Paronychia,,1,1
+11.6.5,Tenosynovitis,,1,1
+12,NERVOUS SYSTEM DISORDERS,,,
+12.1,Cranial Nerve Disorders,,,1
+12.1.1,Idiopathic facial nerve paralysis (Bell’s palsy),,,1
+12.1.2,Trigeminal neuralgia,,,1
+12.2,Demyelinating Disorders,1,1,
+12.2.1,Multiple sclerosis,,1,1
+12.3,Headache (See 1.2.2),1,1,1
+12.3.1,Tension,,,1
+12.3.2,Migraine,,1,1
+12.3.3,Cluster,,1,1
+12.3.4,Giant cell arteritis,1,1,
+12.4,Hydrocephalus,,1,1
+12.4.1,Normal pressure,,1,1
+12.4.2,Shunt complications,,1,
+12.5,Infections/Inflammatory Disorders,,,
+12.5.1,Encephalitis,1,1,
+12.5.2,Intracranial and intraspinal abscess,1,1,
+12.5.3,Meningitis,,,
+12.5.3.1,Bacterial,1,1,
+12.5.3.2,Viral,1,1,1
+12.5.3.3,Fungal,1,1,1
+12.5.4,Myelitis,,1,
+12.5.4.1,Acute flaccid myelitis,,1,
+12.5.5,Epidural abscess,1,1,
+12.6,Movement Disorders,,1,1
+12.6.1,Dystonic reaction,,1,1
+12.6.2,Chorea/Choreiform,,,1
+12.6.3,Tardive dyskinesia,,,1
+12.7,Neuromuscular Disorders,,,
+12.7.1,Guillain-Barré syndrome,1,1,
+12.7.2,Myasthenia gravis,1,1,1
+12.7.3,Peripheral neuropathy (See 11.2.3),,1,
+12.8,Other Conditions of the Brain,,,
+12.8.1,Dementia (See 14.5.2),,,1
+12.8.2,Parkinson’s disease,,,1
+12.8.3,Idiopathic intracranial hypertension,1,1,
+12.8.4,Cerebral venous sinus thrombosis,1,1,1
+12.8.5,Posterior reversible encephalopathy syndrome (PRES),1,1,
+12.8.6,Transient global amnesia,,,1
+12.9,Seizure Disorders,,,
+12.9.1,Epileptiform,1,1,1
+12.9.1.1,Neonatal,1,1,
+12.9.1.2,Febrile,1,1,1
+12.9.1.3,Status epilepticus,1,,
+12.9.1.4,Nonconvulsive,1,1,
+12.9.1.5,Drug-induced,1,1,
+12.9.1.6,Withdrawal,1,1,
+12.9.2,Nonepileptic seizure,,,1
+12.10,Spinal Cord Compression (See 8.7.5),1,1,
+12.11,Stroke,,,
+12.11.1,Hemorrhagic,,,
+12.11.1.1,Intracerebral,1,1,
+12.11.1.2,Subarachnoid,1,1,
+12.11.2,Ischemic,,,
+12.11.2.1,Embolic,1,1,
+12.11.2.2,Thrombotic,1,1,
+12.12,Transient Cerebral Ischemia,,1,1
+12.13,Tumors,1,1,1
+12.14,Delirium,1,1,1
+13,OBSTETRICS AND GYNECOLOGY,,,
+13.1,Female Genital Tract,,,
+13.1.1,Cervix,,,
+13.1.1.1,Cervicitis and endocervicitis,,1,1
+13.1.1.2,Tumors,,,1
+13.1.2,Infectious disorders,,,
+13.1.2.1,Pelvic inflammatory disease,,1,
+13.1.2.1.1,Fitz-Hugh-Curtis syndrome,,1,
+13.1.2.1.2,Tuboovarian abscess,,1,
+13.1.2.2,Urethritis,,,1
+13.1.2.3,Gangrene of perineum,1,1,
+13.1.3,Lesions,,,
+13.1.3.1,"Herpes simplex (See 4.4.4.1.1, 10.6.4)",,,1
+13.1.3.2,Human papillomavirus (HPV) (See 4.4.4.2),,,1
+13.1.3.3,Chancres,,,1
+13.1.4,Ovary,,,
+13.1.4.1,Cyst,,,1
+13.1.4.2,Torsion,,1,
+13.1.4.3,Tumors,,1,1
+13.1.5,Uterus,,,
+13.1.5.1,Abnormal bleeding,,1,1
+13.1.5.2,Endometriosis,,,1
+13.1.5.3,Prolapse,,,1
+13.1.5.4,Tumors,,1,1
+13.1.5.4.1,Gestational trophoblastic disease,,1,
+13.1.5.4.2,Leiomyoma,,,1
+13.1.6,Vagina and vulva,,,
+13.1.6.1,Bartholin’s cyst,,1,1
+13.1.6.2,Foreign body,,1,1
+13.1.6.3,Vaginitis/Vulvovaginitis,,,1
+13.2,Normal Pregnancy,,,1
+13.3,Complications of Pregnancy,,,
+13.3.1,Abortion,,1,
+13.3.2,Ectopic pregnancy,1,1,
+13.3.3,"Hemolysis, elevated liver enzymes, low platelets (HELLP) syndrome",1,1,
+13.3.4,"Hemorrhage, antepartum",,,
+13.3.4.1,Abruptio placentae (See 18.2.1),1,1,
+13.3.4.2,Placenta previa,1,1,
+13.3.5,Hyperemesis gravidarum,,1,1
+13.3.6,Gestational hypertension,,1,1
+13.3.6.1,Eclampsia,1,1,
+13.3.6.2,Preeclampsia,,1,
+13.3.7,Infections,,1,
+13.3.8,Rh isoimmunization,,1,
+13.3.9,First trimester bleeding,1,1,1
+13.3.10,Gestational diabetes,,1,1
+13.4,High-risk Pregnancy,1,1,
+13.4.1,Assisted reproductive therapies,1,1,1
+13.4.2,Pre-existing medical problems,1,1,1
+13.5,Normal Labor and Delivery,,1,1
+13.6,Complications of Labor,,,
+13.6.1,Fetal distress,1,,
+13.6.2,Premature labor (See 18.2.3),,1,
+13.6.3,Premature rupture of membranes,,1,
+13.6.4,Rupture of uterus (See 18.2.4),1,,
+13.7,Complications of Delivery,,,
+13.7.1,Malposition of fetus,1,1,
+13.7.2,Nuchal cord,1,,
+13.7.3,Prolapse of cord,1,,
+13.7.4,Amniotic fluid embolism,1,1,
+13.7.5,Shoulder dystocia,1,1,
+13.8,Postpartum Complications,,,
+13.8.1,Endometritis,,1,
+13.8.2,Hemorrhage,1,1,
+13.8.3,Mastitis,,1,1
+13.8.4,Pituitary infarction,1,1,
+13.9,Contraception,,1,1
+14,PSYCHOBEHAVIORAL DISORDERS,,,
+14.1,Substance Use Disorders,,,
+14.1.1,Alcohol use disorder (See 17.1.1),1,1,1
+14.1.2,Illicit drug use,1,1,1
+14.1.3,Prescription drug use,1,1,1
+14.1.3.1,Drug diversion,,,1
+14.1.4,Tobacco use disorder,,,1
+14.1.5,Withdrawal syndromes,1,1,1
+14.1.6,Opioid use disorder (See 17.1.2.3),1,1,1
+14.1.7,Stimulant use disorder,1,1,1
+14.1.8,Medication for substance use disorder,,1,1
+14.2,Mood Disorders and Thought Disorders,,,
+14.2.1,Acute psychosis,1,1,
+14.2.2,Bipolar disorder,,1,1
+14.2.3,Depression,,1,1
+14.2.3.1,Suicidal risk,1,1,
+14.2.4,Grief reaction,,,1
+14.2.5,Schizophrenia,,1,1
+14.3,Factitious Disorders,,1,1
+14.4,Neurotic Disorders,,,
+14.4.1,Anxiety/Panic,,,1
+14.4.2,Obsessive compulsive,,,1
+14.4.3,Phobic,,,1
+14.4.4,Post-traumatic stress,,,1
+14.5,Organic Psychoses,,,
+14.5.1,Chronic organic psychotic conditions,,,1
+14.5.1.1,Alcoholic psychoses,,1,1
+14.5.1.2,Drug psychoses,,1,1
+14.5.2,Dementia (See 12.8.1),,,1
+14.6,Patterns of Violence/Abuse/Neglect,,,
+14.6.1,Interpersonal violence,,,
+14.6.1.1,Child,1,1,1
+14.6.1.2,Intimate partner,1,1,1
+14.6.1.3,Vulnerable adult,1,1,
+14.6.1.4,Elder,1,1,1
+14.6.2,Homicidal risk,1,1,
+14.6.3,Sexual assault,,1,
+14.6.3.1,Post-exposure prophylaxis,,1,1
+14.6.4,Staff/Patient safety,,1,
+14.6.5,Human trafficking,,1,1
+14.7,Personality Disorders,,,1
+14.8,Psychosomatic Disorders,,,
+14.8.1,Hypochondriasis,,,1
+14.8.2,Conversion disorder,,,1
+14.9,Feeding and Eating Disorders,1,1,1
+15,RENAL AND UROGENITAL DISORDERS,,,
+15.1,Acute and Chronic Renal Failure,1,1,1
+15.2,Complications of Dialysis,1,1,
+15.2.1,Vascular,1,1,1
+15.2.2,Peritoneal,1,1,1
+15.3,Glomerular Disorders,,,
+15.3.1,Glomerulonephritis (See 9.4.4),,1,1
+15.3.2,Nephrotic syndrome,,1,1
+15.4,Infection,,,
+15.4.1,Cystitis,,,1
+15.4.2,Pyelonephritis,,1,
+15.4.3,Asymptomatic bacteriuria,,,1
+15.5,Male Genital Tract,,,
+15.5.1,Genital lesions,,,1
+15.5.2,Hernias,,1,1
+15.5.3,Inflammation/Infection,,,
+15.5.3.1,Balanitis/Balanoposthitis,,1,1
+15.5.3.2,Epididymitis/Orchitis,,1,1
+15.5.3.3,Gangrene of the perineum (Fournier's gangrene),1,1,
+15.5.3.4,Prostatitis,,1,1
+15.5.3.5,Urethritis,,,1
+15.5.4,Structural,,,
+15.5.4.1,Paraphimosis/Phimosis,,1,
+15.5.4.2,Priapism,,1,
+15.5.4.2.1,Medication induced,,1,1
+15.5.4.3,Prostatic hypertrophy (BPH),,,1
+15.5.4.4,Torsion,,1,
+15.5.5,Testicular masses,,,1
+15.6,Nephritis,,1,1
+15.6.1,Hemolytic uremic syndrome,,1,
+15.7,Structural Disorders,,,
+15.7.1,Calculus of urinary tract,,1,1
+15.7.2,Obstructive uropathy,1,1,
+15.7.3,Polycystic kidney disease,,,1
+15.8,Tumors,,,1
+15.9,Urologic Devices,,,
+15.9.1,Nephrostomy tube,,1,1
+15.9.2,Malfunctioning indwelling catheter,,1,1
+15.9.3,Ureteral stents,,1,1
+15.10,Gender Affirming Procedural Complications,1,1,1
+16,THORACIC-RESPIRATORY DISORDERS,,,
+16.1,Acute Upper Airway Disorders,,,
+16.1.1,Infections,,,
+16.1.1.1,Croup,,1,
+16.1.1.2,Epiglottitis (See 7.4.5.1),1,1,
+16.1.1.3,Ludwig’s angina (See 7.4.2.1),1,1,
+16.1.2,Obstruction/Foreign body (See 16.4.7),1,,
+16.2,"Disorders of Pleura, Mediastinum, and Chest Wall",,,
+16.2.1,Costochondritis,,,1
+16.2.2,Mediastinitis,1,1,
+16.2.3,Pleural effusion,,1,1
+16.2.4,Pleuritis,,,1
+16.2.5,Pneumomediastinum,,1,
+16.2.6,Pneumothorax (See 18.1.2.7),,,
+16.2.6.1,Simple,,1,
+16.2.6.2,Tension,1,,
+16.2.6.3,Open,1,,
+16.2.7,Empyema,,1,1
+16.3,Acute Respiratory Distress Syndrome,1,1,
+16.4,Obstructive/Restrictive Lung Disease,,,
+16.4.1,Asthma/Reactive airway disease,1,1,
+16.4.2,Bronchitis,,1,1
+16.4.3,Bronchopulmonary dysplasia,,1,1
+16.4.4,Chronic obstructive pulmonary disease,1,1,1
+16.4.5,Cystic fibrosis,1,1,1
+16.4.6,Environmental/Industrial exposure,1,1,1
+16.4.7,Foreign body (See 16.1.2),1,1,
+16.4.8,Bronchiolitis,,1,1
+16.5,Physical and Chemical Irritants/Insults,,,
+16.5.1,Pneumoconiosis,,1,1
+16.5.2,"Toxic effects of gases, fumes, vapors (See 18.1.3.3.2)",1,1,1
+16.6,Pulmonary Embolism/Infarct,,,
+16.6.1,Septic emboli,1,1,
+16.6.2,Venous thromboembolism (See 3.3.2.1),1,1,1
+16.6.2.1,Massive and submassive embolism,1,1,
+16.6.3,Fat emboli,1,1,
+16.7,Pulmonary Infections,,,
+16.7.1,Lung abscess,,1,
+16.7.2,Pneumonia,,,
+16.7.2.1,Aspiration,1,1,
+16.7.2.2,Community-acquired,1,1,1
+16.7.2.3,Healthcare-associated pneumonia,1,1,1
+16.7.2.4,Pneumocystis,1,1,1
+16.7.3,Pulmonary tuberculosis,,1,
+16.7.4,Respiratory syncytial virus (RSV),1,1,1
+16.7.5,Pertussis,1,1,1
+16.8,Tumors,,1,1
+16.9,Pulmonary Hypertension,1,1,1
+17,TOXICOLOGIC DISORDERS,,,
+17.1,Drug and Chemical Classes,,,
+17.1.1,Alcohol (See 14.1.1),,,
+17.1.1.1,Ethanol,1,1,1
+17.1.1.2,Ethylene glycol,1,1,
+17.1.1.3,Isopropyl,1,1,1
+17.1.1.4,Methanol,1,1,
+17.1.2,Analgesics,,,
+17.1.2.1,Acetaminophen,1,1,
+17.1.2.2,Nonsteroidal anti-inflammatories (NSAIDS),,1,1
+17.1.2.3,Opioids (See 14.1.6),1,1,
+17.1.2.4,Salicylates,1,1,
+17.1.3,Anticholinergics,1,1,
+17.1.3.1,Antihistamines,,1,
+17.1.4,Anticoagulants/Antithrombotics/Antiplatelets,1,1,
+17.1.4.1,Direct thrombin inhibitors,1,,
+17.1.4.2,Factor Xa inhibitors,1,,
+17.1.4.3,Heparins,1,1,
+17.1.4.4,Vitamin K antagonists,1,,1
+17.1.5,Anticonvulsants,1,1,
+17.1.6,Antidepressants,1,1,
+17.1.6.1,Bupropion,,1,
+17.1.6.2,Selective serotonin reuptake inhibitors,,1,1
+17.1.6.3,Tricyclic antidepressants,1,1,
+17.1.7,Antiemetics,,1,
+17.1.8,Antimicrobials,,,
+17.1.8.1,Antibiotics,,1,1
+17.1.8.1.1,Isoniazid,1,1,
+17.1.8.2,Antimalarials,1,1,1
+17.1.8.3,Antiretrovirals,1,1,1
+17.1.9,Antipsychotics,1,1,
+17.1.10,Carbon monoxide,1,1,
+17.1.11,Cardiovascular drugs,,,
+17.1.11.1,Antiarrhythmics,1,1,
+17.1.11.1.1,Digoxin,1,1,
+17.1.11.2,Antihypertensives,1,1,
+17.1.11.2.1,Central acting,1,1,
+17.1.11.2.2,Peripheral Acting,1,1,
+17.1.11.3,Beta blockers,1,1,
+17.1.11.4,Calcium channel blockers,1,1,
+17.1.12,Cholinergics,1,1,
+17.1.12.1,Nerve agents,1,1,
+17.1.12.2,Organophosphates,1,1,
+17.1.13,"Cyanides, hydrogen sulfide",1,1,
+17.1.14,Heavy metals,1,1,
+17.1.15,"Herbicides, insecticides, and rodenticides",1,1,
+17.1.16,Household/Industrial chemicals,1,1,1
+17.1.16.1,Caustic agents (See 2.2.2.3),1,1,
+17.1.16.2,Hydrocarbons,1,1,
+17.1.16.3,Inhaled irritants,1,1,
+17.1.17,Hypoglycemics/Insulin,1,1,
+17.1.18,Lithium,1,1,1
+17.1.19,Local anesthetics,1,1,
+17.1.20,Marine toxins (See 6.1.3),1,1,1
+17.1.21,Methemoglobinemia (See 8.5.3),1,1,
+17.1.22,Mushrooms/Poisonous plants,1,1,
+17.1.23,Nutritional supplements,,1,1
+17.1.23.1,Iron,1,1,
+17.1.23.2,Performance enhancing and weight-loss drugs,1,1,1
+17.1.24,Recreational drugs,1,1,1
+17.1.24.1,Cannabis,,,1
+17.1.24.1.1,Cannabinoid hyperemesis syndrome/Cyclic vomiting (See 2.7.7),,,1
+17.1.24.2,Synthetic cannabinoids,1,1,1
+17.1.24.3,Hallucinogens,1,1,1
+17.1.24.4,GHB,1,1,1
+17.1.25,Sedatives/Hypnotics,1,1,
+17.1.26,Stimulants/Sympathomimetics,1,1,
+17.1.26.1,Amphetamines,1,1,
+17.1.26.2,Cocaine,1,1,1
+18,TRAUMATIC DISORDERS,,,
+18.1,Trauma,,,
+18.1.1,Abdominal trauma,,,
+18.1.1.1,Diaphragm,1,1,
+18.1.1.2,Hollow viscus,1,1,
+18.1.1.3,Penetrating,1,1,
+18.1.1.4,Retroperitoneum,1,1,
+18.1.1.5,Solid organ,1,1,
+18.1.1.6,Vascular,1,1,
+18.1.1.7,Abdominal wall,,1,1
+18.1.2,Thoracic trauma,,,
+18.1.2.1,Blunt aortic injury/disruption,1,,
+18.1.2.2,Contusion,,,
+18.1.2.2.1,Cardiac,1,1,1
+18.1.2.2.2,Pulmonary,1,1,
+18.1.2.3,Fracture,,,
+18.1.2.3.1,Clavicle,,1,1
+18.1.2.3.2,Ribs/Flail chest,1,1,1
+18.1.2.3.3,Sternum,,1,1
+18.1.2.3.4,Scapula,,1,1
+18.1.2.4,Hemothorax,1,1,
+18.1.2.5,Penetrating chest trauma,1,1,
+18.1.2.6,Pericardial tamponade (See 3.6.1),1,,
+18.1.2.7,Pneumothorax (See 16.2.6),,,
+18.1.2.7.1,Simple,,1,
+18.1.2.7.2,Tension,1,,
+18.1.2.7.3,Open,1,,
+18.1.3,Cutaneous trauma,,,
+18.1.3.1,Avulsions,,1,1
+18.1.3.2,Bite wounds (See 6.1),,1,1
+18.1.3.3,Burns,,,
+18.1.3.3.1,Electrical (See 6.3),1,1,1
+18.1.3.3.2,Chemical (See 16.5.2),1,1,1
+18.1.3.3.3,Thermal,1,1,1
+18.1.3.3.4,Radiation,1,1,1
+18.1.3.4,Lacerations,,1,1
+18.1.3.5,Puncture wounds,,1,1
+18.1.3.6,Nail injuries,,,1
+18.1.4,Facial trauma,,,1
+18.1.4.1,Dental,,1,1
+18.1.4.2,Le Fort,1,1,1
+18.1.4.3,Mandibular,,1,1
+18.1.4.4,Orbital,,1,1
+18.1.4.5,Nasal,,,1
+18.1.4.5.1,Septal hematoma,,1,
+18.1.4.6,Zygomaticomaxillary complex,,,1
+18.1.5,Genitourinary trauma,,,
+18.1.5.1,Bladder,,1,
+18.1.5.2,External genitalia,,1,
+18.1.5.3,Renal,,1,1
+18.1.5.4,Ureteral,,1,
+18.1.5.5,Urethral,,1,1
+18.1.6,Head trauma,,,
+18.1.6.1,Intracranial injury,1,1,
+18.1.6.1.1,Concussion,,1,1
+18.1.6.1.2,Intracranial hemorrhage,1,1,
+18.1.6.1.3,Increased intracranial pressure,1,1,
+18.1.6.2,Scalp lacerations/Avulsions,,1,1
+18.1.6.3,Skull fractures,,1,1
+18.1.7,Spine trauma,,,
+18.1.7.1,Dislocations/Subluxations,1,1,
+18.1.7.2,Fractures,1,1,1
+18.1.7.3,Sprains/Strains,,,1
+18.1.8,Extremity bony trauma,,,
+18.1.8.1,Dislocations/Subluxations,,1,
+18.1.8.2,Fractures (open and closed),,1,1
+18.1.9,Neck trauma,,,
+18.1.9.1,Laryngotracheal injuries,1,1,
+18.1.9.2,Penetrating neck trauma,1,1,
+18.1.9.3,Vascular injuries,1,1,
+18.1.9.4,Strangulation,1,1,1
+18.1.10,Ophthalmologic trauma,,,
+18.1.10.1,Corneal abrasions/Lacerations (See 7.2.1.3),,1,1
+18.1.10.2,Corneal burns (See 7.2.1.1),,,
+18.1.10.2.1,Acid,,1,
+18.1.10.2.2,Alkali,,1,
+18.1.10.2.3,Ultraviolet,,1,1
+18.1.10.3,Periorbital lacerations,,1,
+18.1.10.3.1,Eyelid,,1,
+18.1.10.3.2,Lacrimal duct,,1,
+18.1.10.4,Foreign body (See 19.4.4.8),,1,
+18.1.10.5,Hyphema (See 7.2.2.2),,1,
+18.1.10.6,Penetrating globe injuries,,1,
+18.1.10.7,Retinal detachments (See 7.2.3.3),,1,
+18.1.10.8,Traumatic iritis (See 7.2.2.3),,1,1
+18.1.10.9,Retrobulbar hematoma,,1,
+18.1.11,Otologic trauma,,,
+18.1.11.1,Hematoma,,1,1
+18.1.11.2,Perforated tympanic membrane (See 7.1.6),,,1
+18.1.12,Pediatric fractures,,,
+18.1.12.1,Epiphyseal,,1,1
+18.1.12.1.1,Salter-Harris classification,,1,1
+18.1.12.2,Greenstick,,1,
+18.1.12.3,Torus,,,1
+18.1.12.4,Apophyseal avulsion,,,1
+18.1.13,Pelvic fracture,1,1,
+18.1.14,Soft-tissue extremity injuries,,,
+18.1.14.1,Amputations/Replantation,,1,
+18.1.14.2,Compartment syndromes (See 11.4.3),,1,
+18.1.14.3,High-pressure injection,,1,
+18.1.14.4,Injuries to joints,,1,1
+18.1.14.5,Penetrating trauma,,1,1
+18.1.14.6,Periarticular,,,1
+18.1.14.7,Sprains/Strains,,,1
+18.1.14.8,Tendon injuries,,,
+18.1.14.8.1,Lacerations/Transections,,1,
+18.1.14.8.2,Ruptures,,1,1
+18.1.14.9,Vascular injuries,1,1,
+18.1.15,Spinal cord and nervous system trauma,,,
+18.1.15.1,Cauda equina syndrome (See 11.2.7.1),1,1,
+18.1.15.2,Injury to nerve roots,,1,1
+18.1.15.3,Peripheral nerve injury,,1,1
+18.1.15.4,Spinal cord injury,1,1,1
+18.1.15.4.1,Spinal cord injury without radiologic abnormality (SCIWORA),,1,
+18.2,Trauma in Pregnancy,,,
+18.2.1,Abruptio placentae (See 13.3.4.1),1,1,
+18.2.2,Resuscitative hysterotomy (See 19.4.8.2),1,,
+18.2.3,Premature labor (See 13.6.2),,1,
+18.2.4,Rupture of uterus (See 13.6.4),1,,
+18.3,Multi-system Trauma,1,1,
+18.3.1,Blast injury,1,1,
+18.3.2,Falls,1,1,1
+18.3.3,Motor vehicle collision,1,1,1
+18.3.4,Assault,1,1,1
+19,PROCEDURES AND SKILLS INTEGRAL TO THE PRACTICE OF EMERGENCY MEDICINE,,,
+19.1,Airway Techniques,,,
+19.1.1,Intubation,,,
+19.1.1.1,Direct laryngoscopy,,,
+19.1.1.2,Video-assisted laryngoscopy,,,
+19.1.2,Airway adjuncts,,,
+19.1.2.1,Flexible endoscopic techniques,,,
+19.1.3,Surgical airway,,,
+19.1.4,Mechanical ventilation,,,
+19.1.5,Non-invasive ventilatory management,,,
+19.1.5.1,CPAP/BiPAP,,,
+19.1.5.2,High flow oxygen,,,
+19.1.6,Ventilatory monitoring,,,
+19.2,Resuscitation,,,
+19.2.1,Cardiopulmonary resuscitation,,,
+19.2.2,Neonatal resuscitation,,,
+19.2.3,Pediatric resuscitation,,,
+19.2.4,Post-resuscitative care,,,
+19.2.4.1,Targeted temperature management,,,
+19.2.5,"Blood, fluid, and component therapy",,,
+19.2.6,Arterial catheter insertion,,,
+19.2.7,Central venous access,,,
+19.2.8,Intraosseous line placement,,,
+19.2.9,Defibrillation,,,
+19.2.10,Thoracotomy,,,
+19.2.11,Extracorporeal membrane oxygenation (ECMO) (See 3.10.3),,,
+19.2.12,Thermoregulation procedures,,,
+19.2.13,Neurocritical care resuscitation,,,
+19.3,Anesthesia and Acute Pain Management,,,
+19.3.1,Regional anesthesia,,,
+19.3.2,Procedural sedation,,,
+19.3.3,Analgesia,,,
+19.4,Diagnostic and Therapeutic Procedures,,,
+19.4.1,Abdominal and gastrointestinal,,,
+19.4.1.1,Anoscopy,,,
+19.4.1.2,Excision of thrombosed hemorrhoid,,,
+19.4.1.3,Gastrostomy tube replacement,,,
+19.4.1.4,Nasogastric tube,,,
+19.4.1.5,Paracentesis,,,
+19.4.1.6,Mechanical control of upper gastrointestinal bleeding,,,
+19.4.2,Cardiovascular and thoracic,,,
+19.4.2.1,Cardiac pacing,,,
+19.4.2.2,Cardioversion,,,
+19.4.2.3,ECG interpretation,,,
+19.4.2.4,Pericardiocentesis,,,
+19.4.2.5,Thoracentesis,,,
+19.4.2.6,Thoracostomy (including small bore catheters),,,
+19.4.3,Cutaneous,,,
+19.4.3.1,Escharotomy,,,
+19.4.3.2,Incision and drainage,,,
+19.4.3.3,"Trephination, nails",,,
+19.4.3.4,Wound closure techniques,,,
+19.4.3.5,Wound management,,,
+19.4.4,"Head, ear, eye, nose, and throat",,,
+19.4.4.1,Control of epistaxis,,,
+19.4.4.2,Drainage of peritonsillar abscess,,,
+19.4.4.3,Laryngoscopy,,,
+19.4.4.4,Lateral canthotomy,,,
+19.4.4.5,Slit lamp examination,,,
+19.4.4.6,Tonometry,,,
+19.4.4.7,Tooth stabilization,,,
+19.4.4.8,Corneal foreign body removal (See 18.1.10.4),,,
+19.4.4.9,Drainage of hematoma,,,
+19.4.5,Systemic infectious,,,
+19.4.5.1,Personal protection (equipment and techniques),,,
+19.4.5.2,Universal precautions and exposure management,,,
+19.4.6,Musculoskeletal,,,
+19.4.6.1,Arthrocentesis,,,
+19.4.6.2,Compartment pressure measurement,,,
+19.4.6.3,Fracture/Dislocation immobilization techniques,,,
+19.4.6.4,Fracture/Dislocation reduction techniques,,,
+19.4.6.5,Spine immobilization techniques,,,
+19.4.7,Nervous system,,,
+19.4.7.1,Lumbar puncture,,,
+19.4.8,Obstetrics and gynecology,,,
+19.4.8.1,Delivery of newborn,,,
+19.4.8.2,Resuscitative hysterotomy (See 18.2.2),,,
+19.4.8.3,Sexual assault examination,,,
+19.4.9,Psychobehavioral,,,
+19.4.9.1,Violent patient management/Restraint,,,
+19.4.10,Renal and urogenital,,,
+19.4.10.1,Bladder catheterization,,,
+19.4.10.1.1,Urethral catheter,,,
+19.4.10.1.2,Suprapubic catheter,,,
+19.4.10.2,Cystourethrogram,,,
+19.4.10.3,Testicular detorsion,,,
+19.4.11,Toxicologic,,,
+19.4.11.1,Decontamination,,,
+19.4.11.2,Antidote administration,,,
+19.5,Ultrasound,,,
+19.5.1,"Ultrasound physics, artifacts, knobology, and safety (ALARA)",,,
+19.5.2,Diagnostic ultrasound,,,
+19.5.2.1,Aorta,,,
+19.5.2.1.1,Abdominal aortic aneurysm,,,
+19.5.2.2,Biliary,,,
+19.5.2.2.1,Cholelithiasis,,,
+19.5.2.2.2,Cholecystitis,,,
+19.5.2.3,Bowel,,,
+19.5.2.3.1,Peritoneal fluid assessment,,,
+19.5.2.3.2,Small bowel obstruction,,,
+19.5.2.4,Cardiac,,,
+19.5.2.4.1,Asystole,,,
+19.5.2.4.2,Global left ventricular function,,,
+19.5.2.4.3,Global right ventricular size,,,
+19.5.2.4.4,Pericardial fluid,,,
+19.5.2.5,Ocular,,,
+19.5.2.5.1,Undifferentiated vitreous chamber,,,
+19.5.2.6,Female pelvis (transabdominal and transvaginal approaches),,,
+19.5.2.6.1,Intrauterine pregnancy,,,
+19.5.2.6.2,Fetal assessment,,,
+19.5.2.6.2.1,Fetal heart rate,,,
+19.5.2.7,Renal and bladder,,,
+19.5.2.7.1,Hydronephrosis,,,
+19.5.2.7.2,Bladder volume assessment,,,
+19.5.2.8,Soft tissue/Musculoskeletal,,,
+19.5.2.8.1,Abscess,,,
+19.5.2.8.2,Cellulitis,,,
+19.5.2.8.3,Necrotizing fasciitis,,,
+19.5.2.8.4,Foreign body detection,,,
+19.5.2.8.5,Joint effusion,,,
+19.5.2.9,Thoracic,,,
+19.5.2.9.1,Pleural effusion,,,
+19.5.2.9.2,Pneumothorax,,,
+19.5.2.9.3,Alveolar interstitial syndrome,,,
+19.5.2.10,Venous/Arterial assessment,,,
+19.5.2.10.1,Deep venous thrombosis,,,
+19.5.2.10.2,Inferior vena cava,,,
+19.5.3,Resuscitative,,,
+19.5.3.1,Cardiac arrest,,,
+19.5.3.2,Medical,,,
+19.5.3.3,Traumatic,,,
+19.5.3.3.1,Pericardial fluid,,,
+19.5.3.3.2,Peritoneal fluid,,,
+19.5.3.3.3,Pleural fluid,,,
+19.5.3.3.4,Pneumothorax,,,
+19.5.3.4,Undifferentiated hypotension,,,
+19.5.4,Procedural applications,,,
+19.5.4.1,Abscess incision and drainage,,,
+19.5.4.2,Arthrocentesis,,,
+19.5.4.3,Foreign body removal,,,
+19.5.4.4,Paracentesis,,,
+19.5.4.5,Pericardiocentesis,,,
+19.5.4.6,Regional anesthesia,,,
+19.5.4.7,Thoracentesis,,,
+19.5.4.8,Vascular access,,,
+19.5.4.8.1,Central venous,,,
+19.5.4.8.2,Peripheral venous,,,
+19.5.4.8.3,Arterial,,,
+19.6,Other Diagnostic and Therapeutic Procedures,,,
+19.6.1,Foreign body removal,,,
+19.6.2,Collection and handling of forensic material,,,
+20,OTHER CORE COMPETENCIES OF THE PRACTICE OF EMERGENCY MEDICINE,,,
+20.1,Interpersonal and Communication Skills,,,
+20.1.1,Interpersonal skills,,,
+20.1.1.1,Inter-departmental and medical staff relations,,,
+20.1.1.2,"Intra-departmental relations, teamwork, and collaboration skills",,,
+20.1.1.3,Patient and family-centered care and patient/family engagement,,,
+20.1.1.4,Empathetic and compassionate care management skills,,,
+20.1.2,Communication skills,,,
+20.1.2.1,Complaint management and service recovery,,,
+20.1.2.2,Conflict management and resolution,,,
+20.1.2.3,Crisis resource management,,,
+20.1.2.4,Delivering difficult information to patient and family,,,
+20.1.2.5,Notification of family/loved ones of deceased patient,,,
+20.1.2.6,Cultural humility,,,
+20.1.2.6.1,Implicit bias,,,
+20.1.2.6.2,Systemic racism,,,
+20.1.2.7,Social determinants of health resource management,,,
+20.1.2.8,Negotiation skills,,,
+20.1.2.9,"Partnering with patients and families to discuss, address, and manage their plan of care",,,
+20.1.2.10,Shared decision-making,,,
+20.1.2.11,Active listening and building trust,,,
+20.1.2.12,"Discharge planning, medication management, and patient/family education",,,
+20.1.2.13,"Handoffs, hospital admission, and patient/family education",,,
+20.2,Practice-based Learning and Improvement,,,
+20.2.1,Performance improvement and lifelong learning,,,
+20.2.1.1,Evidence-based medicine,,,
+20.2.1.2,Interpretation of medical literature,,,
+20.2.1.3,Knowledge translation,,,
+20.2.1.4,Patient safety and medical errors,,,
+20.2.1.5,Performance evaluation and feedback,,,
+20.2.1.6,Research,,,
+20.2.2,Practice guidelines,,,
+20.2.3,Education,,,
+20.2.3.1,Patient and family,,,
+20.2.3.2,Care teams,,,
+20.2.4,Principles of quality improvement,,,
+20.3,Professionalism,,,
+20.3.1,Advocacy,,,
+20.3.1.1,Patient,,,
+20.3.1.2,Professional,,,
+20.3.1.3,Healthcare disparities,,,
+20.3.1.4,Injury prevention,,,
+20.3.1.4.1,Firearm injury,,,
+20.3.2,Ethical principles,,,
+20.3.2.1,Conflicts of interest,,,
+20.3.2.2,Diversity and inclusion awareness,,,
+20.3.2.3,Management of medical misinformation and disinformation,,,
+20.3.2.4,Medical ethics,,,
+20.3.2.5,Stewardship of resources,,,
+20.3.2.6,Care of vulnerable populations,,,
+20.3.2.7,Gender and sexual orientation,,,
+20.3.2.7.1,Transgender care,,,
+20.3.2.7.1.1,Gender-affirming therapy and procedures,,,
+20.3.3,Leadership and management principles,,,
+20.3.4,Well-being and resilience,,,
+20.3.4.1,Fatigue and impairment,,,
+20.3.4.1.1,Sleep hygiene,,,
+20.3.4.2,Time management/Organizational skills,,,
+20.3.4.3,Work/Life balance,,,
+20.3.4.4,Physician burnout,,,
+20.3.4.5,Job and contract evaluation,,,
+20.3.4.6,Care for the caregiver,,,
+20.4,Systems-based Practice,,,
+20.4.1,Clinical informatics,,,
+20.4.1.1,Computerized order entry,,,
+20.4.1.2,Clinical decision support,,,
+20.4.1.3,Electronic health record,,,
+20.4.1.4,Health information exchange and interoperability,,,
+20.4.1.5,Telemedicine,,,
+20.4.2,ED administration,,,
+20.4.2.1,Contracts and practice models,,,
+20.4.2.2,Patient flow and throughput,,,
+20.4.2.2.1,Patient triage and classification,,,
+20.4.2.2.2,Hospital crowding and diversion,,,
+20.4.2.2.3,Observation and rapid treatment units,,,
+20.4.2.3,Financial principles,,,
+20.4.2.3.1,Billing and coding,,,
+20.4.2.3.2,Cost-effective care and resource utilization,,,
+20.4.2.3.3,Reimbursement issues,,,
+20.4.2.4,Human resource management,,,
+20.4.2.4.1,Allied health professionals,,,
+20.4.2.4.2,"Recruitment, credentialing, and orientation",,,
+20.4.2.4.3,Staffing/Scheduling,,,
+20.4.2.5,Emergency preparedness,,,
+20.4.2.5.1,Emergency operations plan,,,
+20.4.2.5.2,Supplies/Materials procurement and stockpiling,,,
+20.4.2.5.2.1,Personal protective equipment,,,
+20.4.2.5.3,Hospital-based casualty/disaster protocols,,,
+20.4.2.5.3.1,Incident command system,,,
+20.4.2.5.3.2,"Decontamination, triage, and treatment areas",,,
+20.4.2.5.4,External disaster planning,,,
+20.4.3,ED operations,,,
+20.4.3.1,Policies and procedures,,,
+20.4.3.2,ED data acquisition and operational metrics,,,
+20.4.3.3,"Safety, security, and violence in the ED",,,
+20.4.3.4,Patient satisfaction,,,
+20.4.3.5,Clinical quality measurement,,,
+20.4.3.6,Physician-led care team,,,
+20.4.4,Health care coordination,,,
+20.4.4.1,Advance directives,,,
+20.4.4.1.1,Physician orders for life-sustaining treatment (POLST),,,
+20.4.4.2,Palliative care,,,
+20.4.4.2.1,Patient identification for palliative care,,,
+20.4.4.2.2,Withdrawal of support,,,
+20.4.4.2.3,Hospice referral,,,
+20.4.4.3,Placement options,,,
+20.4.4.3.1,Activities of daily living/Functional assessment,,,
+20.4.4.4,Outpatient services,,,
+20.4.4.5,Organ donation,,,
+20.4.5,Regulatory/Legal,,,
+20.4.5.1,Accreditation,,,
+20.4.5.2,Compliance and reporting requirements,,,
+20.4.5.3,"Confidentiality, privacy, and HIPAA",,,
+20.4.5.4,"Consent, capacity, and refusal of care",,,
+20.4.5.5,Emergency Medical Treatment and Active Labor Act (EMTALA),,,
+20.4.5.6,External quality metrics,,,
+20.4.5.7,Good Samaritan emergency care,,,
+20.4.5.8,Treatment of unaccompanied minors,,,
+20.4.6,Risk management,,,
+20.4.6.1,Liability and litigation,,,
+20.4.6.2,Professional liability insurance,,,
+20.4.6.3,Risk mitigation,,,
+20.4.6.4,Error disclosure,,,
+20.4.6.5,Root cause analysis,,,
+20.4.7,Regionalization of emergency care,,,
+20.4.8,Evolving trends in health care delivery,,,

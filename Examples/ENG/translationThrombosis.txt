@@ -1,19 +1,19 @@
-FEMALE, 31 YEARS OLD
+Female, 31 years old
 Medical history:
-- Pathological proximate: The patient presented with pain and swelling in her left calf, which had started approximately 3 days ago and had been progressively worsening. She reported no shortness of breath, chest pain or haemoptysis. She reported no fever. She reported no recent trauma or prolonged immobilisation.
-- Remote pathology: No known medical conditions. No history of thromboembolic events or family history of thrombophilia. Currently taking oral oestrogen-progestogen (contraceptive pill). Has smoked approximately one packet a day for 10 years. Denies any drug allergies.
+- Pathological proximate: The patient presents with pain and swelling of the left calf that began about 3 days ago, progressively worsening. Denies dyspnoea, chest pain or haemoptysis. Denies fever. Does not report recent trauma or prolonged immobilisation.
+- Remote pathology: No known conditions. No previous thromboembolic event nor family history of thrombophilia. On therapy with oral oestroprogestin (contraceptive pill). Smoker of about 1 pack/day for 10 years. Denies drug allergies.
 
-Objective examination: The patient is alert, oriented and cooperative. She is not in distress at rest. Vesicular breath sounds are present in all lung fields; no additional sounds. Heart sounds are normal-rate, rhythmic, with clear intervals. Abdomen soft to palpation, not tender. Left lower limb: oedema of the calf, skin warm and erythematous distally. Right lower limb normal. BP 122/76 mmHg. Heart Rate 82 bpm. SpO₂ 99% on air. Body Temperature 36.8°C.
+Objective examination: Patient alert, oriented, cooperative. Not in distress at rest. Vesicular breath sounds present in all lung fields, no added sounds. Heart sounds normal-rate, rhythmic, no murmurs. Soft abdomen, non-tender. Left lower limb: calf oedema, skin warm and erythematous distally. Right lower limb normal. BP 122/76 mmHg. Heart Rate 82 bpm. SpO2 99% RA. Body Temperature 36.8°C.
 
 Clinical diary:
-• Wells score for DVT calculated: tenderness along the deep venous course (+1), unilateral oedema (+1), swelling >3 cm (+1). Total score: 3 — high pretest probability.
-• Venous access established and D-dimer, biochemistry, complete blood count and coagulation tests performed.
-• ECG performed: sinus rhythm, no abnormalities.
-• Arterial blood gas analysis performed: normal gas exchange, no acid-base abnormalities. Performed to complete the diagnostic work-up in view of the suspected thromboembolism; results within normal limits.
-• Test results reviewed: D-dimer 2,840 ng/mL (normal range <500), significantly elevated. No signs of inflammation. Complete blood count and coagulation parameters within normal limits.
-• A venous Doppler ultrasound of the left lower limb was performed: deep vein thrombosis of the left gastrocnemius veins, not extending to the popliteal vein. No involvement of the proximal venous circulation.
-• The on-call angiologist/internist was contacted for a specialist consultation and to determine the treatment plan.
-• Anticoagulant therapy was initiated: enoxaparin 8,000 IU (100 IU/kg, weight 80 kg) subcutaneously, with the first dose administered in A&E.
+• Wells score for DVT is calculated: tenderness along the deep venous course (+1), unilateral oedema (+1), swelling>3cm (+1). Total score: 3 — high pretest probability.
+• Venous access obtained and D-dimer, biochemistry, complete blood count, coagulation performed. 
+• ECG is performed: sinus rhythm, no abnormalities.
+• Arterial blood gas is performed: physiological exchanges, no acid-base abnormalities. Performed to complete the diagnostic workup in view of the thromboembolic suspicion, normal.
+• The tests are reviewed: D-dimer 2.840 ng/mL (n.v. <500), significantly elevated. No inflammatory markers. Complete blood count and coagulation normal.
+• Venous Doppler ultrasound of the left lower limb is performed: deep vein thrombosis of the left gastrocnemius veins, without extension to the popliteal vein. No involvement of the proximal venous circulation.
+• The on-call angiologist/internal medicine physician is contacted for specialist consultation and therapeutic planning.
+• Anticoagulant therapy is started: enoxaparin 8.000 IU (100 IU/kg, weight 80kg) s.c., first dose administered in the ED.
 
-Diagnosis: deep vein thrombosis of the left gastrocnemius veins
-Prognosis: 4 days
+Diagnosis: DEEP VEIN THROMBOSIS OF THE LEFT GASTROCNEMIUS VEINS
+Prognosis: 4d

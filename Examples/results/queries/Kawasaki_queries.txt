@@ -1,44 +1,32 @@
 --- Query 1 ---
-[floor 0 | in Kawasaki] retrieved 1, 2, 3, 4, 5, 6, 7, 8, 10 | scored 1, 2, 5
-Recommended treatment for patients with Kawasaki disease.
+[floor 1] retrieved 4, 8, 9, 11 | scored 9 | filled floor with 4
+Intravenous immunoglobulin 2 g/kg as a single infusion is recommended in children with Kawasaki disease within 10 days of fever onset to reduce coronary artery aneurysm risk
 
 --- Query 2 ---
-[floor 0 | in Kawasaki] retrieved 1, 2, 3, 4, 5, 6, 7, 8, 9 | scored 6, 9
-Recommendations for drug therapy and dosage in patients with Kawasaki disease.
+[floor 1] retrieved 1, 4, 8, 11 | scored 1, 4, 8, 11 | filled floor with 1
+Aspirin at moderate or high dose followed by low-dose aspirin 3–5 mg/kg/day is recommended in Kawasaki disease until echocardiography shows no coronary abnormalities
 
 --- Query 3 ---
-[floor 0 | in Kawasaki] retrieved 1, 2, 3, 4, 5, 6, 7, 8, 10 | scored none
-Recommendations for monitoring of patients with Kawasaki disease.
+[floor 1] retrieved 5, 9, 10 | scored 5, 10 | filled floor with 5
+Adjunctive corticosteroids with initial IVIG are recommended in Kawasaki disease patients at high risk of IVIG resistance, such as hypoalbuminaemia, hyponatraemia, elevated ALT and CRP
 
 --- Query 4 ---
-[floor 0 | in Kawasaki] retrieved 1, 2, 3, 4, 5, 6, 7, 8, 10 | scored 4, 7, 8
-Recommendations for diagnosis and assessment of Kawasaki disease.
+[floor 1] retrieved 4, 6, 12 | scored 6, 12 | filled floor with 6
+Transthoracic echocardiography with coronary artery Z-score measurement is recommended at diagnosis, 1–2 weeks and 4–6 weeks after Kawasaki disease treatment
 
 --- Query 5 ---
-[floor 0 | in Kawasaki] retrieved 1, 2, 3, 4, 5, 7, 8, 10 | scored 3
-Recommendations for complications in patients with Kawasaki disease.
+[floor 1] retrieved 2 | scored 2 | filled floor with 2
+A second IVIG dose, corticosteroids or infliximab is recommended for IVIG-resistant Kawasaki disease with persistent or recrudescent fever 36 hours after infusion
 
 --- Query 6 ---
-[floor 1] retrieved 1, 2, 3, 4, 5, 6, 7, 8 | scored none | filled floor with 1
-Recommendations for classic form in patients with Kawasaki disease.
+[floor 1] retrieved 4, 7, 9 | scored 7
+Thromboprophylaxis with anticoagulation in addition to aspirin is recommended in Kawasaki disease with large or giant coronary artery aneurysms
 
 --- Query 7 ---
-[floor 1] retrieved 1, 3, 4, 5, 7, 8, 10 | scored 10 | filled floor with 10
-Recommendations for vaccinations up to date for his age in patients with Kawasaki disease.
+[floor 1] retrieved 4, 6 | scored none
+Kawasaki disease shock syndrome and macrophage activation syndrome should be recognised early in children with Kawasaki disease and hypotension, cytopenias or hyperferritinaemia
 
 --- Query 8 ---
-[floor 1] retrieved 2, 3, 5, 6, 7, 8, 9, 10 | scored none | filled floor with 2
-Recommendations for paracetamol IV to manage the fever whilst awaiting hospitalisation in patients with Kawasaki disease.
-
---- Query 9 ---
-[floor 0] retrieved 1, 2, 3, 4, 5, 7, 8 | scored none
-Recommendations for slightly elevated ALT in patients with Kawasaki disease.
-
---- Query 10 ---
-[floor 0] retrieved 1, 2, 3, 4, 5, 6, 7, 8 | scored none
-Recommendations for albumin hypoalbuminemia in patients with Kawasaki disease.
-
---- Query 11 ---
-[floor 0] retrieved 1, 2, 3, 4, 5, 6, 7, 8 | scored none
-Recommendations for polymorphic rash on the trunk and at the base of the limbs in patients with Kawasaki disease.
+[floor 1] retrieved 3 | scored 3 | filled floor with 3
+Live vaccines such as measles-containing vaccine should be deferred 11 months after IVIG, and influenza vaccination is recommended in children on aspirin to reduce Reye syndrome risk
 

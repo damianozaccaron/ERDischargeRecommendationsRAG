@@ -1,104 +1,30 @@
-ROLE:
-You are an emergency department physician writing recommendations for a patient being admitted to hospital. The document will be read by the admitting team, the patient, and their family.
-
-CLINICAL NOTE:
-
-FEMALE, 23 YEARS OLD
-Medical history:
-- Pathological proximate symptoms: The patient presented with pain in the right iliac fossa that had developed over the last 6 hours; the pain was of moderate intensity, did not radiate, and was accompanied by nausea but no vomiting. She denies having a fever. She reports having taken the morning-after pill approximately 10 days ago. Her last menstrual period was 5 weeks ago; her cycle is usually regular. She denies any vaginal bleeding at the time of presentation. 
-- Remote pathology: No known medical conditions. Previous appendectomy. No previous pregnancies. Was not taking any long-term medication at home. Denies any drug allergies. Objective examination: Patient is alert, oriented and cooperative. In pain. Vesicular breath sounds present in all lung fields; no additional sounds. Heart sounds at normal-rate, rhythmic, with clear intervals. Abdomen soft to touch, tender on palpation in the right iliac fossa and hypogastrium; no signs of overt peritonitis. Blumberg’s sign negative. CVA Tenderness negative. No dependent oedema in the lower limbs. Blood pressure 112/70 mmHg. Heart Rate 94 bpm. SpO₂ 99% on oxygen. Body Temperature 36.6°C.
-
-Clinical diary:
-• Venous access established and quantitative serum β-hCG, biochemistry, complete blood count, inflammatory markers, blood group and Rh factor determined. Qualitative urinary β-hCG test performed at the same time: positive.
-• An ECG was performed: sinus rhythm, no abnormalities.
-• Test results were reviewed: serum β-hCG 1,840 mIU/mL. Complete blood count: Hb 12.8 g/dL, no current anaemia. No significant inflammatory markers. Blood group: A positive.
-• Ketorolac 30 mg in 100 cc saline solution was administered for pain relief, with partial relief.
-• An E-FAST scan was performed: fluid collection in the Douglas pouch.
-• Given the positive β-hCG result and the pain in the right iliac fossa, the presentation is highly suggestive of an ectopic pregnancy. The gynaecology on-call service was contacted immediately.
-• The patient was assessed by the gynaecologist on call directly in A&E. An ultrasound scan is performed: the uterus is of normal size; no intrauterine gestational sac is visible. Right adnexa: a round para-ovarian mass of approximately 2 cm, with heterogeneous content, suspected to be an ectopic gestational sac. A modest amount of free fluid in the Douglas pouch. Left adnexa normal.
-• Indication for urgent hospitalisation for further investigation and assessment of the treatment strategy (medical vs surgical).
-• The patient is informed of the suspected diagnosis, the planned course of action and the need for urgent hospitalisation, using clear language appropriate to her age. The patient understands and consents.
-
-Diagnosis: suspected ectopic pregnancy
-Prognosis: urgent hospitalisation
-
-
-
-GUIDELINE EXCERPTS:
-
-[E1] (ExtraUterinePregnancy, p.1-2)
-
-Revised: August 14, 2025. Editorial decision: August 28, 2025. Published by Oxford University Press on behalf of European Society of Human Reproduction and Embryology. This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/), which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited. Human Reproduction Update, 2026, 32(1), 2–32 https://doi.org/10.1093/humupd/dmaf024 Advance Access Publication Date: October 8, 2025 Grand Theme Review In the last two decades, we have consolidated our knowledge of the epidemiology and risk factors for ectopic pregnancies. Minimally invasive surgical skills are now widespread, and laparoscopic surgery is recognized as the best and safest operative treatment for extrauterine ectopic pregnancies. Based on the evidence from randomized trials published a decade ago, laparoscopic salpingectomy is accepted as the optimal surgical treatment for tubal ectopic pregnancy.
-
-
-[E2] (ExtraUterinePregnancy, p.16-16)
-
-There is also evidence that tubal patency is restored quickly; in one study from Finland, hysterosalpingography confirmed ipsilateral patency in 28/30 patients at an average of 30 days after expectant management (Rantala and Makinen, 1997). Medical management Medical management aims to promote resolution of an ectopic pregnancy by arresting growth and development. It is therefore only a consideration in stable and minimally symptomatic patients. The systemic agent most used in ectopic pregnancy is methotrexate, a folate antagonist that acts by inhibiting rapid cell division. It is essential, prior to any consideration of the drug, to rule out any possibility of a potentially viable, correctly sited pregnancy, to which it would be toxic. The UK national guidance suggests that any ectopic visualized as a solid swelling should not be given methotrexate after a single scan unless follow-up hCG levels are consistent with an ectopic pregnancy (RCOG, 2016).
-
-
-[E3] (ExtraUterinePregnancy, p.18-18)
-
-which was as high as 30% in one series (Liao et al., 2017). Instead, a cornuotomy and removal of ectopic gestation should be advocated; this less-invasive approach is associated with high success and shorter operating time (Choi et al., 2009; Watanabe et al., 2014; Lee et al., 2017; Jin et al., 2020). Localization of the pregnancy using intra-operative ultrasound may occasionally be needed. A salpingectomy should generally be simultaneously performed. A pre-tied laparoscopic suture applied around the cornu may be helpful in applying a temporary tamponade, and vasopressin may also help minimize blood loss and maintain a clear operative field (Elsherbiny et al., 2023). The UK guidance suggests that Anti-D be given to Rhesusnegative women based on historical evidence of foetal cells in the maternal circulation following ruptured TEP (Katz and Marcus, 1972; RCOG, 2016). Management of other extrauterine ectopic pregnancy Surgical management is recommended for ovarian ectopic pregnancies and can usually be achieved laparoscopically (Fig. 3) (Ko et al., 2012; Solangon et al., 2024). The pregnancy can be excised, or the affected wedge of the ovary can be resected.
-
-
-[E4] (ExtraUterinePregnancy, p.2-2)
-
-Minimally invasive surgical skills are now widespread, and laparoscopic surgery is recognized as the best and safest operative treatment for extrauterine ectopic pregnancies. Based on the evidence from randomized trials published a decade ago, laparoscopic salpingectomy is accepted as the optimal surgical treatment for tubal ectopic pregnancy. However, with recent advances in surgical techniques and improvement in surgical skills, the appropriateness of tubal removal versus conservation is under increasing scrutiny. Improvements in the organization and provision of care for women presenting with early pregnancy complications, in conjunction with better quality and wider use of ultrasound imaging, have resulted in an increased ability to detect small failing ectopic pregnancies, which were impossible to diagnose in the past. Many of these pregnancies are destined to resolve spontaneously without the need for any intervention. The necessity to avoid overtreatment and the potential for iatrogenic harm in such cases has facilitated the introduction of expectant management into mainstream clinical practice.
-
-
-[E5] (ExtraUterinePregnancy, p.3-3)
-
-In those with mild symptoms, or those in whom the diagnosis is uncertain, conservative management may enable resolution of this often self-limiting disease (RCOG, 2016; ACOG, 2018; NICE, 2023; Al Wattar et al., 2024). In contrast, those with a certain diagnosis of progressive ectopic pregnancies will be recommended to have active intervention. Choice of management will depend on clinical symptoms and features of the pregnancy, such as its size, accessibility, and blood supply; competent assessment of these features is essential to ensure complexity is predicted, and referral to centres of expertize is made where needed. Following resolution or treatment, it is important that the patient receives individual counselling about the risk of recurrence and appropriate support to plan future pregnancy. Clinicians should also be aware of the scope for psychological sequelae and the potential need for emotional support. Multiple literature searches to cover all aspects of this review were performed on Medline–PubMed to identify eligible Englishlanguage studies. The search period included all publications until July 2025, and search terms included ‘ectopic pregnancy’,
-
-
-[E6] (ExtraUterinePregnancy, p.17-18)
-
-It is also important that the ectopic is contained within myometrium or dense adhesions, such that any resulting bleeding during resolution is likely to be contained, with resulting tamponade. However, local treatment with methotrexate is not appropriate for live isthmic, ampullary, and fimbrial tubal ectopic pregnancies: in these cases, surgery is the preferred treatment option. Women with a live uterine ectopic pregnancy, particularly Caesarean scar ectopic pregnancy, may elect to continue with the pregnancy having been fully informed about the risks of doing so. more conservative approach might offer better fertility prospects (Whitehouse, 1922). The risks of doing so in terms of persistent trophoblast and recurrence were also noted in early studies (Rosenblum et al., 1960; Richards, 1984). The ESEP study was a randomized controlled study comparing salpingostomy and salpingectomy, excluding women with significant contralateral tubal pathology (Mol et al., 2014).
-
-
-[E7] (ExtraUterinePregnancy, p.17-17)
-
-Surgical management Salpingectomy is the standard surgical treatment, and is the firstline treatment in any patient presenting with haemodynamic instability. Where possible, a laparoscopic approach should be used. As early as 1922, consideration was given in the literature to whether routine removal of the tube is justified or whether a For conservative management of live ectopic pregnancies, local administration of methotrexate is generally more effective than systemic treatment. Local administration of methotrexate into a pregnancy may be considered if surgical access is limited, and there is safe transvaginal or transabdominal access into a relatively immobile structure. It is also important that the ectopic is contained within myometrium or dense adhesions, such that any resulting bleeding during resolution is likely to be contained, with resulting tamponade. However, local treatment with methotrexate is not appropriate for live isthmic, ampullary, and fimbrial tubal ectopic pregnancies: in these cases, surgery is the preferred treatment option.
-
-
-[E8] (ExtraUterinePregnancy, p.23-23)
-
-A false-positive diagnosis of ectopic can cause harm by instigating unnecessary interventions, which could result in iatrogenic injury to the woman. Uterine instrumentation during surgery, or the administration of methotrexate, may also result in the loss of a normal pregnancy. A basic principle should be that no intervention should be initiated in a stable woman until diagnostic certainty is achieved, with recourse to regional experts if there is difficulty. Increasingly, through earlier diagnosis and established principles for case-selection and monitoring, expectant management is appropriate. Where surgical intervention is required, minimally invasive techniques should be used, with transcervical evacuation for partial uterine ectopics being the most logical approach. We propose that systemic medical management with methotrexate should no longer be considered first-line management. Other aspects of care include managing the psychological implications of ectopic pregnancy and ensuring timely access to fertility treatment, if required. Efforts going forward should focus on optimizing diagnosis and treatment selection in an effort to minimize both natural and iatrogenic harm.
-
-
-[E9] (ExtraUterinePregnancy, p.2-3)
-
-This requires women and clinicians to make difficult decisions about whether these pregnancies should be terminated to protect maternal health, despite some possibility of a good foetal outcome. Herein, we provide a comprehensive review of published literature to summarize new evidence and explore emerging themes with respect to ectopic pregnancy. Our aim is to provide an overview of modern classification and diagnosis, to summarize available treatment options and recommendations, and to emphasize longer-term outcomes, including the potential psychological impact of ectopic pregnancy. We examine current knowledge gaps and outline priorities for further research. Keywords: ectopic pregnancy / ultrasound / psychology / surgery / extrauterine ectopic pregnancy / interstitial ectopic pregnancy / ovarian ectopic pregnancy / abdominal ectopic pregnancy / uterine ectopic pregnancy / Caesarean scar ectopic pregnancy GRAPHICAL ABSTRACT The diagnosis and management of extrauterine and uterine ectopic pregnancy. Introduction An ectopic pregnancy can be defined as a pregnancy that develops fully or partially outside the endometrial cavity, and that,
-
-
-[E10] (ExtraUterinePregnancy, p.20-20)
-
-Evacuation of the trophoblast, which may require localization by ultrasound, and repair of the myometrium are needed. Expectant management may also be appropriate in intramural ectopic pregnancies in which the hCG is declining; it was successful in 6/18 patients in the aforementioned series (Nijjar et al., 2023). Biochemical and ultrasound resolution can be expected to take time, with a median time of 71 and 214 days, respectively (Nijjar et al., 2023). Embryocide with potassium chloride or direct administration of methotrexate are other options that can be considered for active non-surgical treatment (Ntafam et al., 2024). Ectopic pregnancy within a uterine anomaly Women diagnosed with unicornuate uterus with functional noncommunicating rudimentary horn are at high risk of rudimentary horn pregnancy. A recent large study of 326 women with unicornuate uteri reported that 17% of the women with a functional horn developed rudimentary horn pregnancy (Tellum et al., 2023). If diagnosed prior to pregnancy, surgical excision of a functional horn can be considered to prevent this potentially serious form of ectopic pregnancy.
-
-
-TASK:
-The patient is being admitted to hospital. The ER does not prescribe ongoing therapy or follow-up — that is the admitting team's responsibility. Produce a brief handover note in two sections.
-
 SECTION 1 — ADMISSION NOTE
-In a numbered list: 
-- State that the patient is admitted to [department] for [key planned interventions], extracting the department and planned interventions from the clinical note (e.g. "Patient is admitted urgently to the Paediatrics department for high-dose intravenous immunoglobulin therapy, dedicated transthoracic echocardiography with coronary evaluation, and clinical-laboratory monitoring.").
-- State that the patient and/or family have been informed of the diagnosis, the expected clinical course based on the guideline excerpts (e.g. treatment protocol, possible complications, need for monitoring), and the planned treatment pathway. Do not write examples.
-- Do NOT give examples of complications or risks in parentheses. State the information directly without "e.g.", "such as", or "for example".
-- If the patient is being hospitalised to perform surgery,state that the patient has been prepped. 
-- State that the patient is handed over to the care of the [department] team.
-
-- Do NOT prescribe medications, follow-up visits, or lifestyle changes.
-- Do NOT cite [E#] in this section.
-- Keep each item to one or two sentences.
+1. The patient is admitted urgently to the Gynaecology department for further investigation and assessment of the therapeutic strategy (medical vs surgical).
+2. The patient has been informed of the diagnosis and the planned care pathway.
+3. The patient is handed over to the care of the Gynaecology team.
 
 SECTION 2 — CLINICAL REFERENCES (for the reviewing physician)
-For each item in Section 1 that draws on guideline content, write:
-[number] - [E#] - brief clinical justification
-Example:
-2 - [E1][E9] - IVIG 2g/kg and aspirin 30-50mg/kg/day are first-line treatment for Kawasaki disease to prevent coronary artery aneurysms.
+1 - (Clinical note) - Positive β-hCG, no intrauterine gestational sac, a suspicious right adnexal image and free fluid in the Pouch of Douglas suggest ectopic pregnancy, which requires urgent gynaecological work-up and a choice between medical and surgical treatment.
+2 - (Clinical note) - The suspected diagnosis, planned pathway and need for urgent hospitalisation were explained to the patient, who understood and consented.
+3 - (No guideline source) - Standard handover item.
 
+TRADUZIONE IN ITALIANO
 
-RULES:
-- Use ONLY the provided guideline excerpts. Do not rely on prior medical knowledge.
-- Do NOT invent clinical facts not in the clinical note or excerpts.
-- Section 1 must be directly usable as a handover note with no editing needed.
+SEZIONE 1 — NOTA DI RICOVERO
+1. La paziente viene ricoverata d'urgenza presso il reparto di Ginecologia per ulteriori accertamenti e valutazione della strategia terapeutica (medica vs chirurgica).
+2. La paziente è stata informata della diagnosi e del percorso di cura pianificato.
+3. La paziente viene affidata alle cure dell'équipe di Ginecologia.
+
+SEZIONE 2 — RIFERIMENTI CLINICI (per il medico revisore)
+1 - (Clinical note) - La positività delle β-hCG, l'assenza di camera gestazionale intrauterina, un'immagine annessiale destra sospetta e il versamento libero nel Douglas suggeriscono una gravidanza extrauterina, che richiede un inquadramento ginecologico urgente e una scelta tra trattamento medico e chirurgico.
+2 - (Clinical note) - Alla paziente sono stati spiegati la diagnosi sospetta, il percorso pianificato e la necessità di ricovero urgente; la paziente ha compreso e ha dato il consenso.
+3 - (No guideline source) - Voce standard di passaggio di consegne.
+
+============================================================
+ORIGINAL RECOMMENDATIONS (for comparison)
+============================================================
+• Paziente ricoverata in urgenza presso U.O. Ginecologia e Ostetricia per ecografia
+transvaginale dedicata, monitoraggio del β-hCG e valutazione terapeutica.
+• Digiuno disposto in previsione di eventuale intervento chirurgico.
+• Monitoraggio dei parametri vitali garantito durante il trasferimento.
+• Si affida alla presa in carico del team ginecologico.
