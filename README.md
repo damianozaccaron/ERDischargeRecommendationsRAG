@@ -1,8 +1,12 @@
 # ER Discharge Recommendations via RAG
 
-A Retrieval-Augmented Generation pipeline that ingests ER clinical documents (in Italian) and generates guideline-grounded discharge recommendations based on official European guidelines.
+A Retrieval-Augmented Generation pipeline that ingests ER clinical documents or their drafts, in Italian, and generates guideline-grounded discharge recommendations based on official European guidelines.
 
-The system extracts relevant clinical entities from ER notes, retrieves matching guideline passages through a multi-stage retrieval pipeline, and produces structured discharge recommendations via an LLM. Translation between Italian and English is done by the LLM by default, or by DeepL.
+The system is divided into an offline and an online pipeline.
+The former handles text parsing, cleaning and embedding of a PDF Guideline corpus.
+The latter decomposes the input ER note into relevant queries, retrieves matching guideline passages through a multi-stage retrieval pipeline, and produces structured discharge recommendations via an LLM. Translation between Italian and English is done by the LLM by default, or by DeepL.
+
+A procedure to build an exhaustive and authoritative Corpus is also implemented, though users can elect to utilise their own (as long as it consists of PDFs written in English).
 
 The domain vocabulary (Clinical Note, Chunk, Excerpt, Grid Table, ...) is defined in `CONTEXT.md`.
 
@@ -66,16 +70,16 @@ Full installation details: [llama-cpp-python GitHub](https://github.com/abetlen/
 
 All tunable parameters live in **`code/config.py`**, which is thoroughly commented. Key things to set up:
 
-- **OpenRouter API key** — Required with `API = True` (the default): generation, LLM translation and LLM queries go through OpenRouter.
-- **DeepL API key** and glossary id — Only needed when DeepL translates the note (see "Translation" below).
-- **`RETRIEVAL_ONLY`** — `True` stops at the prompt and writes it as the output, without calling the LLM. Set it to `False` to generate the recommendations.
+- **OpenRouter API key**: Required with `API = True` (the default): generation, LLM translation and LLM queries go through OpenRouter.
+- **DeepL API key** and glossary id: Only needed when DeepL translates the note (see "Translation" below).
+- **`RETRIEVAL_ONLY`**: `True` stops at the prompt and writes it as the output, without calling the LLM. Set it to `False` to generate the recommendations.
 - Model paths, retrieval parameters, and generation settings can all be adjusted from this file.
 
 ### 3. Prepare the guidelines (only needed to rebuild the index)
 
 If you already have a built `Weights/` folder (FAISS index, table store, vectorizer), you can skip this step. 
 
-If you want to **rebuild the index** with new or updated guidelines:
+If you want to rebuild the index with new or updated guidelines:
 
 1. Create a `Guidelines/` folder in the project root.
 2. Place your guideline PDFs inside it, or let the scraper build the corpus from PubMed
@@ -106,12 +110,12 @@ the prompt, ready for copy-paste into an external LLM. `./launch.sh` starts the 
 python code/main.py
 ```
 
-> The notes in the Example folder serve only as examples and are not realistic. Notes used for during development and testing are not shared due to data protection agreements.
+> The notes in the provided Examples folder serve only as reference and are not realistic. Notes used for during development and testing are not shared due to data protection agreements.
 
 ### Run on a single clinical note
 
 ```bash
-python code/main.py <folder/filename\>
+python code/main.py <folder/filename>
 ```
 
 > Accepts both txt and PDF files, though the former do not undergo the anonymisation process.
@@ -126,7 +130,7 @@ Set in `code/config.py`:
 
 ## Results
 
-The `Examples/` folder contains sample results including original Italian clinical notes, their English translations, and the generated discharge recommendations — useful for understanding what the pipeline produces without running it yourself.
+The `Examples/` folder contains sample results including machine-generated Italian clinical notes, their English translations, and the generated discharge recommendations. Useful for understanding what the pipeline produces without running it yourself.
 
 
 ## Requirements
