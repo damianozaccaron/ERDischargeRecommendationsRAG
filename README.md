@@ -14,7 +14,7 @@ For a detailed discussion of the architecture, evaluation, and design rationale,
 .
 ├── code/
 │   ├── main.py               # Main pipeline entry point
-│   ├── app.py                # Streamlit UI: builds the final prompt from the PDF of an ER report
+│   ├── app.py                # Streamlit UI: discharge recommendations (or only their prompt) from the PDF of an ER report
 │   ├── build_index.py        # Guideline ingestion and FAISS index builder
 │   ├── config.py             # All configurable parameters (models, paths, API keys)
 │   ├── ingestion/            # PDF parsing, cleaning, chunking and tables (dump_tables.py to inspect them)
@@ -28,6 +28,7 @@ For a detailed discussion of the architecture, evaluation, and design rationale,
 ├── Examples/                  # Sample clinical notes, translations, and generated outputs
 ├── Weights/                   # Pre-trained model weights and FAISS index (ready to use)
 ├── Guidelines/                # Optional - Must be created and populated manually (see below)
+├── launch.sh                  # Starts the site (or opens it, if running) in the browser, for a desktop shortcut
 ├── requirements.txt
 └── README.md
 ```

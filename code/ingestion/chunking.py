@@ -7,10 +7,9 @@ from ingestion.cleaning import clean_lines, clean_sentences
 
 def create_chunks(pages: list[dict], max_chars: int = 1200, overlap_units: int = 2, punkt_path: str = "Weights/punkt_medical.pkl") -> list[dict]:
     """
-    Create Prose Chunks from extracted pages (tables are handled by ingestion.tables). Uses sentence-aware
-    chunking through a custom trained Punkt tokenizer trained on the guideline corpus.
+    Create Prose Chunks from extracted pages (tables are handled by ingestion.tables).
     Performs line level cleaning to remove reference numbers and attempts of the PDF parser to translate a figure into text.
-    Also performs sentence level cleaning to remove the bulk of captions and summaries, which can be very long and noisy and with high retrieval scores.
+    Also performs sentence level cleaning to remove the bulk of captions and summaries.
     Chunks are saved with their metadata for future reference during retrieval and generation.
     """
 
@@ -107,6 +106,11 @@ def merge_lines(lines: list[str]) -> list[str]:
             buffer = line
             continue
 
+        # a dash before a digit is not a hyphen
+        if buffer.endswith(("-", "–")) and line[0].isdigit():
+            buffer += line
+            continue
+
         #if the line ends with -, assume it is a broken word and fix it
         if buffer.endswith("-") or buffer.endswith("–") or buffer.endswith("\u00ad"):
             buffer = buffer[:-1]
@@ -141,8 +145,7 @@ def train_punkt(texts: list[str], save_path: str = "Weights/punkt_medical.pkl") 
     
     trainer.finalize_training()
     params = trainer.get_params()
-    # abbreviations the corpus fails to teach; not NLTK's whole English list, whose entries match case-insensitively
-    # and would swallow sentence ends after acronyms and units (MS., LT., CT., 1 mg., 24 h.)
+    # abbreviations the corpus fails to teach
     params.abbrev_types |= {"vs", "dr", "prof", "st", "p", "inc", "jr", "mrs"}
     tokenizer = PunktSentenceTokenizer(params)
     
@@ -188,7 +191,10 @@ def split_oversized_sentences(sentences: list[str], max_chars: int) -> list[str]
 
 if __name__ == "__main__":
     import tempfile
-    # no chunk, and no overlap, runs from one guideline into the next
+    # check it is not merging quantities
+    assert merge_lines(["Rats given 35–", "40 mg/kg of cyanide.", "Use a beta-", "blocker or a COX-", "2 inhibitor."]) == \
+        ["Rats given 35–40 mg/kg of cyanide.", "Use a betablocker or a COX-2 inhibitor."]
+    # no chunk runs from one guideline into the next
     pages = [{"doc_id": d, "page": 1, "text": " ".join(f"Guideline {d} statement {i} holds." for i in range(20))} for d in "AB"]
     with tempfile.TemporaryDirectory() as tmp:
         chunks = create_chunks(pages, max_chars=200, punkt_path=f"{tmp}/punkt.pkl")

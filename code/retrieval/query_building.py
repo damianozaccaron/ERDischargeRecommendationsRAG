@@ -5,7 +5,7 @@ from difflib import get_close_matches
 from transformers import pipeline
 from sklearn.feature_extraction.text import TfidfVectorizer
 
-from config import LLM_QUERIES, QUERY_MODEL, API, MODEL_NAME, OPENROUTER_KEY
+from config import LLM_QUERIES, QUERY_MODEL, API, MODEL_NAME, OPENROUTER_KEY, FINAL_N
 from pipeline.user_input import extract_patient_fields
 from generation.prompting import is_hospitalised
 
@@ -13,16 +13,9 @@ from generation.prompting import is_hospitalised
 # NER categories returned by extract_entities by default
 KEPT_TYPES = {"DISEASE_DISORDER", "MEDICATION", "DIAGNOSTIC_PROCEDURE", "SIGN_SYMPTOM"}
 
-# Query building without an LLM. Every query names one thing, framed like the caption of a guideline
-# recommendation table ("Recommendations for comorbidity and risk factor management in AF"): guideline text answers
-# that shape better than a question or a bag of words, and one item per query keeps the rest of the note from
-# diluting it (a five-sentence blob embeds to a centroid close to nothing specific). Frame words are kept few,
-# since the cross-encoder matches them as eagerly as the diagnosis ("lifestyle changes and risk factor
-# management" pulled the AF lifestyle table for an appendicitis).
+# Query building without an LLM.
 FACET = "Recommendations for {item} in patients with {dx}."
-# What a discharge letter needs whatever the diagnosis. Searched within the diagnosis's own guideline(s) only: a
-# generic frame matches the same section of every guideline, and the cross-encoder scores those matches as high
-# as the right ones.
+
 SECTIONS_HOME = [
     "Recommended treatment for patients with {dx}.",
     "Recommendations for drug therapy and dosage in patients with {dx}.",
@@ -43,6 +36,7 @@ MAX_ITEM_WORDS = 12     # a longer clause is narrative reasoning, not one item
 MAX_LISTED = 3          # pieces of a listed history, those the diagnosis's guideline names most (a drug list runs
                         # to a dozen)
 TOPIC_SHARE = 0.05      # a word in more of the corpus's chunks than this names no topic ("type", "surgery")
+MIN_NAME_SIMILARITY = 0.33
 # what a piece of a listed history names: a condition (NER tags a past one HISTORY), a drug or a procedure
 PIECE_TYPES = {"DISEASE_DISORDER", "SIGN_SYMPTOM", "HISTORY", "MEDICATION", "THERAPEUTIC_PROCEDURE"}
 # a past history that denies it or says it is over ("No known dyslipidaemia", "Previous appendectomy"), or has nothing
@@ -120,24 +114,18 @@ NEGATION_PATTERNS = re.compile(
     r')\b',
     re.IGNORECASE
 )
-# Resolved or historical: a former smoker is not a smoker, an eradicated infection is not an infection, and a query
-# about either asks the guidelines to manage something the patient no longer has. Unlike a denial, which runs over
-# a list ("denies chest pain, syncope or presyncope"), it describes its own item only: in "thyroiditis, previous
-# PSVT, gouty arthropathy, arterial hypertension" the hypertension is current.
+# Resolved or historical: a former smoker is not a smoker
 HISTORICAL = re.compile(r"\b(?:former|ex|previous(?:ly)?|stopped|quit|ceased|no longer|eradicated|underwent|undergone|"
                         r"operated)\b", re.IGNORECASE)
 SCOPE_RESET = re.compile(r',\s*(?:but|and|reports?|laments?|complains?|refers?|presents?|notes?|has|shows?|with)\b', re.IGNORECASE)
-# A remote date says an event is over ("Admitted to medicine in 2022 for respiratory failure"): a full date, a year that
-# is not a value with its unit ("pro-BNP 2000 pg/mL", "2000 IU"), or years ago. Not one an onset is dated from ("since
-# 2010", "diagnosed in 2015"): that condition goes on.
+# A remote date says an event is over 
 MONTH = (r"(?-i:January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|"
          r"Jun|Jul|Aug|Sept?|Oct|Nov|Dec)")  # capitalised: "may" is a verb
 DATE = (r"(?:\b\d{1,2}[/.-]\d{1,2}[/.-](?:(?:19|20)\d{2}|\d{2})\b|\b(?:\d{1,2}(?:st|nd|rd|th)?\s+)?" + MONTH +
         r"\s+(?:19|20)\d{2}\b|\b(?:19|20)\d{2}\b(?!\s*(?:[a-zµ]{0,4}/|mg|mcg|µg|g|ml|l|ui|iu|u|"
         r"units?|mmhg|mmol|meq|bpm|mm|cm|kg|cells)\b|\s*%)|\b\d+\s+(?:years?|yrs?)\s+ago\b)")
 DATED = re.compile(r"(?<!since )(?<!from )" + DATE, re.IGNORECASE)
-# a date heading what follows it in the sentence: opening it ("On 12/05/2022 the patient underwent ...") or before a
-# colon ("2006: road polytrauma with brachial plexus injury, humerus fracture", "(2009: hyperplastic polyps - 2014: ...")
+
 DATE_HEADING = re.compile(r"^\W*(?:(?:on|in)\s+)?" + DATED.pattern + r"|" + DATED.pattern + r"\s*:", re.IGNORECASE)
 DATE_AFTER = re.compile(r"\s*(?:\(|,?\s*(?:in|on)\s+|-\s*)?" + DATE, re.IGNORECASE)  # "hernia repair (2013)"
 ONSET = re.compile(r"\bdiagnos", re.IGNORECASE)
@@ -437,18 +425,25 @@ def note_items(fields: dict, known: set[str], ner_model) -> tuple[list[str], lis
 
 
 def primary_guidelines(conditions: list[str], embedder, index, metadata, k: int = 20, share: float = 0.2,
-                       child: bool = True) -> set[str]:
+                       child: bool = True, min_similarity: float = MIN_NAME_SIMILARITY) -> set[str]:
     """
     The guideline(s) of the diagnosis: those holding at least `share` of the top-k chunks of a condition's name
     alone. The bare name finds its guideline where a framed query drifts; a name the corpus words otherwise
     ("basal pneumonia", "peroneal malleolus") splits across guidelines instead, and may name none. A guideline for
     children is not an adult's (urinary tract infection at 26, second-degree AV block at 61), and its chunks do not count.
+    A diagnosis the corpus has no guideline for still gathers its nearest chunks in some guideline, by a word they
+    share (a wrist contusion in haemodialysis access, at the wrist): a guideline also needs a chunk at min_similarity
+    or closer to the name, or the queries would be searched in it alone.
     """
-    _, ids = index.search(embedder.encode_query(conditions, convert_to_numpy=True, normalize_embeddings=True), k)
+    sims, ids = index.search(embedder.encode_query(conditions, convert_to_numpy=True, normalize_embeddings=True), k)
     docs = set()
-    for row in ids:
-        counts = Counter(metadata[i]["doc_id"] for i in row if i != -1 and (child or not PAEDIATRIC.search(metadata[i]["doc_id"])))
-        docs |= {d for d, n in counts.items() if n >= share * k}
+    for srow, row in zip(sims, ids):
+        counts, best = Counter(), {}
+        for s, i in zip(srow, row):
+            if i != -1 and (child or not PAEDIATRIC.search(metadata[i]["doc_id"])):
+                counts[metadata[i]["doc_id"]] += 1
+                best.setdefault(metadata[i]["doc_id"], s)  # the ranking is by similarity: the first is the closest
+        docs |= {d for d, n in counts.items() if n >= share * k and best[d] >= min_similarity}
     return docs
 
 
@@ -612,7 +607,7 @@ How the search works: each query is embedded and compared with guideline passage
 Topics to consider, skipping those that do not apply to this patient and splitting one when two distinct things matter:
 {topics}
 
-How many: one query per distinct topic, usually 5 to 8 and never more than {max_queries}. Every query adds retrieval time and only 10 passages reach the recommendations, so do not pad or split a topic into near-duplicates.
+How many: one query per distinct topic, usually 5 to 8 and never more than {max_queries}. Every query adds retrieval time and only {final_n} passages reach the recommendations, so do not pad or split a topic into near-duplicates.
 
 Output only the queries, one per line, in English, with no numbering, headings or other text.
 
@@ -620,23 +615,27 @@ Clinical note:
 {note}"""
 
 
-def build_queries_llm(translated_note: str, llm_model=None, tokenizer=None):
+def build_queries_llm(translated_note: str, llm_model=None, tokenizer=None, model: str = None, meta: dict = None,
+                      provider: dict = None):
     """
     Queries written by an LLM, one per topic it judges worth retrieving for this patient, at most MAX_LLM_QUERIES.
-    QUERY_MODEL picks the writer -- an OpenRouter id always goes through the API, None reuses the output
-    model (the API one, or the local model already loaded). Temperature 0, so a note always gets the same
-    queries; reasoning off, since its hidden tokens count against max_tokens (they truncated the queries, and
-    emptied them for one note) and add seconds to a call that is already most of the retrieval time.
-    Floors of 1, the rest of the selection by score.
+    model (an OpenRouter id), else QUERY_MODEL, picks the writer -- an OpenRouter id always goes through the API, None
+    reuses the output model (the API one, or the local model already loaded). Temperature 0, so a note gets nearly the same
+    queries; reasoning at low effort, since it adds seconds to a call that is already most of the retrieval time
+    and the current Claude models refuse it off. Its hidden tokens count against max_tokens (at 800 they truncated
+    the queries, and emptied them for one note; Nemotron 3 Super at low effort passed 4000 on one note), hence the margin.
+    Floors of 1, the rest of the selection by score. meta and provider go to the OpenRouter call (generate_letter_openrouter).
     """
     from generation.output_prod import generate_letter
 
     admitted = is_hospitalised(extract_patient_fields(translated_note).get("prognosis", ""))
     prompt = QUERY_PROMPT.format(purpose=QUERY_PURPOSE[admitted], topics=QUERY_TOPICS[admitted],
-                                 max_queries=MAX_LLM_QUERIES, note=translated_note)
-    if QUERY_MODEL or API:
-        output = generate_letter(prompt, model=QUERY_MODEL or MODEL_NAME, tokenizer=None, backend="openrouter",
-                                 temperature=0, max_tokens=800, api_key=OPENROUTER_KEY, use_reasoning=False)
+                                 max_queries=MAX_LLM_QUERIES, final_n=FINAL_N, note=translated_note)
+    model = model or QUERY_MODEL or (MODEL_NAME if API else None)
+    if model:
+        output = generate_letter(prompt, model=model, tokenizer=None, backend="openrouter",
+                                 temperature=0, max_tokens=16000, api_key=OPENROUTER_KEY, reasoning_effort="low",
+                                 meta=meta, provider=provider)
     elif llm_model is None:
         raise RuntimeError("LLM queries without QUERY_MODEL or the API need a local model, but none was loaded")
     else:
@@ -712,3 +711,14 @@ if __name__ == "__main__":
     out = pieces(text, found)
     assert out == ["enoxaparin", "type 2 diabetes on metformin", "hypothyroidism"], out
     assert clean_item("type 2 diabetes on metformin 500 mg") == "type 2 diabetes on metformin"
+
+    # a guideline holding enough of the name's chunks is the diagnosis's only if one of them is close to the name
+    class Index:  # FAISS's answer for one name: similarities and chunk ids, closest first
+        def search(self, query, k):
+            return [[0.40, 0.38, 0.31, 0.30, 0.29, 0.28]], [[0, 1, 2, 3, 4, 5]]
+    class Embedder:
+        def encode_query(self, texts, **kw):
+            return texts
+    meta = [{"doc_id": d} for d in ("Right", "Right", "Paediatric", "Wrong", "Wrong", "Wrong")]
+    assert primary_guidelines(["name"], Embedder(), Index(), meta, k=6, share=0.3) == {"Right"}
+    assert primary_guidelines(["name"], Embedder(), Index(), meta, k=6, share=0.3, min_similarity=0.25) == {"Right", "Wrong"}

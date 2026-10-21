@@ -1,4 +1,9 @@
+import re
+import time
+from concurrent.futures import ThreadPoolExecutor
+
 import numpy as np
+import requests
 import torch
 from sentence_transformers import CrossEncoder
 from collections import Counter
@@ -7,12 +12,13 @@ from ingestion.tables import normalize
 from retrieval.query_building import extract_entities
 from storage.embedding import embed_query
 
-from config import TABLE_N
+from config import TABLE_N, OPENROUTER_KEY
 
 TABLE_ANCHOR = "dose regimen criteria score"  # broad query only; a term's query is "<term> dose"
 TABLE_MIN_SCORE = 0.05     # reranker probability under which a table is noise, not a weak match
 NOTE_TERM_BOOST = 0.2      # a row reached by a medication in the clinical note scores (1 + this) times more
-GUIDELINE_BONUS = 0.0      # a table from a guideline with two or more excerpts scores (1 + this) times more; 0 = off, under test
+GUIDELINE_BONUS = 0.0      # a table from a guideline with two or more excerpts scores (1 + this) times more; never implemented
+LABELLED = re.compile(r"^\W*(?:tables?|box|recommendations?|figure)\b", re.I)
 
 def retrieve_top_k(query_embedding, index, metadata, k=30, docs=None):
     """
@@ -112,7 +118,49 @@ def mmr_select(
     return selected
 
 
+class ApiReranker:
+    """
+    A rerank model of OpenRouter's /rerank endpoint ("qwen/qwen3-reranker-8b" used in the tests) behind the CrossEncoder's predict.
+    """
+    BATCH = 64
+
+    def __init__(self, model: str):
+        self.model, self.cost = model, 0.0
+
+    def rank(self, query: str, docs: list[str]) -> list[float]:
+        for wait in (2, 4, 8, 16, 32, 64, None):
+            response = requests.post("https://openrouter.ai/api/v1/rerank", timeout=180,
+                                     headers={"Authorization": f"Bearer {OPENROUTER_KEY}"},
+                                     json={"model": self.model, "query": query, "documents": docs})
+            data = response.json()
+            if "results" in data:
+                self.cost += data.get("usage", {}).get("cost", 0.0)
+                scores = [0.0] * len(docs)
+                for r in data["results"]:
+                    scores[r["index"]] = r["relevance_score"]
+                return scores
+            if response.status_code not in (429, 500, 502, 503) or wait is None:
+                raise RuntimeError(f"{self.model} rerank failed: {data}")
+            time.sleep(wait)
+
+    def predict(self, pairs, **_):
+        """Scores in the order of the pairs: one request per query and BATCH of its documents, 4 at a time."""
+        positions = {}
+        for i, (query, _doc) in enumerate(pairs):
+            positions.setdefault(query, []).append(i)
+        batches = [(q, ids[j:j + self.BATCH]) for q, ids in positions.items() for j in range(0, len(ids), self.BATCH)]
+        scores = [0.0] * len(pairs)
+        with ThreadPoolExecutor(4) as pool:
+            for (_q, ids), got in zip(batches, pool.map(lambda b: self.rank(b[0], [pairs[i][1] for i in b[1]]), batches)):
+                for i, s in zip(ids, got):
+                    scores[i] = s
+        return scores
+
+
 def load_crossEncoder(model_name: str = "BAAI/bge-reranker-large"):
+    """A local cross-encoder by its Hugging Face id, or an OpenRouter rerank model as "openrouter:<its id>"."""
+    if model_name.startswith("openrouter:"):
+        return ApiReranker(model_name.removeprefix("openrouter:"))
     reranker = CrossEncoder(model_name, activation_fn=torch.nn.Sigmoid(), device="cuda" if torch.cuda.is_available() else "cpu")
     if torch.cuda.is_available():
         reranker.model.half()  # 3.5x faster on a laptop GPU, same top-10 within 0.003 of the scores
@@ -356,7 +404,7 @@ def retrieve_tables(
     term's query being "<term> dose": a dose table rarely restates the diagnosis, and a query naming
     it scores the rows near zero ("apixaban <diagnosis>" 0.01 on the DOAC dose table, "apixaban dose"
     0.99). A table scores its best row, a note term's rows weigh more than an excerpt term's, and a
-    split table takes one slot with its best part.
+    split table takes one slot with its best part. Only tables with a LABELLED caption compete.
     """
     # step 1: term set, deduplicated on the normalized form, first surface form kept for the query
     terms = {}
@@ -374,12 +422,13 @@ def retrieve_tables(
 
     # step 2: scope to the excerpts' guidelines
     doc_counts = Counter(ex["doc_id"] for ex in excerpts)
-    scoped = [i for i, t in enumerate(tables) if t["doc_id"] in doc_counts]
+    labelled = [i for i, t in enumerate(tables) if LABELLED.match(t["caption_clean"])]
+    scoped = [i for i in labelled if tables[i]["doc_id"] in doc_counts]
     if not scoped:
         # the broad query alone: a term's query does not name the diagnosis, so across the whole store
         # a drug name would reach the dose tables of any condition (paediatric doses for an adult)
         print("  [tables] no table from the excerpts' guidelines, broad query over the whole store")
-        scoped, terms = list(range(len(tables))), {}
+        scoped, terms = labelled, {}
 
     # step 3: word match, one pair per (term, row) hit
     pairs = {}  # (query, row surrogate) -> (table position, weight)
@@ -398,7 +447,8 @@ def retrieve_tables(
     broad = f"{diagnosis} {TABLE_ANCHOR} {qualifiers}".strip()
     _, ids = table_index.search(embed_query(broad, embedder), len(tables))
     in_scope = set(scoped)
-    for i in [int(i) for i in ids[0] if int(i) in in_scope][:broad_k]:
+    closest = [int(i) for i in ids[0] if int(i) in in_scope][:broad_k]
+    for i in closest:
         for r in tables[i]["rows"]:
             pairs.setdefault((broad, r["row_surrogate"]), (i, 1.0))
     if not pairs:
@@ -420,6 +470,18 @@ def retrieve_tables(
     slots = {}  # one per table id: its best part
     for i in sorted(best, key=best.get, reverse=True):
         slots.setdefault(tables[i]["table_id"], i)
-    ranked = [i for i in slots.values() if best[i] >= TABLE_MIN_SCORE]
+    ranked = [i for i in slots.values() if best[i] >= TABLE_MIN_SCORE][:top_n]
+    if closest and doc_counts[tables[closest[0]]["doc_id"]] and len(ranked) < top_n and all(tables[i]["table_id"] != tables[closest[0]]["table_id"] for i in ranked):
+        ranked.append(closest[0])
     print(f"  [tables] {len(terms)} terms, {len(pairs)} pairs over {len(best)} tables: {sorted(t for t, _ in terms.values())}")
-    return [{**tables[i], "score": best[i]} for i in ranked[:top_n]]
+    return [{**tables[i], "score": best.get(i, 0.0)} for i in ranked]
+
+
+if __name__ == "__main__":
+    # the API reranker regroups the pairs by query and batch: each score must come back to its pair
+    class Fake(ApiReranker):
+        BATCH = 2
+        def rank(self, query, docs):
+            return [float(f"{query}{d}") for d in docs]
+    pairs = [("1", "1"), ("2", "1"), ("1", "2"), ("1", "3"), ("2", "2"), ("1", "4")]
+    assert Fake("x").predict(pairs) == [11, 21, 12, 13, 22, 14]

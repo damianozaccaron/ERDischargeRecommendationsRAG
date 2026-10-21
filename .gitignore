@@ -5,9 +5,10 @@ Data/
 Testing/
 docs/
 Demo/
+code/evaluation
 
 Weights/
-code/config.py
+code/test_app.py
 
 .*
 !.gitignore

@@ -3,33 +3,6 @@ The Verbale di Pronto Soccorso, the PDF the ER software prints for a visit, read
 the format of Examples/ITA, with its diagnosis, its prognosis and outcome, and the physician's discharge advice when
 it has them (the provisional print has none). It reads the known layouts: the provisional print, the same print with
 a Dimissione section (the synthetic notes of Data/), and the final one (SIO).
-
-Nothing identifying may reach translation, so the reading keeps only what is known to be clinical text:
-  - the page header goes: everything above "Verbale di Pronto Soccorso" on the first page, everything down to the
-    patient's line (COGNOME E NOME, Cognome, Nome..., or the line with sex and age when the label is missing) on
-    the others. Sex and age are read from it first, the retrieval needs them. The footer goes from its first line down;
-  - every section but Anamnesi, Esame obiettivo and Diario goes (Accettazione, Triage, Procedure, Dimissione...),
-    and so will any section a layout adds. Section titles are the bold lines furthest left;
-  - in those three, only running text stays. It is left-aligned in one column and flows in one piece, so a line of
-    several cells (a table row) goes, and so does a line starting off the column (a cell, a signature). Dates and
-    times go, and so does who wrote each record, which the software prints in italics on the line of its time
-    ("19:37 Inf. <NAME>" above an entry, "Dr. <Surname, Name>: " before it) or in a Validatore column. So do its log
-    lines ("Il medico <name> ha preso in carico il paziente", "Inserita il <date>").
-Then every name the software printed, the patient's and the writers', is removed wherever the text repeats it, in
-any case, accent and order, along with names after a title ("dott.ssa Bianchi"), tax codes, phone numbers and emails.
-A print whose patient line has no name in it (the synthetic notes) has none to remove.
-
-The physician's discharge advice is the gold standard the system's output is compared with, so none of it may reach
-the note. It is the Dimissione's advice field (Prescrizione e Consigli, Si consiglia), the part of Condizioni alla
-dimissione that is not the patient's state ("stabile, mantenere fascia zincata al polso"), and advice written in the
-three sections the note keeps, which moves from the note to the advice: a sentence opening with an advice verb or
-heading ("Si consiglia esecuzione ECG Holter", "7. INDICAZIONI TERAPEUTICHE" and the list under it), a referral back
-("si riaffida al curante"), the return precautions ("Accesso immediato al più vicino Pronto Soccorso in caso di:"),
-and a diary line restating the Dimissione's advice ("si invia per valutazione ortopedica").
-
-Check on a Verbale redacted with black boxes drawn over the text (the text stays underneath), or on any Verbale with
-the words that must not come out:
-    python code/pipeline/verbale.py <verbale.pdf> [word ...]
 """
 import re
 import sys

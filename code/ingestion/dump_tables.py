@@ -1,15 +1,5 @@
 """
-Inspect guideline tables by eye.
-
-Run from the project root as PYTHONPATH=code python -m ingestion.dump_tables [command]:
-
-  (no command)     classify every table in Guidelines/ (no Weights/ touched): per-guideline counts,
-                   and every table rendered with its outcome to Examples/results/tables/<guideline>_tables.txt
-  chunks           every text chunk as it goes to the embedder (prose and sentence rows), to
-                   Examples/results/text/<guideline>_chunks.txt; Punkt is retrained into a temp file,
-                   Weights/ is untouched
-  lookup <token>   rows of the built table store whose token sets contain it
-  show <table_id>  markdown of one stored table, e.g. AtrialFibrillation:12
+Debugging to check what ingestion is extracting from the guidelines.
 """
 import sys
 import tempfile

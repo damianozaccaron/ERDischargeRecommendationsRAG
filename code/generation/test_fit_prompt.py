@@ -15,6 +15,10 @@ def test():
 
     assert fit_prompt(len(full), "note", chunks, "", tables) == (full, 0, 0)
     assert fit_prompt(0, "note", chunks, "", tables)[1] == 8, "one excerpt always stays"
+    # in another unit (a model's tokens): an excerpt or a table here is five words, so two drops are needed
+    words = lambda p: len(p.split())
+    prompt, dc, dt = fit_prompt(words(full) - 7, "note", chunks, "", tables, length=words)
+    assert words(prompt) <= words(full) - 7 and (dc, dt) == (1, 1), (dc, dt)
     print("ok")
 
 

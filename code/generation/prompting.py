@@ -2,13 +2,10 @@ import re
 
 from config import USE_TABLES
 
-# The prognosis line carries the outcome: "ricovero urgente" in a typed note, the Esito of a Verbale ("Ricoverato presso
-# Pneumologia", "Rinviato a domicilio", "Rifiuta ricovero"), in Italian or as any translation words it. A refused
-# admission sends the patient home.
+# From the prognosis line 
 ADMISSION = re.compile(r"\b(?:hospitali[sz]|admi(?:t|ssion)|inpatient|transferred|ricover|trasferit)", re.IGNORECASE)
 REFUSAL = re.compile(r"\b(?:refus|declin|rifiut|against medical advice)", re.IGNORECASE)
 
-# The rules of any translation of the output, whether in the generation call or in a second one.
 TRANSLATION_RULES = (
     "- Translate faithfully and completely: the same items in the same order and numbering, every sentence in "
     "full. Do not add, omit, merge, split, summarise, reword or reinterpret anything, and do not correct or "
@@ -19,9 +16,7 @@ TRANSLATION_RULES = (
     "- Use standard Italian medical terminology.\n"
 )
 
-# Appended to either prompt on request (the UI's "Con traduzione in italiano", OUTPUT_TRANSLATION_IN_PROMPT in the
-# backend): the output stays in English, next to the English excerpts it cites, and gains a faithful Italian copy of
-# all of it for the patient.
+# Translation Prompts
 ITALIAN_TRANSLATION = (
     "\nITALIAN TRANSLATION:\n"
     "After Section 2, write \"TRADUZIONE IN ITALIANO\" on a line of its own, then translate into Italian "
@@ -44,6 +39,9 @@ CITATION_RULE = (
     "Cite each source by copying the (document, pages) shown next to its [E#] or [T#] label, "
     "never the label itself, and each distinct source once. Cite only a source that states what the item says.\n"
 )
+
+# A source as Section 2 copies it from the label: "(AtrialFibrillation, p.29-29)"
+CITATION = re.compile(r"\(([^(),]+?), p\.(\d+)-(\d+)\)")
 
 
 def is_hospitalised(prognosis: str) -> bool:
@@ -118,15 +116,20 @@ def build_discharge_prompt(patient_data: str, retrieved_chunks: list[dict], tabl
         "[frequency] instead.\"\n"
         "c. Other treatments and self-care measures, as direct instructions, including the care of anything applied "
         "in the emergency department (cast, splint, dressing).\n"
-        "d. Lifestyle changes (smoking, alcohol, diet, exercise): \"[Change] is strongly recommended.\" Only "
-        "what needs to change or start; say nothing about what the patient already does right.\n"
+        "d. Lifestyle changes (smoking, alcohol, diet, exercise): \"[Change] is recommended.\" Only "
+        "what needs to change or start; say nothing about what the patient already does right. State the change "
+        "in general terms, with no figures or targets: \"Losing weight is recommended.\", never a "
+        "percentage, an amount or a duration.\n"
         "e. Follow-up visits, tests and specialist referrals: \"A prescription is issued for [specialist type] "
         "evaluation for [clinical purpose].\" or \"A prescription is issued for [test] for [clinical purpose].\" "
-        "Take the specialist type from the clinical note when it names one.\n"
+        "Take the specialist type from the clinical note when it names one. Blood tests never get an item of "
+        "their own: they go in item g.\n"
         "f. Always: \"Go to the nearest emergency department immediately if you experience [warning symptoms "
         "for this diagnosis].\"\n"
         "g. Always, last: \"You are referred back to your general practitioner for any further diagnostic or "
-        "therapeutic needs and ongoing care.\"\n\n"
+        "therapeutic needs and ongoing care.\" When the patient needs blood tests, write instead: \"You are "
+        "referred back to your general practitioner for any further diagnostic or therapeutic needs, blood tests "
+        "prescription and ongoing care.\"\n\n"
 
         "Medications:\n"
         "- Never mention a medication the patient already takes and keeps taking unchanged: the patient goes on "
@@ -163,7 +166,7 @@ def build_discharge_prompt(patient_data: str, retrieved_chunks: list[dict], tabl
         "goes on unchanged, so it is not mentioned):\n"
         "SECTION 1 — DISCHARGE RECOMMENDATIONS\n"
         "1. Stop ibuprofen and take diclofenac 75 mg orally every 12 hours instead.\n"
-        "2. Drinking at least 2 litres of water a day is strongly recommended.\n"
+        "2. Drinking plenty of water is recommended.\n"
         "3. A prescription is issued for urologist evaluation for management of the ureteral stone.\n"
         "4. Go to the nearest emergency department immediately if you experience fever, persistent vomiting or "
         "pain not controlled by the prescribed therapy.\n"
@@ -178,7 +181,7 @@ def build_discharge_prompt(patient_data: str, retrieved_chunks: list[dict], tabl
         "5 - (No guideline source) - Standard closing item.\n\n"
     )
 
-    # ── RULES ──
+    # RULES
     prompt.append(
         "RULES:\n"
         "- Use ONLY the clinical note and the excerpts that apply to it. Do not rely on prior medical knowledge.\n"
@@ -187,6 +190,10 @@ def build_discharge_prompt(patient_data: str, retrieved_chunks: list[dict], tabl
         "- Section 1 must be usable as a discharge document with no editing.\n"
         "- Before answering, check that no unchanged home medication appears in Section 1 and that every line of "
         "Section 2 has the number of its item and sources in one of the three forms above.\n"
+        "- Last, once both sections are final, revisit Section 1 without adding, removing or changing any item: "
+        "where paracetamol, ibuprofen or a topical anti-inflammatory gel taken for pain has \"as directed by the "
+        "specialist\" in place of its dose and frequency, replace that wording with \"as needed for pain\" "
+        "(\"Take paracetamol orally as needed for pain.\"). Change nothing else, and no other drug.\n"
     )
 
     return "\n".join(prompt)
@@ -203,60 +210,53 @@ def build_hospitalisation_prompt(patient_data: str, retrieved_chunks: list[dict]
 
     prompt = build_preamble(patient_data, retrieved_chunks, role)
 
-    # ── TASK ──
+    # TASK
     prompt.append(
         "TASK:\n"
-        "The patient is being admitted to hospital. The ER does not "
-        "prescribe ongoing therapy or follow-up — that is the admitting "
-        "team's responsibility. Produce a brief handover note in two "
-        "sections.\n\n"
+        "The patient is being admitted to hospital. The ER does not prescribe ongoing therapy or follow-up: that "
+        "is the admitting team's responsibility. Write a brief handover note: exactly the two sections below, in "
+        "plain text, with nothing before, between or after them.\n\n"
 
         "SECTION 1 — ADMISSION NOTE\n"
-        "In a numbered list: \n"
-        "- State that the patient is admitted to [department] "
-        "for [key planned interventions], extracting the department "
-        "and planned interventions from the clinical note "
-        "(e.g. \"Patient is admitted urgently to the Paediatrics "
-        "department for high-dose intravenous immunoglobulin therapy, "
-        "dedicated transthoracic echocardiography with coronary "
-        "evaluation, and clinical-laboratory monitoring.\").\n"
-        "- State that the patient and/or family have been informed "
-        "of the diagnosis, the expected clinical course based on the "
-        "guideline excerpts (e.g. treatment protocol, possible "
-        "complications, need for monitoring), and the planned "
-        "treatment pathway. Do not write examples.\n"
-        "- Do NOT give examples of complications or risks in parentheses. "
-        "State the information directly without \"e.g.\", \"such as\", "
-        "or \"for example\".\n"
-        "- If the patient is being hospitalised to perform surgery,"
-        "state that the patient has been prepped. \n"
-        "- State that the patient is handed over to the care of "
-        "the [department] team.\n\n"
-        "- Do NOT prescribe medications, follow-up visits, or "
-        "lifestyle changes.\n"
-        "- Do NOT cite sources in this section.\n"
-        "- Keep each item to one or two sentences.\n\n"
+        "A numbered list of these items, in this order:\n"
+        "1. \"The patient is admitted [urgently] to [department] for [planned interventions].\" Take the "
+        "department and the planned interventions from the clinical note, and nothing else: no age, measurements, "
+        "test results, therapy given in the emergency department or reasons.\n"
+        "2. Only if the patient is admitted for surgery: \"The patient has been prepared for surgery.\"\n"
+        "3. \"The patient has been informed of the diagnosis and the planned care pathway.\" When the clinical "
+        "note records no planned pathway, end the sentence at \"diagnosis\". Write \"The patient and family\" "
+        "for a child or when the clinical note says the family was informed. Add nothing to this sentence: no "
+        "expected course, complications, reassessment or treatment changes.\n"
+        "4. \"The patient is handed over to the care of the [department] team.\"\n\n"
+        "Every item is the one sentence above. Do NOT prescribe medications, follow-up visits or lifestyle "
+        "changes, and do not cite sources, use bold, headers or sub-bullets in this section.\n\n"
 
         "SECTION 2 — CLINICAL REFERENCES (for the reviewing physician)\n"
-        "For each item in Section 1 that draws on guideline content, "
-        "write:\n"
-        "[number] - [sources] - brief clinical justification\n"
-        + CITATION_RULE +
-        "Example:\n"
-        "2 - (KawasakiDisease, p.4-5)(KawasakiDisease, p.9-9) - IVIG 2g/kg and aspirin 30-50mg/kg/day are "
-        "first-line treatment for Kawasaki disease to prevent coronary "
-        "artery aneurysms.\n\n"
+        "One line for every item of Section 1, with its number, in this format:\n"
+        "[number] - [sources] - [one-sentence clinical justification]\n"
+        "[sources] is the excerpts that support the item, then (Clinical note) when the clinical note does; "
+        "(No guideline source) when neither does. " + CITATION_RULE +
+        "No bold or sub-bullets.\n\n"
+
+        "Example of the format only, for a different patient:\n"
+        "SECTION 1 — ADMISSION NOTE\n"
+        "1. The patient is admitted urgently to the Paediatrics department for intravenous immunoglobulin therapy, "
+        "echocardiography with coronary evaluation and clinical-laboratory monitoring.\n"
+        "2. The patient and family have been informed of the diagnosis and the planned care pathway.\n"
+        "3. The patient is handed over to the care of the Paediatrics team.\n\n"
+        "SECTION 2 — CLINICAL REFERENCES (for the reviewing physician)\n"
+        "1 - (KawasakiDisease, p.4-5)(KawasakiDisease, p.9-9)(Clinical note) - IVIG and echocardiography are "
+        "first-line treatment and assessment of Kawasaki disease, to prevent coronary artery aneurysms.\n"
+        "2 - (Clinical note) - Diagnosis and plan discussed with the parents.\n"
+        "3 - (No guideline source) - Standard handover item.\n\n"
     )
 
     # ── RULES ──
     prompt.append(
         "RULES:\n"
-        "- Use ONLY the provided guideline excerpts. "
-        "Do not rely on prior medical knowledge.\n"
-        "- Do NOT invent clinical facts not in the clinical note "
-        "or excerpts.\n"
-        "- Section 1 must be directly usable as a handover note "
-        "with no editing needed.\n"
+        "- Use ONLY the clinical note and the excerpts that apply to it. Do not rely on prior medical knowledge.\n"
+        "- Do NOT invent clinical facts not in the clinical note or excerpts.\n"
+        "- Section 1 must be directly usable as a handover note with no editing.\n"
     )
 
     return "\n".join(prompt)
@@ -280,15 +280,17 @@ def build_prompt(
 
 
 def fit_prompt(max_chars: int, patient_data: str, retrieved_chunks: list[dict], prognosis: str = "",
-               tables: list[dict] = ()) -> tuple[str, int, int]:
+               tables: list[dict] = (), length=len) -> tuple[str, int, int]:
     """
     build_prompt, dropping the lowest-ranked excerpts and tables until it fits max_chars, so a chat app with an
-    input cap does not cut the instructions at the end. Each drop takes the tail of whichever list has kept the
-    larger share of its items; one excerpt always stays. Returns the prompt and how many excerpts and tables went.
+    input cap, or a local model's context, does not cut the instructions at the end. Each drop takes the tail of
+    whichever list has kept the larger share of its items; one excerpt always stays. length measures the prompt in
+    the unit of max_chars (characters by default, a model's tokens for its context). Returns the prompt and how many
+    excerpts and tables went.
     """
     chunks, kept_tables = list(retrieved_chunks), list(tables)
     prompt = build_prompt(patient_data, chunks, prognosis, kept_tables)
-    while len(prompt) > max_chars and len(chunks) > 1:
+    while length(prompt) > max_chars and len(chunks) > 1:
         if kept_tables and len(kept_tables) / len(tables) > len(chunks) / len(retrieved_chunks):
             kept_tables.pop()
         else:

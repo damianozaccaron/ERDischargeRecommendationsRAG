@@ -17,8 +17,7 @@ SECTION_LABELS = {
 
 def collect_patient_input() -> str:
     """
-    Mock function to collect patient data. In a real implementation, this would be replaced by a form or an interface to input the data.
-    Only gives the idea that the user follows a pre-determined structure to input the data.
+    Mock function to collect patient data. Used to manage plain text input, so mainly discontinued and kept mostly as legacy after PDF ingestion implementation.
     """
 
     def prompt_required(prompt_text: str) -> str:
@@ -112,9 +111,7 @@ def extract_patient_fields(translated_note: str) -> dict:
     else: 
         fields["neonatal"] = False
 
-    # each section runs from its label to the next label the note has: a Verbale may lack the remote history, the drug
-    # history or the objective examination. Diagnosis and prognosis close the note, so their last label is theirs
-    # ("Previous diagnosis: ..." in the history is not)
+    # each section runs from its label to the next label the note has
     found = []
     for key, pattern in SECTION_LABELS.items():
         matches = list(re.finditer(pattern, translated_note, re.IGNORECASE | re.MULTILINE))

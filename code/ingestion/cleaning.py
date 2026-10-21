@@ -1,10 +1,6 @@
 import re
 
 # a run of digits (with commas and dashes) glued to the end of a word, bracket or stop is a reference
-# marker; the stop must itself follow a word so that decimals ("2.5 mg", "1,5 mg") are left alone
-# Citation markers are dropped by typography in pdf_parsing (superscript spans); this only catches a number
-# glued behind punctuation ("patients.12", "trials),3,4"). Digits behind a letter are part of a name
-# (CHA2DS2-VA, SGLT2, HbA1c) and must stay.
 REF_MARKER = re.compile(r'(?<=[a-zA-Z)][.,])\d+(?:[,\-–]\d+)*')
 
 
@@ -27,11 +23,7 @@ def detect_biblio(text: str, threshold: float = 0.1) -> bool:
     return ref_lines/len(lines) >= threshold
 
 
-# A journal locator, the volume and pages every reference style gives a cited article: "26:1646–1649",
-# "2019;90:599e607" (Elsevier sets the page dash as "e"), "90(4):405", "7:e2353158", "2008 359 1018–1026",
-# "53 (4), 1115–1123", "323, 1239–1242 (2020)", and in APA "Research, 26, 675–700" or "Reviews, 55, 101376". In-text
-# citations carry none ("Smith et al. (2019)", "[12, 27, 29–31]"): the APA forms need a letter before the comma, the
-# end of the journal's name, and "45 (12%), 23" is no issue number.
+# A journal locator, the volume and pages every reference style gives a cited article
 LOCATOR = re.compile(
     r'\b(?:19|20)\d\d[a-z]?\s*;\s*\d'
     r'|\b\d{1,4}\s*\([^()\n]{1,15}\)\s*:\s*[eS]?\d'
@@ -42,18 +34,16 @@ LOCATOR = re.compile(
     r'|\b\d{1,4}\s*\((?:\d{1,4}|Suppl[^()\n]{0,10})\),\s*(?:[eS]?\d{1,6}\s*[–—-]\s*[eS]?\d|e\d{3,})'
     r'|\b\d{1,4},\s*[eS]?\d{1,6}\s*[–—-]\s*[eS]?\d{1,6}\s*\((?:19|20)\d\d\)'
 )
-# three authors in a row as Vancouver sets them ("Zoric L, Suehs C, Molinari N,")
+# three authors in a row as Vancouver sets them
 AUTHORS = re.compile(r"(?:\b[A-Z][a-z'’\-]+(?: [a-z]{1,3})? [A-Z]{1,3},\s*){3,}")
 
 
 def is_reference(text: str, density: float = 3.0) -> bool:
     """
     A block of a reference list: at least one journal locator per 1000/density characters, or a locator after an
-    author list (an entry with twenty authors runs past that). A reference entry holds a locator in 150-300 characters
-    and running text almost never one; a running header ("Surg Endosc (2016) 30:4668–4690") goes too. Counted per
-    character, not per line, so a block extracted one word per line is judged like any other.
+    author list (an entry with twenty authors runs past that).
     """
-    flat = " ".join(text.replace("\u00ad", "").split())  # Wiley sets a soft hyphen after the page dash ("335–\xad341")
+    flat = " ".join(text.replace("\u00ad", "").split()) 
     hits = len(LOCATOR.findall(flat))
     return hits > 0 and (hits * 1000 >= density * len(flat) or bool(AUTHORS.search(flat)))
 
@@ -122,10 +112,7 @@ ACRONYM_LINE = re.compile(r'^(?=(?:[^A-Z]*[A-Z]){2})[A-Z][A-Z0-9\-]{1,9}\s*$')
 
 def detect_abbreviations(text: str, threshold: int = 12, order: float = 0.8) -> bool:
     """
-    A page holding an abbreviation list, usually at the start of the guideline: at least threshold different acronyms
-    on lines of their own, mostly in alphabetical order. Different, because a page extracted one word per line sets
-    every mention of "OME" on a line of its own; in order, because running text and tables of genes or scores
-    ("SLC7A9", "REACH-B") name them in any order.
+    A page holding an abbreviation list, usually at the start of the guideline
     """
     acronyms = list(dict.fromkeys(l.strip() for l in text.split("\n") if ACRONYM_LINE.match(l.strip())))
     ordered = sum(a.lower() <= b.lower() for a, b in zip(acronyms, acronyms[1:]))
@@ -134,10 +121,7 @@ def detect_abbreviations(text: str, threshold: int = 12, order: float = 0.8) -> 
 
 def drop_abbreviations(blocks: list[str], page_text: str) -> list[str]:
     """
-    The blocks of a page that are not part of its abbreviation list, judged on the whole page (page_text, tables
-    included): the introduction, the preamble or the main recommendations some guidelines set beside the list stay.
-    A block of the list has an acronym on a line of its own at least every fourth line, acronyms and expansions
-    alternating; running text has almost none.
+    The blocks of a page that are not part of its abbreviation list, judged on the whole page 
     """
     if not detect_abbreviations(page_text):
         return blocks

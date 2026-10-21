@@ -26,10 +26,10 @@ from storage.storage import load_index_and_metadata, load_vectorizer, load_table
 from storage.embedding import embed_query, load_embedder
 from retrieval.retrieval import retrieve_top_k, load_crossEncoder, reranking_multi_query, retrieve_tables
 
-from generation.output_prod import load_model_quant, load_model_transformer, generate_letter
+from generation.output_prod import load_model_quant, load_model_transformer, generate_letter, local_window
 
 from retrieval.query_building import build_queries, load_ner_model, patient_qualifiers
-from generation.prompting import build_prompt, is_hospitalised, ITALIAN_TRANSLATION
+from generation.prompting import build_prompt, fit_prompt, is_hospitalised, ITALIAN_TRANSLATION
 from pipeline.translation import deepl_translation, deepl_translation_en_it, llm_translation, llm_translation_en_it
 from pipeline.user_input import collect_patient_input, extract_patient_fields
 from pipeline.verbale import parse_verbale
@@ -92,7 +92,9 @@ def verbale_to_note(pdf: Path) -> Path:
     return note
 
 
-def main(input_file: Path, ner_model, vectorizer, emb_model, cross_encoder, index, metadata, llm_model, tokenizer, tables, table_index, use_existing_transl = False):
+def main(input_file: Path, ner_model, vectorizer, emb_model, cross_encoder, index, metadata, llm_model, tokenizer, tables, table_index, use_existing_transl = False,
+         queries=None, retrieval_only=RETRIEVAL_ONLY):
+    """queries, as build_queries returns them, skips building them; retrieval_only returns the prompt as the output."""
     print(f"\n{'='*50}")
     print(f"Processing: {input_file.name}")
     print(f"{'='*50}")
@@ -124,7 +126,7 @@ def main(input_file: Path, ner_model, vectorizer, emb_model, cross_encoder, inde
     # RETRIEVAL
     start_retrieval = time.time()
     print("Building queries...")
-    queries, floors, scopes = build_queries(translated_note, ner_model, vectorizer, emb_model, index, metadata, llm_model, tokenizer)
+    queries, floors, scopes = queries or build_queries(translated_note, ner_model, vectorizer, emb_model, index, metadata, llm_model, tokenizer)
 
     print("Retrieving relevant chunks...")
     all_candidates = {}
@@ -175,13 +177,28 @@ def main(input_file: Path, ner_model, vectorizer, emb_model, cross_encoder, inde
 
     # LETTER GENERATION
     print("Building prompt...")
-    prompt = build_prompt(translated_note, final_chunks, prognosis=prognosis, tables=final_tables)
     translate_in_prompt = OUTPUT_LLM_TRANSLATION and OUTPUT_TRANSLATION_IN_PROMPT
-    if translate_in_prompt:
-        prompt += ITALIAN_TRANSLATION
+    suffix = ITALIAN_TRANSLATION if translate_in_prompt else ""
+    # the letter, and its Italian copy when the same call writes it. Through the API the model reasons at its default
+    # effort and the hidden tokens count against max_tokens (Gemini Flash spent ~7.7k at its default), so they get the
+    # room the note's translation has
+    max_tokens = 16000 if API else 4096 if translate_in_prompt else 2048
+    if retrieval_only or API:
+        prompt = build_prompt(translated_note, final_chunks, prognosis=prognosis, tables=final_tables)
+    else:
+        # a local model holds prompt and output in one context: the lowest-ranked excerpts and tables give way, as
+        # many as needed, rather than the end of the prompt (the task and the rules) or the end of the letter
+        window, count = local_window(llm_model, tokenizer)
+        prompt, dropped_chunks, dropped_tables = fit_prompt(window - max_tokens, translated_note, final_chunks, prognosis,
+                                                            final_tables, length=lambda p: count(p + suffix))
+        if dropped_chunks or dropped_tables:
+            print(f"  [prompt] {dropped_chunks} excerpts and {dropped_tables} tables dropped to fit the {window}-token context")
+            final_chunks = final_chunks[:len(final_chunks) - dropped_chunks]
+            final_tables = final_tables[:len(final_tables) - dropped_tables]
+    prompt += suffix
 
     print("Generating recommendations...\n")
-    if RETRIEVAL_ONLY:
+    if retrieval_only:
         output = prompt
     else:
         backend = "local"
@@ -189,9 +206,8 @@ def main(input_file: Path, ner_model, vectorizer, emb_model, cross_encoder, inde
             backend = "openrouter"
             llm_model = MODEL_NAME
         start_gen = time.time()
-        output = generate_letter(prompt=prompt, model=llm_model, tokenizer=tokenizer, backend=backend, 
-                                 temperature=TEMPERATURE, max_tokens=4096 if translate_in_prompt else 2048,
-                                 api_key=OPENROUTER_KEY)
+        output = generate_letter(prompt=prompt, model=llm_model, tokenizer=tokenizer, backend=backend,
+                                 temperature=TEMPERATURE, max_tokens=max_tokens, api_key=OPENROUTER_KEY)
         end_gen = time.time()
         print(f"Generation time: {end_gen-start_gen:.3f} seconds")
 
