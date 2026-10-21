@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 #### llama-cpp-python (optional — only for quantized local models)
 
-If you want to run quantized models locally via llama.cpp, the library requires a separate installation. The recommended approach is to use a **pre-built wheel** matching your CUDA version (supported for CUDA 12.1–12.5):
+If you want to run quantized models locally via llama.cpp, the library requires a separate installation. The recommended approach is to use a **pre-built wheel** matching your CUDA version:
 
 ```bash
 pip install llama-cpp-python \
